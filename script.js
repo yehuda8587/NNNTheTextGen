@@ -898,7 +898,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    break; 
 
 
-                                   case "Elevatione Spa & Beauty Skin Tightening":
+                                   case "Elevatione Spa Beauty Skin Tightening":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -907,13 +907,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Skin Tightening";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "59.95"
-                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                   promoPrice = "59.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                    treatmentSelected = "Skin Tightening";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty Collagen Lifting":
+                                   case "Elevatione Spa Beauty Collagen Lifting":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -922,13 +922,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Collagen Lifting ";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "59.95"
+                                   promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                    treatmentSelected = "Collagen Lifting";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty Non-surgical Face Lift":
+                                   case "Elevatione Spa Beauty Non-surgical Face Lift":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -937,13 +937,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Non-surgical Facelift";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "59.95"
+                                   promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                    treatmentSelected = "Non-surgical Face Lift";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty LED":
+                                   case "Elevatione Spa Beauty LED":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -952,13 +952,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes LED Experience";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "59.95"
+                                   promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty Collagen Enhancing 79.95":
+                                   case "Elevatione Spa Beauty Collagen Enhancing 79.95":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -967,13 +967,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Collagen Enhancing";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "79.95"
+                                   promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                    treatmentSelected = "Collagen Enhancing";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty Body Sculpting 99.95":
+                                   case "Elevatione Spa Beauty Body Sculpting 99.95":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -982,13 +982,13 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Body Sculpting";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "99.95"
+                                   promoPrice = "99.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                    treatmentSelected = "Body Sculpting";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa & Beauty Non-surgical Face Lift & Microdermabrasion":
+                                   case "Elevatione Spa Beauty Non-surgical Face Lift & Microdermabrasion":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -997,7 +997,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "70 Minutes";
                                    upDatedDurationOne = "45 Minutes Body Sculpting";
                                    upDatedDurationTwo = "25 Minutes Consultation";
-                                   promoPrice = "79.95"
+                                   promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                    treatmentSelected = "Non-surgical Face Lift & Microdermabrasion";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
@@ -1012,7 +1012,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTotal = "45 Minutes";
                                    upDatedDurationOne = "- 10 Minutes Deep Cleansing & Steam ";
                                    upDatedDurationTwo = "- 35 Minutes LED Tightening Treatment and Consultation";
-                                   promoPrice = "79.95"
+                                   promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(239) 301-4943";
