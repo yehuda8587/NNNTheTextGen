@@ -988,7 +988,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
-                                   case "Elevatione Spa Beauty Non-surgical Face Lift & Microdermabrasion":
+                                   case "Elevatione Spa Beauty Non-surgical Face Lift And Microdermabrasion":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
