@@ -527,7 +527,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                             break;
 
-                                                                                            case "Earth Round Rock RF Tightening & Brightening":
+                                                                                            case "Earth Round Rock RF Tightening And Brightening":
                                                                                             upDatedSpaName = "Earth Spa";
                                                                                             upDatedSpaAddress = "3021 S Frontage Rd"+"<br>" + "(Inside Salons by JC, suite #4)";
                                                                                             upDatedSpaLINK = "FORM";
@@ -604,7 +604,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                 break;
 
-                                                                case "Earth Lakeline RF Tightening & Brightening":
+                                                                case "Earth Lakeline RF Tightening And Brightening":
                                                                 upDatedSpaName = "Earth Spa";
                                                                 upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                 upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
