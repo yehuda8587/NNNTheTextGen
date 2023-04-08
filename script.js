@@ -378,7 +378,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                         break;   
                                                
 
-                                                case "Rachel’s Beauty Scottsdale LED":
+                                                case "Rachels Beauty Scottsdale LED":
                                                     upDatedSpaName = "Rachel’s Beauty Spa";
                                                     upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(Next to 'Breakfast Kitchen Bar')";
                                                     upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
