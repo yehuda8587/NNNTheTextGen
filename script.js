@@ -1197,6 +1197,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(361) 462-4319";
                                    break; 
+
+                                   case "Be YOU":
+                                    upDatedSpaName = "Be YOU Spa";
+                                   upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left";
+                                   upDatedSpaLINK = "FORM";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyou-led-promo";
+                                   upDatedSpaPhone = "(647) 255-2607";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 15 minutes Cleansing";
+                                   upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                   promoPrice = "79.95"
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(416) 276-3231";
+                                   break; 
                                    
   
          default:
