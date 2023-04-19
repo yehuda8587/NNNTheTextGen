@@ -768,9 +768,9 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationOne = "- 50 Minutes LED Anti-aging Experience";
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                        promoPrice = "59.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                     treatmentSelected = "LED Anti-aging";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
                                                                     case "Earth Aventura LED Skin Tightening":
@@ -783,9 +783,9 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                        promoPrice = "59.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                     treatmentSelected = "LED Skin Tightening";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
                                                                     case "Earth Aventura Non-surgical Facelift":
@@ -798,9 +798,9 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "59.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                     treatmentSelected = "Non-surgical Face Lift";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
 
@@ -814,9 +814,9 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "59.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                     treatmentSelected = "LED Light Facial";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
                                                                 
