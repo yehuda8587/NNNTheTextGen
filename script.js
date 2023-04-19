@@ -821,15 +821,15 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                                                 
 
-                                                            case "Lola Soap Mesa":
-                                                                upDatedSpaName = "Lola Soap Spa";
+                                                            case "Lola Beauty Mesa":
+                                                                upDatedSpaName = "Lola Beauty Spa";
                                                                 upDatedSpaAddress = "Superstition Mall" + "<br>" + "6555 E Southern Ave Mesa, AZ 85206"+"<br>"+"(First floor, Next to Cinnabon)";
                                                                 upDatedSpaLINK = "https://forms.gle/peiS9dvWHZdg9aE26";
                                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lola-soap-mesa-led-promo-page" ;
-                                                                upDatedSpaPhone = "(480) 847-2949";
+                                                                upDatedSpaPhone = "(480) 716-5545";
                                                                 upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 30 Minutes Deep Skin Cleaning";
-                                                                upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
+                                                                upDatedDurationOne = "- 15 Minutes Skin Cleaning";
+                                                                upDatedDurationTwo = "- 30 Minutes LED Light Experience Consultation" + "<br>" + "- 15 Minutes of Consultation";
                                                                 promoPrice = "79.95"
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
                                                                 treatmentSelected = "LED Treatment";
