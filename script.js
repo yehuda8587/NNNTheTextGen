@@ -680,7 +680,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                 break;
     
-                                                                                case "Earth Lakeline Skin Tightening Facial (Face & Neck) + Free Scalp Massage":
+                                                                                case "Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage":
                                                                                     upDatedSpaName = "Earth Spa";
                                                                                     upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                                     upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
