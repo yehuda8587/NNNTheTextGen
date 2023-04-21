@@ -1065,7 +1065,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                    case "Predire St. Petersburg":
                                     upDatedSpaName = "Predire Paris Spa";
-                                   upDatedSpaAddress = "6901 22nd Ave N St. Petersburg, FL 33710"+"<br>"+"(Tyrone Mall next to Shalimar Jewelry, please enter via Macy's)";
+                                   upDatedSpaAddress = "6901 22nd Ave N St. Petersburg, FL 33710"+"<br>"+"(Inside of Tyrone mall, Macys entrance. Across from the Pandora Store)";
                                    upDatedSpaLINK = "https://forms.gle/K3YLkvdsaQTvWMRL8";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-st-pete-led-promo";
                                    upDatedSpaPhone = "(727) 350-1087";
