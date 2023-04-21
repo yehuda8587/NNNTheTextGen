@@ -1170,7 +1170,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                    case "Pearl De Flore Augusta":
                                     upDatedSpaName = "Pearl De Flore Spa";
-                                   upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(2nd floor next to the Edge store in front of the elevator)";
+                                   upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
                                    upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
                                    upDatedSpaPhone = "(706) 434-8750";
