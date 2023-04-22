@@ -363,7 +363,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                 
     
                                     case "GreenBiotics Sherway Gardens":
-                                        upDatedSpaName = "Greenbioctics Spa";
+                                        upDatedSpaName = "GreenBiotics Spa";
                                         upDatedSpaAddress = "CF Sherway Gardens,"+"<br>"+"25 The West Mall, Etobicoke, ON M9C 1B8" +"<br>"+"(First floor, next to Sephora)";
                                         upDatedSpaLINK = "https://forms.gle/Lu4idBaYGDGdLYwt6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-sherwaygardens-led-promo" ;
