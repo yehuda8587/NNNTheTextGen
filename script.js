@@ -854,7 +854,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                  case "Tresor Rare Las Olas":
                                     upDatedSpaName = "Tresor Rare Spa";
-                                   upDatedSpaAddress = "617 east las Olas Blvd, Fort Lauderdale, FL 333011"+"<br>"+"(Next to 'Vans')";
+                                   upDatedSpaAddress = "617 east las Olas Blvd, Fort Lauderdale, FL 333011"+"<br>"+"(Next to Pan'e Dolci Italian Bakery)";
                                    upDatedSpaLINK = "https://forms.gle/ojW56idhkRSLmsCa9";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tresor-rare-las-olas-spa-led-promo-page" ;
                                    upDatedSpaPhone = "(786) 206-8520";
