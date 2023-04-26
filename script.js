@@ -1218,7 +1218,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedSpaAddress = "StoneBriar Mall," + "<br>" + "2601 Preston Rd, Frisco, TX 75034"+"<br>"+"Second floor near Macy's next to Windsor";
                                    upDatedSpaLINK = "https://forms.gle/VTQCZdFu3PsPWKhU8";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-frisco-led-promo";
-                                   upDatedSpaPhone = "Click to dial(469) 353-6194";
+                                   upDatedSpaPhone = "(469) 353-6194";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 15 minutes Cleansing";
                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -1226,6 +1226,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 438-7564";
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(469) 438-7564";
+                                   break; 
+
+                                   case "Premier Pensacola":
+                                    upDatedSpaName = "Premier Spa";
+                                   upDatedSpaAddress = "Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
+                                   upDatedSpaLINK = "FORM";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premierpen-spa-ledpromo";
+                                   upDatedSpaPhone = "(448) 400-2095";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 15 minutes Cleansing";
+                                   upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(850) 637-7637";
                                    break; 
                                    
   
