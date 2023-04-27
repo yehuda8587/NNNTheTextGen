@@ -252,7 +252,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                 upDatedDurationTwo = "- Consultation";
                 promoPrice = "120"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                treatmentSelected = "Body Sculpting";
+                treatmentSelected = "Body Sculpting Treatment";
                 newSpaPhoneNumberSelected = "(301) 775-3494";
                 break; 
 
@@ -357,7 +357,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                 upDatedDurationTwo = " ";
                                 promoPrice = "99.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                                treatmentSelected = "AquaPure";
+                                treatmentSelected = "AquaPure Treatment";
                                 newSpaPhoneNumberSelected = "(647) 293-1112";
                                 break;       
                 
@@ -404,7 +404,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                         promoPrice = "59.95";
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                        treatmentSelected = "Neck Tightening";
+                                                                        treatmentSelected = "Neck Tightening Treatment";
                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                         break;
 
@@ -419,7 +419,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                             promoPrice = "59.95";
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "Non-surgical Face Lift";
+                                                                            treatmentSelected = "Non-surgical Face Lift Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                             break;
 
@@ -479,7 +479,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                     promoPrice = "59.95";
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Collagen Lifting Facial";
+                                                                                    treatmentSelected = "Collagen Lifting Facial Treatment";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                     break;
 
@@ -494,7 +494,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                         promoPrice = "70";
                                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                        treatmentSelected = "Elastin Tightening";
+                                                                                        treatmentSelected = "Elastin Tightening Treatment";
                                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                         break;
                                                         
@@ -509,7 +509,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                             promoPrice = "70";
                                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                            treatmentSelected = "Collagen Enhancing";
+                                                                                            treatmentSelected = "Collagen Enhancing Treatment";
                                                                                             break;
 
                                                                                             case "Earth Round Rock LED Firming Facial (Face and Neck)":
@@ -523,7 +523,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                             promoPrice = "70";
                                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                            treatmentSelected = "LED Firming Facial Face & Neck";
+                                                                                            treatmentSelected = "LED Firming Facial Face & Neck Treatment";
                                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                             break;
 
@@ -538,7 +538,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                             promoPrice = "70";
                                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                            treatmentSelected = "RF Tightening & Brightening";
+                                                                                            treatmentSelected = "RF Tightening & Brightening Treatment";
                                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                             break;
 
@@ -555,7 +555,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                              upDatedDurationTwo = "- 45 Minutes HydroDermabrasion & Consultation";
                                                              promoPrice = "70";
                                                              upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                             treatmentSelected = "HydroDermabrasion";
+                                                             treatmentSelected = "HydroDermabrasion Treatment";
                                                              newSpaPhoneNumberSelected = "(512) 551-9944";
                                                              break;
 
@@ -570,7 +570,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                              upDatedDurationTwo = "- 25 Minutes Consultation";
                                                              promoPrice = "70";
                                                              upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                             treatmentSelected = "Chin RF";
+                                                             treatmentSelected = "Chin RF Treatment";
                                                              newSpaPhoneNumberSelected = "(512) 551-9944";
                                                              break;
 
@@ -585,7 +585,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                             promoPrice = "70";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                            treatmentSelected = "Age Defying";
+                                                            treatmentSelected = "Age Defying Treatment";
                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                             break;
 
@@ -600,7 +600,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                 upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                 promoPrice = "79.95";
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                treatmentSelected = "Body Sculpting";
+                                                                treatmentSelected = "Body Sculpting Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                 break;
 
@@ -615,7 +615,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                 upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                 promoPrice = "79.95";
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                treatmentSelected = "RF Tightening & Brightening";
+                                                                treatmentSelected = "RF Tightening & Brightening Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                 break;
 
@@ -630,7 +630,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "70";
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                    treatmentSelected = "Perfect Skin Complexion Facial";
+                                                                    treatmentSelected = "Perfect Skin Complexion Facial Treatment";
                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                     break;
 
@@ -645,7 +645,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                         promoPrice = "70";
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                        treatmentSelected = "Non-surgical Lifting Facial";
+                                                                        treatmentSelected = "Non-surgical Lifting Facial Treatment";
                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                         break;
 
@@ -660,7 +660,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                         promoPrice = "70";
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                        treatmentSelected = "LED Firming Facial Face & Neck";
+                                                                        treatmentSelected = "LED Firming Facial Face & Neck Treatment";
                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                         break;
 
@@ -676,7 +676,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                 upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                 promoPrice = "70";
                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                treatmentSelected = "Elastin Faciel Face & Neck";
+                                                                                treatmentSelected = "Elastin Faciel Face & Neck Treatment";
                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                 break;
     
@@ -691,7 +691,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                     promoPrice = "70"
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Skin Tightening Face & Neck";
+                                                                                    treatmentSelected = "Skin Tightening Face & Neck Treatment";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                     break;
 
@@ -709,7 +709,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                             upDatedDurationTwo = " ";
                                                                promoPrice = "79.95"
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                            treatmentSelected = "Body Sculpting";
+                                                            treatmentSelected = "Body Sculpting Treatment";
                                                             newSpaPhoneNumberSelected = "(512) 992-0050";
                                                             break;
 
@@ -724,7 +724,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                             upDatedDurationTwo = " ";
                                                                promoPrice = "59.95"
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                            treatmentSelected = "Neck Tightening";
+                                                            treatmentSelected = "Neck Tightening Treatment";
                                                             newSpaPhoneNumberSelected = "(512) 992-0050";
                                                             break;
 
@@ -739,7 +739,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                             upDatedDurationTwo = " ";
                                                                promoPrice = "59.95"
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                            treatmentSelected = "Collagne Lifting";
+                                                            treatmentSelected = "Collagne Lifting Treatment";
                                                             newSpaPhoneNumberSelected = "(512) 992-0050";
                                                             break;
 
@@ -754,7 +754,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                 upDatedDurationTwo = " ";
                                                                    promoPrice = "70"
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                treatmentSelected = "Chin Tightening";
+                                                                treatmentSelected = "Chin Tightening Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 992-0050";
                                                                 break;
 
@@ -769,7 +769,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                        promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                    treatmentSelected = "LED Anti-aging";
+                                                                    treatmentSelected = "LED Anti-aging Treatment";
                                                                     newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
@@ -784,7 +784,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                        promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                    treatmentSelected = "LED Skin Tightening";
+                                                                    treatmentSelected = "LED Skin Tightening Treatment";
                                                                     newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
@@ -799,7 +799,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                    treatmentSelected = "Non-surgical Face Lift";
+                                                                    treatmentSelected = "Non-surgical Face Lift Treatment";
                                                                     newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
@@ -815,7 +815,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                     promoPrice = "59.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                    treatmentSelected = "LED Light Facial";
+                                                                    treatmentSelected = "LED Light Facial Treatment";
                                                                     newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                     break;
 
@@ -909,7 +909,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                   treatmentSelected = "Skin Tightening";
+                                   treatmentSelected = "Skin Tightening Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
@@ -924,7 +924,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                   treatmentSelected = "Collagen Lifting";
+                                   treatmentSelected = "Collagen Lifting Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
@@ -939,7 +939,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "59.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                   treatmentSelected = "Non-surgical Face Lift";
+                                   treatmentSelected = "Non-surgical Face Lift Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
@@ -969,7 +969,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                   treatmentSelected = "Collagen Enhancing";
+                                   treatmentSelected = "Collagen Enhancing Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
@@ -984,7 +984,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "99.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                   treatmentSelected = "Body Sculpting";
+                                   treatmentSelected = "Body Sculpting Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
@@ -999,7 +999,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedDurationTwo = " ";
                                    promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                   treatmentSelected = "Non-surgical Face Lift & Microdermabrasion";
+                                   treatmentSelected = "Non-surgical Face Lift & Microdermabrasion Treatment";
                                    newSpaPhoneNumberSelected = "(561) 469-6135";
                                    break; 
 
