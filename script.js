@@ -1242,6 +1242,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(850) 637-7637";
                                    break; 
+
+                                   case "Esthetix Cloverdale":
+                                    upDatedSpaName = "Esthetix Spa";
+                                   upDatedSpaAddress = "Cloverdale Mall," + "<br>" + "250 The East Mall Etobicoke ON M9B 3Y8 Canada"+"<br>"+"(Next to Scotiabank)";
+                                   upDatedSpaLINK = "FORM";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetixcloverdale-ledpromo";
+                                   upDatedSpaPhone = "(437) 826-3445";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 15 minutes Cleansing";
+                                   upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(647) 370-8733";
+                                   break; 
                                    
   
          default:
