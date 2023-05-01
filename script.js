@@ -1292,7 +1292,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                     upDatedSpaName = " Tierra Med Spa";
                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/copy-of-orogold-spa-frisco-led-promo";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-antiaging-aquapure-promo";
                                    upDatedSpaPhone = "(647) 476-2808";
                                    upDatedDurationTotal = "75 Minutes";
                                    upDatedDurationOne = "- 75 Minutes AquaPure Experience";
@@ -1300,6 +1300,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    promoPrice = "99.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
                                    treatmentSelected = "AquaPure Treatment";
+                                   newSpaPhoneNumberSelected = "(647) 370-3334";
+                                   break; 
+
+                                   case " Tierra Med Spa LED":
+                                    upDatedSpaName = " Tierra Med Spa";
+                                   upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                   upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-ledpromo";
+                                   upDatedSpaPhone = "(647) 476-2808";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 20 Minutes Cleansing";
+                                   upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
+                                   treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(647) 370-3334";
                                    break; 
                         
