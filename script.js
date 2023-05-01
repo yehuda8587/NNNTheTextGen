@@ -1277,7 +1277,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                     upDatedSpaName = "Prestige Spa";
                                    upDatedSpaAddress = "Countryside Mall," + "<br>" + "27001 US Hwy 19 N, Clearwater, FL 33761"+"<br>"+"(Next to Victoria's Secrets)";
                                    upDatedSpaLINK = "https://forms.gle/kALTejFtfwnYpKnm6";
-                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/copy-of-orogold-spa-frisco-led-promo";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/prestige-clearwater-ledpromo";
                                    upDatedSpaPhone = "(727) 308-0391";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 10 minutes Cleansing";
@@ -1287,9 +1287,22 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(706) 901-8979";
                                    break; 
-                        
 
-                                   
+                                   case " Tierra Med Spa AquaPure":
+                                    upDatedSpaName = " Tierra Med Spa";
+                                   upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                   upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/copy-of-orogold-spa-frisco-led-promo";
+                                   upDatedSpaPhone = "(647) 476-2808";
+                                   upDatedDurationTotal = "75 Minutes";
+                                   upDatedDurationOne = "- 75 Minutes AquaPure Experience";
+                                   upDatedDurationTwo = "- 15 Minutes Consultation";
+                                   promoPrice = "99.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
+                                   treatmentSelected = "AquaPure Treatment";
+                                   newSpaPhoneNumberSelected = "(647) 370-3334";
+                                   break; 
+                        
                                    
   
          default:
