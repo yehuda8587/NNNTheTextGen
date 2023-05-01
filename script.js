@@ -1288,7 +1288,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    newSpaPhoneNumberSelected = "(706) 901-8979";
                                    break; 
 
-                                   case " Tierra Med Spa AquaPure":
+                                   case "Tierra Med Spa AquaPure":
                                     upDatedSpaName = " Tierra Med Spa";
                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
@@ -1303,7 +1303,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    newSpaPhoneNumberSelected = "(647) 370-3334";
                                    break; 
 
-                                   case " Tierra Med Spa LED":
+                                   case "Tierra Med Spa LED":
                                     upDatedSpaName = " Tierra Med Spa";
                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
