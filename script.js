@@ -1086,7 +1086,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedSpaPhone = "(250) 410-3324";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                   upDatedDurationTwo = "- 40 Minutes LED Treatment and Consultation";
+                                   upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation";
                                    promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
                                    treatmentSelected = "LED Treatment";
@@ -1101,11 +1101,26 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedSpaPhone = "(250) 384-2980";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                   upDatedDurationTwo = "- 40 Minutes LED Treatment and Consultation";
+                                   upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation";
                                    promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(587) 589-4007";
+                                   break; 
+
+                                   case "AVOLOGI Eneo Metrotown":
+                                    upDatedSpaName = "Avologi Eneo Spa";
+                                   upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                   upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
+                                   upDatedSpaPhone = "(778) 262-1606";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
+                                   upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation"
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(604) 423-4141";
                                    break; 
 
                                    case "ICE 21":
@@ -1231,7 +1246,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    case "Premier Pensacola":
                                     upDatedSpaName = "Premier Spa";
                                    upDatedSpaAddress = "Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
-                                   upDatedSpaLINK = "FORM";
+                                   upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premierpen-spa-ledpromo";
                                    upDatedSpaPhone = "(448) 400-2095";
                                    upDatedDurationTotal = "60 Minutes";
@@ -1246,7 +1261,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    case "Esthetix Cloverdale":
                                     upDatedSpaName = "Esthetix Spa";
                                    upDatedSpaAddress = "Cloverdale Mall," + "<br>" + "250 The East Mall Etobicoke ON M9B 3Y8 Canada"+"<br>"+"(Next to Scotiabank)";
-                                   upDatedSpaLINK = "FORM";
+                                   upDatedSpaLINK = "https://forms.gle/th8Qyt5uShKY3r5y7";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetixcloverdale-ledpromo";
                                    upDatedSpaPhone = "(437) 826-3445";
                                    upDatedDurationTotal = "60 Minutes";
@@ -1257,6 +1272,24 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(647) 370-8733";
                                    break; 
+
+                                   case "Prestige Clearwater":
+                                    upDatedSpaName = "Prestige Spa";
+                                   upDatedSpaAddress = "Countryside Mall," + "<br>" + "27001 US Hwy 19 N, Clearwater, FL 33761"+"<br>"+"(Next to Victoria's Secrets)";
+                                   upDatedSpaLINK = "https://forms.gle/kALTejFtfwnYpKnm6";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/copy-of-orogold-spa-frisco-led-promo";
+                                   upDatedSpaPhone = "(727) 308-0391";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 10 minutes Cleansing";
+                                   upDatedDurationTwo = "- 35 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(706) 901-8979";
+                                   break; 
+                        
+
+                                   
                                    
   
          default:
