@@ -1116,7 +1116,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedSpaPhone = "(778) 262-1606";
                                    upDatedDurationTotal = "60 Minutes";
                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                   upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation"
+                                   upDatedDurationTwo = "- 20 Minutes LED Treatment"; + "<br>" + "- 20 Minutes Consultation";
                                    promoPrice = "79.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
                                    treatmentSelected = "LED Treatment";
@@ -1288,14 +1288,14 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    newSpaPhoneNumberSelected = "(706) 901-8979";
                                    break; 
 
-                                   case "Tierra Med Spa AquaPure":
+                                   case "Tierra Med Spa AquaPure Hydra":
                                     upDatedSpaName = " Tierra Med Spa";
                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-antiaging-aquapure-promo";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydra-aquapure-promo";
                                    upDatedSpaPhone = "(647) 476-2808";
                                    upDatedDurationTotal = "75 Minutes";
-                                   upDatedDurationOne = "- 75 Minutes AquaPure Experience";
+                                   upDatedDurationOne = "- 75 Minutes AquaPure Hydra Facial";
                                    upDatedDurationTwo = "- 15 Minutes Consultation";
                                    promoPrice = "99.95";
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
