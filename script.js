@@ -1317,6 +1317,36 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(647) 370-3334";
                                    break; 
+
+                                   case "Boutique 770":
+                                    upDatedSpaName = " Boutique 770 Spa";
+                                   upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
+                                   upDatedSpaLINK = "https://forms.gle/K6F4x2mbqCTGv65VA";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/boutique770-ledpromo";
+                                   upDatedSpaPhone = "(720) 548-1094";
+                                   upDatedDurationTotal = "45 Minutes";
+                                   upDatedDurationOne = "- 5 Minutes Cleansing";
+                                   upDatedDurationTwo = "- 25 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917) 518-9030";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(917) 518-9030";
+                                   break; 
+
+                                   case "BioRevive LED":
+                                    upDatedSpaName = " BioRevive Spa";
+                                   upDatedSpaAddress = "Lido Marina Village Mall," +"<b>"+ "3404 Via Lido a Newport Beach, CA 92663," + "<br>" + "(Next to the the UPS store)";
+                                   upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
+                                   upDatedSpaPhone = "(949) 688-6429";
+                                   upDatedDurationTotal = "75 Minutes";
+                                   upDatedDurationOne = "- 30 Minutes Cleansing";
+                                   upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(949) 220-7221";
+                                   break; 
                         
                                    
   
