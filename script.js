@@ -1335,7 +1335,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                    case "BioRevive LED":
                                     upDatedSpaName = " BioRevive Spa";
-                                   upDatedSpaAddress = "Lido Marina Village Mall," +"<b>"+ "3404 Via Lido a Newport Beach, CA 92663," + "<br>" + "(Next to the the UPS store)";
+                                   upDatedSpaAddress = "Lido Marina Village Mall," +"<b>"+ "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
                                    upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
                                    upDatedSpaPhone = "(949) 688-6429";
@@ -1346,6 +1346,21 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                    treatmentSelected = "LED Treatment";
                                    newSpaPhoneNumberSelected = "(949) 220-7221";
+                                   break; 
+
+                                   case "Natural Blossom LED":
+                                    upDatedSpaName = " Natural Blossom Spa";
+                                   upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
+                                   upDatedSpaLINK = "https://forms.gle/92UM2qkkZQdkrJdN9";
+                                   upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/naturalblossom-ledpromo";
+                                   upDatedSpaPhone = "(904) 368-6790";
+                                   upDatedDurationTotal = "60 Minutes";
+                                   upDatedDurationOne = "- 15 Minutes Cleansing";
+                                   upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
+                                   promoPrice = "79.95";
+                                   upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                   treatmentSelected = "LED Treatment";
+                                   newSpaPhoneNumberSelected = "(904) 615-1394";
                                    break; 
                         
                                    
