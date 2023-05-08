@@ -1063,8 +1063,8 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    newSpaPhoneNumberSelected = "(970) 423-6268";
                                    break; 
 
-                                   case "Predire St. Petersburg":
-                                    upDatedSpaName = "Predire Paris Spa";
+                                   case "Pred Beauty St. Petersburg":
+                                    upDatedSpaName = "Pred Beauty Spa";
                                    upDatedSpaAddress = "6901 22nd Ave N St. Petersburg, FL 33710"+"<br>"+"(Inside of Tyrone mall, Macys entrance. Across from the Pandora Store)";
                                    upDatedSpaLINK = "https://forms.gle/K3YLkvdsaQTvWMRL8";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-st-pete-led-promo";
