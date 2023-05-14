@@ -514,7 +514,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
 
                                                                                             case "Earth Round Rock LED Firming Facial (Face and Neck)":
                                                                                             upDatedSpaName = "Earth Spa";
-                                                                                            upDatedSpaAddress = "3021 S Frontage Rd"+"<br>" + "(Inside Salons by JC, suite #4)";
+                                                                                            upDatedSpaAddress = "Please write on Google maps: Salons By JC"+"<br>" + "(Inside Salons by JC, suite #4)";
                                                                                             upDatedSpaLINK = "FORM";
                                                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-roundrock-led-firming-face-neck-promo";
                                                                                             upDatedSpaPhone = "(512) 887-1733";
