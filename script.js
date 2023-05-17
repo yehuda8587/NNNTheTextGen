@@ -1021,7 +1021,7 @@ let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone"
                                    case "Adore Estero":
                                     upDatedSpaName = "Adore Spa";
                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
-                                   upDatedSpaLINK = "https://forms.gle/T5G7xCnCV49ryBV68";
+                                   upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-estero-ledpromo";
                                    upDatedSpaPhone = "(239) 444-8790";
                                    upDatedDurationTotal = "45 Minutes";
