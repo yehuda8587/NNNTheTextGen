@@ -1039,7 +1039,7 @@
                                     upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawlessbeauty-wayne-led-promo";
                                     upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation"
                                     promoPrice = "79.95";
@@ -1054,7 +1054,7 @@
                                     upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-led-promo-99";
                                     upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation";
                                     promoPrice = "99.95";
