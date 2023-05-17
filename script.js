@@ -1355,7 +1355,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
                                     upDatedSpaPhone = "(949) 688-6429";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 30 Minutes Cleansing";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
@@ -1364,7 +1364,7 @@
                                     break; 
 
                                     case "Natural Blossom LED":
-                                        upDatedSpaName = " Natural Blossom Spa";
+                                        upDatedSpaName = "Natural Blossom Spa";
                                     upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
                                     upDatedSpaLINK = "https://forms.gle/92UM2qkkZQdkrJdN9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/naturalblossom-ledpromo";
@@ -1376,6 +1376,21 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    break; 
+
+                                    case "Triangular Spa LED":
+                                    upDatedSpaName = "Triangular Spa";
+                                    upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-spa-led-promo";
+                                    upDatedSpaPhone = "(754) 333-2318";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 30 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 637-4226";
                                     break; 
                             
                                     
