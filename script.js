@@ -277,8 +277,8 @@
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
                             upDatedSpaPhone = "(289) 293-9711";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                            upDatedDurationTotal = "50 Minutes";
+                            upDatedDurationOne = "- 10 Minutes Deep Skin Cleaning";
                             upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -292,8 +292,8 @@
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-quapure-promo" ;
                                 upDatedSpaPhone = "(289) 293-9711";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " 60 Minutes Aquapure Treatment & Consultation";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = " 50 Minutes Aquapure Treatment & Consultation";
                                 upDatedDurationTwo = " ";
                                 promoPrice = "99.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -337,9 +337,9 @@
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(437) 253-8259";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
-                                    upDatedDurationTwo = "- 45 Minutes LED Light Experience & Consultation";
+                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Deep Skin Cleaning";
+                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                     treatmentSelected = "LED Treatment";
@@ -1304,14 +1304,14 @@
                                     break; 
 
                                     case "Tierra Med Spa AquaPure Hydra":
-                                        upDatedSpaName = " Tierra Med Spa";
+                                        upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydra-aquapure-promo";
                                     upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 75 Minutes AquaPure Hydra Facial";
-                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydra Facial & Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
                                     treatmentSelected = "AquaPure Treatment";
@@ -1319,13 +1319,13 @@
                                     break; 
 
                                     case "Tierra Med Spa LED":
-                                        upDatedSpaName = " Tierra Med Spa";
+                                        upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-ledpromo";
                                     upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
+                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
