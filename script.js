@@ -1115,7 +1115,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
