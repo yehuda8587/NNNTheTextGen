@@ -1384,9 +1384,9 @@
                                     upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-spa-led-promo";
                                     upDatedSpaPhone = "(754) 333-2318";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 30 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
+                                    upDatedDurationTwo = " ";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "LED Treatment";
