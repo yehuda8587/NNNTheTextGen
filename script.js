@@ -1100,8 +1100,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
                                     treatmentSelected = "LED Treatment";
@@ -1116,7 +1116,7 @@
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen"; + "<br>" + "- 20 Minutes Consultation";
+                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
                                     treatmentSelected = "LED Treatment";
