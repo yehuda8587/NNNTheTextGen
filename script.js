@@ -1354,7 +1354,7 @@
                                     upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
                                     upDatedSpaPhone = "(949) 688-6429";
-                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
                                     promoPrice = "79.95";
