@@ -380,7 +380,7 @@
 
                                                     case "Rachels Beauty Scottsdale LED":
                                                         upDatedSpaName = "Rachel’s Beauty Spa";
-                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(Next to 'Breakfast Kitchen Bar')";
+                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(Across from 'Skin Laundry')";
                                                         upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-led-promo-page" ;
                                                         upDatedSpaPhone = "(480) 847-1841";
@@ -739,7 +739,7 @@
                                                                 upDatedDurationTwo = " ";
                                                                 promoPrice = "59.95"
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                treatmentSelected = "Collagne Lifting Treatment";
+                                                                treatmentSelected = "Collagen Lifting Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 992-0050";
                                                                 break;
 
