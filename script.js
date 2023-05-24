@@ -1392,6 +1392,52 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
                                     break; 
+
+                                    case "Avinichi Spa Collagen":
+                                        upDatedSpaName = "Avinichi Spa";
+                                        upDatedSpaAddress = "319 Worth Ave, Palm Beach, FL 33480" + "<br>" + "(Next to CHANEL)";
+                                        upDatedSpaLINK = "FORM";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avinichi-worth-ave-collagen-promo";
+                                        upDatedSpaPhone = "(561) 202-1748";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
+                                        upDatedDurationTwo = " ";
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 791-6283";
+                                        treatmentSelected = "Collagen Lifting Treatment";
+                                        newSpaPhoneNumberSelected = "(561) 791-6283";
+                                        break; 
+
+                                        case "Hermetise Fayetteville":
+                                            upDatedSpaName = "Hermetise Spa";
+                                            upDatedSpaAddress = "Cross Creek Mall, 419 cross creek mall, Fayetteville, NC 28303" + "<br>" + "(1st floor, in the center of the mall next to Zales)";
+                                            upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-led-promo";
+                                            upDatedSpaPhone = "(984) 263-2191";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
+                                            upDatedDurationTwo = " ";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (910) 867-4100";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(910) 867-4100";
+                                            break; 
+
+
+                                        case "Orogold Valencia":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Lush')";
+                                            upDatedSpaLINK = "FORM";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
+                                            upDatedSpaPhone = "(661) 206-1303";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
+                                            upDatedDurationTwo = " ";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            break; 
                             
                                     
     
