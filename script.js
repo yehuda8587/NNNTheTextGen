@@ -1396,7 +1396,7 @@
                                     case "Avinichi Spa Collagen":
                                         upDatedSpaName = "Avinichi Spa";
                                         upDatedSpaAddress = "319 Worth Ave, Palm Beach, FL 33480" + "<br>" + "(Next to CHANEL)";
-                                        upDatedSpaLINK = "FORM";
+                                        upDatedSpaLINK = "https://forms.gle/hicyYX3N4HLWQyo4A";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avinichi-worth-ave-collagen-promo";
                                         upDatedSpaPhone = "(561) 202-1748";
                                         upDatedDurationTotal = "60 Minutes";
@@ -1427,7 +1427,7 @@
                                         case "Orogold Valencia":
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Lush')";
-                                            upDatedSpaLINK = "FORM";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
                                             upDatedSpaPhone = "(661) 206-1303";
                                             upDatedDurationTotal = "60 Minutes";
