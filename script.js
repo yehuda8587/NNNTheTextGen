@@ -1230,7 +1230,7 @@
 
                                     case "Be YOU":
                                         upDatedSpaName = "Be YOU Spa";
-                                    upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left";
+                                    upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left" + "<br>" + "Major Intersections: Eglinton and Bayview Ave, near Laird Drive";
                                     upDatedSpaLINK = "https://forms.gle/z9qJxCgcyner9a5h6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyou-led-promo";
                                     upDatedSpaPhone = "(647) 255-2607";
