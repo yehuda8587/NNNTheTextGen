@@ -1303,15 +1303,15 @@
                                     newSpaPhoneNumberSelected = "(706) 901-8979";
                                     break; 
 
-                                    case "Tierra Med Spa AquaPure Hydra":
+                                    case "Tierra Med Spa AquaPure Hydro":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydra-aquapure-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydro-aquapure-promo";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydra Facial & Consultation";
+                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydro Facial & Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
                                     treatmentSelected = "AquaPure Treatment";
