@@ -843,7 +843,7 @@
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
                                                                     upDatedSpaPhone = "(714) 592-0373";
                                                                     upDatedDurationTotal = "60 Minutes";
-                                                                    upDatedDurationOne = "- 45 Minutes Deep Skin Cleaning";
+                                                                    upDatedDurationOne = "- 15 Minutes Cleaning";
                                                                     upDatedDurationTwo = "- 45 Minutes LED Light Experience & Consultation";
                                                                     promoPrice = "79.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
