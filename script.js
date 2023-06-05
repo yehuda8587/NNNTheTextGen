@@ -1358,9 +1358,9 @@
                                     upDatedDurationOne = "- 5 Minutes Cleansing";
                                     upDatedDurationTwo = "- 25 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917) 518-9030";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (303) 248-3104";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(917) 518-9030";
+                                    newSpaPhoneNumberSelected = "(303) 248-3104";
                                     break; 
 
                                     case "BioRevive LED":
