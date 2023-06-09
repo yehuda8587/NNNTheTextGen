@@ -1018,6 +1018,21 @@
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     break; 
 
+                                    case "Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-antiaging-mesotherapy-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
+                                    treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    break; 
+
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
@@ -1042,7 +1057,7 @@
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "79.95";   
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(973) 406-6160";
@@ -1135,6 +1150,21 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(604) 423-4141";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown EMS":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
+                                    upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
+                                    treatmentSelected = "EMS Anti-aging Treatment";
                                     newSpaPhoneNumberSelected = "(604) 423-4141";
                                     break; 
 
@@ -1453,6 +1483,36 @@
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(661) 383-9238";
                                             break; 
+
+                                            case "Pura Vida AB":
+                                                upDatedSpaName = "Pura Vida Spa";
+                                                upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(First Floor, across from Sport Check)";
+                                                upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
+                                                upDatedSpaPhone = "(825) 258-5779";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 15 Minnutes Cleansing";
+                                                upDatedDurationTwo = "- 45 Minutes LED Experience & Consultation";
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+                                                treatmentSelected = "LED Treatment";
+                                                newSpaPhoneNumberSelected = "(587) 800-1699";
+                                                break; 
+
+                                                case "West County Spa Center":
+                                                    upDatedSpaName = "West County Spa Center";
+                                                    upDatedSpaAddress = "West County Center Mall, 53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
+                                                    upDatedSpaLINK = "https://forms.gle/W8RQmTPZ8ZyKToLCA";
+                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/westcounty-spacenter-led-promo";
+                                                    upDatedSpaPhone = "(314) 582-1397";
+                                                    upDatedDurationTotal = "60 Minutes";
+                                                    upDatedDurationOne = "- 10 Minnutes Cleansing";
+                                                    upDatedDurationTwo = "- 30 Minutes LED Experience & Consultation" + "<br>" + "- 20 Minutes Consultation";
+                                                    promoPrice = "79.95";
+                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
+                                                    treatmentSelected = "LED Treatment";
+                                                    newSpaPhoneNumberSelected = "(314) 664-9655";
+                                                    break; 
                             
                                     
     
