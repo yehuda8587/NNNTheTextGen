@@ -1488,7 +1488,7 @@
                                                 upDatedSpaName = "Pura Vida Spa";
                                                 upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(First Floor, across from Sport Check)";
                                                 upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
-                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/puravida-antiaging-led-promo";
                                                 upDatedSpaPhone = "(825) 258-5779";
                                                 upDatedDurationTotal = "60 Minutes";
                                                 upDatedDurationOne = "- 15 Minnutes Cleansing";
