@@ -1517,7 +1517,7 @@
 
                                                 case "West County Spa Center":
                                                     upDatedSpaName = "West County Spa Center";
-                                                    upDatedSpaAddress = "West County Center Mall, 53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
+                                                    upDatedSpaAddress = "West County Center Mall," + "<br>" + "53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
                                                     upDatedSpaLINK = "https://forms.gle/W8RQmTPZ8ZyKToLCA";
                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/westcounty-spacenter-led-promo";
                                                     upDatedSpaPhone = "(314) 582-1397";
@@ -1529,6 +1529,21 @@
                                                     treatmentSelected = "LED Treatment";
                                                     newSpaPhoneNumberSelected = "(314) 664-9655";
                                                     break; 
+
+                                                    case "Rose Spa":
+                                                        upDatedSpaName = "Rose Spa";
+                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                        upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
+                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
+                                                        upDatedSpaPhone = "(971) 350-7408";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 10 Minnutes Cleansing";
+                                                        upDatedDurationTwo = "- 50 Minutes LED Experience & Consultation";
+                                                        promoPrice = "79.95";
+                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
+                                                        treatmentSelected = "LED Treatment";
+                                                        newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                        break; 
                             
                                     
     
