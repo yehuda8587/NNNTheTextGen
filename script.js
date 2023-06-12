@@ -1032,6 +1032,7 @@
                                     treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     break; 
+                                    
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
@@ -1395,7 +1396,7 @@
 
                                     case "BioRevive LED":
                                         upDatedSpaName = " BioRevive Spa";
-                                    upDatedSpaAddress = "Lido Marina Village," +"<b>"+ "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
+                                    upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
                                     upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
                                     upDatedSpaPhone = "(949) 688-6429";
@@ -1435,6 +1436,21 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 637-4226";
+                                    break; 
+
+                                    case "Triangular Spa Laser Lipo":
+                                    upDatedSpaName = "Triangular Spa";
+                                    upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-spa-led-promo";
+                                    upDatedSpaPhone = "(754) 333-2318";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 60 Minutes Laser Lipo & Consultation";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "70";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
+                                    treatmentSelected = "Laser Lipo Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
                                     break; 
 
