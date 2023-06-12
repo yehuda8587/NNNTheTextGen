@@ -1443,7 +1443,7 @@
                                     upDatedSpaName = "Triangular Spa";
                                     upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
                                     upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-spa-led-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 333-2318";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 60 Minutes Laser Lipo & Consultation";
