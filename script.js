@@ -835,6 +835,21 @@
                                                                     treatmentSelected = "LED Treatment";
                                                                     newSpaPhoneNumberSelected = "(480) 742-6682";
                                                                     break;  
+
+                                                                    case "Lola Beauty Mesa 59":
+                                                                        upDatedSpaName = "Lola Beauty Spa";
+                                                                        upDatedSpaAddress = "Superstition Mall" + "<br>" + "6555 E Southern Ave Mesa, AZ 85206"+"<br>"+"(First floor, Next to Cinnabon)";
+                                                                        upDatedSpaLINK = "https://forms.gle/peiS9dvWHZdg9aE26";
+                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lola-beauty-mesa-led-promo-59" ;
+                                                                        upDatedSpaPhone = "(480) 716-5545";
+                                                                        upDatedDurationTotal = "60 Minutes";
+                                                                        upDatedDurationOne = "- 15 Minutes Skin Cleaning";
+                                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience Consultation" + "<br>" + "- 15 Minutes of Consultation";
+                                                                        promoPrice = "59.95"
+                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
+                                                                        treatmentSelected = "LED Treatment";
+                                                                        newSpaPhoneNumberSelected = "(480) 742-6682";
+                                                                        break;  
                                                                     
                                                                 case "Supreme Brea":
                                                                     upDatedSpaName = "Supreme Spa";
