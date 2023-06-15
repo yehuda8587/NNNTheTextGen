@@ -1559,9 +1559,25 @@
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
                                                         break; 
+
+                                                        case "Gold Beauty Sacramento":
+                                                            upDatedSpaName = "Gold Beauty Spa";
+                                                            upDatedSpaAddress = "Arden Fair Mall," + "<br>" + "1689 Arden Way, Sacramento, CA 95815" + "<br>" + "(Across from Forever 21)";
+                                                            upDatedSpaLINK = "FORM";
+                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/goldbeauty-spa-sacramento-led-promo";
+                                                            upDatedSpaPhone = "(916) 459-4966";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 10 Minnutes Cleansing";
+                                                            upDatedDurationTwo = "- 50 Minutes LED Experience & Consultation";
+                                                            promoPrice = "79.95";
+                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 920-3388";
+                                                            treatmentSelected = "LED Treatment";
+                                                            newSpaPhoneNumberSelected = "(916) 920-3388";
+                                                            break; 
                             
                                     
     
+                                                        
             default:
                 break;
         }
