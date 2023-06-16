@@ -1563,7 +1563,7 @@
                                                         case "Gold Beauty Sacramento":
                                                             upDatedSpaName = "Gold Beauty Spa";
                                                             upDatedSpaAddress = "Arden Fair Mall," + "<br>" + "1689 Arden Way, Sacramento, CA 95815" + "<br>" + "(Across from Forever 21)";
-                                                            upDatedSpaLINK = "FORM";
+                                                            upDatedSpaLINK = "https://forms.gle/wJbvy77r3MWKKLGc6";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/goldbeauty-spa-sacramento-led-promo";
                                                             upDatedSpaPhone = "(916) 459-4966";
                                                             upDatedDurationTotal = "60 Minutes";
