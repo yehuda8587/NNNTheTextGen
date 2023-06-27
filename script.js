@@ -1074,7 +1074,7 @@
                                     upDatedDurationTwo = " ";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
+                                    treatmentSelected = "HYDRAGLOW Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     break; 
                                     
