@@ -1635,6 +1635,23 @@
                                                             treatmentSelected = "LED Treatment";
                                                             newSpaPhoneNumberSelected = "(786) 537-2523";
                                                             break; 
+
+                                                            case "ATIK Aesthetics":
+                                                                upDatedSpaName = "ATIK Aesthetics Spa";
+                                                                upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
+                                                                upDatedSpaLINK = "FORM";
+                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-aesthetics-ledpromo";
+                                                                upDatedSpaPhone = "(561) 210-0586";
+                                                                upDatedDurationTotal = "60 Minutes";
+                                                                upDatedDurationOne = "60 Minutes LED Treatment";
+                                                                upDatedDurationTwo = "";
+                                                                promoPrice = "69.95";
+                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
+                                                                treatmentSelected = "LED Treatment";
+                                                                newSpaPhoneNumberSelected = "(954) 408-8882";
+                                                                break; 
+
+                                                            
                                                                 
     
                                                         
