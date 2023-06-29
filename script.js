@@ -1639,7 +1639,7 @@
                                                             case "ATIK Aesthetics":
                                                                 upDatedSpaName = "ATIK Aesthetics Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
-                                                                upDatedSpaLINK = "FORM";
+                                                                upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
                                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-aesthetics-ledpromo";
                                                                 upDatedSpaPhone = "(561) 210-0586";
                                                                 upDatedDurationTotal = "60 Minutes";
@@ -1650,6 +1650,8 @@
                                                                 treatmentSelected = "LED Treatment";
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
                                                                 break; 
+
+                                                                
 
                                                             
                                                                 
@@ -1815,5 +1817,4 @@
             }
         });
     };
-
 
