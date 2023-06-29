@@ -947,7 +947,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-non-surgical-face-lift-experience-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-non-surgical-face-lift-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
