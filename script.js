@@ -758,6 +758,21 @@
                                                                     newSpaPhoneNumberSelected = "(512) 992-0050";
                                                                     break;
 
+                                                                    case "Earth Barton Creek Non-Surgical Facelift":
+                                                                    upDatedSpaName = "Earth Tech Spa";
+                                                                    upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
+                                                                    upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-spa-nbsp-barton-nbsp-creek-non-surgical-face-lift-promo-page";
+                                                                    upDatedSpaPhone = "(512) 356-9260";
+                                                                    upDatedDurationTotal = "60 Minutes";
+                                                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
+                                                                    upDatedDurationTwo = "15-minute consultation";
+                                                                    promoPrice = "59.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
+                                                                    treatmentSelected = "Non-Surgical Face Lift";
+                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    break;
+
                                                                     case "Earth Aventura LED Anti-aging":
                                                                         upDatedSpaName = "Earth Tech Spa";
                                                                         upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
@@ -1154,6 +1169,21 @@
                                     newSpaPhoneNumberSelected = "(727) 341-0110";
                                     break; 
 
+                                    case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Mayfair Shopping Centre next to Zoomies)";
+                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
+                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
+                                    upDatedDurationTwo = "- 15-minute consultation ";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
+                                    treatmentSelected = "Non-Surgical Face Lift Treatment";
+                                    newSpaPhoneNumberSelected = "(778) 265-5141";
+                                    break; 
+
                                     case "AVOLOGI Eneo Victoria":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Mayfair Shopping Centre next to Zoomies)";
@@ -1181,6 +1211,21 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(587) 589-4007";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
+                                    upDatedDurationTwo = "- 15-minute consultation ";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
+                                    treatmentSelected = "Non-Surgical Face Lift Treatment";
                                     newSpaPhoneNumberSelected = "(587) 589-4007";
                                     break; 
 
@@ -1605,10 +1650,10 @@
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
                                                         break; 
 
-                                                    case "Rose Spa Body Treatment":
+                                                        case "Rose Spa Body Treatment":
                                                         upDatedSpaName = "Rose Spa";
                                                         upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
-                                                        upDatedSpaLINK = "FORM";
+                                                        upDatedSpaLINK = " FORM ";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rosebeauty-revo-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
                                                         upDatedDurationTotal = "45 Minutes";
@@ -1665,21 +1710,6 @@
                                                                 treatmentSelected = "LED Treatment";
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
                                                                 break; 
-
-                                                                case "Voupre Beverly Hills":
-                                                                    upDatedSpaName = "Voupre Spa";
-                                                                    upDatedSpaAddress = "363 N Beverly Dr, Beverly Hills, CA 90210" + "<br>" + "(In Front of The Cheesecake Factory)";
-                                                                    upDatedSpaLINK = "https://forms.gle/K4G86angPuq3yjmB7";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-ca-promo-page";
-                                                                    upDatedSpaPhone = "(310) 751-2750";
-                                                                    upDatedDurationTotal = "45 Minutes";
-                                                                    upDatedDurationOne = "15 Cleansing";
-                                                                    upDatedDurationTwo = "30 Minutes LED Treatment & Consultation";
-                                                                    promoPrice = "79.95";
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 734-7031";
-                                                                    treatmentSelected = "LED Treatment";
-                                                                    newSpaPhoneNumberSelected = "(310) 734-7031";
-                                                                    break; 
 
                                                                 
 
