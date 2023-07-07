@@ -1611,9 +1611,9 @@
                                                 upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/puravida-antiaging-led-promo";
                                                 upDatedSpaPhone = "(825) 258-5779";
-                                                upDatedDurationTotal = "60 Minutes";
-                                                upDatedDurationOne = "- 15 Minnutes Cleansing";
-                                                upDatedDurationTwo = "- 45 Minutes LED Experience & Consultation";
+                                                upDatedDurationTotal = "45 Minutes";
+                                                upDatedDurationOne = "- 15 Minutes Cleansing";
+                                                upDatedDurationTwo = "- 30 Minutes LED Experience & Consultation";
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
                                                 treatmentSelected = "LED Treatment";
