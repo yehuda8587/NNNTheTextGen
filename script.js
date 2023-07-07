@@ -226,6 +226,21 @@
                 newSpaPhoneNumberSelected = "(301) 775-3494";
                 break; 
 
+                case "Voupre Beverly Hills":
+                upDatedSpaName = "Voupre Spa";
+                upDatedSpaAddress = "363 N Beverly Dr Beverly Hills, California 90210";
+                upDatedSpaLINK = "https://forms.gle/K4G86angPuq3yjmB7";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-ca-promo-page" ;
+                upDatedSpaPhone = "(310) 751-2750";
+                upDatedDurationTotal = "45 Minutes";
+                upDatedDurationOne = "- 15 Cleansing";
+                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 734-7031";
+                treatmentSelected = "LED Treatment";
+                newSpaPhoneNumberSelected = "(310) 734-7031";
+                break; 
+
                 case "Beauty Frizz MD":
                 upDatedSpaName = "BeautyFrizz Spa";
                 upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(Montgomery Mall, 1st floor across from 'LEGO Store')";
