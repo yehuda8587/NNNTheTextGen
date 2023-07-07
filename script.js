@@ -227,7 +227,7 @@
                 break; 
 
                 case "Voupre Beverly Hills":
-                upDatedSpaName = "Voupre Spa";
+                upDatedSpaName = "Voupre Spa Beverly Hills";
                 upDatedSpaAddress = "363 N Beverly Dr Beverly Hills, California 90210";
                 upDatedSpaLINK = "https://forms.gle/K4G86angPuq3yjmB7";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-ca-promo-page" ;
