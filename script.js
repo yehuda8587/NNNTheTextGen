@@ -1523,7 +1523,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 30 Minutes HIFU Experience" +"<br>" + "- 15 Minutes Consultation";
-                                    promoPrice = "99.95";
+                                    promoPrice = "119.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                     treatmentSelected = "HIFU Treatment";
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
