@@ -293,7 +293,7 @@
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
                             upDatedSpaPhone = "(289) 293-9711";
                             upDatedDurationTotal = "50 Minutes";
-                            upDatedDurationOne = "- 10 Minutes Deep Skin Cleaning";
+                            upDatedDurationOne = "- 10 Minutes Light Cleansing";
                             upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -353,7 +353,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(437) 253-8259";
                                     upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 10 Minutes Light Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
