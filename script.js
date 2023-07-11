@@ -1668,13 +1668,13 @@
                                                         case "Rose Spa Body Treatment":
                                                         upDatedSpaName = "Rose Spa";
                                                         upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
-                                                        upDatedSpaLINK = " FORM ";
+                                                        upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rosebeauty-revo-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
                                                         upDatedDurationTotal = "45 Minutes";
                                                         upDatedDurationOne = "- 30 minutes Body Tightening & Healing Treatment";
                                                         upDatedDurationTwo = "- 15 minutes Consultation";
-                                                        promoPrice = "79.95";
+                                                        promoPrice = "99.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "Body Tightening & Healing Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
