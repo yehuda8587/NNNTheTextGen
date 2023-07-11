@@ -331,6 +331,21 @@
                                 newSpaPhoneNumberSelected = "(647) 787-7105";
                                 break; 
 
+                                case "Kristals Barrie Non-Surgical Facelift":
+                                upDatedSpaName = "Kristals Barrie Spa";
+                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-non-surgical-facelift" ;
+                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
+                                upDatedDurationTwo = "- 15-minute Consultation";
+                                promoPrice = "79.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                                treatmentSelected = "Non-Surgical Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 787-7105";
+                                break; 
+
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
