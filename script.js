@@ -365,7 +365,7 @@
                                     upDatedSpaName = "Adore spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
@@ -1741,7 +1741,7 @@
                                                         upDatedSpaName = "Rose Spa";
                                                         upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
                                                         upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
+                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-non-surgical-facelift";
                                                         upDatedSpaPhone = "(971) 350-7408";
                                                         upDatedDurationTotal = "60 Minutes";
                                                         upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
