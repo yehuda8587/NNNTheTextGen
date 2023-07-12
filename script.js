@@ -361,6 +361,21 @@
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     break; 
 
+                                    case "Adore Cookstown Non Surgical Facelift":
+                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
+                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
+                                    upDatedDurationTwo = "- 15-minute Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    break; 
+
                                     case "Kristals Erin Mills LED":
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(1st floor, between Erin Mills Photo & Bluenotes)";
@@ -864,7 +879,20 @@
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                         break;
 
-                                                                    
+                                                                        case "Earth Aventura Oxygen Anti Aging":
+                                                                        upDatedSpaName = "Earth Tech Spa";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
+                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthaventura-oxygenpromo";
+                                                                        upDatedSpaPhone = "(786) 539-3034";
+                                                                        upDatedDurationTotal = "75 Minutes";
+                                                                        upDatedDurationOne = "- 60 Minutes Oxygen Anti-Aging Treatment";
+                                                                        upDatedDurationTwo = "- 15 Minutes Consultation";
+                                                                        promoPrice = "69.95"
+                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
+                                                                        treatmentSelected = "Oxygen Anti-aging Experience";
+                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        break;
 
                                                                 case "Lola Beauty Mesa":
                                                                     upDatedSpaName = "Lola Beauty Spa";
@@ -1692,6 +1720,21 @@
                                                         promoPrice = "99.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "Body Tightening & Healing Treatment";
+                                                        newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                        break; 
+
+                                                        case "Rose Spa Non Surgical Facelift":
+                                                        upDatedSpaName = "Rose Spa";
+                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                        upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
+                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
+                                                        upDatedSpaPhone = "(971) 350-7408";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
+                                                        upDatedDurationTwo = "- 15-minute Consultation";
+                                                        promoPrice = "79.95";
+                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
+                                                        treatmentSelected = "Non-Surgical Facelift Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
                                                         break; 
 
