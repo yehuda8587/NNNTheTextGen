@@ -1813,6 +1813,21 @@
                                     newSpaPhoneNumberSelected = "(941) 244-0044";
                                     break; 
 
+                                                            case "ATIK Aesthetics Body Sculpting":
+                                                                upDatedSpaName = "ATIK Aesthetics Spa";
+                                                                upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
+                                                                upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
+                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-spa-body-sculpting-promo";
+                                                                upDatedSpaPhone = "(561) 210-0586";
+                                                                upDatedDurationTotal = "60 Minutes";
+                                                                upDatedDurationOne = "45 Minutes Venus Legacy Treatment";
+                                                                upDatedDurationTwo = "15-minute Consultation";
+                                                                promoPrice = "59.95";
+                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
+                                                                treatmentSelected = "Body Sculpting Treatment";
+                                                                newSpaPhoneNumberSelected = "(954) 408-8882";
+                                                                break; 
+
                                                                 
 
                                                             
