@@ -1798,21 +1798,6 @@
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
                                                                 break; 
 
-                                                            case "Gentle Touch Beauty":
-                                                                upDatedSpaName = "Gentle Touch Beauty";
-                                                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)
-                                                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
-                                                                upDatedSpaPhone = "(941) 840-5993";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 30-minute Cleansing and Facial Massage";
-                                                                upDatedDurationTwo = "- 30-minute LED Experience and Consultation";
-                                                                promoPrice = "79.95"
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                                                treatmentSelected = "LED Treament";
-                                                                newSpaPhoneNumberSelected = "(941) 244-0044";
-                                                                break; 
-
                                                                 
 
                                                             
@@ -1979,4 +1964,3 @@
             }
         });
     };
-
