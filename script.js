@@ -1752,6 +1752,36 @@
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
                                                         break; 
 
+                                                        case "Rose Spa Collagen Enhancing Facial":
+                                                            upDatedSpaName = "Rose Spa";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
+                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-collagen-enhancing-facial";
+                                                            upDatedSpaPhone = "(971) 350-7408";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 45-minute cleansing and Collagen Enhancing";
+                                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                                            promoPrice = "59.95";
+                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
+                                                            treatmentSelected = "Collagen Enhancing Treatment";
+                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                            break; 
+    
+                                                            case "Rose Spa Skin Tightening LED":
+                                                            upDatedSpaName = "Rose Spa";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
+                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-skin-tightening-with-led-technology";
+                                                            upDatedSpaPhone = "(971) 350-7408";
+                                                            upDatedDurationTotal = "75 Minutes";
+                                                            upDatedDurationOne = "- 45-LED Skin Tightening treatment";
+                                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                                            promoPrice = "59.95";
+                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
+                                                            treatmentSelected = "LED Treatment";
+                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                            break; 
+
                                                         case "Gold Beauty Sacramento":
                                                             upDatedSpaName = "Gold Beauty Spa";
                                                             upDatedSpaAddress = "Arden Fair Mall," + "<br>" + "1689 Arden Way, Sacramento, CA 95815" + "<br>" + "(Across from Forever 21)";
