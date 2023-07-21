@@ -1828,7 +1828,7 @@
                                                             newSpaPhoneNumberSelected = "(786) 537-2523";
                                                             break; 
 
-                                                            case "ATIK Boca Raton":
+                                                            case "ATIK Boca Raton LED":
                                                                 upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
                                                                 upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
