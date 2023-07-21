@@ -1601,11 +1601,11 @@
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
                                     break; 
 
-                                    case "Triangular Spa LED":
-                                    upDatedSpaName = "Triangular Spa";
+                                    case "ATIK Deerfield Beach LED":
+                                    upDatedSpaName = "ATIK Spa";
                                     upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
                                     upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-spa-led-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-led-promo";
                                     upDatedSpaPhone = "(754) 333-2318";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
@@ -1614,10 +1614,10 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
-                                    break; 
+                                    break;  
 
-                                    case "Triangular Spa Laser Lipo":
-                                    upDatedSpaName = "Triangular Spa";
+                                    case "ATIK Deerfield Beach Spa Laser Lipo":
+                                    upDatedSpaName = "ATIK Spa";
                                     upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
                                     upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-laser-lipo-promo-page";
@@ -1630,6 +1630,21 @@
                                     treatmentSelected = "Laser Lipo Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
                                     break; 
+
+                                    case "ATIK Deerfield Beach Body Sculpting":
+                                        upDatedSpaName = "ATIK Spa";
+                                        upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
+                                        upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-body-sculpting-promo";
+                                        upDatedSpaPhone = "(754) 333-2318";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 Minutes of the Venus Legacy Treatment";
+                                        upDatedDurationTwo = "15 Minute Consultation";
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
+                                        treatmentSelected = "Laser Lipo Treatment";
+                                        newSpaPhoneNumberSelected = "(954) 637-4226";
+                                        break; 
 
                                     case "Avinichi Spa Collagen":
                                         upDatedSpaName = "Avinichi Spa";
@@ -1813,11 +1828,11 @@
                                                             newSpaPhoneNumberSelected = "(786) 537-2523";
                                                             break; 
 
-                                                            case "ATIK Aesthetics":
-                                                                upDatedSpaName = "ATIK Aesthetics Spa";
+                                                            case "ATIK Boca Raton":
+                                                                upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
                                                                 upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-aesthetics-ledpromo";
+                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-led-promo";
                                                                 upDatedSpaPhone = "(561) 210-0586";
                                                                 upDatedDurationTotal = "60 Minutes";
                                                                 upDatedDurationOne = "60 Minutes LED Treatment";
@@ -1843,11 +1858,11 @@
                                     newSpaPhoneNumberSelected = "(941) 244-0044";
                                     break; 
 
-                                                            case "ATIK Aesthetics Body Sculpting":
-                                                                upDatedSpaName = "ATIK Aesthetics Spa";
+                                                            case "ATIK Boca Raton Body Sculpting":
+                                                                upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
                                                                 upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-spa-body-sculpting-promo";
+                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-body-sculpting-promo";
                                                                 upDatedSpaPhone = "(561) 210-0586";
                                                                 upDatedDurationTotal = "60 Minutes";
                                                                 upDatedDurationOne = "45 Minutes Venus Legacy Treatment";
@@ -1856,7 +1871,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
                                                                 treatmentSelected = "Body Sculpting Treatment";
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
-                                                                break; 
+                                                                break;
 
                                                                 
 
