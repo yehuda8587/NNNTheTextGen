@@ -1616,7 +1616,7 @@
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
                                     break;  
 
-                                    case "ATIK Deerfield Beach Spa Laser Lipo":
+                                    case "ATIK Deerfield Beach Laser Lipo":
                                     upDatedSpaName = "ATIK Spa";
                                     upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
                                     upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
