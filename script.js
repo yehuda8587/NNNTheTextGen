@@ -1243,7 +1243,7 @@
 
                                     case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
                                         upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Mayfair Shopping Centre next to Zoomies)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1258,7 +1258,7 @@
 
                                     case "AVOLOGI Eneo Victoria":
                                         upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Mayfair Shopping Centre next to Zoomies)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
