@@ -1610,7 +1610,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
                                     upDatedDurationTwo = " ";
-                                    promoPrice = "59.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
