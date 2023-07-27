@@ -1731,7 +1731,7 @@
                                                         upDatedDurationTotal = "60 Minutes";
                                                         upDatedDurationOne = "- 10 Minnutes Cleansing";
                                                         upDatedDurationTwo = "- 50 Minutes LED Experience & Consultation";
-                                                        promoPrice = "59.95";
+                                                        promoPrice = "79.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
