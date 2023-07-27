@@ -1642,7 +1642,7 @@
                                         upDatedDurationTwo = "15 Minute Consultation";
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
-                                        treatmentSelected = "Laser Lipo Treatment";
+                                        treatmentSelected = "Body Sculpting Treatment";
                                         newSpaPhoneNumberSelected = "(954) 637-4226";
                                         break; 
 
