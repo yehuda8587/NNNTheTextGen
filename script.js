@@ -1412,9 +1412,9 @@
                                     upDatedSpaLINK = "https://forms.gle/Yaa4AmATGwwPAAVW7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/luminous-ledpromo";
                                     upDatedSpaPhone = "(361) 356-1025";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Non-Surgical Face & Neck Lift" + "<br>" + "- 15 minutes of Consultation";
+                                    upDatedDurationTotal = "50 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Non-Surgical Facelift";
+                                    upDatedDurationTwo = "- 20 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (361) 462-4319";
                                     treatmentSelected = "LED Treatment";
