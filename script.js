@@ -1586,6 +1586,21 @@
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
                                     break; 
 
+                                    case "BioRevive Body Sculpting":
+                                        upDatedSpaName = " BioRevive Spa";
+                                        upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
+                                        upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-body-sculpting-promo";
+                                        upDatedSpaPhone = "(949) 688-6429";
+                                        upDatedDurationTotal = "50 Minutes";
+                                        upDatedDurationOne = "- 35 Body Sculpting Treatment";
+                                        upDatedDurationTwo = "- 15 Minutes Consultation";
+                                        promoPrice = "119.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
+                                        treatmentSelected = "Body Sculpting Treatment";
+                                        newSpaPhoneNumberSelected = "(949) 220-7221";
+                                        break; 
+
                                     case "Natural Blossom LED":
                                         upDatedSpaName = "Natural Blossom Spa";
                                     upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
