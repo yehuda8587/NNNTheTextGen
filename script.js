@@ -1873,8 +1873,8 @@
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
                                                                 break;
 
-                                    case "Ben's Beauty":
-                                    upDatedSpaName = "Ben's Beauty";
+                                    case "Ben's Beauty Spa":
+                                    upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
