@@ -1196,21 +1196,6 @@
                                     newSpaPhoneNumberSelected = "(973) 406-6160";
                                     break; 
 
-                                    case "Flawless Wayne $99.95 PROMO":
-                                        upDatedSpaName = "Flawless Beauty";
-                                    upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
-                                    upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-led-promo-99";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 50 Minutes LED Treatment";
-                                    upDatedDurationTwo = "- 25 Minutes of Consultation";
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(973) 406-6160";
-                                    break; 
-
                                     case "Flawless Wayne $69.95 PROMO":
                                         upDatedSpaName = "Flawless Beauty";
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
