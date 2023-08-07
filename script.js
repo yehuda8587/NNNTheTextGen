@@ -1912,7 +1912,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
-                                    promoPrice = "79.95"
+                                    promoPrice = "89.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "LED Treament";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
