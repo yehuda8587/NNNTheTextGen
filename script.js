@@ -1906,7 +1906,7 @@
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
-                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaLINK = "";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1915,6 +1915,21 @@
                                     promoPrice = "89.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "LED Treament";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    break;
+
+                                    case "Ben's Beauty Spa Collagen Enhancing Facial":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "20 minute Cleansing ";
+                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Faccial and Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     break;
 
