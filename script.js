@@ -1933,6 +1933,54 @@
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     break;
 
+                                    case "Resveratrol":
+                                        upDatedSpaName = "Resveratrol Spa";
+                                        upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Macy's and Pottery Barn)";
+                                        upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
+                                        upDatedSpaPhone = "(602) 887-9960 ";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
+                                        upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
+                                        promoPrice = "79.95"
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(919) 900-8271";
+                                        break;
+
+                                        case "Introstem Medspa Michigan":
+                                    upDatedSpaName = "Introstem Medspa Michigan";
+                                    upDatedSpaAddress = "100 Briarwood Cir Ann Arbor MI 48108"+"<br>"+"(Briarwood mall, In the middle of the mall next to Lush)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medspa-mi";
+                                    upDatedSpaPhone = "(734) 418-8344";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(734) 330-0991";
+                                    break;
+
+                                    case "GreenBiotics Chicago":
+                                    upDatedSpaName = "GreenBiotics Chicago";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(In the middle of the mall next to Lush)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    break;
+                                    
+
+                                    
+
                                                                 
 
                                                             
