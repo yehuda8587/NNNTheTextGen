@@ -1978,7 +1978,20 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     break;
                                     
-
+                                    case "Infinity Pompano Beach":
+                                        upDatedSpaName = "Infinity Pompano Beach";
+                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Located between the Furniture store to the supermarket)";
+                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/infinity-spa-pomapano-beach-promo-page";
+                                        upDatedSpaPhone = "(786) 206-8296";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10 minutes Cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"20 minute Consultation";
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(917)535-2083";
+                                        break;
                                     
 
                                                                 
