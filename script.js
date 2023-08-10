@@ -1906,7 +1906,7 @@
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1921,7 +1921,7 @@
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1934,24 +1934,24 @@
                                     break;
 
                                     case "Resveratrol":
-                                        upDatedSpaName = "Resveratrol Spa";
-                                        upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Macy's and Pottery Barn)";
-                                        upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
-                                        upDatedSpaPhone = "(602) 887-9960 ";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
-                                        upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                                        promoPrice = "79.95"
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(919) 900-8271";
-                                        break;
+                                    upDatedSpaName = "Resveratrol Spa";
+                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Macy's and Pottery Barn)";
+                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
+                                    upDatedSpaPhone = "(602) 887-9960 ";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
+                                    upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(602) 935-5655";
+                                    break;
 
-                                        case "Introstem Medspa Michigan":
-                                    upDatedSpaName = "Introstem Medspa Michigan";
+                                        case "Introstem Ann Arbor":
+                                    upDatedSpaName = "Introstem Ann Arbor";
                                     upDatedSpaAddress = "100 Briarwood Cir Ann Arbor MI 48108"+"<br>"+"(Briarwood mall, In the middle of the mall next to Lush)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/X2Z4xKUkrre7Njjn8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medspa-mi";
                                     upDatedSpaPhone = "(734) 418-8344";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1963,10 +1963,10 @@
                                     newSpaPhoneNumberSelected = "(734) 330-0991";
                                     break;
 
-                                    case "GreenBiotics Chicago":
-                                    upDatedSpaName = "GreenBiotics Chicago";
+                                    case "GreenBiotics Woodfield":
+                                    upDatedSpaName = "GreenBiotics Woodfield";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(In the middle of the mall next to Lush)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "60 Minutes";
