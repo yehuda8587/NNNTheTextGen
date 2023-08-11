@@ -1601,7 +1601,7 @@
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
                                     break; 
 
-                                    case "BioRevive Body Sculpting":
+                                    case "BioRevive CryoSkin Body Sculpting":
                                         upDatedSpaName = " BioRevive Spa";
                                         upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
                                         upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
