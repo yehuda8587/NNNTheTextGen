@@ -1948,11 +1948,11 @@
                                     newSpaPhoneNumberSelected = "(602) 935-5655";
                                     break;
 
-                                        case "Introstem Ann Arbor":
-                                    upDatedSpaName = "Introstem Ann Arbor";
+                                        case "Stem Spa Ann Arbor":
+                                    upDatedSpaName = "Stem Spa Ann Arbor";
                                     upDatedSpaAddress = "100 Briarwood Cir Ann Arbor MI 48108"+"<br>"+"(Briarwood mall, In the middle of the mall next to Lush)";
                                     upDatedSpaLINK = "https://forms.gle/X2Z4xKUkrre7Njjn8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medspa-mi";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/stem-spa-ann-arbor";
                                     upDatedSpaPhone = "(734) 418-8344";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
