@@ -1166,6 +1166,21 @@
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     break;
 
+                                    case "Elevatione Spa Beauty Collagen Enhancing Facial":
+                                    upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "45 minutes of Cleansing and Collagen Boosting Treatment";
+                                    upDatedDurationTwo = "15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    break;
+
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
@@ -1601,7 +1616,7 @@
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
                                     break; 
 
-                                    case "BioRevive Body Sculpting":
+                                    case "BioRevive CryoSkin Body Sculpting":
                                         upDatedSpaName = " BioRevive Spa";
                                         upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
                                         upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
@@ -1906,7 +1921,7 @@
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1921,7 +1936,7 @@
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store, we will reimburse your first hour of parking.";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1934,25 +1949,25 @@
                                     break;
 
                                     case "Resveratrol":
-                                        upDatedSpaName = "Resveratrol Spa";
-                                        upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Macy's and Pottery Barn)";
-                                        upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
-                                        upDatedSpaPhone = "(602) 887-9960 ";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
-                                        upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                                        promoPrice = "79.95"
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(919) 900-8271";
-                                        break;
+                                    upDatedSpaName = "Resveratrol Spa";
+                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Macy's and Pottery Barn)";
+                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
+                                    upDatedSpaPhone = "(602) 887-9960 ";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
+                                    upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(602) 935-5655";
+                                    break;
 
-                                        case "Introstem Medspa Michigan":
-                                    upDatedSpaName = "Introstem Medspa Michigan";
+                                        case "Stem Spa Ann Arbor":
+                                    upDatedSpaName = "Stem Spa Ann Arbor";
                                     upDatedSpaAddress = "100 Briarwood Cir Ann Arbor MI 48108"+"<br>"+"(Briarwood mall, In the middle of the mall next to Lush)";
-                                    upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medspa-mi";
+                                    upDatedSpaLINK = "https://forms.gle/X2Z4xKUkrre7Njjn8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/stem-spa-ann-arbor";
                                     upDatedSpaPhone = "(734) 418-8344";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -1963,10 +1978,10 @@
                                     newSpaPhoneNumberSelected = "(734) 330-0991";
                                     break;
 
-                                    case "GreenBiotics Chicago":
-                                    upDatedSpaName = "GreenBiotics Chicago";
+                                    case "GreenBiotics Woodfield":
+                                    upDatedSpaName = "GreenBiotics Woodfield";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(In the middle of the mall next to Lush)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1978,7 +1993,50 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     break;
                                     
+                                    case "Infinity Pompano Beach":
+                                        upDatedSpaName = "Infinity Pompano Beach";
+                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Located between the Furniture store to the supermarket)";
+                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/infinity-spa-pomapano-beach-promo-page";
+                                        upDatedSpaPhone = "(786) 206-8296";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10 minutes Cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"20 minute Consultation";
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(917)535-2083";
+                                        break;
 
+                                        case "Skin Tech Spa Collagen Enhancing":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    break;
+
+                                    case "Skin Tech Spa Body Sculpting":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
+                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    treatmentSelected = "Body Sculpting";
+                                    newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    break;
                                     
 
                                                                 
