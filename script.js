@@ -2008,9 +2008,9 @@
                                         newSpaPhoneNumberSelected = "(917)535-2083";
                                         break;
 
-                                        case "Skin Tech Spa Collagen Enhancing":
-                                    upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                        case "SkinTech Spa Collagen Enhancing":
+                                    upDatedSpaName = "SkinTech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2023,9 +2023,9 @@
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
                                     break;
 
-                                    case "Skin Tech Spa Body Sculpting":
-                                    upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    case "SkinTech Spa Body Sculpting":
+                                    upDatedSpaName = "SkinTech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
