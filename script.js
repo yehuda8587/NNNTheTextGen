@@ -129,7 +129,7 @@
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-spa-led-promo"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes LED Light Session & a 15 minutes Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
@@ -144,7 +144,7 @@
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-nc-promo";
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 30 Minutes Deep Skin Cleaning";
+                upDatedDurationOne = "- 30 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation"+"<br><br>"+"Dont Forget! You are eligeble for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
@@ -218,7 +218,7 @@
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-spa-md" ;
                 upDatedSpaPhone = "(443) 545-3555";
                 upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Deep Skin Cleaning";
+                upDatedDurationOne = "- 45 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
@@ -248,7 +248,7 @@
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
                 upDatedSpaPhone = "(301) 291-7543";
                 upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Deep Skin Cleaning";
+                upDatedDurationOne = "- 45 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
                 promoPrice = "99.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
@@ -278,7 +278,7 @@
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lionesse-ca-led-promo" ;
                     upDatedSpaPhone = "(301)887-5495";
                     upDatedDurationTotal = "60 Minutes";
-                    upDatedDurationOne = "- 30 Minutes Deep Skin Cleaning";
+                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
                     upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
                     promoPrice = "79.95"
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
@@ -323,7 +323,7 @@
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-spa-led-promo-page" ;
                                 upDatedSpaPhone = "(705) 408-2681";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                                upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                 promoPrice = "79.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
@@ -353,7 +353,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
@@ -414,7 +414,7 @@
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-sherwaygardens-led-promo" ;
                                             upDatedSpaPhone = "(647) 259-6810";
                                             upDatedDurationTotal = "60 Minutes";
-                                            upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                                            upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                             upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
                                             promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
@@ -430,7 +430,7 @@
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-led-promo-page" ;
                                                         upDatedSpaPhone = "(480) 847-1841";
                                                         upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 30 Minutes Deep Skin Cleaning";
+                                                        upDatedDurationOne = "- 30 Minutes Light Cleansing";
                                                         upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
                                                         promoPrice = "59.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
@@ -947,7 +947,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tresor-rare-las-olas-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(786) 206-8520";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (754) 701-0937";
@@ -962,7 +962,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lola-beauty-spa-tanger-led-promo-page" ;
                                     upDatedSpaPhone = "(843) 277-9518";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (843) 818-4617";
@@ -977,7 +977,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-orange-park-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(904) 458-7896";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 592-7266";
@@ -1955,7 +1955,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
                                     upDatedSpaPhone = "(602) 887-9960 ";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Deep Skin Cleaning";
+                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
@@ -2008,9 +2008,9 @@
                                         newSpaPhoneNumberSelected = "(917)535-2083";
                                         break;
 
-                                        case "SkinTech Spa Collagen Enhancing":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                        case "Skin Tech Spa Collagen Enhancing":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2023,9 +2023,9 @@
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
                                     break;
 
-                                    case "SkinTech Spa Body Sculpting":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    case "Skin Tech Spa Body Sculpting":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vist Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2036,6 +2036,21 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    break;
+
+                                    case "Botanifique Spa":
+                                    upDatedSpaName = "Botanifique Spa";
+                                    upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
+                                    upDatedSpaPhone = "(03) 7042 2770";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
+                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
+                                    treatmentSelected = "Body Sculpting";
+                                    newSpaPhoneNumberSelected = "+61481768980";
                                     break;
                                     
 
