@@ -2045,11 +2045,11 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
-                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationOne = "- 15-minute consultation";
+                                    upDatedDurationTwo = "- 60-minutes of Light Cleaning and LED Anti-Aging Treatment";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
-                                    treatmentSelected = "Body Sculpting";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "+61481768980";
                                     break;
                                     
