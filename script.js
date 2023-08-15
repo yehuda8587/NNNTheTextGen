@@ -2045,7 +2045,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 10-consultation";
+                                    upDatedDurationOne = "- 10-minutes of consultation";
                                     upDatedDurationTwo = "- 35-minutes of Light Cleaning & LED Anti-Aging Treatment"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
