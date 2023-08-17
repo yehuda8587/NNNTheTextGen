@@ -2020,7 +2020,7 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
                                     break;
 
                                     case "Skin Tech Spa Body Sculpting":
@@ -2035,7 +2035,7 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
                                     break;
 
                                     case "Botanifique Spa":
