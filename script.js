@@ -1631,6 +1631,21 @@
                                         newSpaPhoneNumberSelected = "(949) 220-7221";
                                         break; 
 
+                                        case "BioRevive CryoSkin Body Sculpting 99.95":
+                                        upDatedSpaName = " BioRevive Spa";
+                                        upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
+                                        upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-body-sculpting-promo";
+                                        upDatedSpaPhone = "(949) 688-6429";
+                                        upDatedDurationTotal = "50 Minutes";
+                                        upDatedDurationOne = "- 35 Body Sculpting Treatment";
+                                        upDatedDurationTwo = "- 15 Minutes Consultation";
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
+                                        treatmentSelected = "Body Sculpting Treatment";
+                                        newSpaPhoneNumberSelected = "(949) 220-7221";
+                                        break; 
+
                                     case "Natural Blossom LED":
                                         upDatedSpaName = "Natural Blossom Spa";
                                     upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
@@ -2051,6 +2066,36 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "+61481768980";
+                                    break;
+
+                                    case "Good Life Daytona Beach":
+                                    upDatedSpaName = "Good Life Daytona Beach";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
+                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minutes of Consultation";
+                                    upDatedDurationTwo = "- 35-minutes of Light Cleaning & LED Anti-Aging Treatment"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    break;
+
+                                    case "NeoLumo Florence":
+                                    upDatedSpaName = "NeoLumo Florence";
+                                    upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
+                                    upDatedSpaPhone = "(864) 999-4665";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (864) 999-4665";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(864) 999-4665";
                                     break;
                                     
 
