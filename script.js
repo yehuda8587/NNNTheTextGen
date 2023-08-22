@@ -2097,6 +2097,21 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(864) 999-4665";
                                     break;
+
+                                    case "Vera Beauty Spa":
+                                    upDatedSpaName = "Vera Beauty Spa";
+                                    upDatedSpaAddress = "Chandler Fashion Center,"+"<br>"+"3111 W Chandler Blvd Chandler AZ 85226"+"<br>"+"(Second Floor Next To Helzberz Jewelry)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vera-beauty-spa-promo-page";
+                                    upDatedSpaPhone = "(480) 805-5171";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 394-7750";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(602) 394-7750";
+                                    break;
                                     
 
                                                                 
