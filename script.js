@@ -271,8 +271,8 @@
                     newSpaPhoneNumberSelected = "(301) 775-3494";
                     break; 
 
-                case "Bee & Co Spa":
-                    upDatedSpaName = "Bee & Co Spa";
+                case "Bee and Co Spa":
+                    upDatedSpaName = "Bee and Co Spa";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
