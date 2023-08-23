@@ -271,11 +271,11 @@
                     newSpaPhoneNumberSelected = "(301) 775-3494";
                     break; 
 
-                case "Lionesse Exclusive CA":
-                    upDatedSpaName = "Lionesse Exclusive Spa";
+                case "Bee & Co Spa":
+                    upDatedSpaName = "Bee & Co Spa";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lionesse-ca-led-promo" ;
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
                     upDatedSpaPhone = "(301)887-5495";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 30 Minutes Light Cleaning";
@@ -2075,8 +2075,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
                                     upDatedSpaPhone = "(386) 267-6296";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minutes of Consultation";
-                                    upDatedDurationTwo = "- 35-minutes of Light Cleaning & LED Anti-Aging Treatment"
+                                    upDatedDurationOne = "- 15-minutes of Consultation"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
+                                    upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
                                     treatmentSelected = "LED Treatment";
