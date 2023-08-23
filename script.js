@@ -2112,6 +2112,21 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 394-7750";
                                     break;
+
+                                    case "BU Care Spa":
+                                    upDatedSpaName = "Vera Beauty Spa";
+                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-promo-page";
+                                    upDatedSpaPhone = "(561) 560-7797";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minutes of light Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"20-minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    break;
                                     
 
                                                                 
