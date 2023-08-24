@@ -271,8 +271,8 @@
                     newSpaPhoneNumberSelected = "(301) 775-3494";
                     break; 
 
-                case "Bee and Co Spa":
-                    upDatedSpaName = "Bee and Co Spa";
+                case "Bee & Co Spa":
+                    upDatedSpaName = "Bee & Co Spa";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
@@ -2092,7 +2092,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
-                                    promoPrice = "99.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (864) 999-4665";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(864) 999-4665";
@@ -2107,7 +2107,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
-                                    promoPrice = "99.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 394-7750";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 394-7750";
@@ -2122,7 +2122,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minutes of light Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"20-minutes Consultation"
-                                    promoPrice = "99.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
