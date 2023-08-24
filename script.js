@@ -2087,7 +2087,7 @@
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/neolumo-promo-page";
                                     upDatedSpaPhone = "(864) 999-4665";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
