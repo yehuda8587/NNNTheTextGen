@@ -1536,9 +1536,9 @@
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "AquaPure Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 370-3334";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
                                     break; 
 
                                     case "Tierra Med Spa AquaPure Hydration 79.95":
@@ -1551,9 +1551,9 @@
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "AquaPure Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 370-3334";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
                                     break; 
 
                                     case "Tierra Med Spa LED":
@@ -1566,9 +1566,9 @@
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 370-3334";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
                                     break; 
 
                                     case "Boutique 770":
