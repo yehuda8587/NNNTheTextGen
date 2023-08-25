@@ -2025,7 +2025,7 @@
 
                                         case "Skin Tech Spa Collagen Enhancing":
                                     upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd Fort Worth, TX 76109, USA"+"<br>"+"(First Floor, #100)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2040,7 +2040,7 @@
 
                                     case "Skin Tech Spa Body Sculpting":
                                     upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd Fort Worth, TX 76109, USA"+"<br>"+"(First Floor, #100)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
