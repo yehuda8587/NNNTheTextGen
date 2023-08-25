@@ -120,6 +120,7 @@
                 upDatedDurationTwo = "No Spa Selected";
                 promoPrice = "No Spa Selected";
                 newSpaPhoneNumberSelected = "No Spa Selected";
+                insteadOfSpa = "No Spa Selected";
                 break;
 
             case "Skin Analytics":
@@ -135,6 +136,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$350"
                 break;
 
             case "Esthetix Raliegh":
@@ -150,6 +152,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(919) 900-8271";
+                insteadOfSpa = "$350"
                 break;
 
                 case "The Bay Aesthetics Tampa":
@@ -164,6 +167,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "non set";
+                insteadOfSpa = "$350"
                 break;
                 
                 case "Earth Sarasota":
@@ -179,6 +183,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(941) 302-5495";
+                insteadOfSpa = "$350"
                 break; 
                 
                 case "Forever Flawless Sarasota":
@@ -194,6 +199,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "none set";
+                insteadOfSpa = "$500"
                 break;
 
                 case "Esthetix Sarasota":
@@ -209,6 +215,7 @@
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
                     treatmentSelected = "LED Treatment";
                     newSpaPhoneNumberSelected = "(941) 302-5495";
+                    insteadOfSpa = "$350"
                     break;
         
                 case "Voupre MD":
@@ -224,6 +231,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(301) 775-3494";
+                insteadOfSpa = "$350"
                 break; 
 
                 case "Voupre Beverly Hills":
@@ -239,6 +247,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 734-7031";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(310) 734-7031";
+                insteadOfSpa = "$350"
                 break; 
 
                 case "Beauty Frizz MD":
@@ -254,6 +263,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(301) 775-3494";
+                insteadOfSpa = "$350"
                 break; 
 
                 case "Beauty Frizz MD Body Sculpting":
@@ -269,10 +279,11 @@
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
                     treatmentSelected = "Body Sculpting Treatment";
                     newSpaPhoneNumberSelected = "(301) 775-3494";
+                    insteadOfSpa = "$500"
                     break; 
 
-                case "Bee n Co Spa":
-                    upDatedSpaName = "Bee n Co Spa";
+                case "Bee And Co Spa":
+                    upDatedSpaName = "Bee & Co Spa";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
@@ -284,6 +295,7 @@
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
                     treatmentSelected = "LED Treatment";
                     newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$350"
                     break; 
 
                         case "Kristals Burlington LED":
@@ -299,6 +311,7 @@
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                             treatmentSelected = "LED Treatment";
                             newSpaPhoneNumberSelected = "(647) 293-1112";
+                            insteadOfSpa = "$350"
                             break; 
 
                             case "Kristals Burlington AquaPure":
@@ -314,6 +327,7 @@
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                 treatmentSelected = "AquaPure";
                                 newSpaPhoneNumberSelected = "(647) 293-1112";
+                                insteadOfSpa = "$350"
                                 break; 
 
                             case "Kristals Barrie":
@@ -329,6 +343,7 @@
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
                                 treatmentSelected = "LED Treatment";
                                 newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$350"
                                 break; 
 
                                 case "Kristals Barrie Non-Surgical Facelift":
@@ -344,6 +359,7 @@
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
                                 treatmentSelected = "Non-Surgical Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$350"
                                 break; 
 
                                 case "Adore Cookstown":
@@ -359,6 +375,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Adore Cookstown Non Surgical Facelift":
@@ -374,6 +391,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
                                     treatmentSelected = "Non-Surgical Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Kristals Erin Mills LED":
@@ -389,6 +407,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
+                                    insteadOfSpa = "$350"
                                     break;       
                                     
                                     case "Kristals Erin Mills AquaPure":
@@ -404,6 +423,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                     treatmentSelected = "AquaPure Treatment";
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
+                                    insteadOfSpa = "$350"
                                     break;       
                     
         
@@ -420,6 +440,7 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(647) 370-8733";
+                                            insteadOfSpa = "$350"
                                             break;   
                                                 
 
@@ -436,6 +457,7 @@
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(480) 808-9400";
+                                                        insteadOfSpa = "$350"
                                                         break;   
 
                                                                         case "Earth Lakeline Neck Tightening":
@@ -451,6 +473,7 @@
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                             treatmentSelected = "Neck Tightening Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                            insteadOfSpa = "$350"
                                                                             break;
 
                                                                             case "Earth Lakeline Non-Surgical Face Lift":
@@ -466,6 +489,7 @@
                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                 treatmentSelected = "Non-surgical Face Lift Treatment";
                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                insteadOfSpa = "$350"
                                                                                 break;
 
                                                                                 case "Earth Lakeline Rewind Facial Treatment":
@@ -481,6 +505,7 @@
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                     treatmentSelected = "Rewind Facial Treatment";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                    insteadOfSpa = "$350"
                                                                                     break;
 
                                                                                     case "Earth Lakeline LED Tightening":
@@ -496,6 +521,7 @@
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                     treatmentSelected = "LED Tightening";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                    insteadOfSpa = "$350"
                                                                                     break;
 
                                                                                     case "Earth Lakeline Age Reverse":
@@ -511,6 +537,7 @@
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                     treatmentSelected = "Age Reverse";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                    insteadOfSpa = "$350"
                                                                                     break;
 
                                                                                     case "Earth Lakeline Collagen Lifting Facial":
@@ -526,6 +553,7 @@
                                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                         treatmentSelected = "Collagen Lifting Facial Treatment";
                                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                        insteadOfSpa = "$350"
                                                                                         break;
 
                                                                                         case "Earth Lakeline Elastin Tightening 70":
@@ -541,6 +569,7 @@
                                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                             treatmentSelected = "Elastin Tightening Treatment";
                                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                            insteadOfSpa = "$350"
                                                                                             break;
                                                             
                                                                                             case "Earth Lakeline Collagen Enhancing 70":
@@ -555,6 +584,7 @@
                                                                                                 promoPrice = "70";
                                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                                 treatmentSelected = "Collagen Enhancing Treatment";
+                                                                                                insteadOfSpa = "$350"
                                                                                                 break;
 
                                                                                                 case "Earth Round Rock LED Firming Facial (Face and Neck)":
@@ -570,6 +600,7 @@
                                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                                 treatmentSelected = "LED Firming Facial Face & Neck Treatment";
                                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                                insteadOfSpa = "$350"
                                                                                                 break;
 
                                                                                                 case "Earth Round Rock RF Tightening And Brightening":
@@ -585,6 +616,7 @@
                                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                                 treatmentSelected = "RF Tightening & Brightening Treatment";
                                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                                insteadOfSpa = "$350"
                                                                                                 break;
 
                                                                                                 
@@ -602,6 +634,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                 treatmentSelected = "HydroDermabrasion Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                                 case "Earth Lakeline Chin RF":
@@ -617,6 +650,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                 treatmentSelected = "Chin RF Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                             case "Earth Lakeline Age Defying":
@@ -632,6 +666,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                 treatmentSelected = "Age Defying Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                                 case "Earth Lakeline Body Sculpting":
@@ -647,6 +682,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                     treatmentSelected = "Body Sculpting Treatment";
                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                    insteadOfSpa = "$350"
                                                                     break;
 
                                                                     case "Earth Lakeline RF Tightening And Brightening":
@@ -662,6 +698,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                     treatmentSelected = "RF Tightening & Brightening Treatment";
                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                    insteadOfSpa = "$350"
                                                                     break;
 
                                                                     case "Earth Lakeline Perfect Skin Complexion Facial":
@@ -677,6 +714,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                         treatmentSelected = "Perfect Skin Complexion Facial Treatment";
                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                        insteadOfSpa = "$350"
                                                                         break;
 
                                                                         case "Earth Lakeline Non-Surgical Lifting Facial":
@@ -692,6 +730,7 @@
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                             treatmentSelected = "Non-surgical Lifting Facial Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                            insteadOfSpa = "$350"
                                                                             break;
 
                                                                             case "Earth Lakeline LED Firming Facial (Face and Neck)":
@@ -707,6 +746,7 @@
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                             treatmentSelected = "LED Firming Facial Face & Neck Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                            insteadOfSpa = "$350"
                                                                             break;
 
 
@@ -723,6 +763,7 @@
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                     treatmentSelected = "Elastin Faciel Face & Neck Treatment";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                    insteadOfSpa = "$350"
                                                                                     break;
         
                                                                                     case "Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage":
@@ -738,6 +779,7 @@
                                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
                                                                                         treatmentSelected = "Skin Tightening Face & Neck Treatment";
                                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
+                                                                                        insteadOfSpa = "$350"
                                                                                         break;
 
                                                                                     
@@ -756,6 +798,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                 treatmentSelected = "Body Sculpting Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                                 case "Earth Barton Creek Neck Tightening":
@@ -771,6 +814,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                 treatmentSelected = "Neck Tightening Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                                 case "Earth Barton Creek Collagen Lifting":
@@ -786,6 +830,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                 treatmentSelected = "Collagen Lifting Treatment";
                                                                 newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                insteadOfSpa = "$350"
                                                                 break;
 
                                                                 case "Earth Barton Creek Chin Tightening":
@@ -801,6 +846,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                     treatmentSelected = "Chin Tightening Treatment";
                                                                     newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    insteadOfSpa = "$350"
                                                                     break;
 
                                                                     case "Earth Barton Creek Non-Surgical Facelift":
@@ -816,6 +862,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
                                                                     treatmentSelected = "Non-Surgical Face Lift";
                                                                     newSpaPhoneNumberSelected = "(512) 992-0050";
+                                                                    insteadOfSpa = "$350"
                                                                     break;
 
                                                                     case "Earth Aventura LED Anti-aging":
@@ -831,6 +878,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                         treatmentSelected = "LED Anti-aging Treatment";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        insteadOfSpa = "$350"
                                                                         break;
 
                                                                         case "Earth Aventura LED Skin Tightening":
@@ -846,6 +894,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                         treatmentSelected = "LED Skin Tightening Treatment";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        insteadOfSpa = "$350"
                                                                         break;
 
                                                                         case "Earth Aventura Non-surgical Facelift":
@@ -861,6 +910,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                         treatmentSelected = "Non-surgical Face Lift Treatment";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        insteadOfSpa = "$350"
                                                                         break;
 
 
@@ -877,6 +927,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                         treatmentSelected = "LED Light Facial Treatment";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        insteadOfSpa = "$350"
                                                                         break;
 
                                                                         case "Earth Aventura Oxygen Anti Aging":
@@ -892,6 +943,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
                                                                         treatmentSelected = "Oxygen Anti-aging Experience";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
+                                                                        insteadOfSpa = "$250"
                                                                         break;
 
                                                                 case "Lola Beauty Mesa":
@@ -907,6 +959,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
                                                                     treatmentSelected = "LED Treatment";
                                                                     newSpaPhoneNumberSelected = "(480) 742-6682";
+                                                                    insteadOfSpa = "$350"
                                                                     break;  
 
                                                                     case "Lola Beauty Mesa 59":
@@ -922,6 +975,7 @@
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
                                                                         treatmentSelected = "LED Treatment";
                                                                         newSpaPhoneNumberSelected = "(480) 742-6682";
+                                                                        insteadOfSpa = "$350"
                                                                         break;  
                                                                     
                                                                 case "Supreme Brea":
@@ -937,6 +991,7 @@
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
                                                                     treatmentSelected = "LED Treatment";
                                                                     newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$350"
                                                                     break;  
 
 
@@ -953,6 +1008,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (754) 701-0937";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(754) 701-0937";
+                                    insteadOfSpa = "$350"
                                     break;  
 
                                     case "Lola Beauty Tanger":
@@ -968,6 +1024,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (843) 818-4617";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(843) 818-4617";
+                                    insteadOfSpa = "$350"
                                     break;  
 
                                     case "Lavelier Orange Park":
@@ -983,6 +1040,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 592-7266";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 592-7266";
+                                    insteadOfSpa = "$350"
                                     break; 
 
 
@@ -999,6 +1057,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Collagen Lifting":
@@ -1014,6 +1073,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Collagen Lifting Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Non-surgical Face Lift":
@@ -1029,6 +1089,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Non-surgical Face Lift Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty LED":
@@ -1044,6 +1105,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Collagen Enhancing 79.95":
@@ -1059,6 +1121,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Body Sculpting 99.95":
@@ -1074,6 +1137,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Body Sculpting Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$500"
                                     break; 
 
                                     case "Elevatione Spa Beauty Non-surgical Face Lift And Microdermabrasion":
@@ -1089,6 +1153,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "Non-surgical Face Lift & Microdermabrasion Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Microdermabrasion":
@@ -1104,6 +1169,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "Microdermabrasion Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty RF Facial":
@@ -1119,6 +1185,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "RF Facial Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial":
@@ -1134,6 +1201,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Elevatione Spa Beauty HYDRAGLOW":
@@ -1149,6 +1217,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
                                     treatmentSelected = "HYDRAGLOW Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break; 
                                     
                                     case "Elevatione Spa Beauty Collagen Boosting 69.95":
@@ -1164,6 +1233,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Collagen Boosting Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break;
 
                                     case "Elevatione Spa Beauty Collagen Enhancing Facial":
@@ -1179,6 +1249,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
                                     break;
 
                                     case "Adore Estero":
@@ -1194,6 +1265,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$350"
                                     break; 
 
                                     case "Flawless Wayne":
@@ -1209,6 +1281,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(973) 406-6160";
+                                    insteadOfSpa = "$500";
                                     break; 
 
                                     case "Flawless Wayne $99.95 PROMO":
@@ -1224,6 +1297,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(973) 406-6160";
+                                    insteadOfSpa = "$500";
                                     break; 
 
                                     case "Flawless Wayne $69.95 PROMO":
@@ -1239,6 +1313,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(973) 406-6160";
+                                    insteadOfSpa = "$500";
                                     break; 
 
                                     case "Be Pretty Spa":
@@ -1254,6 +1329,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (970) 423-6268";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(970) 423-6268";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Pred Beauty St. Petersburg":
@@ -1269,6 +1345,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (727) 341-0110";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(727) 341-0110";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
@@ -1284,6 +1361,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
                                     newSpaPhoneNumberSelected = "(778) 265-5141";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Victoria":
@@ -1299,6 +1377,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(778) 265-5141";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Woodgrove":
@@ -1314,6 +1393,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(587) 589-4007";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
@@ -1329,6 +1409,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
                                     newSpaPhoneNumberSelected = "(587) 589-4007";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown":
@@ -1344,6 +1425,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(604) 423-4141";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown EMS":
@@ -1359,6 +1441,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
                                     treatmentSelected = "EMS Anti-aging Treatment";
                                     newSpaPhoneNumberSelected = "(604) 423-4141";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "ICE 21":
@@ -1374,6 +1457,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at 1-888-4242321";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "1-888-4242321";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Introstem Redding":
@@ -1389,6 +1473,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Introstem Medford":
@@ -1404,6 +1489,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "INGLOT Charlotte":
@@ -1419,6 +1505,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443) 449-4761";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(443) 449-4761";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Pearl De Flore Augusta":
@@ -1434,6 +1521,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(706) 901-8979";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Luminous Skin-Tech":
@@ -1449,6 +1537,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (361) 462-4319";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(361) 462-4319";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Be YOU":
@@ -1464,6 +1553,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(416) 276-3231";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Orogold Frisco":
@@ -1479,6 +1569,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 438-7564";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(469) 438-7564";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Premier Pensacola":
@@ -1494,6 +1585,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(850) 637-7637";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Esthetix Cloverdale":
@@ -1509,6 +1601,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(647) 370-8733";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Prestige Clearwater":
@@ -1524,6 +1617,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(706) 901-8979";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Tierra Med Spa AquaPure Hydration":
@@ -1536,9 +1630,10 @@
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-3334";
                                     treatmentSelected = "AquaPure Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Tierra Med Spa AquaPure Hydration 79.95":
@@ -1554,6 +1649,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "AquaPure Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Tierra Med Spa LED":
@@ -1569,6 +1665,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "Boutique 770":
@@ -1584,6 +1681,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (303) 248-3104";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(303) 248-3104";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "BioRevive LED":
@@ -1599,6 +1697,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
+                                    insteadOfSpa = "$350";
                                     break;
                                     
                                     case "BioRevive HIFU":
@@ -1614,6 +1713,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                     treatmentSelected = "HIFU Treatment";
                                     newSpaPhoneNumberSelected = "(949) 220-7221";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "BioRevive CryoSkin Body Sculpting":
@@ -1629,6 +1729,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                         treatmentSelected = "Body Sculpting Treatment";
                                         newSpaPhoneNumberSelected = "(949) 220-7221";
+                                        insteadOfSpa = "$500";
                                         break; 
 
                                         case "BioRevive CryoSkin Body Sculpting 99.95":
@@ -1644,6 +1745,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
                                         treatmentSelected = "Body Sculpting Treatment";
                                         newSpaPhoneNumberSelected = "(949) 220-7221";
+                                        insteadOfSpa = "$500";
                                         break; 
 
                                     case "Natural Blossom LED":
@@ -1659,6 +1761,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 615-1394";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "ATIK Deerfield Beach LED":
@@ -1674,6 +1777,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
+                                    insteadOfSpa = "$350";
                                     break;  
 
                                     case "ATIK Deerfield Beach Laser Lipo":
@@ -1689,6 +1793,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                     treatmentSelected = "Laser Lipo Treatment";
                                     newSpaPhoneNumberSelected = "(954) 637-4226";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                     case "ATIK Deerfield Beach Body Sculpting":
@@ -1704,6 +1809,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
                                         treatmentSelected = "Body Sculpting Treatment";
                                         newSpaPhoneNumberSelected = "(954) 637-4226";
+                                        insteadOfSpa = "$350";
                                         break; 
 
                                     case "Avinichi Spa Collagen":
@@ -1719,6 +1825,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 791-6283";
                                         treatmentSelected = "Collagen Lifting Treatment";
                                         newSpaPhoneNumberSelected = "(561) 791-6283";
+                                        insteadOfSpa = "$350";
                                         break; 
 
                                         case "Hermetise Fayetteville":
@@ -1734,6 +1841,7 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (910) 867-4100";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(910) 867-4100";
+                                            insteadOfSpa = "$350";
                                             break; 
 
 
@@ -1750,6 +1858,7 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$350";
                                             break; 
 
                                             case "Pura Vida AB":
@@ -1765,6 +1874,7 @@
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
                                                 treatmentSelected = "LED Treatment";
                                                 newSpaPhoneNumberSelected = "(587) 800-1699";
+                                                insteadOfSpa = "$350";
                                                 break; 
 
                                                 case "West County Spa Center":
@@ -1780,6 +1890,7 @@
                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
                                                     treatmentSelected = "LED Treatment";
                                                     newSpaPhoneNumberSelected = "(314) 664-9655";
+                                                    insteadOfSpa = "$350";
                                                     break; 
 
                                                     case "Rose Spa":
@@ -1795,6 +1906,7 @@
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                        insteadOfSpa = "$350";
                                                         break; 
 
                                                         case "Rose Spa Body Treatment":
@@ -1810,6 +1922,7 @@
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "Body Tightening & Healing Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                        insteadOfSpa = "$350";
                                                         break; 
 
                                                         case "Rose Spa Non Surgical Facelift":
@@ -1825,6 +1938,7 @@
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                         treatmentSelected = "Non-Surgical Facelift Treatment";
                                                         newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                        insteadOfSpa = "$350";
                                                         break; 
 
                                                         case "Rose Spa Collagen Enhancing Facial":
@@ -1840,6 +1954,7 @@
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                             treatmentSelected = "Collagen Enhancing Treatment";
                                                             newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                            insteadOfSpa = "$350";
                                                             break; 
     
                                                             case "Rose Spa Skin Tightening LED":
@@ -1855,6 +1970,7 @@
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                             treatmentSelected = "LED Treatment";
                                                             newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                            insteadOfSpa = "$350";
                                                             break; 
 
                                                         case "Gold Beauty Sacramento":
@@ -1870,6 +1986,7 @@
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 920-3388";
                                                             treatmentSelected = "LED Treatment";
                                                             newSpaPhoneNumberSelected = "(916) 920-3388";
+                                                            insteadOfSpa = "$350";
                                                             break; 
 
 
@@ -1886,6 +2003,7 @@
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 537-2523";
                                                             treatmentSelected = "LED Treatment";
                                                             newSpaPhoneNumberSelected = "(786) 537-2523";
+                                                            insteadOfSpa = "$350";
                                                             break; 
 
                                                             case "ATIK Boca Raton LED":
@@ -1901,6 +2019,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
                                                                 treatmentSelected = "LED Treatment";
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
+                                                                insteadOfSpa = "$350";
                                                                 break; 
 
                                     case "Gentle Touch Beauty":
@@ -1916,6 +2035,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
                                     treatmentSelected = "LED Treament";
                                     newSpaPhoneNumberSelected = "(941) 244-0044";
+                                    insteadOfSpa = "$350";
                                     break; 
 
                                                             case "ATIK Boca Raton Body Sculpting":
@@ -1931,6 +2051,7 @@
                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
                                                                 treatmentSelected = "Body Sculpting Treatment";
                                                                 newSpaPhoneNumberSelected = "(954) 408-8882";
+                                                                insteadOfSpa = "$350";
                                                                 break;
 
                                     case "Ben's Beauty Spa":
@@ -1946,6 +2067,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "LED Treament";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
@@ -1961,6 +2083,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "Resveratrol":
@@ -1976,6 +2099,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 935-5655";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                         case "Stem Spa Ann Arbor":
@@ -1991,6 +2115,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(734) 330-0991";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "GreenBiotics Woodfield":
@@ -2006,6 +2131,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$350";
                                     break;
                                     
                                     case "Infinity Pompano Beach":
@@ -2021,11 +2147,12 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(917)535-2083";
+                                        insteadOfSpa = "$350";
                                         break;
 
                                         case "Skin Tech Spa Collagen Enhancing":
                                     upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd Fort Worth, TX 76109, USA"+"<br>"+"(First Floor, #100)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2036,11 +2163,12 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "Skin Tech Spa Body Sculpting":
                                     upDatedSpaName = "Skin Tech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd Fort Worth, TX 76109, USA"+"<br>"+"(First Floor, #100)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2051,6 +2179,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$399";
                                     break;
 
                                     case "Botanifique Spa":
@@ -2065,11 +2194,12 @@
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "+61481768980";
+                                    newSpaPhoneNumberSelected = "0481768980";
+                                    insteadOfSpa = "$350";
                                     break;
 
-                                    case "Good Life Spa":
-                                    upDatedSpaName = "Good Life Spa";
+                                    case "Good Life Daytona Beach":
+                                    upDatedSpaName = "Good Life Daytona Beach";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
@@ -2077,17 +2207,18 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
                                     upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "NeoLumo Florence":
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/neolumo-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
                                     upDatedSpaPhone = "(864) 999-4665";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
@@ -2096,6 +2227,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (864) 999-4665";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(864) 999-4665";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "Vera Beauty Spa":
@@ -2111,6 +2243,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 394-7750";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 394-7750";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "BU Care Spa":
@@ -2126,6 +2259,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    insteadOfSpa = "$350";
                                     break;
                                     
 
@@ -2175,6 +2309,8 @@
         let aptTimeAmPmArray = document.getElementsByClassName("varAptTimeAmPm");
         let aptTimeMinutesArray = document.getElementsByClassName("varMinutesOfTime");
         let treatmentSelectedArray = document.getElementsByClassName("varTreatmentSelected");
+        let insteadOfArray = document.getElementsByClassName("insteadOf");
+
 
         // USER DATA ENTRY
         let customerName = document.getElementById("custName").value;
@@ -2238,6 +2374,12 @@
         treatmentSelectedArray[i].innerHTML = treatmentSelected;
     }
 
+        // insteadOf Loop
+        for(var i = 0; i < insteadOfArray.length; i++){
+            insteadOfArray[0].innerHTML = insteadOfSpa;
+            insteadOfArray[i].innerHTML = insteadOfSpa;
+        }
+
     let newLink = document.getElementById("newSpaLink");
     newLink.setAttribute('href', upDatedSpaWebLINK);
 
@@ -2245,6 +2387,8 @@
     newSpaPhoneNumber.innerHTML = newSpaPhoneNumberSelected;
 
     }
+
+
 
     //  COPY BOTTON
     function copyEvent(id)
