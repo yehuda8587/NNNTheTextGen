@@ -2131,7 +2131,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
                                     
                                     case "Infinity Pompano Beach":
