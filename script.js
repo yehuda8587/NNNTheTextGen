@@ -2247,7 +2247,7 @@
                                     break;
 
                                     case "BU Care Spa":
-                                    upDatedSpaName = "BU Care Spa"";
+                                    upDatedSpaName = "BU Care Spa";
                                     upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-promo-page";
