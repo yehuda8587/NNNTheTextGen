@@ -2120,7 +2120,7 @@
 
                                     case "GreenBiotics Woodfield":
                                     upDatedSpaName = "GreenBiotics Woodfield";
-                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor near Cheesecake Factory and Akira)";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(In the middle of the mall next to Lush)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
@@ -2259,6 +2259,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "The Soap Tree Spa":
+                                    upDatedSpaName = "The Soap Tree Spa";
+                                    upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-soap-tree-spa-promo-page";
+                                    upDatedSpaPhone = "(937) 741-3789";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 370-2401";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 370-2401";
                                     insteadOfSpa = "$350";
                                     break;
                                     
