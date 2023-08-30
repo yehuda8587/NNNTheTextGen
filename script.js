@@ -2154,6 +2154,22 @@
                                     upDatedSpaName = "Skin Tech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Skin Tech LED":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "75 Minutes";
@@ -2163,7 +2179,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Skin Tech Spa Body Sculpting":
