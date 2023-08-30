@@ -282,8 +282,8 @@
                     insteadOfSpa = "$500"
                     break; 
 
-                case "Bee And Co":
-                    upDatedSpaName = "Bee And Co";
+                case "Bee and Co":
+                    upDatedSpaName = "Bee and Co";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
