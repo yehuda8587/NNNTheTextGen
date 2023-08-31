@@ -2301,8 +2301,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/cecilia-spa-by-voupre-promo-page";
                                     upDatedSpaPhone = "(913) 359-7256";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    upDatedDurationOne = "- 20-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 40-minutes LED Anti-Aging Treatment & Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (913) 408-8071";
                                     treatmentSelected = "LED Treatment";
