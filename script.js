@@ -2309,6 +2309,22 @@
                                     newSpaPhoneNumberSelected = "(913) 408-8071";
                                     insteadOfSpa = "$350";
                                     break;
+
+                                    case "Esthetix Gurnee":
+                                    upDatedSpaName = "Esthetix Gurnee";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-il-promo-page";
+                                    upDatedSpaPhone = "(224) 955-2828";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(646) 220-8444";
+                                    insteadOfSpa = "$350";
+                                    break;
                                     
 
                                                                 
