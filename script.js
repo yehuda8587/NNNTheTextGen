@@ -2214,8 +2214,8 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Good Life Daytona Beach":
-                                    upDatedSpaName = "Good Life Daytona Beach";
+                                    case "Good Life Spa":
+                                    upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
