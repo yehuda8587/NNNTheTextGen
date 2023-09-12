@@ -139,6 +139,22 @@
                 insteadOfSpa = "$350"
                 break;
 
+                case "Skin Analytics Gold Facial":
+                upDatedSpaName = "Skin Analytics Gold Facial";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minutes Consultation"
+                promoPrice = "80"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "LED Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$299"
+                break;
+
             case "Esthetix Raliegh":
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
@@ -2249,7 +2265,7 @@
                                     case "Good Life Spa":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
                                     upDatedSpaPhone = "(386) 267-6296";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2265,7 +2281,7 @@
                                     case "NeoLumo Florence":
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/HLY8sSM46sDjSD8V6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/neolumo-promo-page";
                                     upDatedSpaPhone = "(864) 999-4665";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2281,7 +2297,7 @@
                                     case "Vera Beauty Spa":
                                     upDatedSpaName = "Vera Beauty Spa";
                                     upDatedSpaAddress = "Chandler Fashion Center,"+"<br>"+"3111 W Chandler Blvd Chandler AZ 85226"+"<br>"+"(Second Floor Next To Helzberz Jewelry)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/4SbX4TQJudodoCAd6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vera-beauty-spa-promo-page";
                                     upDatedSpaPhone = "(480) 805-5171";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2297,7 +2313,7 @@
                                     case "BU Care Spa":
                                     upDatedSpaName = "BU Care Spa";
                                     upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-promo-page";
                                     upDatedSpaPhone = "(561) 560-7797";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2313,7 +2329,7 @@
                                     case "The Soap Tree Spa":
                                     upDatedSpaName = "The Soap Tree Spa";
                                     upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/QZeUWwaHiUZESaHx6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-soap-tree-spa-promo-page";
                                     upDatedSpaPhone = "(937) 741-3789";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2329,7 +2345,7 @@
                                     case "Cecilia Spa Center":
                                     upDatedSpaName = "Cecilia Spa Center";
                                     upDatedSpaAddress = "Oak Park Mall"+"<br>"+"11149 W 95th St, Overland Park, Kansas 66214"+"<br>"+"(Second Floor next to JC penny, Unit 122)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/a2h3Hx6oVjQJ8hqWA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/cecilia-spa-by-voupre-promo-page";
                                     upDatedSpaPhone = "(913) 359-7256";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2367,10 +2383,26 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "OraSempre Montana":
+                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
+                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment & 20-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$350";
                                     break;
                                     
