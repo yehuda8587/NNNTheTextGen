@@ -2030,7 +2030,7 @@
                                                             upDatedDurationTotal = "60 Minutes";
                                                             upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                                             upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
-                                                            promoPrice = "79";
+                                                            promoPrice = "79.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
                                                             treatmentSelected = "LED Treatment";
                                                             newSpaPhoneNumberSelected = "(503) 206-6696";
@@ -2175,7 +2175,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
-                                    promoPrice = "79"
+                                    promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 935-5655";
@@ -2367,7 +2367,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of light Cleaning";
                                     upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
-                                    promoPrice = "69";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
