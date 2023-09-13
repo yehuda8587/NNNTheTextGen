@@ -147,7 +147,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minutes Consultation"
+                upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
                 promoPrice = "80"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "LED Treatment";
@@ -2021,6 +2021,22 @@
                                                             insteadOfSpa = "$350";
                                                             break; 
 
+                                                            case "Rose Spa Gold Collagen Facial":
+                                                            upDatedSpaName = "Rose Spa";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
+                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-gold-collagen-facial";
+                                                            upDatedSpaPhone = "(971) 350-7408";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                                            upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
+                                                            promoPrice = "79";
+                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
+                                                            treatmentSelected = "LED Treatment";
+                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
+                                                            insteadOfSpa = "$299";
+                                                            break;
+
                                                         case "Gold Beauty Sacramento":
                                                             upDatedSpaName = "Gold Beauty Spa";
                                                             upDatedSpaAddress = "Arden Fair Mall," + "<br>" + "1689 Arden Way, Sacramento, CA 95815" + "<br>" + "(Across from Forever 21)";
@@ -2148,6 +2164,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(602) 935-5655";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Resveratrol Gold Collagen Facial":
+                                    upDatedSpaName = "Resveratrol Spa";
+                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
+                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-gold-collagen-facial";
+                                    upDatedSpaPhone = "(602) 887-9960 ";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
+                                    promoPrice = "79"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(602) 935-5655";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                         case "Stem Spa Ann Arbor":
@@ -2324,6 +2356,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "BU Care Spa Gold Collagen Facial":
+                                    upDatedSpaName = "BU Care Spa";
+                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
+                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-gold-collagen-facial";
+                                    upDatedSpaPhone = "(561) 560-7797";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of light Cleaning";
+                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
+                                    promoPrice = "69";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "The Soap Tree Spa":
