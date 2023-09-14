@@ -2447,11 +2447,11 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "99.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "OraSempre Montana":
@@ -2468,6 +2468,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "GreenBiotics DC":
+                                    upDatedSpaName = "GreenBiotics DC";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-dc";
+                                    upDatedSpaPhone = "(571) 695-2525";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 531-6574";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(914) 531-6574";
+                                    insteadOfSpa = "$299";
                                     break;
                                     
 
