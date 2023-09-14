@@ -2470,8 +2470,8 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "GreenBiotics DC":
-                                    upDatedSpaName = "GreenBiotics DC";
+                                    case "GreenBiotics Pentagon":
+                                    upDatedSpaName = "GreenBiotics Pentagon";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-dc";
