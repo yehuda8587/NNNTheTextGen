@@ -2485,6 +2485,22 @@
                                     newSpaPhoneNumberSelected = "(914) 531-6574";
                                     insteadOfSpa = "$299";
                                     break;
+
+                                    case "Lumiere By Adriana Laser Lipo Facial":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "Next to Chima Steakhouse";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
+                                    promoPrice = "70";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Laser Lipo Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$299";
+                                    break;
                                     
 
                                                                 
