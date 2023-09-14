@@ -2490,7 +2490,7 @@
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "Next to Chima Steakhouse";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/template-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
