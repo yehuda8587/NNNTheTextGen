@@ -2509,12 +2509,28 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-led-promo";
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40-minutes LED Anti-Aging Treatmen";
+                                    upDatedDurationOne = "- 40-minutes LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(720) 960-7077";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Donna Ella Spa LED":
+                                    upDatedSpaName = "Donna Ella Spa";
+                                    upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory )";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
+                                    upDatedSpaPhone = "(346) 980-4152";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 370-3660";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 370-3660";
                                     insteadOfSpa = "$299";
                                     break;
                                     
