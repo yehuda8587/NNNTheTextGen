@@ -2495,10 +2495,26 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
-                                    promoPrice = "70";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
                                     treatmentSelected = "Laser Lipo Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Colorado MedLaser LED":
+                                    upDatedSpaName = "Colorado MedLaser";
+                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
+                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-led-promo";
+                                    upDatedSpaPhone = "(720) 358-4719";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 40-minutes LED Anti-Aging Treatmen";
+                                    upDatedDurationTwo = "- 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 960-7077";
                                     insteadOfSpa = "$299";
                                     break;
                                     
