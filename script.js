@@ -2232,7 +2232,7 @@
 
                                     case "GreenBiotics Woodfield":
                                     upDatedSpaName = "GreenBiotics Woodfield";
-                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor near Cheesecake Factory and Akira )";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Entrance 6 between JCPenney and Macy's, Upper Level, JCPenney Wing next to Charlotte Russe)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
@@ -2440,7 +2440,7 @@
 
                                     case "Esthetix Gurnee":
                                     upDatedSpaName = "Esthetix Gurnee";
-                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-il-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
@@ -2536,7 +2536,7 @@
 
                                     case "Donna Ella Spa LED":
                                     upDatedSpaName = "Donna Ella Spa";
-                                    upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory )";
+                                    upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
                                     upDatedSpaPhone = "(346) 980-4152";
@@ -2544,9 +2544,25 @@
                                     upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
                                     upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 370-3660";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 648-6648";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(346) 370-3660";
+                                    newSpaPhoneNumberSelected = "(346) 648-6648";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Royal Bee Spa LED":
+                                    upDatedSpaName = "Royal Bee Spa";
+                                    upDatedSpaAddress = "Katy Mills Mall,"+"<br>"+"5000 Katy Mills Cir. Katy, TX 77494"+"<br>"+"(Ground Flr. Between The Rainforest Cafe and Marshalls)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-spa-promo-page";
+                                    upDatedSpaPhone = "(737) 910-4135";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(832)-715-4897";
                                     insteadOfSpa = "$299";
                                     break;
                                     
