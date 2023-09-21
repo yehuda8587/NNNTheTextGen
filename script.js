@@ -2526,7 +2526,7 @@
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 40-minutes LED Anti-Aging Treatment";
-                                    upDatedDurationTwo = "- 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 20-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
                                     treatmentSelected = "LED Treatment";
