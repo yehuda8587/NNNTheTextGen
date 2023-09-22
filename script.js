@@ -2278,8 +2278,8 @@
                                         insteadOfSpa = "$350";
                                         break;
 
-                                        case "Skin Tech Spa Collagen Enhancing":
-                                    upDatedSpaName = "Skin Tech Spa";
+                                        case "SkinTech Spa Collagen Enhancing":
+                                    upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
@@ -2294,8 +2294,8 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Skin Tech LED":
-                                    upDatedSpaName = "Skin Tech Spa";
+                                    case "SkinTech LED":
+                                    upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
@@ -2310,8 +2310,8 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Skin Tech Spa Body Sculpting":
-                                    upDatedSpaName = "Skin Tech Spa";
+                                    case "SkinTech Spa Body Sculpting":
+                                    upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-sculpting-promo-page";
@@ -2326,8 +2326,8 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "Skin Tech Spa Cryogenic Body Sculpting":
-                                    upDatedSpaName = "Skin Tech Spa";
+                                    case "SkinTech Spa Cryogenic Body Sculpting":
+                                    upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-cryogenic-body-sculpting-promo-page";
