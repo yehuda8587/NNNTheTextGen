@@ -2288,7 +2288,7 @@
                                     upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
                                     upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$350";
@@ -2304,7 +2304,7 @@
                                     upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$299";
@@ -2320,7 +2320,23 @@
                                     upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
                                     upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
+                                    treatmentSelected = "Body Sculpting";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Skin Tech Spa Cryogenic Body Sculpting":
+                                    upDatedSpaName = "Skin Tech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-cryogenic-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 30 minute evaluation"+"<br>"+" 10 minute preparation";
+                                    upDatedDurationTwo = "- 20 minutes of the Cryo Sculpting Treatment"+"<br>"+"25 minute post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$399";
