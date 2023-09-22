@@ -2198,6 +2198,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Resveratrol LED 59.95":
+                                    upDatedSpaName = "Resveratrol Spa";
+                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
+                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-new-promo-page";
+                                    upDatedSpaPhone = "(602) 887-9960 ";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(602) 935-5655";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Resveratrol Gold Collagen Facial":
                                     upDatedSpaName = "Resveratrol Spa";
                                     upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
