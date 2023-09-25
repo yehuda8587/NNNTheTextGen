@@ -2557,7 +2557,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-led-promo";
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40-minutes LED Anti-Aging Treatment";
+                                    upDatedDurationOne = "- 40-minutes Skin Tightening & LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 20-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
