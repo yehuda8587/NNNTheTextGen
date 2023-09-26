@@ -2582,6 +2582,38 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Colorado MedLaser Skin Tightening":
+                                    upDatedSpaName = "Colorado MedLaser";
+                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
+                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-promo";
+                                    upDatedSpaPhone = "(720) 358-4719";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
+                                    upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 960-7077";
+                                    insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Colorado MedLaser Cryo Body Sculpting":
+                                    upDatedSpaName = "Colorado MedLaser";
+                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
+                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-cryo-body-sculpting";
+                                    upDatedSpaPhone = "(720) 358-4719";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
+                                    upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 960-7077";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Donna Ella Spa LED":
                                     upDatedSpaName = "Donna Ella Spa";
                                     upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
