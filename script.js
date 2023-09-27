@@ -2633,12 +2633,12 @@
                                     case "Royal Bee Spa LED":
                                     upDatedSpaName = "Royal Bee Spa";
                                     upDatedSpaAddress = "Katy Mills Mall,"+"<br>"+"5000 Katy Mills Cir. Katy, TX 77494"+"<br>"+"(Ground Flr. Between The Rainforest Cafe and Marshalls)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/wPtz1bB63FmzDMHr8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-spa-promo-page";
                                     upDatedSpaPhone = "(737) 910-4135";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
-                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    upDatedDurationOne = "- 10-Facial Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
                                     treatmentSelected = "LED Treatment";
