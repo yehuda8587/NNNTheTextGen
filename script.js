@@ -1327,7 +1327,7 @@
                                     upDatedDurationTwo = "15-minutes Consultation ";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Body Sculpting Treatment";
+                                    treatmentSelected = "Collagen Boosting Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$299"
                                     break;
