@@ -2653,12 +2653,28 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-spa-promo-page";
                                     upDatedSpaPhone = "(737) 910-4135";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-Facial Cleansing";
+                                    upDatedDurationOne = "- 10-minute Facial Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(832)-715-4897";
+                                    insteadOfSpa = "$299";
+                                    break;
+                                    
+                                    case "Rilassare Spa LED":
+                                    upDatedSpaName = "Rilassare Spa";
+                                    upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-spa-promo-page";
+                                    upDatedSpaPhone = "(725) 710-2050";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 589-1628";
                                     insteadOfSpa = "$299";
                                     break;
                                     
