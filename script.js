@@ -2675,7 +2675,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(720) 589-1628";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$350";
                                     break;
                                     
 
