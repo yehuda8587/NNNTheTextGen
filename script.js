@@ -2280,7 +2280,7 @@
 
                                     case "GreenBiotics Woodfield":
                                     upDatedSpaName = "GreenBiotics Woodfield";
-                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Entrance 6 between JCPenney and Macy's, Upper Level, JCPenney Wing next to Charlotte Russe)";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near The Cheesecake Factory Mall Entrance, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
