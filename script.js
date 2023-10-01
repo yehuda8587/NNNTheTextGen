@@ -1540,8 +1540,8 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
-                                    case "Introstem Redding":
-                                        upDatedSpaName = "Introstem Spa";
+                                    case "Stem Spa Redding":
+                                        upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-redding-led-promo";
