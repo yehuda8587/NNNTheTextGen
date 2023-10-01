@@ -883,7 +883,7 @@
 
                                                                     case "Earth Aventura LED Anti-aging":
                                                                         upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-led-promo";
                                                                         upDatedSpaPhone = "(786) 539-3034";
@@ -899,7 +899,7 @@
 
                                                                         case "Earth Aventura LED Skin Tightening":
                                                                         upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-led-skin-tightening-promo";
                                                                         upDatedSpaPhone = "(786) 539-3034";
@@ -915,7 +915,7 @@
 
                                                                         case "Earth Aventura Non-surgical Facelift":
                                                                         upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-nonsurgicalfacelift-promo";
                                                                         upDatedSpaPhone = "(786) 539-3034";
@@ -932,7 +932,7 @@
 
                                                                         case "Earth Aventura LED Light Facial":
                                                                         upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-ledlight-promo";
                                                                         upDatedSpaPhone = "(786) 539-3034";
@@ -948,7 +948,7 @@
 
                                                                         case "Earth Aventura Oxygen Anti Aging":
                                                                         upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Between Chuck E. Cheese and Olympia Gym)";
+                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthaventura-oxygenpromo";
                                                                         upDatedSpaPhone = "(786) 539-3034";
@@ -1563,8 +1563,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
                                     upDatedSpaPhone = "(541) 549-1196";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & Consultation";
+                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
                                     treatmentSelected = "LED Treatment";
