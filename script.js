@@ -1556,8 +1556,8 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
-                                    case "Introstem Medford":
-                                        upDatedSpaName = "Introstem Spa";
+                                    case "Stem Spa Medford":
+                                        upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
