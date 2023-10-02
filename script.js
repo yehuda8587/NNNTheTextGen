@@ -2227,7 +2227,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Resveratrol":
