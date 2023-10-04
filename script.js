@@ -2314,7 +2314,7 @@
                                         upDatedSpaName = "Infinity Pompano Beach";
                                         upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Located between the Furniture store to the supermarket)";
                                         upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/infinity-spa-pomapano-beach-promo-page";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-pompano-beach-led-promo";
                                         upDatedSpaPhone = "(786) 206-8296";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10 minutes Cleansing";
@@ -2536,7 +2536,7 @@
 
                                     case "GreenBiotics Barton Creek":
                                     upDatedSpaName = "GreenBiotics Barton Creek";
-                                    upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(Second floor near JC Penny)";
+                                    upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
                                     upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-barton-creek";
                                     upDatedSpaPhone = "(512) 354-2417";
@@ -2691,6 +2691,38 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(720) 589-1628";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Esthetix St. Augustine LED":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Plaza)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-promo-page";
+                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (605) 941-1002";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(605) 941-1002";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Joli Visage Spa LED":
+                                    upDatedSpaName = "Joli Visage Spa";
+                                    upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-promo-page";
+                                    upDatedSpaPhone = "(239) 963-4469";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 234-6855";
                                     insteadOfSpa = "$350";
                                     break;
                                     
