@@ -2298,7 +2298,7 @@
                                     upDatedSpaName = "GreenBiotics Woodfield";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -2312,7 +2312,7 @@
                                     
                                     case "Infinity Pompano Beach":
                                         upDatedSpaName = "Infinity Pompano Beach";
-                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Located between the Furniture store to the supermarket)";
+                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
                                         upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-pompano-beach-led-promo";
                                         upDatedSpaPhone = "(786) 206-8296";
@@ -2410,7 +2410,7 @@
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/good-life-spa-led-promo-page";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
                                     upDatedSpaPhone = "(386) 267-6296";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
@@ -2563,7 +2563,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "GreenBiotics Pentagon":
