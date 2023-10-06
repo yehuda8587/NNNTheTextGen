@@ -2570,7 +2570,7 @@
                                     upDatedSpaName = "GreenBiotics Pentagon";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-pentagon";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(571) 695-2525";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
