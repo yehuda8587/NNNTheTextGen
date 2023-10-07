@@ -2553,7 +2553,7 @@
                                     case "OraSempre Montana":
                                     upDatedSpaName = "OraSempre Montana";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
                                     upDatedSpaPhone = "(406) 601-8145";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2569,7 +2569,7 @@
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics Pentagon";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(571) 695-2525";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2585,7 +2585,7 @@
                                     case "Lumiere By Adriana Laser Lipo Facial":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2649,7 +2649,7 @@
                                     case "Donna Ella Spa LED":
                                     upDatedSpaName = "Donna Ella Spa";
                                     upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/XHLsxffpnMpoKiUm6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
                                     upDatedSpaPhone = "(346) 980-4152";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2681,7 +2681,7 @@
                                     case "Rilassare Spa LED":
                                     upDatedSpaName = "Rilassare Spa";
                                     upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-spa-promo-page";
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2713,7 +2713,7 @@
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-promo-page";
                                     upDatedSpaPhone = "(239) 963-4469";
                                     upDatedDurationTotal = "60 Minutes";
