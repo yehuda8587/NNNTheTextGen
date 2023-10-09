@@ -1780,7 +1780,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Tierra Med Spa Hydraglow Facial":
+                                    case "Tierra Med Hydraglow Facial":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
