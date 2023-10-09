@@ -2579,7 +2579,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$399";
                                     break;
 
                                     case "GreenBiotics Pentagon":
@@ -2739,6 +2739,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(239) 234-6855";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Adore Edmonton LED":
+                                    upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
+                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 707-0129";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(780) 707-0129";
                                     insteadOfSpa = "$350";
                                     break;
                                     
