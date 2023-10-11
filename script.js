@@ -314,6 +314,22 @@
                     insteadOfSpa = "$350"
                     break; 
 
+                    case "Bee and Co 69.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
+                    upDatedSpaPhone = "(301)887-5495";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
+                    upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
+                    promoPrice = "69.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "LED Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$350"
+                    break;
+
                         case "Kristals Burlington LED":
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
