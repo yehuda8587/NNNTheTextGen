@@ -2582,6 +2582,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "GreenBiotics Barton Creek 69.95":
+                                    upDatedSpaName = "GreenBiotics Barton Creek";
+                                    upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
+                                    upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-greenbiotics-barton-creek-promo";
+                                    upDatedSpaPhone = "(512) 354-2417";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$300";
+                                    break;
+
                                     case "OraSempre Montana":
                                     upDatedSpaName = "OraSempre Montana";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
