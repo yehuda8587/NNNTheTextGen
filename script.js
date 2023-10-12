@@ -483,8 +483,8 @@
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-led-promo-page" ;
                                                         upDatedSpaPhone = "(480) 847-1841";
                                                         upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 30 Minutes Light Cleansing";
-                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
+                                                        upDatedDurationOne = "- 10 Minutes Light Cleansing";
+                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience & 20 Minutes Consultation";
                                                         promoPrice = "59.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
                                                         treatmentSelected = "LED Treatment";
