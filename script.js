@@ -2076,7 +2076,7 @@
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-non-surgical-facelift";
                                                         upDatedSpaPhone = "(971) 350-7408";
                                                         upDatedDurationTotal = "80 Minutes";
-                                                        upDatedDurationOne = "- 80-minute Cleansing and the Non-Surgical Face Lift treatment";
+                                                        upDatedDurationOne = "- 60-minute Cleansing and the Non-Surgical Face Lift treatment";
                                                         upDatedDurationTwo = "- 20-minute Consultation";
                                                         promoPrice = "79.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
