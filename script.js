@@ -2522,7 +2522,7 @@
                                     upDatedSpaName = "The Soap Tree Spa";
                                     upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
                                     upDatedSpaLINK = "https://forms.gle/QZeUWwaHiUZESaHx6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-soap-tree-spa-promo-page";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/soap-tree-spa-led-promo";
                                     upDatedSpaPhone = "(937) 741-3789";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
@@ -2794,7 +2794,7 @@
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
                                     upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-promo-page";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/joli-visage-spa-led-promo";
                                     upDatedSpaPhone = "(239) 963-4469";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing";
