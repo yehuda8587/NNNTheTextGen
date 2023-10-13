@@ -2687,7 +2687,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
                                     upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(720) 960-7077";
@@ -2703,7 +2703,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
                                     upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(720) 960-7077";
