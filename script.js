@@ -2232,7 +2232,7 @@
 
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
                                     upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
@@ -2248,7 +2248,7 @@
 
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is beside The Bunker Experience, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
                                     upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
