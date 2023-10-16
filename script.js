@@ -268,7 +268,7 @@
 
                 case "Beauty Frizz MD":
                 upDatedSpaName = "BeautyFrizz Spa";
-                upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(Montgomery Mall, 1st floor across from 'LEGO Store')";
+                upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
                 upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
                 upDatedSpaPhone = "(301) 291-7543";
@@ -284,7 +284,7 @@
 
                 case "Beauty Frizz MD Body Sculpting":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(Montgomery Mall, 1st floor across from 'LEGO Store')";
+                    upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
                     upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-bodysculpting-promo";
                     upDatedSpaPhone = "(301) 291-7543";
