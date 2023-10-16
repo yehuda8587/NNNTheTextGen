@@ -2646,6 +2646,38 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "Lumiere By Adriana Collagen Enhancing Treatment":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Lumiere By Adriana Body Sculpting Treatment":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Laser Lipo Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Colorado MedLaser LED":
                                     upDatedSpaName = "Colorado MedLaser";
                                     upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
@@ -2784,9 +2816,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (605) 941-1002";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(605) 941-1002";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$350";
                                     break;
 
