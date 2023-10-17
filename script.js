@@ -2262,6 +2262,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Ben's Beauty Spa Hydraglow Facial":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Consultation ";
+                                    upDatedDurationTwo = "45 minutes of light cleansing & Hydraglow Facial";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Resveratrol":
                                     upDatedSpaName = "Resveratrol Spa";
                                     upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
