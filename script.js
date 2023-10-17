@@ -2844,9 +2844,9 @@
                                     upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/joli-visage-spa-led-promo";
                                     upDatedSpaPhone = "(239) 963-4469";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
+                                    upDatedDurationTwo = "- 35-minutes LED Treatment & Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
                                     treatmentSelected = "LED Treatment";
