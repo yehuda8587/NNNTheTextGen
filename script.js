@@ -2840,7 +2840,7 @@
 
                                     case "Esthetix St. Augustine LED":
                                     upDatedSpaName = "Esthetix Spa";
-                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Near Starbucks and Cleaners)";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-promo-page";
                                     upDatedSpaPhone = "(352) 505-7757";
