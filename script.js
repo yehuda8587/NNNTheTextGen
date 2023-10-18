@@ -2374,6 +2374,22 @@
                                         insteadOfSpa = "$350";
                                         break;
 
+                                        case "Infinity Spa Non-Surgical Collagen Treatment":
+                                        upDatedSpaName = "Infinity Pompano Beach";
+                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
+                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-non-surgical-collagen-treatment";
+                                        upDatedSpaPhone = "(786) 206-8296";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10 minutes Cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Collagen Treatment"+"<br>"+"20 minute Consultation";
+                                        promoPrice = "49.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(917)535-2083";
+                                        insteadOfSpa = "$299";
+                                        break;
+
                                         case "SkinTech Spa Collagen Enhancing":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
