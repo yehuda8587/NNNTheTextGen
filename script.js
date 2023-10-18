@@ -2880,9 +2880,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 707-0129";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(780) 707-0129";
+                                    newSpaPhoneNumberSelected = "(780) 890-0008";
                                     insteadOfSpa = "$350";
                                     break;
                                     
