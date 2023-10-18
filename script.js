@@ -2270,10 +2270,10 @@
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation ";
-                                    upDatedDurationTwo = "45 minutes of light cleansing & Hydraglow Facial";
+                                    upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Facial";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    treatmentSelected = "Hydraglow Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$299";
                                     break;
