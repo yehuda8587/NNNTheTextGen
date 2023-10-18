@@ -2885,6 +2885,22 @@
                                     newSpaPhoneNumberSelected = "(780) 890-0008";
                                     insteadOfSpa = "$350";
                                     break;
+
+                                    case "ISHA LED":
+                                    upDatedSpaName = "ISHA Beauty & Wellness";
+                                    upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-promo-page";
+                                    upDatedSpaPhone = "(786) 744-5319";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20-minute Cleansing and Massage";
+                                    upDatedDurationTwo = "- 25-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "305-603-7536";
+                                    insteadOfSpa = "$350";
+                                    break;
                                     
 
                                                                 
