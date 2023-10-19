@@ -2368,9 +2368,9 @@
                                         upDatedDurationOne = "- 10 minutes Cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"20 minute Consultation";
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(917)535-2083";
+                                        newSpaPhoneNumberSelected = "(786) 348-6250";
                                         insteadOfSpa = "$350";
                                         break;
 
@@ -2384,9 +2384,9 @@
                                         upDatedDurationOne = "- 10 minutes Cleansing";
                                         upDatedDurationTwo = "- 30 minutes Non-Surgical Collagen Treatment"+"<br>"+"20 minute Consultation";
                                         promoPrice = "49.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (917)535-2083";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(917)535-2083";
+                                        newSpaPhoneNumberSelected = "(786) 348-6250";
                                         insteadOfSpa = "$299";
                                         break;
 
