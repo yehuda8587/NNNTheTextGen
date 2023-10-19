@@ -2390,6 +2390,22 @@
                                         insteadOfSpa = "$299";
                                         break;
 
+                                        case "Infinity Pompano Beach 49.95":
+                                        upDatedSpaName = "Infinity Pompano Beach";
+                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
+                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-non-surgical-collagen-treatment";
+                                        upDatedSpaPhone = "(786) 206-8296";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10 minutes Cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Collagen Treatment"+"<br>"+"20 minute Consultation";
+                                        promoPrice = "49.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(786) 348-6250";
+                                        insteadOfSpa = "$299";
+                                        break;
+
                                         case "SkinTech Spa Collagen Enhancing":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
@@ -2883,6 +2899,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(780) 890-0008";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Beauty Essentials LED":
+                                    upDatedSpaName = "Beauty Essentials";
+                                    upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beauty-essentials-led-promo";
+                                    upDatedSpaPhone = "(734) 659-0707";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(734) 330-0991";
                                     insteadOfSpa = "$350";
                                     break;
 
