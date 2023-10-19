@@ -1454,9 +1454,9 @@
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(778) 265-5141";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -1470,9 +1470,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 265-5141";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(778) 265-5141";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -1486,9 +1486,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(587) 589-4007";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -1502,9 +1502,9 @@
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 589-4007";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(587) 589-4007";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -1518,9 +1518,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(604) 423-4141";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -1534,9 +1534,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
                                     upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (604) 423-4141";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "EMS Anti-aging Treatment";
-                                    newSpaPhoneNumberSelected = "(604) 423-4141";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
                                     break; 
 
