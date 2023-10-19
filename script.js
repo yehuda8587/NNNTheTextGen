@@ -2193,7 +2193,7 @@
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                    treatmentSelected = "LED Treament";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(941) 244-0044";
                                     insteadOfSpa = "$350";
                                     break; 
@@ -2209,7 +2209,7 @@
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "99.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                    treatmentSelected = "LED Treament";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(941) 244-0044";
                                     insteadOfSpa = "$350";
                                     break;
@@ -2241,7 +2241,7 @@
                                     upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
                                     promoPrice = "89.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "LED Treament";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$350";
                                     break;
@@ -2906,7 +2906,7 @@
                                     upDatedSpaName = "Beauty Essentials";
                                     upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
                                     upDatedSpaLINK = "";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beauty-essentials-led-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-essentials-promo-page";
                                     upDatedSpaPhone = "(734) 659-0707";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
