@@ -2390,22 +2390,6 @@
                                         insteadOfSpa = "$299";
                                         break;
 
-                                        case "Infinity Pompano Beach 49.95":
-                                        upDatedSpaName = "Infinity Pompano Beach";
-                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
-                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-non-surgical-collagen-treatment";
-                                        upDatedSpaPhone = "(786) 206-8296";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 10 minutes Cleansing";
-                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Collagen Treatment"+"<br>"+"20 minute Consultation";
-                                        promoPrice = "49.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(786) 348-6250";
-                                        insteadOfSpa = "$299";
-                                        break;
-
                                         case "SkinTech Spa Collagen Enhancing":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
@@ -2880,6 +2864,22 @@
                                     upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
                                     upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
                                     promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 960-7077";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Colorado MedLaser Skin Tightening 59.95":
+                                    upDatedSpaName = "Colorado MedLaser";
+                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
+                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-new-promo";
+                                    upDatedSpaPhone = "(720) 358-4719";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
+                                    upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(720) 960-7077";
