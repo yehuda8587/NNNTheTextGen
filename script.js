@@ -2422,7 +2422,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "SkinTech Spa Collagen Enhancing $69.95":
+                                    case "SkinTech Spa Collagen Enhancing $59.95":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
@@ -2431,11 +2431,11 @@
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
                                     upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "69.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$399";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "SkinTech LED":
@@ -2454,7 +2454,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "SkinTech Spa LED $69.95":
+                                    case "SkinTech Spa LED $59.95":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
@@ -2463,11 +2463,11 @@
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "69.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$399";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "SkinTech Spa Body Sculpting":
@@ -2758,11 +2758,43 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "Lumiere By Adriana Laser Lipo Facial $69.95":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-laser-lipo-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Laser Lipo Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Lumiere By Adriana Collagen Enhancing Treatment":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Lumiere By Adriana Collagen Enhancing Treatment(instead of $399)":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
@@ -2784,6 +2816,22 @@
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Laser Lipo Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+                                    
+                                    case "Lumiere By Adriana Body Sculpting Treatment $69.95":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
                                     treatmentSelected = "Laser Lipo Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
