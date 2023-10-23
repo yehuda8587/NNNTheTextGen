@@ -2370,7 +2370,7 @@
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(786) 348-6250";
+                                        newSpaPhoneNumberSelected = "(954) 247-5328";
                                         insteadOfSpa = "$350";
                                         break;
 
@@ -2386,7 +2386,7 @@
                                         promoPrice = "49.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(786) 348-6250";
+                                        newSpaPhoneNumberSelected = "(954) 247-5328";
                                         insteadOfSpa = "$299";
                                         break;
 
