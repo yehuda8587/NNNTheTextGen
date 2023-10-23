@@ -3045,6 +3045,38 @@
                                     newSpaPhoneNumberSelected = "305-603-7536";
                                     insteadOfSpa = "$350";
                                     break;
+
+                                    case "Y&G Boutique Spa LED":
+                                    upDatedSpaName = "Y&G Boutique Spa";
+                                    upDatedSpaAddress = "9625 Brighton Way Beverly Hills, CA 90210"+"<br>"+"(Right across Madison Beverly Hills)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/y-amp-g-boutique-promo-page";
+                                    upDatedSpaPhone = "(424) 423-0151";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (424) 335-0070";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(424) 335-0070";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Introstem Chicago Ridge LED":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "Chicago Ridge Mall"+"<br>"+"444 Ridgeland Ave, Chicago Ridge, IL. 60415"+"<br>"+"(First Floor near Bath & Body Works)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-chicago-promo-page";
+                                    upDatedSpaPhone = "(708) 773-0218";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$350";
+                                    break;
                                     
 
                                                                 
