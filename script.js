@@ -3001,7 +3001,7 @@
                                     case "Adore Edmonton LED":
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3017,7 +3017,7 @@
                                     case "Beauty Essentials LED":
                                     upDatedSpaName = "Beauty Essentials";
                                     upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/17UVeGaXJyFPgsnG7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-essentials-promo-page";
                                     upDatedSpaPhone = "(734) 659-0707";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3030,26 +3030,44 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "ISHA LED":
+                                    case "ISHA Collagen Enhancing":
                                     upDatedSpaName = "ISHA Beauty & Wellness";
                                     upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/anBN3G7GuuKCydG1A";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-promo-page";
                                     upDatedSpaPhone = "(786) 744-5319";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minute Cleansing and Massage";
                                     upDatedDurationTwo = "- 25-minutes LED Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
-                                    treatmentSelected = "LED Treatment";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "305-603-7536";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
                                     break;
+
+                                    case "ISHA Body Sculpting":
+                                        upDatedSpaName = "ISHA Beauty & Wellness";
+                                        upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
+                                        upDatedSpaLINK = "https://forms.gle/anBN3G7GuuKCydG1A";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-body-contouring-promo";
+                                        upDatedSpaPhone = "(786) 744-5319";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 20-minute Cleansing and Massage";
+                                        upDatedDurationTwo = "- 25-minutes LED Treatment and 15-minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
+                                        treatmentSelected = "Body Sculpting Treatment";
+                                        newSpaPhoneNumberSelected = "305-603-7536";
+                                        insteadOfSpa = "$399";
+                                        break;
+
+                                    
 
                                     case "Y&G Boutique Spa LED":
                                     upDatedSpaName = "Y&G Boutique Spa";
                                     upDatedSpaAddress = "9625 Brighton Way Beverly Hills, CA 90210"+"<br>"+"(Right across Madison Beverly Hills)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/bVZE7GS3Zbz8qsoZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/y-amp-g-boutique-promo-page";
                                     upDatedSpaPhone = "(424) 423-0151";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3065,7 +3083,7 @@
                                     case "Introstem Chicago Ridge LED":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "Chicago Ridge Mall"+"<br>"+"444 Ridgeland Ave, Chicago Ridge, IL. 60415"+"<br>"+"(First Floor near Bath & Body Works)";
-                                    upDatedSpaLINK = "";
+                                    upDatedSpaLINK = "https://forms.gle/wRbUHTgEqHGzxZ6P9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-chicago-promo-page";
                                     upDatedSpaPhone = "(708) 773-0218";
                                     upDatedDurationTotal = "60 Minutes";
