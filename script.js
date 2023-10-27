@@ -2392,7 +2392,7 @@
 
                                         case "SkinTech Spa Collagen Enhancing":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2408,7 +2408,7 @@
 
                                     case "SkinTech Spa Collagen Enhancing $59.95":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2424,7 +2424,7 @@
 
                                     case "SkinTech LED":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2440,7 +2440,7 @@
 
                                     case "SkinTech Spa LED $59.95":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2456,7 +2456,7 @@
 
                                     case "SkinTech Spa Body Sculpting $69.95":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2472,7 +2472,7 @@
 
                                     case "SkinTech Spa Cryogenic Body Sculpting $69.95":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-cryogenic-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
@@ -2488,7 +2488,7 @@
 
                                     case "SkinTech Hydraglow":
                                     upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Fort Worth, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-hydraglow-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
