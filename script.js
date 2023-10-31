@@ -1812,6 +1812,22 @@
                                     insteadOfSpa = "$275";
                                     break;
 
+                                    case "Tierra Med Non-Surgical Lifting Facial":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-non-surgical-lifting-facial-promo-page";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 50 Minutes Non-Surgical Lifting Facial & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Non-surgical Lifting Facial";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
