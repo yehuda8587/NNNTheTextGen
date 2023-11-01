@@ -1332,6 +1332,38 @@
                                     insteadOfSpa = "$399"
                                     break; 
 
+                                    case "Elevatione Spa Beauty Body Sculpting 69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Body Sculpting Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$399"
+                                    break;
+
+                                    case "Elevatione Spa Beauty H2O Oxygen Facial 69":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Facial";
+                                    upDatedDurationTwo = "15-minutes of Consultation";
+                                    promoPrice = "69";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Oxygen Facial";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$200"
+                                    break;
+
                                     case "Elevatione Spa Beauty Collagen Mesotherapy Facial":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
@@ -3125,6 +3157,38 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Introstem Spokane LED":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-promo-page";
+                                    upDatedSpaPhone = "(509) 606-6110";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(509) 824-9926";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Lavelier Spokane LED":
+                                    upDatedSpaName = "Lavelier Spa";
+                                    upDatedSpaAddress = "Spokane Valley Mall"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
+                                    upDatedSpaPhone = "(509) 508-4214";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(516) 369-2994";
                                     insteadOfSpa = "$350";
                                     break;
                                     
