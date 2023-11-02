@@ -3210,7 +3210,7 @@
 
                                     case "Lavelier Spokane LED":
                                     upDatedSpaName = "Lavelier Spa";
-                                    upDatedSpaAddress = "Spokane Valley Mall"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
+                                    upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
                                     upDatedSpaPhone = "(509) 508-4214";
@@ -3221,6 +3221,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Predire Prestige LED":
+                                    upDatedSpaName = "Predire Prestige Spa";
+                                    upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/la-predire-prestige-paris-az-promo-page";
+                                    upDatedSpaPhone = "(520) 467-6911";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 758-0541";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 758-0541";
                                     insteadOfSpa = "$350";
                                     break;
                                     
