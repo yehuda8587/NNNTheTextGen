@@ -1352,7 +1352,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-h2o-oxygen-facial-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Facial";
@@ -1860,6 +1860,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Tierra Med Collagen Enhancing Facial with LED":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-collagen-enhancing-facial-with-led-promo-page";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 50 Minutes Collagen Enhancing Facial with LED & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Collagen Enhancing Facial";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
@@ -2087,7 +2103,7 @@
 
                                                     case "Rose Spa":
                                                         upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                         upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
@@ -2103,7 +2119,7 @@
 
                                                         case "Rose Spa Body Treatment":
                                                         upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                         upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rosebeauty-revo-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
@@ -2119,7 +2135,7 @@
 
                                                         case "Rose Spa Non Surgical Facelift":
                                                         upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                         upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-non-surgical-facelift";
                                                         upDatedSpaPhone = "(971) 350-7408";
@@ -2135,7 +2151,7 @@
 
                                                         case "Rose Spa Collagen Enhancing Facial":
                                                             upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-collagen-enhancing-facial";
                                                             upDatedSpaPhone = "(971) 350-7408";
@@ -2151,7 +2167,7 @@
     
                                                             case "Rose Spa Skin Tightening LED":
                                                             upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-skin-tightening-with-led-technology";
                                                             upDatedSpaPhone = "(971) 350-7408";
@@ -2167,7 +2183,7 @@
 
                                                             case "Rose Spa Gold Collagen Facial":
                                                             upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Starbucks)";
+                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-gold-collagen-facial";
                                                             upDatedSpaPhone = "(971) 350-7408";
@@ -2281,7 +2297,7 @@
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
-                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2297,7 +2313,7 @@
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
-                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2313,7 +2329,7 @@
                                     case "Ben's Beauty Spa Hydraglow Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
-                                    upDatedSpaLINK = "https://forms.gle/tjsqChE2pmj2HFDZ9";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2322,6 +2338,22 @@
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Ben's Beauty Spa Collagen Enhancing Facial with LED":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "20 minute Cleansing";
+                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Facial with LED and Consultation";
+                                    promoPrice = "69.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$299";
                                     break;
