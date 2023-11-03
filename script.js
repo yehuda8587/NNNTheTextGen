@@ -3239,6 +3239,22 @@
                                     newSpaPhoneNumberSelected = "(480) 758-0541";
                                     insteadOfSpa = "$350";
                                     break;
+
+                                    case "Introstem Alderwood LED":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #939, outside section next to Purple)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-alderwood-promo-page";
+                                    upDatedSpaPhone = "(425) 546-0417";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 986-3222";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(509) 986-3222";
+                                    insteadOfSpa = "$350";
+                                    break;
                                     
 
                                                                 
