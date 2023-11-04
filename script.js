@@ -3242,7 +3242,7 @@
 
                                     case "Introstem Alderwood LED":
                                     upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #939, outside section next to Purple)";
+                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #976, outside section next to Purple)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-alderwood-promo-page";
                                     upDatedSpaPhone = "(425) 546-0417";
