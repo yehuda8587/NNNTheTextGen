@@ -3158,8 +3158,8 @@
                                         insteadOfSpa = "$399";
                                         break;
 
-                                    case "Y&G Boutique LED":
-                                    upDatedSpaName = "Y&G Boutique Spa";
+                                    case "Y and G Boutique LED":
+                                    upDatedSpaName = "Y and G Boutique Spa";
                                     upDatedSpaAddress = "9625 Brighton Way Beverly Hills, CA 90210"+"<br>"+"(Right across Madison Beverly Hills)";
                                     upDatedSpaLINK = "https://forms.gle/bVZE7GS3Zbz8qsoZ9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/y-amp-g-boutique-promo-page";
