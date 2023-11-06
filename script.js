@@ -2107,8 +2107,8 @@
                                                         upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "80 Minutes";
-                                                        upDatedDurationOne = "- 60 Minutes Cleansing and the LED Experience";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 40 Minutes Cleansing and the LED Experience";
                                                         upDatedDurationTwo = "- 20 Minutes Consultation";
                                                         promoPrice = "79.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2123,8 +2123,8 @@
                                                         upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rosebeauty-revo-promo";
                                                         upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "80 Minutes";
-                                                        upDatedDurationOne = "- 60 minutes Body Tightening & Healing Treatment";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 40 minutes Body Tightening & Healing Treatment";
                                                         upDatedDurationTwo = "- 20 minutes Consultation";
                                                         promoPrice = "99.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2139,8 +2139,8 @@
                                                         upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-non-surgical-facelift";
                                                         upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "80 Minutes";
-                                                        upDatedDurationOne = "- 60-minute Cleansing and the Non-Surgical Face Lift treatment";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 40-minute Cleansing and the Non-Surgical Face Lift treatment";
                                                         upDatedDurationTwo = "- 20-minute Consultation";
                                                         promoPrice = "79.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2155,8 +2155,8 @@
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-collagen-enhancing-facial";
                                                             upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "80 Minutes";
-                                                            upDatedDurationOne = "- 60-minute cleansing and Collagen Enhancing";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 40-minute cleansing and Collagen Enhancing";
                                                             upDatedDurationTwo = "- 20 minutes Consultation";
                                                             promoPrice = "59.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2171,8 +2171,8 @@
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-skin-tightening-with-led-technology";
                                                             upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "80 Minutes";
-                                                            upDatedDurationOne = "- 60-LED Skin Tightening treatment";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 40-LED Skin Tightening treatment";
                                                             upDatedDurationTwo = "- 20 minutes Consultation";
                                                             promoPrice = "59.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2187,8 +2187,8 @@
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-gold-collagen-facial";
                                                             upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "80 Minutes";
-                                                            upDatedDurationOne = "- 60 Minutes Light Cleaning & the Gold Collagen Facial";
+                                                            upDatedDurationTotal = "60 Minutes";
+                                                            upDatedDurationOne = "- 40 Minutes Light Cleaning & the Gold Collagen Facial";
                                                             upDatedDurationTwo = "- 20 Minute Consultation";
                                                             promoPrice = "79.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
