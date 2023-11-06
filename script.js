@@ -3158,9 +3158,7 @@
                                         insteadOfSpa = "$399";
                                         break;
 
-                                    
-
-                                    case "Y&G Boutique Spa LED":
+                                    case "Y&G Boutique LED":
                                     upDatedSpaName = "Y&G Boutique Spa";
                                     upDatedSpaAddress = "9625 Brighton Way Beverly Hills, CA 90210"+"<br>"+"(Right across Madison Beverly Hills)";
                                     upDatedSpaLINK = "https://forms.gle/bVZE7GS3Zbz8qsoZ9";
@@ -3242,7 +3240,7 @@
 
                                     case "Introstem Alderwood LED":
                                     upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #976, outside section next to Purple)";
+                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #939, outside section next to Purple)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-alderwood-promo-page";
                                     upDatedSpaPhone = "(425) 546-0417";
@@ -3253,6 +3251,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 986-3222";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(509) 986-3222";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Royal Bee Rosemont LED":
+                                    upDatedSpaName = "Royal Bee Spa";
+                                    upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-promo-page";
+                                    upDatedSpaPhone = "(847) 585-2401";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (313) 746-1007";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(313) 746-1007";
                                     insteadOfSpa = "$350";
                                     break;
                                     
