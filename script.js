@@ -3193,7 +3193,7 @@
                                     case "Introstem Spokane LED":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-promo-page";
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3209,7 +3209,7 @@
                                     case "Lavelier Spokane LED":
                                     upDatedSpaName = "Lavelier Spa";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
                                     upDatedSpaPhone = "(509) 508-4214";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3226,7 +3226,7 @@
                                     upDatedSpaName = "Predire Prestige Spa";
                                     upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/la-predire-prestige-paris-az-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-prestige-tucson-promo-page";
                                     upDatedSpaPhone = "(520) 467-6911";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
@@ -3240,8 +3240,8 @@
 
                                     case "Introstem Alderwood LED":
                                     upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Alderwood Mall"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #939, outside section next to Purple)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaAddress = "Alderwood Mall,"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #939, outside section next to Purple)";
+                                    upDatedSpaLINK = "https://forms.gle/Xd7zenHToR2ga51c7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-alderwood-promo-page";
                                     upDatedSpaPhone = "(425) 546-0417";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3257,7 +3257,7 @@
                                     case "Royal Bee Rosemont LED":
                                     upDatedSpaName = "Royal Bee Spa";
                                     upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/PrdnpxyQLnMTFwFE6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-promo-page";
                                     upDatedSpaPhone = "(847) 585-2401";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3267,6 +3267,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (313) 746-1007";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(313) 746-1007";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Introstem Carlsbad LED":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-led-promo-page";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$350";
                                     break;
                                     
