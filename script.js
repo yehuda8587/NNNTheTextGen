@@ -2726,20 +2726,20 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "GreenBiotics Barton Creek":
+                                    case "GreenBiotics Barton Creek 59.95":
                                     upDatedSpaName = "GreenBiotics Barton Creek";
                                     upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
                                     upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-barton-creek";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-barton-creek-new-promo";
                                     upDatedSpaPhone = "(512) 354-2417";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$300";
                                     break;
 
                                     case "GreenBiotics Barton Creek 69.95":
@@ -3029,6 +3029,22 @@
                                     newSpaPhoneNumberSelected = "(832)-715-4897";
                                     insteadOfSpa = "$299";
                                     break;
+
+                                    case "Royal Bee Spa LED 69.95":
+                                    upDatedSpaName = "Royal Bee Spa";
+                                    upDatedSpaAddress = "Katy Mills Mall,"+"<br>"+"5000 Katy Mills Cir. Katy, TX 77494"+"<br>"+"(Ground Flr. Between The Rainforest Cafe and Marshalls)";
+                                    upDatedSpaLINK = "https://forms.gle/wPtz1bB63FmzDMHr8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-royal-bee-spa-promo-page";
+                                    upDatedSpaPhone = "(737) 910-4135";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Facial Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(832)-715-4897";
+                                    insteadOfSpa = "$299";
+                                    break;
                                     
                                     case "Rilassare Spa LED":
                                     upDatedSpaName = "Rilassare Spa";
@@ -3270,7 +3286,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Introstem Carlsbad LED":
+                                    case "Introstem Carlsbad Collagen Enhancing Facial":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
                                     upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
@@ -3279,11 +3295,27 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "LED Treatment";
+                                    treatmentSelected = "Collagen Enhancing";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Introstem Carlsbad Body Sculpting":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Cleaning & Body Sculpting Treatment"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$399";
                                     break;
                                     
 
