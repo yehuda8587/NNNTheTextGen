@@ -3279,7 +3279,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
-                                    promoPrice = "79.95";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (313) 746-1007";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(313) 746-1007";
