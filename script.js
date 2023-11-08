@@ -3313,7 +3313,7 @@
                                     upDatedDurationTwo = "- 45-minutes Cleaning & Body Sculpting Treatment"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Collagen Enhancing";
+                                    treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$399";
                                     break;
