@@ -3241,7 +3241,7 @@
                                     case "Predire Prestige LED":
                                     upDatedSpaName = "Predire Prestige Spa";
                                     upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/MCWTC7rXeR7iRFHk7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-prestige-tucson-promo-page";
                                     upDatedSpaPhone = "(520) 467-6911";
                                     upDatedDurationTotal = "60 Minutes";
