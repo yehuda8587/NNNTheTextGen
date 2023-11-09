@@ -272,8 +272,8 @@
                 upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
                 upDatedSpaPhone = "(301) 291-7543";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Light Cleaning";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleansing";
                 upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
                 promoPrice = "99.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
@@ -288,9 +288,9 @@
                     upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-bodysculpting-promo";
                     upDatedSpaPhone = "(301) 291-7543";
-                    upDatedDurationTotal = "90 Minutes";
-                    upDatedDurationOne = "- 60 Body Sculpting";
-                    upDatedDurationTwo = "- Consultation";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 45 Minutes Body Sculpting";
+                    upDatedDurationTwo = "- 15 Minutes Consultation ";
                     promoPrice = "120"
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
                     treatmentSelected = "Body Sculpting Treatment";
