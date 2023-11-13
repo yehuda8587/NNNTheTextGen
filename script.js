@@ -1380,6 +1380,22 @@
                                     insteadOfSpa = "$299"
                                     break;
 
+                                    case "Elevatione Spa LED 59.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-elevatione-spa-led-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15-minutes of Cleansing";
+                                    upDatedDurationTwo = "30-minutes LED Facial and 15 minutes consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
+                                    break;
+
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
@@ -3006,7 +3022,7 @@
                                     upDatedSpaPhone = "(346) 980-4152";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
-                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 648-6648";
                                     treatmentSelected = "LED Treatment";
@@ -3022,7 +3038,7 @@
                                     upDatedSpaPhone = "(737) 910-4135";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Facial Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 20-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
                                     treatmentSelected = "LED Treatment";
@@ -3038,7 +3054,7 @@
                                     upDatedSpaPhone = "(737) 910-4135";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Facial Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 20-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 20-minutes Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
                                     treatmentSelected = "LED Treatment";
@@ -3054,7 +3070,7 @@
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
                                     treatmentSelected = "LED Treatment";
@@ -3070,7 +3086,7 @@
                                     upDatedSpaPhone = "(352) 505-7757";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
@@ -3086,7 +3102,7 @@
                                     upDatedSpaPhone = "(352) 505-7757";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"   
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"   
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
@@ -3118,7 +3134,7 @@
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
                                     treatmentSelected = "LED Treatment";
@@ -3134,7 +3150,7 @@
                                     upDatedSpaPhone = "(734) 659-0707";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
                                     treatmentSelected = "LED Treatment";
@@ -3150,7 +3166,7 @@
                                     upDatedSpaPhone = "(786) 744-5319";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minute Cleansing and Massage";
-                                    upDatedDurationTwo = "- 25-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 25-minutes Collagen Enhancing Facial and 15-minutes Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
                                     treatmentSelected = "Collagen Enhancing Treatment";
@@ -3182,7 +3198,7 @@
                                     upDatedSpaPhone = "(424) 423-0151";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (424) 335-0070";
                                     treatmentSelected = "LED Treatment";
@@ -3192,13 +3208,13 @@
 
                                     case "Introstem Chicago Ridge LED":
                                     upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Chicago Ridge Mall"+"<br>"+"444 Ridgeland Ave, Chicago Ridge, IL. 60415"+"<br>"+"(First Floor near Bath & Body Works)";
+                                    upDatedSpaAddress = "Chicago Ridge Mall"+"<br>"+"444 Chicago Ridge Mall Drive, Chicago Ridge, IL. 60415"+"<br>"+"(Unit C-13, First Floor near Bath & Body Works)";
                                     upDatedSpaLINK = "https://forms.gle/wRbUHTgEqHGzxZ6P9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-chicago-promo-page";
                                     upDatedSpaPhone = "(708) 773-0218";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
@@ -3214,7 +3230,7 @@
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
                                     treatmentSelected = "LED Treatment";
@@ -3230,7 +3246,7 @@
                                     upDatedSpaPhone = "(509) 508-4214";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
                                     treatmentSelected = "LED Treatment";
@@ -3246,7 +3262,7 @@
                                     upDatedSpaPhone = "(520) 467-6911";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 758-0541";
                                     treatmentSelected = "LED Treatment";
@@ -3262,7 +3278,7 @@
                                     upDatedSpaPhone = "(425) 546-0417";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 986-3222";
                                     treatmentSelected = "LED Treatment";
@@ -3277,8 +3293,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-promo-page";
                                     upDatedSpaPhone = "(847) 585-2401";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    upDatedDurationOne = "- 15-minute Light Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (313) 746-1007";
                                     treatmentSelected = "LED Treatment";
@@ -3294,7 +3310,7 @@
                                     upDatedSpaPhone = "(760) 621-0800";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
                                     treatmentSelected = "Collagen Enhancing";
@@ -3316,6 +3332,38 @@
                                     treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Lavelier Longview LED":
+                                    upDatedSpaName = "Lavelier Spa";
+                                    upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-promo-page";
+                                    upDatedSpaPhone = "(430) 288-5519";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9242";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Gold Spa Roseville LED":
+                                    upDatedSpaName = "Gold Spa";
+                                    upDatedSpaAddress = "Westfield Galleria,"+"<br>"+"1151 Galleria Blvd, Roseville, CA 95747"+"<br>"+"(Second floor by Zara)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-roseville-promo-page";
+                                    upDatedSpaPhone = "(916) 277-9994";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$350";
                                     break;
                                     
 
