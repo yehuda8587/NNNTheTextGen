@@ -171,7 +171,7 @@
                 insteadOfSpa = "$299"
                 break;
 
-                case "Skin Analytics Spa Skin Tightening Facial w/ HIFU & LED Tech":
+                case "Skin Analytics Spa Skin Tightening Facial":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
