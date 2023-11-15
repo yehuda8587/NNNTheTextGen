@@ -182,7 +182,7 @@
                 upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-                treatmentSelected = "Skin Tightening Treatment";
+                treatmentSelected = "Skin Tightening Treatment with HIFU & LED";
                 newSpaPhoneNumberSelected = "(919) 405-2586";
                 insteadOfSpa = "$399"
                 break;
