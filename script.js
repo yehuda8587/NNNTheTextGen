@@ -140,7 +140,7 @@
                 break;
 
                 case "Skin Analytics Gold Facial":
-                upDatedSpaName = "Skin Analytics Gold Facial";
+                upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
@@ -153,6 +153,38 @@
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(919) 405-2586";
                 insteadOfSpa = "$299"
+                break;
+
+                case "Skin Analytics Collagen Enhancing Facial":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-collagen-enhancing-facial-promo-page"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Facial & a 15 minute Consultation"
+                promoPrice = "69.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Collagen Enhancing Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$299"
+                break;
+
+                case "Skin Analytics Spa Skin Tightening Facial w/ HIFU & LED Tech":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-skin-tightening-treatment-with-hifu-led-page"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Skin Tightening Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$399"
                 break;
 
             case "Esthetix Raliegh":
