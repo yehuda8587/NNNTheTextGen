@@ -2731,7 +2731,7 @@
                                     upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
                                     upDatedSpaLINK = "https://forms.gle/QZeUWwaHiUZESaHx6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/soap-tree-spa-led-promo";
-                                    upDatedSpaPhone = "(937) 741-3789";
+                                    upDatedSpaPhone = "(614) 763-2688";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
