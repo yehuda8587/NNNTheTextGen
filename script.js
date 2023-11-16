@@ -1653,17 +1653,17 @@
                                     break; 
 
                                     case "Stem Spa Medford":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Stem Store";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
                                     upDatedSpaPhone = "(541) 549-1196";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Demo";
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
-                                    treatmentSelected = "LED Treatment";
+                                    upDatedActualSpaPhone = "Can't find our location? Give us a call at (541) 816-4404";
+                                    treatmentSelected = "LED Demo";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
                                     insteadOfSpa = "$350";
                                     break; 
