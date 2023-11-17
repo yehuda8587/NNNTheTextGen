@@ -1653,17 +1653,17 @@
                                     break; 
 
                                     case "Stem Spa Medford":
-                                        upDatedSpaName = "Stem Store";
+                                        upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
                                     upDatedSpaPhone = "(541) 549-1196";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Demo";
+                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our location? Give us a call at (541) 816-4404";
-                                    treatmentSelected = "LED Demo";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
                                     insteadOfSpa = "$350";
                                     break; 
@@ -2806,20 +2806,20 @@
                                     insteadOfSpa = "$300";
                                     break;
 
-                                    case "GreenBiotics Barton Creek 69.95":
+                                    case "GreenBiotics Barton Creek 49.95":
                                     upDatedSpaName = "GreenBiotics Barton Creek";
                                     upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
                                     upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-greenbiotics-barton-creek-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-greenbiotics-barton-creek-promo-page";
                                     upDatedSpaPhone = "(512) 354-2417";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "69.95";
+                                    promoPrice = "49.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$300";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "OraSempre Montana":
@@ -3411,6 +3411,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Bee and Co Olympia LED":
+                                    upDatedSpaName = "Bee and Co";
+                                    upDatedSpaAddress = "Capital Mall,"+"<br>"+"625 Black Lake Blvd SW. Olympia, WA 98502"+"<br>"+"(Unit 233, in front of Victoria's Secret)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-and-co-olympia-promo-page";
+                                    upDatedSpaPhone = "(253) 528-4765";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 34-minutes LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 210-2937";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 210-2937";
                                     insteadOfSpa = "$350";
                                     break;
                                     
