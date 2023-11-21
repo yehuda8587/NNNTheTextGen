@@ -3155,7 +3155,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$399";
                                     break;
 
                                     case "Joli Visage Spa LED":
