@@ -460,7 +460,7 @@
 
                                     case "Kristals Erin Mills LED":
                                     upDatedSpaName = "Kristals Erin Mills spa";
-                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(1st floor, between Erin Mills Photo & Bluenotes)";
+                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near "Turtle Jack" restaurant), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(437) 253-8259";
@@ -1640,7 +1640,7 @@
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-redding-led-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-redding-promo-page";
                                     upDatedSpaPhone = "(279) 972-0008";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5 minutes Cleansing";
