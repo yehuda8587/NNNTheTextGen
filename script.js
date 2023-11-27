@@ -2662,6 +2662,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Botanifique - Emporium":
+                                    upDatedSpaName = "Botanifique";
+                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Blue Illusion)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
+                                    upDatedSpaPhone = "(03) 7042 2770";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment" + "<br>" + "- 15 Minutes of Consultation"
+                                    promoPrice = "129.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "0481768980";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Good Life Spa":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
@@ -3422,12 +3438,44 @@
                                     upDatedSpaPhone = "(253) 528-4765";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 34-minutes LED Anti-aging Treatment and Consultation"
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 210-2937";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(702) 210-2937";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "The Glow Med Spa Collagen Enhancing Facial":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Collagen Enhancing Facial Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "The Glow Med Spa Body Sculpting":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Body Sculpting Treatment"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$399";
                                     break;
                                     
 
