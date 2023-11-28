@@ -2649,7 +2649,7 @@
                                     case "Botanifique Spa":
                                     upDatedSpaName = "Botanifique Spa";
                                     upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2665,7 +2665,7 @@
                                     case "Botanifique - Emporium":
                                     upDatedSpaName = "Botanifique";
                                     upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3401,7 +3401,7 @@
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier Spa";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-promo-page";
                                     upDatedSpaPhone = "(430) 288-5519";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3417,7 +3417,7 @@
                                     case "Gold Spa Roseville LED":
                                     upDatedSpaName = "Gold Spa";
                                     upDatedSpaAddress = "Westfield Galleria,"+"<br>"+"1151 Galleria Blvd, Roseville, CA 95747"+"<br>"+"(Second floor by Zara)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-roseville-promo-page";
                                     upDatedSpaPhone = "(916) 277-9994";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3433,7 +3433,7 @@
                                     case "Bee and Co Olympia LED":
                                     upDatedSpaName = "Bee and Co";
                                     upDatedSpaAddress = "Capital Mall,"+"<br>"+"625 Black Lake Blvd SW. Olympia, WA 98502"+"<br>"+"(Unit 233, in front of Victoria's Secret)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/JhrhG3XiisY9JfW38";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-and-co-olympia-promo-page";
                                     upDatedSpaPhone = "(253) 528-4765";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3449,7 +3449,7 @@
                                     case "The Glow Med Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "The Glow Med Spa";
                                     upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3465,7 +3465,7 @@
                                     case "The Glow Med Spa Body Sculpting":
                                     upDatedSpaName = "The Glow Med Spa";
                                     upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3473,10 +3473,26 @@
                                     upDatedDurationTwo = "- 45-minutes Body Sculpting Treatment"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
-                                    treatmentSelected = "Collagen Enhancing";
+                                    treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$399";
                                     break;
+
+                                    case "Dor24k Prestige Spa LED":
+                                        upDatedSpaName = "Dor24k Prestige Spa";
+                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor next to Victoria secret )";
+                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
+                                        upDatedSpaPhone = "(567) 298-4583";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Consultation";
+                                        upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(971) 380-9085";
+                                        insteadOfSpa = "$350";
+                                        break;
                                     
 
                                                                 
