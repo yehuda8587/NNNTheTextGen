@@ -2664,7 +2664,7 @@
 
                                     case "Botanifique - Emporium":
                                     upDatedSpaName = "Botanifique";
-                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Blue Illusion)";
+                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
