@@ -3484,9 +3484,9 @@
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
                                         upDatedSpaPhone = "(567) 298-4583";
-                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15-minute Consultation";
-                                        upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment"
+                                        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
                                         treatmentSelected = "LED Treatment";
