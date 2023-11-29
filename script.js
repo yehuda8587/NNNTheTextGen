@@ -3478,8 +3478,8 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "Dor24k Prestige Spa LED":
-                                        upDatedSpaName = "Dor24k Prestige Spa";
+                                    case "D'or24k Prestige Spa LED":
+                                        upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor next to Victoria secret )";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
