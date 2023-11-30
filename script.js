@@ -2684,7 +2684,7 @@
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
                                     upDatedSpaPhone = "(03) 7042 2770";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
                                     promoPrice = "129.95";
