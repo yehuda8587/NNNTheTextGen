@@ -2598,6 +2598,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "SkinTech Spa Men's Body Sculpting $59.95":
+                                    upDatedSpaName = "SkinTech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-body-sculpting-promo-page";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
+                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
+                                    treatmentSelected = "Body Sculpting";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "SkinTech Spa Body Sculpting $69.95":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
