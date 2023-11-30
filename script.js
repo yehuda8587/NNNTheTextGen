@@ -1750,7 +1750,7 @@
 
                                     case "Premier Pensacola":
                                         upDatedSpaName = "Premier Spa";
-                                    upDatedSpaAddress = "Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
+                                    upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premierpen-spa-ledpromo";
                                     upDatedSpaPhone = "(448) 400-2095";
