@@ -2686,7 +2686,7 @@
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
+                                    upDatedDurationTwo = "- 35 Minutes of LED Demo and Consultation"
                                     promoPrice = "129.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
                                     treatmentSelected = "LED Treatment";
