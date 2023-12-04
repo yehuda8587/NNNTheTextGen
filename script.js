@@ -2344,7 +2344,7 @@
 
                                     case "Ben's Beauty Spa":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
@@ -2360,7 +2360,7 @@
 
                                     case "Ben's Beauty Spa Collagen Enhancing Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
@@ -2376,7 +2376,7 @@
 
                                     case "Ben's Beauty Spa Hydraglow Facial":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
@@ -2392,7 +2392,7 @@
 
                                     case "Ben's Beauty Spa Collagen Enhancing Facial with LED":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Metered parking is available next to the store.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
@@ -2686,7 +2686,7 @@
                                     upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 Minutes of LED Demo and Consultation"
+                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
                                     promoPrice = "129.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
                                     treatmentSelected = "LED Treatment";
