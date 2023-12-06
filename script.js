@@ -3496,7 +3496,7 @@
 
                                     case "D'or24k Prestige Spa LED":
                                         upDatedSpaName = "D'or24k Prestige Spa";
-                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor next to Victoria secret )";
+                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
                                         upDatedSpaPhone = "(567) 298-4583";
