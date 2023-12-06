@@ -1317,7 +1317,7 @@
                                     break;
 
                                     case "Elevatione Spa Beauty Gold Collagen Facial":
-                                    upDatedSpaName = "Elevatione Spa Beauty Gold Collagen Facial";
+                                    upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-gold-collagen-facial-page";
@@ -1333,7 +1333,7 @@
                                     break;
 
                                     case "Elevatione Spa Beauty Microneedling":
-                                    upDatedSpaName = "Elevatione Spa Beauty Microneedling";
+                                    upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-microneedling-treatment-promo-page";
