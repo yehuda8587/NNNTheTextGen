@@ -1,3689 +1,1960 @@
-    // status of spa selected
-    let spaNameStatus = document.querySelector(".selected");
-    let addOnsStatus = document.getElementById("chooseAddons");
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="stylesheet.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <title>TxtGen v1.1 No Needle Needed</title>
+</head>
+<body>
+    <div class="container-fluid position-relative appBody">
 
-    // Location NAME variables in text
-    let locationNameArray = document.getElementsByClassName("varLocationName");
-    let upDatedSpaName = "SELECT SPA"
-    // Location ADDRESS variables in text
-    let locationAddressArray = document.getElementsByClassName("varLocationAddress");
-    let upDatedSpaAddress = "SELECT SPA FOR LOCATION "
-    // Location LINK variables in text
-    let locationALinkArray = document.getElementsByClassName("varLocationFormLink");
-    let upDatedSpaLINK = "SELECT SPA FOR FORM LINK" 
-    // NNN Location PHONE variables in text
-    let locationPhoneArray = document.getElementsByClassName("varLocationPhone");
-    let upDatedSpaPhone = "SELECT SPA FOR Location Phone" 
+      <div class="main-nav container-fluid mt-0 p-0 text-center ">
 
-    // Actual Location PHONE variables in text
-    let acutalLocationPhoneArray = document.getElementsByClassName("varLocationActualPhone");
-    let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone" 
+          <!-- toggle btn -->
+            
 
-    // Location WEB LINK variables in text
-    let locationWebLinkArray = document.getElementsByClassName("varWebLink");
-    let upDatedSpaWebLINK = "SELECT SPA FOR FORM WEB LINK" 
+            <!-- toggle btn end -->
+<!-- NEW CHOOSE SPA -->
+<div class="container mt-4 w-100 pt-3 ">  
+<div class="select-box">
+    <div class="options-container ">
+      
+        <div class="option">
+            <input type="radio" class="radio" id="selectSpa" name="selectSpa">
+            <label value="Select Spa" for="selectSpa">Select Spa</label>  
+        </div>
 
-    // Duration Total variables in text
-    let DurationTotalArray = document.getElementsByClassName("varDurationTotal");
-    let upDatedDurationTotal    = "Please select spa"
+        <div class="option">
+            <input type="radio" class="radio" id="skinAnalytics" name="skinAnalytics">
+            <label value="Skin Analytics Spa" for="skinAnalytics">Skin Analytics</label>
+        </div>
 
-    // Duration One variables in text
-    let DurationOneArray = document.getElementsByClassName("varDurationOne");
-    let upDatedDurationOne    = " "
+        <div class="option">
+          <input type="radio" class="radio" id="skinAnalyticsGold" name="skinAnalyticsGold">
+          <label value="Skin Analytics Spa Gold Facial" for="skinAnalyticsGold">Skin Analytics Gold Facial</label>
+      </div>
 
-    // Duration Two variables in text
-    let DurationTwoArray = document.getElementsByClassName("varDurationTwo");
-    let upDatedDurationTwo    = " "
+      <div class="option">
+        <input type="radio" class="radio" id="skinAnalyticsCollagenEnhancing" name="skinAnalyticsCollagenEnhancing">
+        <label value="Skin Analytics Spa Collagen Enhancing Facial" for="skinAnalyticsCollagenEnhancing">Skin Analytics Collagen Enhancing Facial</label>
+    </div>
 
-    // Addons variables in text
-    let addOnsArray = document.getElementsByClassName("varAddons");
-    let upDatedAddons = "No Addons Selected"
+    <div class="option">
+      <input type="radio" class="radio" id="skinAnalyticsSkinTightening" name="skinAnalyticsSkinTightening">
+      <label value="Skin Analytics Spa Skin Tightening Facial" for="skinAnalyticsSkinTightening">Skin Analytics Spa Skin Tightening Facial</label>
+  </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="esthetixNc" name="esthetixNc">
+            <label valuse = "Esthetix Raliegh" for="esthetixNc">Esthetix Raliegh</label>
+        </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="beautyFrizzLED" name="beautyFrizzLED">
+            <label value="Beauty Frizz MD" for="beautyFrizzLED">Beauty Frizz MD</label>
+
+        </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="beautyFrizzBody" name="beautyFrizzBody"> 
+            <label value="Beauty Frizz MD Body Sculpting" for="beautyFrizzBody">Beauty Frizz MD Body Sculpting</label>
+        </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="VoupreMD" name="VoupreMD">
+            <label value="Voupre MD" for="VoupreMD">Voupre MD</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="VoupreBH" name="VoupreBH">
+          <label value="Voupre Beverly Hills" for="VoupreBH">Voupre Beverly Hills</label>
+      </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="BeeAndCoSpa" name="BeeAndCoSpa">
+            <label value="Bee and Co" for="BeeAndCoSpa">Bee and Co</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="BeeAndCoSpaSixNine" name="BeeAndCoSpaSixNine">
+          <label value="Bee and Co 69.95" for="BeeAndCoSpaSixNine">Bee and Co 69.95</label>
+      </div>
+
+        <div class="option">
+            <input type="radio" class="radio" id="AdoreCooks" name="AdoreCooks">
+            <label value="Adore Cookstown" for="AdoreCooks">Adore Cookstown</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="AdoreCooksNonSurgicalFacelift" name="AdoreCooksNonSurgicalFacelift">
+          <label value="Adore Cookstown Non Surgical Facelift" for="AdoreCooksNonSurgicalFacelift">Adore Cookstown Non Surgical Facelift</label>
+      </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="KristalsBarrie" name="KristalsBarrie">
+          <label value="Kristals Barrie" for="KristalsBarrie">Kristals Barrie</label>
+      </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="KristalsBarrieNonSurgicalFacelift" name="KristalsBarrieNonSurgicalFacelift">
+        <label value="Kristals Barrie Non-Surgical Facelift" for="KristalsBarrieNonSurgicalFacelift">Kristals Barrie Non-Surgical Facelift</label>
+        </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="KristalsBurlingtonLED" name="KristalsBurlingtonLED">
+        <label value="Kristals Burlington" for="KristalsBurlingtonLED">Kristals Burlington LED</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="KristalsBurlingtonAqua" name="KristalsBurlingtonAqua">
+      <label value="Kristals Burlington AquaPure" for="KristalsBurlingtonAqua">Kristals Burlington AquaPure</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="KristalsErinMillsLED" name="KristalsErinMillsLED">
+    <label value="Kristals Erin Mills LED" for="KristalsErinMillsLED">Kristals Erin Mills LED</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="KristalsErinMillsAqua" name="KristalsErinMillsAqua">
+  <label value="Kristals Erin Mills AquaPure" for="KristalsErinMillsAqua">Kristals Erin Mills AquaPure</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="GreenBioticsSherway" name="GreenBioticsSherway">
+<label value="GreenBiotics Sherway Gardens" for="GreenBioticsSherway">GreenBiotics Sherway Gardens</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="RachelsBeautyAz" name="RachelsBeautyAz">
+<label value="Rachels Beauty Scottsdale LED" for="RachelsBeautyAz">Rachels Beauty Scottsdale LED</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineNeckTight" name="EarthLakelineNeckTight">
+<label value="Earth Lakeline Neck Tightening" for="EarthLakelineNeckTight">Earth Lakeline Neck Tightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineNonSurgecialFaceLift" name="EarthLakelineNonSurgecialFaceLift">
+<label value="Earth Lakeline Non-Surgical Face Lift" for="EarthLakelineNonSurgecialFaceLift">Earth Lakeline Non-Surgical Face Lift</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineRewind" name="EarthLakelineRewind">
+<label value="Earth Lakeline Rewind Facial Treatment" for="EarthLakelineRewind">Earth Lakeline Rewind Facial Treatment</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineLEDTight" name="EarthLakelineLEDTight">
+<label value="Earth Lakeline LED Tightening" for="EarthLakelineLEDTight">Earth Lakeline LED Tightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineAgeReverse" name="EarthLakelineAgeReverse">
+<label value="Earth Lakeline Age Reverse" for="EarthLakelineAgeReverse">Earth Lakeline Age Reverse</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineCollagenLifting" name="EarthLakelineCollagenLifting">
+<label value="Earth Lakeline Collagen Lifting Facial" for="EarthLakelineCollagenLifting">Earth Lakeline Collagen Lifting Facial</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineElastinTighteningSeventy" name="EarthLakelineElastinTighteningSeventy">
+<label value="Earth Lakeline Elastin Tightening 70" for="EarthLakelineElastinTighteningSeventy">Earth Lakeline Elastin Tightening 70</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineCollagenEnhancingSeventy" name="EarthLakelineCollagenEnhancingSeventy">
+<label value="Earth Lakeline Collagen Enhancing 70" for="EarthLakelineCollagenEnhancingSeventy">Earth Lakeline Collagen Enhancing 70</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineHydroDerma" name="EarthLakelineHydroDerma">
+<label value="Earth Lakeline HydroDermabrasion" for="EarthLakelineHydroDerma">Earth Lakeline HydroDermabrasion</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineChinRF" name="EarthLakelineChinRF">
+<label value="Earth Lakeline Chin RF" for="EarthLakelineChinRF">Earth Lakeline Chin RF</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineAgeDef" name="EarthLakelineAgeDef">
+<label value="Earth Lakeline Age Defying" for="EarthLakelineAgeDef">Earth Lakeline Age Defying</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineBodySculp" name="EarthLakelineBodySculp">
+<label value="Earth Lakeline Body Sculpting" for="EarthLakelineBodySculp">Earth Lakeline Body Sculpting</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineRFTightNBright" name="EarthLakelineRFTightNBright">
+<label value="Earth Lakeline RF Tightening And Brightening" for="EarthLakelineRFTightNBright">Earth Lakeline RF Tightening And Brightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineNonSurgicalLif" name="EarthLakelineNonSurgicalLif">
+<label value="Earth Lakeline Non-Surgical Lifting Facial" for="EarthLakelineNonSurgicalLif">Earth Lakeline Non-Surgical Lifting Facial</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelinePerfectSkinComplex" name="EarthLakelinePerfectSkinComplex">
+<label value="Earth Lakeline Perfect Skin Complexion Facial" for="EarthLakelinePerfectSkinComplex">Earth Lakeline Perfect Skin Complexion Facial</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineLEDFirmingFnN" name="EarthLakelineLEDFirmingFnN">
+<label value="Earth Lakeline LED Firming Facial (Face and Neck)" for="EarthLakelineLEDFirmingFnN">Earth Lakeline LED Firming Facial (Face and Neck)</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineElastinFnN" name="EarthLakelineElastinFnN">
+<label value="Earth Lakeline Elastin Facial (Face and Neck)" for="EarthLakelineElastinFnN">Earth Lakeline Elastin Facial (Face and Neck)</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthLakelineSkinTighteningMassage" name="EarthLakelineSkinTighteningMassage">
+<label value="Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage" for="EarthLakelineSkinTighteningMassage">Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthBartonCreekBodySculp" name="EarthBartonCreekBodySculp">
+<label value="Earth Barton Creek Body Sculpting" for="EarthBartonCreekBodySculp">Earth Barton Creek Body Sculpting</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthBartonCreekNeckTight" name="EarthBartonCreekNeckTight">
+<label value="Earth Barton Creek Neck Tightening" for="EarthBartonCreekNeckTight">Earth Barton Creek Neck Tightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthBartonCreekCollaLif" name="EarthBartonCreekCollaLif">
+<label value="Earth Barton Creek Collagen Lifting" for="EarthBartonCreekCollaLif">Earth Barton Creek Collagen Lifting</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthBartonCreekChinTight" name="EarthBartonCreekChinTight">
+<label value="Earth Barton Creek Chin Tightening" for="EarthBartonCreekChinTight">Earth Barton Creek Chin Tightening</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="EarthBartonNonSurgicalFacelift" name="EarthBartonNonSurgicalFacelift">
+  <label value="Earth Barton Creek Non-Surgical Facelift" for="EarthBartonNonSurgicalFacelift">Earth Barton Creek Non-Surgical Facelift</label>
+  </div>
+  
+
+<div class="option">
+<input type="radio" class="radio" id="EarthAventuraLEDAntiaging" name="EarthAventuraLEDAntiaging">
+<label value="Earth Aventura LED Anti-aging" for="EarthAventuraLEDAntiaging">Earth Aventura LED Anti-aging</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthAventuraLEDSkinTight" name="EarthAventuraLEDSkinTight">
+<label value="Earth Aventura LED Skin Tightening" for="EarthAventuraLEDSkinTight">Earth Aventura LED Skin Tightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthAventuraNonSurgicalFacelift" name="EarthAventuraNonSurgicalFacelift">
+<label value="Earth Aventura Non-surgical Facelift" for="EarthAventuraNonSurgicalFacelift">Earth Aventura Non-surgical Facelift</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthAventuraLEDLightFacial" name="EarthAventuraLEDLightFacial">
+<label value="Earth Aventura LED Light Facial" for="EarthAventuraLEDLightFacial">Earth Aventura LED Light Facial</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="EarthAventuraOxygenAntiAging" name="EarthAventuraOxygenAntiAging">
+  <label value="Earth Aventura Oxygen Anti-Aging" for="EarthAventuraOxygenAntiAging">Earth Aventura Oxygen Anti Aging</label>
+  </div>
+
+<div class="option">
+<input type="radio" class="radio" id="EarthRoundRockLEDFirmingFnN" name="EarthRoundRockLEDFirmingFnN">
+<label value="Earth Round Rock LED Firming Facial (Face and Neck)" for="EarthRoundRockLEDFirmingFnN">Earth Round Rock LED Firming Facial (Face and Neck)</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="RoundRockRFTightNBright" name="RoundRockRFTightNBright">
+<label value="Earth Round Rock RF Tightening And Brightening" for="Earth RoundRockRFTightNBright">Earth Round Rock RF Tightening And Brightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevSkinTight" name="ElevSkinTight">
+<label value="Elevatione Spa Beauty Skin Tightening" for="ElevSkinTight">Elevatione Spa Beauty Skin Tightening</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevaCollLif" name="ElevaCollLif">
+<label value="Elevatione Spa Beauty Collagen Lifting" for="ElevaCollLif">Elevatione Spa Beauty Collagen Lifting</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevNonsFaceLift" name="ElevNonsFaceLift">
+<label value="Elevatione Spa Beauty Non-surgical Face Lift" for="ElevNonsFaceLift">Elevatione Spa Beauty Non-surgical Face Lift</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevationeSpaNBeautyLED" name="ElevationeSpaNBeautyLED">
+<label value="Elevatione Spa Beauty LED" for="ElevationeSpaNBeautyLED">Elevatione Spa Beauty LED</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevCollEnh" name="ElevCollEnh">
+<label value="Elevatione Spa Beauty Collagen Enhancing 79.95" for="ElevCollEnh">Elevatione Spa Beauty Collagen Enhancing 79.95</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevneSix" name="ElevneSix">
+<label value="Elevatione Spa Beauty Body Sculpting 99.95" for="ElevneSix">Elevatione Spa Beauty Body Sculpting 99.95</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevNonsNMi" name="ElevNonsNMi">
+<label value="Elevatione Spa Beauty Non-surgical Face Lift And Microdermabrasion" for="ElevNonsNMi">Elevatione Spa Beauty Non-surgical Face Lift And Microdermabrasion</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevRFF" name="ElevRFF">
+<label value="Elevatione Spa Beauty RF Facial" for="ElevRFF">Elevatione Spa Beauty RF Facial</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElElevNsFlMesoevRFF" name="ElevNsFlMeso">
+<label value="Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial" for="ElevNsFlMeso">Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevMicrod" name="ElevMicrod">
+<label value="Elevatione Spa Beauty Microdermabrasion" for="ElevMicrod">Elevatione Spa Beauty Microdermabrasion</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ElevHydrag" name="ElevHydrag">
+<label value="Elevatione Spa Beauty HYDRAGLOW" for="ElevHydrag">Elevatione Spa Beauty HYDRAGLOW</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="ElevCollBoost" name="ElevCollBoost">
+  <label value="Elevatione Spa Beauty Collagen Boosting 69.95" for="ElevCollBoost">Elevatione Spa Beauty Collagen Boosting 69.95</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="ElevaCollFacial" name="ElevaCollFacial">
+    <label value="Elevatione Spa Beauty Collagen Enhancing Facial" for="ElevaCollFacial">Elevatione Spa Beauty Collagen Enhancing Facial</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="ElevaGold" name="ElevaGold">
+      <label value="Elevatione Spa Beauty Gold Collagen Facial" for="ElevaGold">Elevatione Spa Beauty Gold Collagen Facial</label>
+      </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="ElevaMicroneedle" name="ElevaMicroneedle">
+        <label value="Elevatione Spa Beauty Microneedling" for="ElevaMicroneedle">Elevatione Spa Beauty Microneedling</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="ElevaBody79" name="ElevaBody79">
+          <label value="Elevatione Spa Beauty Body Sculpting 79.95" for="ElevaBody79">Elevatione Spa Beauty Body Sculpting 79.95</label>
+          </div>
+
+          <div class="option">
+            <input type="radio" class="radio" id="ElevaBody69" name="ElevaBody69">
+            <label value="Elevatione Spa Beauty Body Sculpting 69.95" for="ElevaBody69">Elevatione Spa Beauty Body Sculpting 69.95</label>
+            </div>
+
+          <div class="option">
+            <input type="radio" class="radio" id="ElevaColMeso" name="ElevaColMeso">
+            <label value="Elevatione Spa Beauty Collagen Mesotherapy Facial" for="ElevaColMeso">Elevatione Spa Beauty Collagen Mesotherapy Facial</label>
+            </div>
+
+            <div class="option">
+              <input type="radio" class="radio" id="ElevaH2O69" name="ElevaH2O69">
+              <label value="Elevatione Spa Beauty H2O Oxygen Facial 69" for="ElevaH2O69">Elevatione Spa Beauty H2O Oxygen Facial 69</label>
+              </div>
+
+              <div class="option">
+                <input type="radio" class="radio" id="ElevaLED59" name="ElevaLED59">
+                <label value="Elevatione Spa LED 59.95" for="ElevaLED59">Elevatione Spa LED 59.95</label>
+                </div>
+
+<div class="option">
+<input type="radio" class="radio" id="AdoreEstero" name="AdoreEstero">
+<label value="Adore Estero" for="AdoreEstero">Adore Estero</label>
+</div>
+
+<!-- <div class="option">
+<input type="radio" class="radio" id="FlawlessWayne" name="FlawlessWayne">
+<label value="Flawless Wayne" for="FlawlessWayne">Flawless Wayne</label>
+</div> -->
+
+<div class="option">
+  <input type="radio" class="radio" id="FlawlessWayneNinePROMO" name="FlawlessWayneNinePROMO">
+  <label value="Flawless Wayne $99.95 PROMO" for="FlawlessWayneNinePROMO">Flawless Wayne $99.95 PROMO</label>
+  </div>
+
+<div class="option">
+  <input type="radio" class="radio" id="FlawlessWayneSixPROMO" name="FlawlessWayneSixPROMO">
+  <label value="Flawless Wayne $69.95 PROMO" for="FlawlessWayneSixPROMO">Flawless Wayne $69.95 PROMO</label>
+  </div>
+
+<div class="option">
+<input type="radio" class="radio" id="PredireStPete" name="PredireStPete">
+<label value="Pred Beauty St. Petersburg" for="PredireStPete">Pred Beauty St. Petersburg</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="AVOLOGIEneoVictoria" name="AVOLOGIEneoVictoria">
+<label value="AVOLOGI Eneo Victoria" for="AVOLOGIEneoVictoria">AVOLOGI Eneo Victoria</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="AvologiVictoriaNonSurgicalFacelift" name="AvologiVictoriaNonSurgicalFacelift">
+  <label value="AVOLOGI Eneo Victoria Non-Surgical Facelift" for="AvologiVictoriaNonSurgicalFacelift">AVOLOGI Eneo Victoria Non-Surgical Facelift</label>
+  </div>
+
+<div class="option">
+<input type="radio" class="radio" id="AVOLOGIEneoWoodgrove" name="AVOLOGIEneoWoodgrove">
+<label value="AVOLOGI Eneo Woodgrove" for="AVOLOGIEneoWoodgrove">AVOLOGI Eneo Woodgrove</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="AvologiWoodgroveNonSurgicalFacelift" name="AvologiWoodgroveNonSurgicalFacelift">
+  <label value="AVOLOGI Eneo Woodgrove Non-Surgical Facelift" for="AvologiWoodgroveNonSurgicalFacelift">AVOLOGI Eneo Woodgrove Non-Surgical Facelift</label>
+  </div>
+
+<div class="option">
+<input type="radio" class="radio" id="AVOLOGIMetro" name="AVOLOGIMetro">
+<label value="AVOLOGI Eneo Metrotown" for="AVOLOGIMetro">AVOLOGI Eneo Metrotown</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="AVLGIMetroEMS" name="AVLGIMetroEMS">
+<label value="AVOLOGI Eneo Metrotown EMS" for="AVLGIMetroEMS">AVOLOGI Eneo Metrotown EMS</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="ICETwentyOne" name="ICETwentyOne">
+<label value="ICE 21" for="ICETwentyOne">ICE 21</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="Stem SpaRedding" name="Stem SpaRedding">
+<label value="Stem Spa Redding" for="Stem SpaRedding">Stem Spa Redding</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="Stem SpaMedford" name="Stem SpaMedford">
+<label value="Stem Spa Medford" for="Stem SpaMedford">Stem Spa Medford</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="INGLOTCharlotte" name="INGLOTCharlotte">
+<label value="INGLOT Charlotte" for="INGLOTCharlotte">INGLOT Charlotte</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="PearlDeFloreAugusta" name="PearlDeFloreAugusta">
+<label value="Pearl De Flore Augusta" for="PearlDeFloreAugusta">Pearl De Flore Augusta</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="LuminousSkinTech" name="LuminousSkinTech">
+<label value="Luminous Skin-Tech" for="LuminousSkinTech">Luminous Skin-Tech</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="TresorRareLasOlas" name="TresorRareLasOlas">
+<label value="Tresor Rare Las Olas" for="TresorRareLasOlas">Tresor Rare Las Olas</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="SupremeBrea" name="SupremeBrea">
+<label value="Supreme Brea" for="SupremeBrea">Supreme Brea</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="BeYOU" name="BeYOU">
+<label value="Be YOU" for="BeYOU">Be YOU</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="LolaBeauTan" name="LolaBeauTan">
+<label value="Lola Beauty Tanger" for="LolaBeauTan">Lola Beauty Tanger</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="LolaBeauMes" name="LolaBeauMes">
+<label value="Lola Beauty Mesa" for="LolaBeauMes">Lola Beauty Mesa</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="LolaBeauMesf" name="LolaBeauMesf">
+<label value="Lola Beauty Mesa 59" for="LolaBeauMesf">Lola Beauty Mesa 59</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="oroFrisco" name="oroFrisco">
+<label value="Orogold Frisco" for="oroFrisco">Orogold Frisco</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="PremierPan" name="PremierPan">
+<label value="Premier Pensacola" for="PremierPan">Premier Pensacola</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="EsthClo" name="EsthClo">
+<label value="Esthetix Cloverdale" for="EsthClo">Esthetix Cloverdale</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="PrestigeCw" name="PrestigeCw">
+<label value="Prestige Clearwater" for="PrestigeCw">Prestige Clearwater</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="TierraMAP" name="TierraMAP">
+<label value="Tierra Med Spa AquaPure Hydro" for="TierraMAP">Tierra Med Spa AquaPure Hydration</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="TierraMAPSeven" name="TierraMAPSeven">
+<label value="Tierra Med Spa AquaPure Hydro 79.95" for="TierraMAPSeven">Tierra Med Spa AquaPure Hydration 79.95</label>
+</div>
+
+
+<div class="option">
+<input type="radio" class="radio" id="TierraMLED" name="TierraMLED">
+<label value="Tierra Med Spa LED" for="TierraMLED">Tierra Med Spa LED</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="TierraMGold" name="TierraMGold">
+  <label value="Tierra Med Spa Gold Collagen Facial" for="TierraMGold">Tierra Med Spa Gold Collagen Facial</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="TierraMedRedCarpet" name="TierraMedRedCarpet">
+    <label value="Tierra Med Spa Red Carpet Collagen Facial" for="TierraMedRedCarpet">Tierra Med Spa Red Carpet Collagen Facial</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="TierraMedHydraFacial" name="TierraMedHydraFacial">
+      <label value="Tierra Med Hydraglow Facial" for="TierraMedHydraFacial">Tierra Med Hydraglow Facial</label>
+      </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="TierraMedNonSurgicalLifting" name="TierraMedNonSurgicalLifting">
+        <label value="Tierra Med Non-Surgical Lifting Facial" for="TierraMedNonSurgicalLifting">Tierra Med Non-Surgical Lifting Facial</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="TierraMedCEFLED" name="TierraMedCEFLED">
+          <label value="Tierra Med Collagen Enhancing Facial with LED" for="TierraMedCEFLED">Tierra Med Collagen Enhancing Facial with LED</label>
+          </div>
+
+<div class="option">
+<input type="radio" class="radio" id="Boutique770LED" name="Boutique770LED">
+<label value="Boutique 770" for="Boutique770LED">Boutique 770</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="BioReviveLED" name="BioReviveLED">
+<label value="BioRevive LED" for="BioReviveLED">BioRevive LED</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="BioReviveCryoSkinBodySculpting" name="BioReviveCryoSkinBodySculpting">
+  <label value="BioRevive CryoSkin Body Sculpting" for="BioReviveCryoSkinBodySculpting">BioRevive CryoSkin Body Sculpting</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="BioReviveCryoSkinBodySculpting99" name="BioReviveCryoSkinBodySculpting99">
+    <label value="BioRevive CryoSkin Body Sculpting 99.95" for="BioReviveCryoSkinBodySculpting99">BioRevive CryoSkin Body Sculpting 99.95</label>
+    </div>
+
+<div class="option">
+<input type="radio" class="radio" id="BioReviveHIFU" name="BioReviveHIFU">
+<label value="BioRevive HIFU" for="BioReviveHIFU">BioRevive HIFU</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="NatuBlosLED" name="NatuBlosLED">
+<label value="Natural Blossom LED" for="NatuBlosLED">Natural Blossom LED</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="ATIKDeerFieldLED" name="ATIKDeerFieldLED">
+  <label value="ATIK Deerfield Beach LED" for="ATIKDeerFieldLED">ATIK Deerfield Beach LED</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="ATIKDeerFieldLaserL" name="ATIKDeerFieldLaserLaserL">
+    <label value="ATIK Deerfield Beach Laser Lipo" for="ATIKDeerFieldLaserL">ATIK Deerfield Beach Laser Lipo</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="ATIKDeerFieldBodySculpting" name="ATIKDeerFieldBodySculpting">
+      <label value="ATIK Deerfield Beach Body Sculpting" for="ATIKDeerFieldBodySculpting">ATIK Deerfield Beach Body Sculpting</label>
+      </div>
+
+<div class="option">
+<input type="radio" class="radio" id="AviniColl" name="AviniColl">
+<label value="Avinichi Spa Collagen" for="AviniColl">Avinichi Spa Collagen</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="HermeFayet" name="HermeFayet">
+<label value="Hermetise Fayetteville" for="HermeFayet">Hermetise Fayetteville</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="oroValn" name="oroValn">
+<label value="Orogold Valencia" for="oroValn">Orogold Valencia</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="PuvidaAB" name="PuvidaAB">
+<label value="Pura Vida AB" for="PuvidaAB">Pura Vida AB</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="WCtySpCr" name="WCtySpCr">
+<label value="West County Spa Center" for="WCtySpCr">West County Spa Center</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="RoseSpaled" name="RoseSpaled">
+<label value="Rose Spa" for="RoseSpaled">Rose Spa</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="RoseSpabody" name="RoseSpabody">
+<label value="Rose Spa Body Treatment" for="RoseSpabody">Rose Spa Body Treatment</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="RoseSpaNonSurgicalFacelift" name="RoseSpaNonSurgicalFacelift">
+  <label value="Rose Spa Non Surgical Facelift" for="RoseSpaNonSurgicalFacelift">Rose Spa Non Surgical Facelift</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="RoseSpaCollagenEnhancingFacial" name="RoseSpaCollagenEnhancingFacial">
+    <label value="Rose Spa Collagen Enhancing Facial" for="RoseSpaCollagenEnhancingFacial">Rose Spa Collagen Enhancing Facial</label>
+    </div>
+  
+    <div class="option">
+    <input type="radio" class="radio" id="RoseSpaSkinTighteningLED" name="RoseSpaSkinTighteningLED">
+    <label value="Rose Spa Skin Tightening LED" for="RoseSpaSkinTighteningLED">Rose Spa Skin Tightening LED</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="RoseSpaGoldFacial" name="RoseSpaGoldFacial">
+      <label value="Rose Spa Gold Collagen Facial" for="RoseSpaGoldFacial">Rose Spa Gold Collagen Facial</label>
+      </div>
+
+<div class="option">
+<input type="radio" class="radio" id="goldbsled" name="goldbsled">
+<label value="Gold Beauty Sacramento" for="goldbsled">Gold Beauty Sacramento</label>
+</div>
+
+<div class="option">
+<input type="radio" class="radio" id="beyondts" name="beyondts">
+<label value="Beyond The Spa" for="beyondts">Beyond The Spa</label>
+</div>
+
+<div class="option">
+  <input type="radio" class="radio" id="ATIKBocaLED" name="ATIKBocaLED">
+  <label value="ATIK Boca Raton LED" for="ATIKBocaLED">ATIK Boca Raton LED</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="ATIKBocaBodySculpting" name="ATIKBocaBodySculpting">
+    <label value="ATIK Boca Raton Body Sculpting" for="ATIKBocaBodySculpting">ATIK Boca Raton Body Sculpting</label>
+    </div>
+
+<div class="option">
+  <input type="radio" class="radio" id="GentleTouchBeauty" name="GentleTouchBeauty">
+  <label value="Gentle Touch Beauty" for="GentleTouchBeauty">Gentle Touch Beauty</label>
+  </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="GentleTouchBeautyLED99.95" name="GentleTouchBeautyLED99.95">
+    <label value="Gentle Touch Beauty LED 99.95" for="GentleTouchBeautyLED99.95">Gentle Touch Beauty LED 99.95</label>
+    </div>
+
+  <div class="option">
+    <input type="radio" class="radio" id="BensBeautySpa" name="BensBeautySpa">
+    <label value="Ben's Beauty Spa" for="BensBeautySpa">Ben's Beauty Spa</label>
+    </div>
+
+    <div class="option">
+      <input type="radio" class="radio" id="BensBeautyCollagenEnhancingFacial" name="BensBeautyCollagenEnhancingFacial">
+      <label value="Ben's Beauty Spa Collagen Enhancing Facial" for="BensBeautyCollagenEnhancingFacial">Ben's Beauty Spa Collagen Enhancing Facial</label>
+      </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="BensBeautyHydraglow" name="BensBeautyHydraglow">
+        <label value="Ben's Beauty Spa Hydraglow Facial" for="BensBeautyHydraglow">Ben's Beauty Spa Hydraglow Facial</label>
+        </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="BensBeautyCEFLED" name="BensBeautyCEFLED">
+          <label value="Ben's Beauty Spa Collagen Enhancing Facial with LED" for="BensBeautyCEFLED">Ben's Beauty Spa Collagen Enhancing Facial with LED</label>
+          </div>
+
+      <div class="option">
+        <input type="radio" class="radio" id="ResveratrolPhoenixAZ" name="ResveratrolPhoenixAZ">
+        <label value="Resveratrol" for="ResveratrolPhoenixAZ">Resveratrol</label>
+        </div>
+        
+        <div class="option">
+          <input type="radio" class="radio" id="ResveratrolPhoenixAZ59" name="ResveratrolPhoenixAZ59">
+          <label value="Resveratrol LED 59.95" for="ResveratrolPhoenixAZ59">Resveratrol LED 59.95</label>
+          </div>
+
+        <div class="option">
+          <input type="radio" class="radio" id="ResveratrolGoldFacial" name="ResveratrolGoldFacial">
+          <label value="Resveratrol Gold Collagen Facial" for="ResveratrolGoldFacial">Resveratrol Gold Collagen Facial</label>
+          </div>
+        
+        <div class="option">
+            <input type="radio" class="radio" id="StemSpaAnnArbor" name="StemSpaAnnArbor">
+            <label value="Stem Spa Ann Arbor" for="StemSpaAnnArbor">Stem Spa Ann Arbor</label>
+            </div>
+        
+        
+            <div class="option">
+                <input type="radio" class="radio" id="GreenBioticsWoodfield" name="GreenBioticsWoodfield">
+                <label value="GreenBiotics Woodfield" for="GreenBioticsWoodfield">GreenBiotics Woodfield</label>
+                </div>
+
+                <div class="option">
+                  <input type="radio" class="radio" id="InfinityPompanoBeach" name="InfinityPompanoBeach">
+                  <label value="Infinity Pompano Beach" for="InfinityPompanoBeach">Infinity Pompano Beach</label>
+                  </div>
+
+                  <div class="option">
+                    <input type="radio" class="radio" id="InfinityPompanoBeachNSCT" name="InfinityPompanoBeachNSCT">
+                    <label value="Infinity Spa Non-Surgical Collagen Treatment" for="InfinityPompanoBeachNSCT">Infinity Spa Non-Surgical Collagen Treatment</label>
+                    </div>
+
+                    <div class="option">
+                      <input type="radio" class="radio" id="SkinTechSpaBodySculptingSixNine" name="SkinTechSpaBodySculptingSixNine">
+                      <label value="SkinTech Spa Body Sculpting $69.95" for="SkinTechSpaBodySculptingSixNine">SkinTech Spa Body Sculpting $69.95</label>
+                      </div>
+
+                      <div class="option">
+                        <input type="radio" class="radio" id="SkinTechSpaCryoBodySculptingSixNine" name="SkinTechSpaCryoBodySculptingSixNine">
+                        <label value="SkinTech Spa Cryogenic Body Sculpting $69.95" for="SkinTechSpaCryoBodySculptingSixNine">SkinTech Spa Cryogenic Body Sculpting $69.95</label>
+                        </div>
+
+                        <div class="option">
+                          <input type="radio" class="radio" id="SkinTechSpaCollagenEnhancingFiveNine" name="SkinTechSpaCollagenEnhancingSixNine">
+                          <label value="SkinTech Spa Collagen Enhancing $59.95" for="SkinTechSpaCollagenEnhancingSixNine">SkinTech Spa Collagen Enhancing $59.95</label>
+                          </div>
+
+                          <div class="option">
+                            <input type="radio" class="radio" id="SkinTechHydraFacial" name="SkinTechHydraFacial">
+                            <label value="SkinTech Hydraglow" for="SkinTechHydraFacial">SkinTech Hydraglow</label>
+                            </div>
+
+                          <div class="option">
+                            <input type="radio" class="radio" id="SkinTechSpaLEDFiveNine" name="SkinTechSpaLEDFiveNine">
+                            <label value="SkinTech Spa LED $59.95" for="SkinTechSpaLEDFiveNine">SkinTech Spa LED $59.95</label>
+                            </div>
+
+                            <div class="option">
+                              <input type="radio" class="radio" id="SkinTechSpaLEDMen" name="SkinTechSpaLEDMen">
+                              <label value="SkinTech Spa Men's LED $59.95" for="SkinTechSpaLEDMen">SkinTech Spa Men's LED $59.95</label>
+                              </div>
+
+                              <div class="option">
+                                <input type="radio" class="radio" id="SkinTechSpaBodySculptingMen" name="SkinTechSpaBodySculptingMen">
+                                <label value="SkinTech Spa Men's Body Sculpting $69.95" for="SkinTechSpaBodySculptingMen">SkinTech Spa Men's Body Sculpting $69.95</label>
+                                </div>
+
+                        <div class="option">
+                          <input type="radio" class="radio" id="BotanifiqueSpa" name="BotanifiqueSpa">
+                          <label value="Botanifique Spa" for="BotanifiqueSpa">Botanifique Spa</label>
+                          </div>
+
+                          <div class="option">
+                            <input type="radio" class="radio" id="BotanifiqueEmporium" name="BotanifiqueEmporium">
+                            <label value="Botanifique - Emporium" for="BotanifiqueEmporium">Botanifique - Emporium</label>
+                            </div>
+
+                          <div class="option">
+                            <input type="radio" class="radio" id="GoodLifeSpa" name="GoodLifeSpa">
+                            <label value="Good Life Spa" for="GoodLifeSpa">Good Life Spa</label>
+                            </div>
+
+                            <div class="option">
+                              <input type="radio" class="radio" id="NeoLumoFlorence" name="NeoLumoFlorence">
+                              <label value="NeoLumo Florence" for="NeoLumoFlorence">NeoLumo Florence</label>
+                              </div>
+
+                              <div class="option">
+                                <input type="radio" class="radio" id="VeraBeautySpa" name="VeraBeautySpa">
+                                <label value="Vera Beauty Spa" for="VeraBeautySpa">Vera Beauty Spa</label>
+                                </div>
+
+                                <div class="option">
+                                  <input type="radio" class="radio" id="BUCareSpa" name="BUCareSpa">
+                                  <label value="BU Care Spa" for="BUCareSpa">BU Care Spa</label>
+                                  </div>
+
+                                  <div class="option">
+                                    <input type="radio" class="radio" id="BUCareSpaGoldFacial" name="BUCareSpaGoldFacial">
+                                    <label value="BU Care Spa Gold Collagen Facial" for="BUCareSpaGoldFacial">BU Care Spa Gold Collagen Facial</label>
+                                    </div>
+
+                                  <div class="option">
+                                    <input type="radio" class="radio" id="TheSoapTree" name="TheSoapTree">
+                                    <label value="The Soap Tree" for="TheSoapTree">The Soap Tree</label>
+                                    </div>
+
+                                    <div class="option">
+                                      <input type="radio" class="radio" id="CeciliaSpaCenter" name="CeciliaSpaCenter">
+                                      <label value="Cecilia Spa Center" for="CeciliaSpaCenter">Cecilia Spa Center</label>
+                                      </div>
+
+                                      <div class="option">
+                                        <input type="radio" class="radio" id="EsthetixGurnee" name="EsthetixGurnee">
+                                        <label value="Esthetix Gurnee" for="EsthetixGurnee">Esthetix Gurnee</label>
+                                        </div>
+
+                                        <div class="option">
+                                          <input type="radio" class="radio" id="GreenBioticsBartonCreekFiveNine" name="GreenBioticsBartonCreekFiveNine">
+                                          <label value="GreenBiotics Barton Creek 59.95" for="GreenBioticsBartonCreekFiveNine">GreenBiotics Barton Creek 59.95</label>
+                                          </div>
+
+                                          <div class="option">
+                                            <input type="radio" class="radio" id="GreenBioticsBartonCreekFourNine" name="GreenBioticsBartonCreekFourNine">
+                                            <label value="GreenBiotics Barton Creek 49.95" for="GreenBioticsBartonCreekFourNine">GreenBiotics Barton Creek 49.95</label>
+                                            </div>
+
+                                          <div class="option">
+                                            <input type="radio" class="radio" id="OraSempreMontana" name="OraSempreMontana">
+                                            <label value="OraSempre Montana" for="OraSempreMontana">OraSempre Montana</label>
+                                            </div>
+
+                                            <div class="option">
+                                              <input type="radio" class="radio" id="GreenBioticsPentagon" name="GreenBioticsPentagon">
+                                              <label value="GreenBiotics Pentagon" for="GreenBioticsPentagon">GreenBiotics Pentagon</label>
+                                              </div>
+
+                                              <div class="option">
+                                                <input type="radio" class="radio" id="LumiereByAdrianaLLF" name="LumiereByAdrianaLLF">
+                                                <label value="Lumiere By Adriana Laser Lipo Facial" for="LumiereByAdrianaLLF">Lumiere By Adriana Laser Lipo Facial</label>
+                                                </div>
+
+                                                <div class="option">
+                                                  <input type="radio" class="radio" id="LumiereByAdrianaLLFSixNine" name="LumiereByAdrianaLLFSixNine">
+                                                  <label value="Lumiere By Adriana Laser Lipo Facial $69.95" for="LumiereByAdrianaLLFSixNine">Lumiere By Adriana Laser Lipo Facial $69.95</label>
+                                                  </div>
+
+                                                <div class="option">
+                                                  <input type="radio" class="radio" id="LumiereByAdrianaCET" name="LumiereByAdrianaCET">
+                                                  <label value="Lumiere By Adriana Collagen Enhancing Treatment" for="LumiereByAdrianaCET">Lumiere By Adriana Collagen Enhancing Treatment</label>
+                                                  </div>
+
+                                                  <div class="option">
+                                                    <input type="radio" class="radio" id="LumiereByAdrianaCETSixNine" name="LumiereByAdrianaCETSixNine">
+                                                    <label value="Lumiere By Adriana Collagen Enhancing Treatment(instead of $399)" for="LumiereByAdrianaCETSixNine">Lumiere By Adriana Collagen Enhancing Treatment(instead of $399)</label>
+                                                    </div>
+
+                                                  <div class="option">
+                                                    <input type="radio" class="radio" id="LumiereByAdrianaBST" name="LumiereByAdrianaBST">
+                                                    <label value="Lumiere By Adriana Body Sculpting Treatment" for="LumiereByAdrianaBST">Lumiere By Adriana Body Sculpting Treatment</label>
+                                                    </div>
+
+                                                    <div class="option">
+                                                      <input type="radio" class="radio" id="LumiereByAdrianaBSTSixNine" name="LumiereByAdrianaBSTSixNine">
+                                                      <label value="Lumiere By Adriana Body Sculpting Treatment $69.95" for="LumiereByAdrianaBSTSixNine">Lumiere By Adriana Body Sculpting Treatment $69.95</label>
+                                                      </div>
+
+                                                      <div class="option">
+                                                        <input type="radio" class="radio" id="LumiereByAdrianaBSTFiftyNine" name="LumiereByAdrianaBSTFiftyNine">
+                                                        <label value="Lumiere By Adriana Body Sculpting Treatment $59.95" for="LumiereByAdrianaBSTFiftyNine">Lumiere By Adriana Body Sculpting Treatment $59.95</label>
+                                                        </div>
+
+                                                <div class="option">
+                                                  <input type="radio" class="radio" id="ColoradoMedLaserLED" name="ColoradoMedLaserLED">
+                                                  <label value="Colorado MedLaser LED" for="ColoradoMedLaserLED">Colorado MedLaser LED</label>
+                                                  </div>
+
+                                                  <div class="option">
+                                                    <input type="radio" class="radio" id="ColoradoMedLaserSkinTightening" name="ColoradoMedLaserSkinTightening">
+                                                    <label value="Colorado MedLaser Skin Tightening" for="ColoradoMedLaserSkinTightening">Colorado MedLaser Skin Tightening</label>
+                                                    </div>
+
+                                                    <div class="option">
+                                                      <input type="radio" class="radio" id="ColoradoMedLaserSkinTighteningSixNine" name="ColoradoMedLaserSkinTighteningSixNine">
+                                                      <label value="Colorado MedLaser Skin Tightening 69.95" for="ColoradoMedLaserSkinTighteningSixNine">Colorado MedLaser Skin Tightening 69.95</label>
+                                                      </div>
+
+                                                      <div class="option">
+                                                        <input type="radio" class="radio" id="ColoradoMedLaserSkinTighteningFiveNine" name="ColoradoMedLaserSkinTighteningFiveNine">
+                                                        <label value="Colorado MedLaser Skin Tightening 59.95" for="ColoradoMedLaserSkinTighteningFiveNine">Colorado MedLaser Skin Tightening 59.95</label>
+                                                        </div>
+
+                                                      <div class="option">
+                                                        <input type="radio" class="radio" id="ColoradoMedLaserCryoBodySculptingSixNine" name="ColoradoMedLaserCryoBodySculptingSixNine">
+                                                        <label value="Colorado MedLaser Cryo Body Sculpting 69.95" for="ColoradoMedLaserCryoBodySculptingSixNine">Colorado MedLaser Cryo Body Sculpting 69.95</label>
+                                                        </div>
+
+                                                    <div class="option">
+                                                      <input type="radio" class="radio" id="ColoradoMedLaserCryoBodySculpting" name="ColoradoMedLaserCryoBodySculpting">
+                                                      <label value="Colorado MedLaser Cryo Body Sculpting" for="ColoradoMedLaserCryoBodySculpting">Colorado MedLaser Cryo Body Sculpting</label>
+                                                      </div>
+
+                                                  <div class="option">
+                                                    <input type="radio" class="radio" id="DonnaEllaSpaLED" name="DonnaEllaSpaLED">
+                                                    <label value="Donna Ella Spa LED" for="DonnaEllaSpaLED">Donna Ella Spa LED</label>
+                                                    </div>
+
+                                                    <div class="option">
+                                                      <input type="radio" class="radio" id="RoyalBeeSpaLED" name="RoyalBeeSpaLED">
+                                                      <label value="Royal Bee Spa LED" for="RoyalBeeSpaLED">Royal Bee Spa LED</label>
+                                                      </div>
+
+                                                      <div class="option">
+                                                        <input type="radio" class="radio" id="RoyalBeeSpaLEDSixNine" name="RoyalBeeSpaLEDSixNine">
+                                                        <label value="Royal Bee Spa LED 69.95" for="RoyalBeeSpaLEDSixNine">Royal Bee Spa LED 69.95</label>
+                                                        </div>
+
+                                                      <div class="option">
+                                                        <input type="radio" class="radio" id="RilassareSpaLED" name="RilassareSpaLED">
+                                                        <label value="Rilassare Spa LED" for="RilassareSpaLED">Rilassare Spa LED</label>
+                                                        </div>
+
+                                                        <div class="option">
+                                                          <input type="radio" class="radio" id="EsthetixStAugLED" name="EsthetixStAugLED">
+                                                          <label value="Esthetix St. Augustine LED" for="EsthetixStAugLED">Esthetix St. Augustine LED</label>
+                                                          </div>
+
+                                                          <div class="option">
+                                                            <input type="radio" class="radio" id="EsthetixStAugLEDSixNine" name="EsthetixStAugLEDSixNine">
+                                                            <label value="Esthetix St. Augustine LED 69.95" for="EsthetixStAugLEDSixNine">Esthetix St. Augustine LED 69.95</label>
+                                                            </div>
+
+                                                          <div class="option">
+                                                            <input type="radio" class="radio" id="JoliVisageSpaLED" name="JoliVisageSpaLED">
+                                                            <label value="Joli Visage Spa LED" for="JoliVisageSpaLED">Joli Visage Spa LED</label>
+                                                            </div>
+
+                                                            <div class="option">
+                                                              <input type="radio" class="radio" id="AdoreEdmontonLED" name="AdoreEdmontonLED">
+                                                              <label value="Adore Edmonton LED" for="AdoreEdmontonLED">Adore Edmonton LED</label>
+                                                              </div>
+
+                                                              <div class="option">
+                                                                <input type="radio" class="radio" id="BeautyEssentialsLED" name="BeautyEssentialsLED">
+                                                                <label value="Beauty Essentials LED" for="BeautyEssentialsLED">Beauty Essentials LED</label>
+                                                                </div>
+
+                                                              <div class="option">
+                                                                <input type="radio" class="radio" id="ISHAbwLED" name="ISHAbwLED">
+                                                                <label value="ISHA Collagen Enhancing" for="ISHAbwLED">ISHA Collagen Enhancing</label>
+                                                                </div>
+
+                                                                <div class="option">
+                                                                  <input type="radio" class="radio" id="ISHAbwbSculp" name="ISHAbwbSculp">
+                                                                  <label value="ISHA Collagen Enhancing" for="ISHAbwbSculp">ISHA Body Sculpting</label>
+                                                                  </div>
+
+                                                                <div class="option">
+                                                                  <input type="radio" class="radio" id="YandGBoutiqueSpaLED" name="YandGBoutiqueSpaLED">
+                                                                  <label value="Y and G Boutique LED" for="YandGBoutiqueSpaLED">Y and G Boutique LED</label>
+                                                                  </div>
+
+                                                                  <div class="option">
+                                                                    <input type="radio" class="radio" id="IntrostemCRLED" name="IntrostemCRLED">
+                                                                    <label value="Introstem Chicago Ridge LED" for="IntrostemCRLED">Introstem Chicago Ridge LED</label>
+                                                                    </div>
+
+                                                                    <div class="option">
+                                                                      <input type="radio" class="radio" id="IntrostemSpokaneLED" name="IntrostemSpokaneLED">
+                                                                      <label value="Introstem Spokane LED" for="IntrostemSpokaneLED">Introstem Spokane LED</label>
+                                                                      </div>
+
+                                                                      <div class="option">
+                                                                        <input type="radio" class="radio" id="LavelierSpokaneLED" name="LavelierSpokaneLED">
+                                                                        <label value="Lavelier Spokane LED" for="LavelierSpokaneLED">Lavelier Spokane LED</label>
+                                                                        </div>
+
+                                                                        <div class="option">
+                                                                          <input type="radio" class="radio" id="PredirePrestigeLED" name="PredirePrestigeLED">
+                                                                          <label value="Predire Prestige LED" for="PredirePrestigeLED">Predire Prestige LED</label>
+                                                                          </div>
+
+                                                                          <div class="option">
+                                                                            <input type="radio" class="radio" id="IntrostemAlderwoodLED" name="IntrostemAlderwoodLED">
+                                                                            <label value="Introstem Alderwood LED" for="IntrostemAlderwoodLED">Introstem Alderwood LED</label>
+                                                                            </div>
+
+                                                                            <div class="option">
+                                                                              <input type="radio" class="radio" id="RoyalBeeRosemontLED" name="RoyalBeeRosemontLED">
+                                                                              <label value="Royal Bee Rosemont LED" for="RoyalBeeRosemontLED">Royal Bee Rosemont LED</label>
+                                                                              </div>
+
+                                                                              <div class="option">
+                                                                                <input type="radio" class="radio" id="IntrostemCarlsbadCEF" name="IntrostemCarlsbadCEF">
+                                                                                <label value="Introstem Carlsbad Collagen Enhancing Facial" for="IntrostemCarlsbadCEF">Introstem Carlsbad Collagen Enhancing Facial</label>
+                                                                                </div>
+
+                                                                                <div class="option">
+                                                                                  <input type="radio" class="radio" id="IntrostemCarlsbadBSE" name="IntrostemCarlsbadBSE">
+                                                                                  <label value="Introstem Carlsbad Body Sculpting" for="IntrostemCarlsbadBSE">Introstem Carlsbad Body Sculpting</label>
+                                                                                  </div>
+
+                                                                                  <div class="option">
+                                                                                    <input type="radio" class="radio" id="LavelierLongviewLED" name="LavelierLongviewLED">
+                                                                                    <label value="Lavelier Longview LED" for="LavelierLongviewLED">Lavelier Longview LED</label>
+                                                                                    </div>
+
+                                                                                    <div class="option">
+                                                                                      <input type="radio" class="radio" id="GoldSpaRosevilleLED" name="GoldSpaRosevilleLED">
+                                                                                      <label value="Gold Spa Roseville LED" for="GoldSpaRosevilleLED">Gold Spa Roseville LED</label>
+                                                                                      </div>
+
+                                                                                      <div class="option">
+                                                                                        <input type="radio" class="radio" id="BeeAndCoSpaOlympiaLED" name="BeeAndCoSpaOlympiaLED">
+                                                                                        <label value="Bee and Co Olympia LED" for="BeeAndCoSpaOlympiaLED">Bee and Co Olympia LED</label>
+                                                                                        </div>
+
+                                                                                        <div class="option">
+                                                                                          <input type="radio" class="radio" id="TheGlowCollagenFacial" name="TheGlowCollagenFacial">
+                                                                                          <label value="The Glow Med Spa Collagen Enhancing Facial" for="TheGlowCollagenFacial">The Glow Med Spa Collagen Enhancing Facial</label>
+                                                                                          </div>
+
+                                                                                          <div class="option">
+                                                                                            <input type="radio" class="radio" id="TheGlowBodySculpting" name="TheGlowBodySculpting">
+                                                                                            <label value="The Glow Med Spa Body Sculpting" for="TheGlowBodySculpting">The Glow Med Spa Body Sculpting</label>
+                                                                                            </div>
+
+                                                                                            <div class="option">
+                                                                                              <input type="radio" class="radio" id="Dor24kPrestigeSpaLED" name="Dor24kPrestigeSpaLED">
+                                                                                              <label value="D'or24k Prestige Spa LED" for="Dor24kPrestigeSpaLED">D'or24k Prestige Spa LED</label>
+                                                                                              </div>
+
+                                                                          
+    
+  
+
+
+    </div>
+    <div class="selected">
+        Select Spa
+    </div>
+    <div class="search-box">
+        <input type="text" placeholder="Search...">
+    </div>
+</div>
+</div>
+        
+<div class="w-100 mt-3 ml-auto mr-auto text-black">
+<p class="text-center">Spa's Direct Link: <a href="#" id="newSpaLink" target="_blank"><span class="varWebLink"></span></a></p>
+</div>
+
+<div class="w-100 mt-3 ml-auto mr-auto text-black">
+<p class="text-center">Spa's Direct Phone: <span id="newSpaPhoneNumber"></span>   <button style="margin-left:15px" type="button" class="copy-udi" onclick="copyEvent('newSpaPhoneNumber')"><i  class="text-right far fa-copy"></i></button>
+</p>
+</div>
+
+
+<!-- NEW CHOOSE SPA END -->
+
+
+
+
+        <div  class="mt-3 container-fluid appform d-flex flex-column ">
+                <div class="pickspa w-100">
+                
+                </div>
+                <div class="Main-form-continer d-flex flex-row">
+                <div class="container-fluid text-center form-box-one col-4 d-flex flex-column align-content-around justify-content-center">
+                <!-- USER DATA ENTRY -->
+
+                <label for="empName"></label>
+                <select name="empName" id="empName">
+                  <option value="Account Manager">Account Manager</option>
+                  <option value="Aby">Aby</option>
+                  <option value="Adrianne">Adrianne</option>
+                  <option value="Christina">Christina</option>
+                  <option value="Caroline">Caroline</option>
+                  <option value="Matthew">MATT</option>
+                  <option value="Wanda">WANDA</option>
+                  <option value="James">James</option>
+                  <option value="Michelle">MICHELLE</option>
+                  <option value="Ina">Ina</option>
+                  <option value="Maria">Maria</option>
+                  <option value="Keanna">Keanna</option>
+                  <option value="Jeremiah">Jeremiah</option>
+                  <option value="Mary">Mary</option>
+                  <option value="Mia">Mia</option>
+                  <option value="Charlene">Charlene</option>
+                  <option value="Rachel">Jizza</option>
+                  <option value="Olivia">Olivia</option>
+                  <option value="Elaine">Elaine</option>
+                  <option value="Melissa">Melissa</option>
+                  <option value="Jessica">Jessica</option>
+                  <option value="Roxy">Roxy</option>
+                  <option value="Joe">Joe</option>
+                  <option value="Dana">Dana</option>
+                  <option value="Geri">Geri</option>
+                  <option value="Rachel">Rachel</option>
+                  <option value="Ralph">Ralph</option>
+                  <option value="Tricia">Tricia</option>
+                  <option value="Matthew">Matthew</option>
+                  <option value="Catherine">Catherine</option>
+                  <option value="Rel">Rel</option>
+                  <option value="Sana">Sana</option>
+                  <option value="Jen">Jen</option>
+                  <option value="Erica">Erica</option>
+                  <option value="Hazel">Maria Hazel</option>
+                  <option value="Kristin">Kristin Evale</option>
+                  <option value="Christine">Christine</option>
+                  <option value="Arlene">Arlene</option>
+                  <option value="Aya">Aya</option>
+                  <option value="Suzanne">Suzanne</option>
+                  <option value="Karmela">Karmela</option>
+                  <option value="Trisha">Trisha</option>
+                  <option value="Chris">Chris</option>
+                  <option value="Nina">Nina</option>
+                  <option value="Anthony">Anthony</option>
+                  <option value="Debrah">Debrah</option>
+                  <option value="Lyka">Lyka</option>
+                  <option value="Lowie">Lowie</option>
+                  <option value="AJ">AJ</option>
+                <option value="Jam">Jam</option>
+                <option value="Faye">Faye</option>
+                <option value="Jess">Jess</option>
+                <option value="Nessa">Nessa</option>
+                <option value="Trish">Trish</option>
+                <option value="Alyssa">Alyssa</option>
+                <option value="Jojo">Jojo</option>
+                <option value="Nesly">Nesly</option>
+                <option value="Adrian">Adrian</option>
+                <option value="Janine">Janine</option>
+                <option value="Ari">Ari</option>
+                <option value="Michelle">Michelle</option>
+                <option value="Janelle">Janelle</option>
+                <option value="Jade">Jade</option>
+                <option value="Niel">Niel</option>
+                <option value="Andrea">Andrea</option>
+                <option value="Angel">Angel</option>
+                <option value="Belle">Belle</option>
+                <option value="Kaye">Kaye</option>
+                <option value="Louise">Louise</option>
+                <option value="Yvette">Yvette</option>
+                <option value="Grace">Grace</option>
+                <option value="Patch">Patch</option>
+                <option value="Mel">Mel</option>
+                <option value="Bel">Bel</option>
+                <option value="Ashley">Ashley</option>
+                <option value="Gie">Gie</option>
+                  
+                </select><br>
+
+                <!-- <label for="empName"></label><input placeholder="Representative" id="empName" type="text"><br> -->
+                <label for="custName"></label><input placeholder="Customer Name" id="custName" type="text"><br>
+            </div>
+            <div class="container-fluid text-center form-box-two col-4 d-flex flex-column align-content-center justify-content-around">
+                <div class="mb-3 mt-2">
+                    <label  for="aptDateMonth"></label>
+                    <select for="aptDateMonth"class="" id="aptDateMonth" >
+                        <option value="Select Month">Month</option>
+                        <option value="01">1</option>
+                        <option value="02">2</option>
+                        <option value="03">3</option>
+                        <option value="04">4</option>
+                        <option value="05">5</option>
+                        <option value="06">6</option>
+                        <option value="07">7</option>
+                        <option value="08">8</option>
+                        <option value="09">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                    </select>
+
+                    <label  for="aptDateDay"></label>
+                    <select name="aptDateDay" class="" id="aptDateDay">
+                      <option value="Select Day">Day</option>
+                        <option value="01">1</option>
+                        <option value="02">2</option>
+                        <option value="03">3</option>
+                        <option value="04">4</option>
+                        <option value="05">5</option>
+                        <option value="06">6</option>
+                        <option value="07">7</option>
+                        <option value="08">8</option>
+                        <option value="09">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                        <option value="13">13</option>
+                        <option value="14">14</option>
+                        <option value="15">15</option>
+                        <option value="16">16</option>
+                        <option value="17">17</option>
+                        <option value="18">18</option>
+                        <option value="19">19</option>
+                        <option value="20">20</option>
+                        <option value="21">21</option>
+                        <option value="22">22</option>
+                        <option value="23">23</option>
+                        <option value="24">24</option>
+                        <option value="25">25</option>
+                        <option value="26">26</option>
+                        <option value="27">27</option>
+                        <option value="28">28</option>
+                        <option value="29">29</option>
+                        <option value="30">30</option>
+                        <option value="31">31</option>
+
+                    </select>
+                </div>
+                <div class="mt-3 mb-3">
+                    <label  for="aptTime"></label>
+                    <select name="aptTime" class="" id="aptTime">
+                      <option value="Select Time">Select Time</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+
+                    </select>
+                    <!-- minutesOfTime -->
+                    <label  for="minutesOfTime"></label>
+                    <select name="minutesOfTime" id="minutesOfTime">
+                      <option value=":00">00</option>
+                      <option value=":15">15</option>
+                      <option value=":30">30</option>
+                      <option value=":45">45</option>
+                  </select>
+                    <!-- minutsOfTime -->
+                    <label  for="aptTimeAmPm"></label>  
+                    <select name="aptTimeAmPm" id="aptTimeAmPm">
+                        <option value="Select AM/PM">AM/PM</option>
+                        <option value="PM">PM</option>
+                        <option value="AM">AM</option>
+                    </select>
+                </div>
+            </div>
+            <div class="container-fluid form-box-three col-4 d-flex flex-column align-content-center justify-content-center text-center">
+              <p class="mt-2 bolder"> PROMO PRICE: <span class="varPromoPrice"></span></p><br>
+              <!-- USER DATA ENTRY END --> 
+              
+                <!-- CHOOSE ADDONS -->
+                <label for="chooseAddons"></label>
+                <select name="chooseAddons" id="chooseAddons">
+                  <option value="None">No Addons</option>
+                  <option value="Vitamin C Booster +$30"><strong>Vitamin C</strong> Booster +$30</option>
+                  <option value="Vitamin E Booster +$30"><strong>Vitamin E</strong> Booster +$30</option>
+                  <option value="Collagen Booster +$30">Collagen Booster +$30</option>
+                  <option value="Collagen & Vitamin C Booster +$60">Collagen & <strong>Vitamin C</strong> Booster +$60</option>
+                  <option value="Collagen & Vitamin E Booster +$60">Collagen & <strong>Vitamin E</strong> Booster +$60</option>
+                  <option value="Hydration Mask Booster +$30">Hydration Mask Booster +$30</option>
+                  
+                </select><br>
+                <!-- CHOOSE ADDONS END -->
+                            </div>
+        </div>
+            <button  class="submitBtn align-self-center " type="button" onclick="updateForm()">UPDATE</button>
+            <h6 class="col-12 text-center mt-0 mb-4">(Click TWICE)</h6>
+
+        </div>
+    </div>
+    <!-- TEXTS AREA -->
+    <div class="contianer-fluid texts-wrapper w-100 ">
+
+
+      <!-- MAIN TEXTS WRAPPER -->
+
+      <div class="accordion accordion-flush textsAccordion bg-primary" id="accordionWrapper">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="wrapperHeaderOne">
+            <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#headerCollapseOne" aria-expanded="false" aria-controls="headerCollapseOne">
+              LEADS FUNNEL TEXTS
+            </button>
+          </h2>
+          <div id="headerCollapseOne" class="accordion-collapse collapse " aria-labelledby="wrapperHeaderOne" data-bs-parent="#accordionWrapper">
+            <div class="accordion-body">
+
+              <div class="accordion accordion-flush textsAccordion" id="LeadsFunnelAccordion">
+
+                <div class="accordion-item ">
+                  <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        Welcome Text (Lead Created)
+                    </button>
+                  </h2>
+                  <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                        <p id="AnswerOne">
+                            Hi <span class="varCustName"></span>,<br>
+                            I was happy to see we have received an inquiry from you on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
+                            I’ll try to get a hold of you to help you book your appointment and answer any questions you may have.<br><br>
+                            Nice to e-meet you!<br>
+                            <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                            P.S. You can also book your appointment online using the link below:<br>
+                            <span class="varWebLink"></span><br><br>
+                            Reply STOP to opt out
+                        </p>
+                        <div class="d-flex justify-content-end">
+                          <button type="button" class="copy-udi" onclick="copyEvent('AnswerOne')"><i class=" text-right far fa-copy"></i></button>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item ">
+                  <h2 class="accordion-header" id="flush-headingWeekend">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseWeekend" aria-expanded="false" aria-controls="flush-collapseWeekend">
+                        Welcome Text (WEEKEND)
+                    </button>
+                  </h2>
+                  <div id="flush-collapseWeekend" class="accordion-collapse collapse" aria-labelledby="flush-headingWeekend" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                        <p id="AnswerWeekend">
+                            Hi <span class="varCustName"></span>,<br>
+                            I was happy to see we have received an inquiry from you on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
+                            I’ll try to get a hold of you after the weekend to help you book your appointment and answer any questions you may have.<br><br>
+                            Nice to e-meet you!<br>
+                            <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+
+                            P.S. You can also book your appointment online using the link below:<br>
+                            <span class="varWebLink"></span><br><br>
+                            Reply STOP to opt out
+                        </p>
+                        <div class="d-flex justify-content-end">
+                          <button type="button" class="copy-udi" onclick="copyEvent('AnswerWeekend')"><i class=" text-right far fa-copy"></i></button>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        Final Text Day 2 Call 3
+                    </button>
+                  </h2>
+                  <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                      <p id="AnswerTwo">
+                        Just making sure you got my last text.<br>
+                        We only have a few spots left for this promotion so I wanted to make sure you don’t miss out :)<br><br>
+                        To learn more about this revolutionary treatment (and in case you want to book your appointment) visit us at: <span class="varWebLink"></span><br>
+                        If you need any help, feel free to text / call me on this number.<br><br>
+    
+                        Have a great day!<br>
+                        <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out
+                    </p>
+                    <div class="d-flex justify-content-end">
+                      <button type="button" class="copy-udi" onclick="copyEvent('AnswerTwo')"><i class=" text-right far fa-copy"></i></button>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+
+                <!-- <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingThree">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                        Customer Isn't Interested
+                    </button>
+                  </h2>
+                  <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                      <p id="AnswerThree">
+                        Hi <span class="varCustName"></span>,<br>
+                        Thank you for taking my call today, here is a link to our web page to get some more information about the treatment.<br>
+                        <span class="varWebLink"></span><br><br>
+    
+                        I will extend this promotion for you for an additional 14 days, if you change your mind you can book an appointment at the bottom of the page or call/text me at this number.<br>
+    
+                        Thank you for your time!
+    
+                    </p>
+                    <div class="d-flex justify-content-end">
+                      <button type="button" class="copy-udi" onclick="copyEvent('AnswerThree')"><i class=" text-right far fa-copy"></i></button>
+                    </div>
+                  </div>
+                  </div>
+                </div> -->
+
+
+              </div>
+              
+
+            </div>
+          </div>
+          </div> 
+          
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="wrapperHeaderTwo">
+              <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#headerCollapseTwo" aria-expanded="false" aria-controls="headerCollapseTwo">
+                CONFIRMATIONS TEXTS (BOOKED)
+              </button>
+            </h2>
+            <div id="headerCollapseTwo" class="accordion-collapse collapse" aria-labelledby="wrapperHeaderTwo" data-bs-parent="#accordionWrapper">
+              <div class="accordion-body">
+                <div class="accordion accordion-flush textsAccordion" id="confirmationAccordion">
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFour">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                        Customer BOOKED But Didn't Verbally Confirmed
+                      </button>
+                    </h2>
+                    <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="AnswerFour">
+                        * ACTION REQUIRED *<br>
+                        Hi <span class="varCustName"></span>,<br>
+                        You have booked an appointment with us for an <span class="varTreatmentSelected"></span> on <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span>.<br><br>
+                        
+                        In order to finalize this appointment, we have to verbally confirm it over the phone. <br>
+                        I’ll try and get a hold of you later today to confirm this appointment and answer any questions you may have.<br><br>
+                        
+                        ** Please note, If we cannot verbally confirm your appointment by 8:00pm tomorrow, the date and time will be at risk of being forfeited to the next person on our waiting list due to the high demand.<br><br>
+                        
+                        Have a great day!<br>
+                        <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out
+                        
+                      </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerFour')"><i class=" text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                    
+<!--                      -->
+                    <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingBooked">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseBooked" aria-expanded="false" aria-controls="flush-collapseBooked">
+                        Booked but didnt verbally confirmed day 2
+                    </button>
+                    </h2>
+                    <div id="flush-collapseBooked" class="accordion-collapse collapse" aria-labelledby="flush-headingBooked" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                          <p id="AnswerBooked">
+                            * ACTION REQUIRED *<br>
+                            We've been trying to reach you to confirm the appointment you booked with us for an <span class="varTreatmentSelected"></span> on <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span>.<br><br>
+                            In order to finalize this appointment, we have to verbally confirm it over the phone.<br>
+                            Please give us a call back at this number if you still plan on arriving to your <span class="varTreatmentSelected"></span> appointment.<br><br>
+                  
+                            ** Please note, If we cannot verbally confirm your appointment by 8:00pm tonight, the date and time will be at risk of being forfeited to the next person on our waiting list due to the high demand.<br><br>
+                                    
+                            Hope to hear from you soon!<br>
+                            <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                            Reply STOP to opt out
+                          </p>
+                          <div class="d-flex justify-content-end">
+                            <button type="button" class="copy-udi" onclick="copyEvent('AnswerBooked')"><i class=" text-right far fa-copy"></i></button>
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+<!--                      -->
+                    
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFive">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                        Text After Customer Verbally Confirmed
+                    </button>
+                    </h2>
+                    <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="AnswerFive">Hi <span class="varCustName"></span>,<br>
+                        Thank you for taking the time to confirm your arrival to your upcoming  <span class="varChooseTreatment"></span> appointment:<br>
+                        Date: <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span><br>
+                        Time: <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span><br>
+                        Promo Price: $<span class="varPromoPrice"></span><br>
+                        Treatment Selected: <span class="varTreatmentSelected"></span><br>
+                        You Added: <span class="varAddons"></span><br>
+                        <span id="hideFour"> Duration: <span class="varDurationTotal"></span><br>
+                        <span class="varDurationOne"></span><br>
+                        <span class="varDurationTwo"></span></span><br><br>
+                        
+    
+                        Location:<br>
+                        <span class="varLocationName"></span><br>
+                        <span class="varLocationAddress"></span><br><br>
+    
+                        We will contact you 1 day prior to your appointment to confirm your arrival, please let us know if anything changes and you need to reschedule or cancel your appointment by texting or calling this number.<br><br>
+
+                        ***Promotional price will only be honored for clients arriving for the first time. Returning clients will be subjected to the full price of <span class="insteadOf"></span><br><br>
+                        Have a great day,<br>
+                        <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out
+    
+                        </p>
+                        <div class="d-flex justify-content-end">
+                          <button type="button" class="copy-udi" onclick="copyEvent('AnswerFive')"><i class=" text-right far fa-copy"></i></button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!--  -->
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingLink">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseLink" aria-expanded="false" aria-controls="flush-collapseLink">
+                        Text with Google Form Link
+                    </button>
+                    </h2>
+                    <div id="flush-collapseLink" class="accordion-collapse collapse" aria-labelledby="flush-headingLink" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="AnswerLink">
+                        Please click the link below to access our new client form. This will provide us with a better understanding of your skin type, its condition, and your goals:<br>
+                        <span class="varLocationFormLink"></span><br><br>
+    
+                        Have a great day,<br>
+                        <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out
+    
+                        </p>
+                        <div class="d-flex justify-content-end">
+                          <button type="button" class="copy-udi" onclick="copyEvent('AnswerLink')"><i class=" text-right far fa-copy"></i></button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!--  -->
+
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFifteen">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSixteen" aria-expanded="false" aria-controls="flush-collapseSixteen">
+                        3 Days Confirmation Text
+                    </button>
+                    </h2>
+                    <div id="flush-collapseSixteen" class="accordion-collapse collapse" aria-labelledby="flush-headingSixteen" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                          <p id="AnswerSixteen">
+                            * Please CONFIRM * <br>
+                            You have booked an appointment with us for an <span class="varTreatmentSelected"></span> on <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span></span>.<br>
+                            In order to finalize this appointment, we have to confirm it 3 days prior and 1 day prior.<br><br>
+                  
+                            You can simply type "CONFIRM" to this message or call this number to confirm.<br><br>
+                  
+                            ** Please note, If we cannot confirm your appointment by 4:00pm tomorrow, the date and time will be at risk of being forfeited to the next person on our waiting list due to the high demand.<br><br>
+                  
+                            Have a great day! <br>
+                            <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                            Reply STOP to opt out
+                          </p>
+                          <div class="d-flex justify-content-end">
+                            <button type="button" class="copy-udi" onclick="copyEvent('AnswerSixteen')"><i class=" text-right far fa-copy"></i></button>
+                          </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingSix">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                        Next Day Confirmation Text
+                    </button>
+                    </h2>
+                    <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="AnswerSix">
+                        * Appointment Confirmation *<br>
+                        We would like to confirm your arrival to your <span class="varTreatmentSelected"></span> tomorrow, <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span>.<br><br>
+                        Please type “CONFIRM” or give us a call back to this number so we can confirm your arrival!<br><br>
+                        ** Please note, If we cannot confirm your appointment by 6:00pm tonight, the date and time will be at risk of being forfeited to the next person on our waiting list due to the high demand.<br><br>
+
+                        Hope you have a lovely day!!<br>
+                        <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out
+                        
+                      </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerSix')"><i class=" text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+                  
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingSeven">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                        Confirmed Arrival A Day Before The Appointment
+                    </button>
+                    </h2>
+                    <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="AnswerSeven">
+                        Great! Your appointment for tomorrow has been successfully confirmed.<br><br>
+                        
+                        We have scheduled a skin care professional for your appointment. As a courtesy, please be sure to arrive at least 15 minutes prior to your appointment to get the full experience. <br> <br>
+    
+                        Our Location: <br>
+                        <span class="varLocationName"></span><br>
+                        <span class="varLocationAddress"></span><br><br>
+                                                
+                        See you tomorrow!<br><br>
+                        Reply STOP to opt out
+                        
+                      </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerSeven')"><i class=" text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                    </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingEight">
+                          <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
+                            Reminder Text (Sent On The Day Of The Appointment)
+                        </button>
+                        </h2>
+                        <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#confirmationAccordion">
+                          <div class="accordion-body">
+                            <p id="AnswerEight">
+                            * Appointment REMINDER *<br><br>
+                            Here are the details for your upcoming <span class="varTreatmentSelected"></span> TODAY; <br>
+                            Date: <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span><br>
+                            Time: <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span></span><br>
+                            Promo Price: $<span class="varPromoPrice"></span><br>
+                            You Added: <span class="varAddons"></span><br>
+                           <span id="hideThree">Duration: <span class="varDurationTotal"></span></span> <br>
+                          <span id="hideOne" class="varDurationOne"></span><br>
+                          <span id="hideTwo" class="varDurationTwo"></span><br><br>
+                            
+                            Our Location:<br>
+                            <span class="varLocationName"></span><br>
+                            <span class="varLocationAddress"></span><br><br><span class="varLocationActualPhone"></span><br><br>
+                            
+                            Kindly arrive 15 minutes prior to the scheduled time so you’ll get the full experience.<br><br>
+                                                          
+                            <!-- <span class="varLocationFormLink"></span><br><br> -->
+                            
+                            See you soon! :)<br><br>
+                            Reply STOP to opt out
+                          </p>
+                            <div class="d-flex justify-content-end">
+                              <button type="button" class="copy-udi" onclick="copyEvent('AnswerEight')"><i class=" text-right far fa-copy"></i></button>
+                            </div>
+                            
+                          </div>
+                        </div>
+                  </div>
+
+                  <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFollowUp">
+                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFollowUp" aria-expanded="false" aria-controls="flush-collapseFollowUp">
+                        Next Day Confirmation Follow Up
+                    </button>
+                    </h2>
+                    <div id="flush-collapseFollowUp" class="accordion-collapse collapse" aria-labelledby="flush-headingFollowUp" data-bs-parent="#confirmationAccordion">
+                      <div class="accordion-body">
+                        <p id="answerFollowUp">
+                          We were just calling to follow up on our previous text. <br>
+                          Please type “CONFIRM” if you still plan on arriving to your appointment tomorrow.
+                      </p>
+                        <div class="d-flex justify-content-end">
+                          <button type="button" class="copy-udi" onclick="copyEvent('answerFollowUp')"><i class=" text-right far fa-copy"></i></button>
+                        </div>
+                        
+                      </div>
+                    </div>
+              </div>
+
+                </div>
+              </div>
+            </div>
+            </div>    
+
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="wrapperHeaderThree">
+                <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#headerCollapseThree" aria-expanded="false" aria-controls="headerCollapseThree">
+                CANCELLATIONS RESCHEDULE & INFO
+                </button>
+              </h2>
+              <div id="headerCollapseThree" class="accordion-collapse collapse" aria-labelledby="wrapperHeaderThree" data-bs-parent="#accordionWrapper">
+                <div class="accordion-body">
+                  <div class="accordion accordion-flush textsAccordion" id="cancelAccordion">
+                    <div class="accordion-item">
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                          Reschedule Confirmation Text
+                        </button>
+                      </h2>
+                      <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix" data-bs-parent="#cancelAccordion">
+                        <div class="accordion-body">
+                          <p id="AnswerSix">
+                          Hi <span class="varCustName"></span>,<br>
+                          Your appointment has been rescheduled successfully!<br><br>
+                          
+                          Here are the details for your NEW upcoming Treatment:<br>
+                          Date: <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span><br>
+                          Time: <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span><br>
+                          Promo Price: $<span class="varPromoPrice"></span><br>
+                          Treatment Selected: <span class="varTreatmentSelected"></span><br><br>
+                          
+                          Our Location:<br>
+                          <span class="varLocationName"></span><br>
+                          <span class="varLocationAddress"></span><br><br>
+                          
+                          We will also contact you a day prior your appointment to verify your arrival.<br>
+                          *If this change wasn’t made by you please reply “NO” to this message.<br>
+                          ** To confirm your new appointment please reply “YES” <br><br>
+                          Reply STOP to opt out
+                        </p>
+                          <div class="d-flex justify-content-end">
+                            <button type="button" class="copy-udi" onclick="copyEvent('AnswerSix')"><i class=" text-right far fa-copy"></i></button>
+                          </div>
+                        </div>
+                          
+                        </div>
+                      </div>
+                  <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingTen">
+                    <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTen" aria-expanded="false" aria-controls="flush-collapseTen">
+                      Appointments Options to Reschedule
+                  </button>
+                  </h2>
+                  <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="flush-headingTen" data-bs-parent="#cancelAccordion">
+                    <div class="accordion-body">
+                      <p id="AnswerTen">
+                      Hi <span class="varCustName"></span>,<br>
+                      As promised, I have listed you some booking options below, let me know which one suits you best.<br>
+                      <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span>, <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span>, <input class="inlineBlock" type="text"><br><br>
+                      
+                      Our location:<br>
+                      <span class="varLocationName"></span><br>
+                      <span class="varLocationAddress"></span><br><br>
+                      
+                      Have a great day,<br>
+                      <span class="varRepName"></span>, <span class="varLocationName"></span><br><br>
+                      Reply STOP to opt out
+                    </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerTen')"><i class=" text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                  </div>
+            </div>
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingEleven">
+                <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEleven" aria-expanded="false" aria-controls="flush-collapseEleven">
+                  Double Booking Text (Reschedule)
+                </button>
+              </h2>
+              <div id="flush-collapseEleven" class="accordion-collapse collapse" aria-labelledby="flush-headingEleven" data-bs-parent="#cancelAccordion">
+                <div class="accordion-body">
+                  <p id="AnswerEleven">
+                  Hi <span class="varCustName"></span>,<br>
+                  <span class="varRepName"></span> here from <span class="varLocationName"></span><br>
+                  You have booked an appointment with us online on <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span><br>
+                  Unfortunately, we had a system glitch and we have you booked on a spot that is not available. <br>
+                  I tried calling you in order to help you reschedule this appointment, we can do it via text/call. <br>
+                  Please let me know what is best for you.<br><br>
+                  
+                  Sorry again, enjoy your day :)<br><br>
+                  Reply STOP to opt out
+                </p>
+                  <div class="d-flex justify-content-end">
+                    <button type="button" class="copy-udi" onclick="copyEvent('AnswerEleven')"><i class=" text-right far fa-copy"></i></button>
+                  </div>
+                </div>
+              </div>
+        </div>
+      <div class="accordion-item">
+          <h2 class="accordion-header" id="flush-headingTwelve">
+            <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwelve" aria-expanded="false" aria-controls="flush-collapseTwelve">
+              Booking Cancellation Text
+          </button>
+          </h2>
+          <div id="flush-collapseTwelve" class="accordion-collapse collapse" aria-labelledby="flush-headingTwelve" data-bs-parent="#cancelAccordion">
+            <div class="accordion-body">
+              <p id="AnswerTwelve">
+              Hi <span class="varCustName"></span>,<br>
+              Your appointment has been canceled successfully!<br><br>
+              
+              Canceled appointment details<br>
+              Date: <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span><br>
+              Time: <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span><br>
+              Price: $<span class="varPromoPrice"></span><br><br>
+              
+              Our Location:<br>
+              <span class="varLocationName"></span><br>
+              <span class="varLocationAddress"></span><br><br>
+              
+              If you would like to schedule another appointment in the future, you can do so by calling/texting this phone number or visiting us at<br>
+              <span class="varWebLink"></span><br><br>
+              
+              *If this change wasn’t made by you please reply “KEEP APT” to this message*<br><br>
+              Reply STOP to opt out
+            </p>
+              <div class="d-flex justify-content-end">
+                <button type="button" class="copy-udi" onclick="copyEvent('AnswerTwelve')"><i class=" text-right far fa-copy"></i></button>
+              </div>
+      
+            </div>
+          </div>
+      </div>
+      <div class="accordion-item">
+          <h2 class="accordion-header" id="flush-headingThirteen">
+            <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
+              More Information Text
+          </button>
+          </h2>
+          <div id="flush-collapseThirteen" class="accordion-collapse collapse" aria-labelledby="flush-headingThirteen" data-bs-parent="#cancelAccordion">
+            <div class="accordion-body">
+              <p id="AnswerThirteen">
+              Hi <span class="varCustName"></span>,<br> 
+      
+              As promised, here is a link where you can learn more about our treatment (and book one):<br> 
+              <span class="varWebLink"></span><br> <br> 
+              
+              Feel free to contact us via text/call at this number to book your appointment or with any questions and concerns you may have.<br> <br> 
+              
+              Have a great day,<br> 
+              <span class="varRepName"></span>, <span class="varLocationName"></span> <br><br>
+              Reply STOP to opt out
+            </p>
+              <div class="d-flex justify-content-end">
+                <button type="button" class="copy-udi" onclick="copyEvent('AnswerThirteen')"><i class=" text-right far fa-copy"></i></button>
+              </div>
+            </div>
+          </div>
+      </div>
+
+                  </div>
+                </div>
+              </div>
+              </div>    
+
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="wrapperHeaderFour">
+                  <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#headerCollapseFour" aria-expanded="false" aria-controls="headerCollapseFour">
+                  EMAILS
+                  </button>
+                </h2>
+                <div id="headerCollapseFour" class="accordion-collapse collapse" aria-labelledby="wrapperHeaderFour" data-bs-parent="#accordionWrapper">
+                  <div class="accordion-body">
+                    <div class="accordion accordion-flush textsAccordion" id="emailsAccordion">
+                      <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingFourteen">
+                          <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFourteen" aria-expanded="false" aria-controls="flush-collapseFourteen">
+                            EMAIL: WHEN PHONE IS INCORRECT
+                          </button>
+                        </h2>
+                        <div id="flush-collapseFourteen" class="accordion-collapse collapse " aria-labelledby="flush-headingFourteen" data-bs-parent="#emailsAccordion">
+                          <div class="accordion-body">
+                              <p id="AnswerFourteen">
+                                Subject: ACTION REQUIRED [Your <span class="varTreatmentSelected"></span>]<br>
+                                Hi <span class="varCustName"></span>,<br>
+                                I'm contacting you regarding the inquiry you left us on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
+                                The phone number you left on the form is not correct  (Customer's PHONE NUMBER) please let me know your correct contact information so that I'll be able to call you and answer all your questions about our spa or treatment.<br>
+                                If you prefer just to get more information via email that is fine as well.<br><br>
+                    
+                                Have a great day,<br>
+                                <span class="varRepName"></span>, <span class="varLocationName"></span>
+                    
+                              </p>
+                              <div class="d-flex justify-content-end">
+                                <button type="button" class="copy-udi" onclick="copyEvent('AnswerFourteen')"><i class=" text-right far fa-copy"></i></button>
+                              </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="flush-headingFifteen">
+                          <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFifteen" aria-expanded="false" aria-controls="flush-collapseFifteen">
+                            EMAIL: WHEN PHONE IS INCORRECT - Confirm booking
+                        </button>
+                        </h2>
+                        <div id="flush-collapseFifteen" class="accordion-collapse collapse" aria-labelledby="flush-headingFifteen" data-bs-parent="#emailsAccordion">
+                          <div class="accordion-body">
+                              <p id="AnswerFifteen">
+                                Subject: ACTION REQUIRED [Your <span class="varTreatmentSelected"></span>]<br>
+                                Hi <span class="varCustName"></span>,<br>
+                                I'm contacting you regarding the inquiry you left us on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
+                                The phone number you left on the form is not correct <input class="inlineBlock" type="number" placeholder="Customer's Phone Number"> please let me know your correct contact information so that I'll be able to call you and answer all your questions about our spa or treatment.<br>
+                                If you prefer just to get more information via email that is fine as well.<br>
+                                Unfortunately, We cannot approve an appointment that wasn’t confirmed verbally, so please reply to this email with your contact information or, you can just call/text our phone number which is <span class="varLocationPhone"></span><br><br>
+                                
+                                Have a great day,<br>
+                                <span class="varRepName"></span>, <span class="varLocationName"></span>           
+                              </p>
+                              <div class="d-flex justify-content-end">
+                                <button type="button" class="copy-udi" onclick="copyEvent('AnswerFifteen')"><i class=" text-right far fa-copy"></i></button>
+                              </div>
+                          </div>
+                        </div>
+                    </div>
+  
+                    </div>
+                  </div>
+                </div>
+                </div>    
+        </div>
+
     
 
 
-    function updateForm(){
-        //LOCATION NAME FORLOOP
-        for (let i = 0; i < locationNameArray.length; i++) {
-                locationNameArray[0].innerHTML = upDatedSpaName;
-                locationNameArray[i].innerHTML = upDatedSpaName;      
-                }
-    
-        //LOCATION ADDRESS FORLOOP
-        for (let i = 0; i < locationAddressArray.length; i++) {
-                locationAddressArray[0].innerHTML = upDatedSpaAddress;
-                locationAddressArray[i].innerHTML = upDatedSpaAddress;      
-                }
-
-        //LOCATION LINK FORLOOP
-        for (let i = 0; i < locationALinkArray.length; i++) {
-            locationALinkArray[0].innerHTML = upDatedSpaLINK;
-            locationALinkArray[i].innerHTML = upDatedSpaLINK; 
-                }
-
-                //LOCATION Phone FORLOOP
-        for (let i = 0; i < locationPhoneArray.length; i++) {
-            locationPhoneArray[0].innerHTML = upDatedSpaPhone;
-            locationPhoneArray[i].innerHTML = upDatedSpaPhone; 
-                }
-
-                //LOCATION Actual Phone FORLOOP
-        for (let i = 0; i < acutalLocationPhoneArray.length; i++) {
-            acutalLocationPhoneArray[0].innerHTML = upDatedActualSpaPhone;
-            acutalLocationPhoneArray[i].innerHTML = upDatedActualSpaPhone; 
-                }
+      <!-- MAIN END -->
 
 
-        //LOCATION WEB LINK FORLOOP
-        for (let i = 0; i < locationWebLinkArray.length; i++) {
-            locationWebLinkArray[0].innerHTML = upDatedSpaWebLINK;
-            locationWebLinkArray[i].innerHTML = upDatedSpaWebLINK; 
-                }
+    </div>
+    <!-- TEXTS AREA END -->
+    <!-- Variables TESTING -->
+        <!-- <div class="textbox mt-5">
+            <p>FULL DATE <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span></p>
+            <p>FULL Apt Time <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span></p>
+            <p>Rep Name: <span class="varRepName"></span></p>
+            <p>Customer Name: <span class="varCustName"></span></p>
+            <p>Appoitment Date Day: <span class="varAptDateDay"></span></p>
+            <p>Appoitment Date Month: <span class="varAptDateMonth"></span></p>
+            <p>Appoitment Time: <span class="varAptTime"></span></p>
+            <p>AM PM: <span class="varAptTimeAmPm"></span></p>
+            <p>minutes: <span class="varMinutesOfTime"></span></p>
+            <p>Promo Price: <span class="varPromoPrice"></span></p>
+            <p>Addons: <span class="varAddons"></span></p>
+            <p>Location Name: <span class="varLocationName"></span></p>
+            <p>Location Address: <span class="varLocationAddress"></span></p>
+            <p>Location Form Link: <span class="varLocationFormLink"></span></p>
+            <p>Location LP Link: <span class="varWebLink"></span></p>
+            <p>Appoitment Date: <span class="varAptDate"></span></p>
+            <p>Location Phone: <span class="varLocationPhone"></span></p>
+            <p>Treatment Duration total: <span class="varDurationTotal"></span></p>
+            <p>Treatment Duration one: <span class="varDurationOne"></span></p>
+            <p>Treatment Duration two: <span class="varDurationTwo"></span></p>
+            <p>Treatment Name: <span class="varTreatmentSelected"></span></p>
+            <p>Location Phone: <span class="varLocationActualPhone"></span></p>
+            <p>Instead Of Price: <span class="varinsteadOf"></span></p>
 
             
-        //Duration Total FORLOOP
-        for (let i = 0; i < DurationTotalArray.length; i++) {
-            DurationTotalArray[0].innerHTML = upDatedDurationTotal;
-            DurationTotalArray[i].innerHTML = upDatedDurationTotal; 
-                }
+        </div> -->
 
-                //Duration One FORLOOP
-        for (let i = 0; i < DurationOneArray.length; i++) {
-            DurationOneArray[0].innerHTML = upDatedDurationOne;
-            DurationOneArray[i].innerHTML = upDatedDurationOne; 
-                }
-
-                //Duration Two FORLOOP
-        for (let i = 0; i < DurationTwoArray.length; i++) {
-            DurationTwoArray[0].innerHTML = upDatedDurationTwo;
-            DurationTwoArray[i].innerHTML = upDatedDurationTwo;
-        }
-                
-
-        //Addons FORLOOP
-        for (let i = 0; i < addOnsArray.length; i++) {
-            addOnsArray[0].innerHTML = upDatedAddons;
-            addOnsArray[i].innerHTML = upDatedAddons; 
-                }
-                upDatedAddons = addOnsStatus.value;
-
-
-        // SWITCH FOR LOCATIONS INFORMATION
-        switch (spaNameStatus.innerHTML) {
-            case "Select Spa":
-                upDatedSpaName = "Please Select Spa Spa";
-                upDatedSpaAddress = "No Spa Selected";
-                upDatedSpaLINK = "No Spa Selected";
-                upDatedSpaWebLINK = "No Spa Selected";
-                upDatedSpaPhone = "No Spa Selected";
-                upDatedDurationTotal = "No Spa Selected";
-                upDatedDurationOne = "No Spa Selected";
-                upDatedDurationTwo = "No Spa Selected";
-                promoPrice = "No Spa Selected";
-                newSpaPhoneNumberSelected = "No Spa Selected";
-                insteadOfSpa = "No Spa Selected";
-                break;
-
-            case "Skin Analytics":
-                upDatedSpaName = "Skin Analytics Spa";
-                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-spa-led-promo"
-                upDatedSpaPhone = "(919) 321-1008";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes LED Light Session & a 15 minutes Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(919) 405-2586";
-                insteadOfSpa = "$350"
-                break;
-
-                case "Skin Analytics Gold Facial":
-                upDatedSpaName = "Skin Analytics Spa";
-                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
-                upDatedSpaPhone = "(919) 321-1008";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
-                promoPrice = "80"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(919) 405-2586";
-                insteadOfSpa = "$299"
-                break;
-
-                case "Skin Analytics Collagen Enhancing Facial":
-                upDatedSpaName = "Skin Analytics Spa";
-                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-collagen-enhancing-facial-promo-page"
-                upDatedSpaPhone = "(919) 321-1008";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Facial & a 15 minute Consultation"
-                promoPrice = "69.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-                treatmentSelected = "Collagen Enhancing Treatment";
-                newSpaPhoneNumberSelected = "(919) 405-2586";
-                insteadOfSpa = "$299"
-                break;
-
-                case "Skin Analytics Spa Skin Tightening Facial":
-                upDatedSpaName = "Skin Analytics Spa";
-                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-skin-tightening-treatment-with-hifu-led-page"
-                upDatedSpaPhone = "(919) 321-1008";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-                treatmentSelected = "Skin Tightening Treatment with HIFU & LED";
-                newSpaPhoneNumberSelected = "(919) 405-2586";
-                insteadOfSpa = "$399"
-                break;
-
-            case "Esthetix Raliegh":
-                upDatedSpaName = "Esthetix Spa";
-                upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
-                upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-nc-promo";
-                upDatedSpaPhone = "(984) 205-6033";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 30 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation"+"<br><br>"+"Dont Forget! You are eligeble for a 25% off your next purchase at our spa :)";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(919) 900-8271";
-                insteadOfSpa = "$350"
-                break;
-
-                case "The Bay Aesthetics Tampa":
-                upDatedSpaName = "The Bay Aesthetics Tampa";
-                upDatedSpaAddress = "1413 south howard avenue, Tampa, Florida 33606" +"<br>"+"(Soho building next to Clayton Gray Home)";
-                upDatedSpaLINK = "";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-bay-aesthetics";
-                upDatedSpaPhone = "(813)798-6023";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "";
-                upDatedDurationTwo = "";
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "non set";
-                insteadOfSpa = "$350"
-                break;
-                
-                case "Earth Sarasota":
-                upDatedSpaName = "Earth Spa";
-                upDatedSpaAddress = "380B saint Armands circle, Sarasota FL 34236" +"<br>"+"(Next to Ben & Jerrys)";
-                upDatedSpaLINK = "ask admin to add link";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sarasota-promo" ;
-                upDatedSpaPhone = "(941)789-8086";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(941) 302-5495";
-                insteadOfSpa = "$350"
-                break; 
-                
-                case "Forever Flawless Sarasota":
-                upDatedSpaName = "Forever Flawless Spa";
-                upDatedSpaAddress = "140 University Town Center Dr, Sarasota, FL 34243" +"<br>"+ "(The Mall at University Town Center, second floor next to Macy's)";
-                upDatedSpaLINK = "ask admin to add link";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-sar-promo";
-                upDatedSpaPhone = "(941)977-4893";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "none set";
-                insteadOfSpa = "$500"
-                break;
-
-                case "Esthetix Sarasota":
-                    upDatedSpaName = "Esthetix Spa";
-                    upDatedSpaAddress = "140 University Town Center Dr, Sarasota, FL 34243" +"<br>"+ "(The Mall at University Town Center, second floor next to Macy's)";
-                    upDatedSpaLINK = "https://forms.gle/oXDozKmQBfd5ewfQA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-sarasota-promo";
-                    upDatedSpaPhone = "(941) 867-8627";
-                    upDatedDurationTotal = "90 Minutes";
-                    upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                    upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                    promoPrice = "89.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
-                    treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(941) 302-5495";
-                    insteadOfSpa = "$350"
-                    break;
         
-                case "Voupre MD":
-                upDatedSpaName = "Voupre Spa";
-                upDatedSpaAddress = "211 Main St, Annapolis, MD 21401";
-                upDatedSpaLINK = "https://forms.gle/ZqMTRgNFz48hfLU48";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-spa-md" ;
-                upDatedSpaPhone = "(443) 545-3555";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(301) 775-3494";
-                insteadOfSpa = "$350"
-                break; 
 
-                case "Voupre Beverly Hills":
-                upDatedSpaName = "Voupre Spa Beverly Hills";
-                upDatedSpaAddress = "363 N Beverly Dr Beverly Hills, California 90210";
-                upDatedSpaLINK = "https://forms.gle/K4G86angPuq3yjmB7";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-ca-promo-page" ;
-                upDatedSpaPhone = "(310) 751-2750";
-                upDatedDurationTotal = "45 Minutes";
-                upDatedDurationOne = "- 15 Cleansing";
-                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 734-7031";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(310) 734-7031";
-                insteadOfSpa = "$350"
-                break; 
-
-                case "Beauty Frizz MD":
-                upDatedSpaName = "BeautyFrizz Spa";
-                upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
-                upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
-                upDatedSpaPhone = "(301) 291-7543";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 15 Minutes Cleansing";
-                upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                promoPrice = "99.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(301) 775-3494";
-                insteadOfSpa = "$350"
-                break; 
-
-                case "Beauty Frizz MD Body Sculpting":
-                    upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
-                    upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-bodysculpting-promo";
-                    upDatedSpaPhone = "(301) 291-7543";
-                    upDatedDurationTotal = "60 Minutes";
-                    upDatedDurationOne = "- 45 Minutes Body Sculpting";
-                    upDatedDurationTwo = "- 15 Minutes Consultation ";
-                    promoPrice = "120"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                    treatmentSelected = "Body Sculpting Treatment";
-                    newSpaPhoneNumberSelected = "(301) 775-3494";
-                    insteadOfSpa = "$500"
-                    break; 
-
-                case "Bee and Co":
-                    upDatedSpaName = "Bee and Co";
-                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
-                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
-                    upDatedSpaPhone = "(301)887-5495";
-                    upDatedDurationTotal = "60 Minutes";
-                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
-                    upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
-                    promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
-                    treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(747) 247-2204";
-                    insteadOfSpa = "$350"
-                    break; 
-
-                    case "Bee and Co 69.95":
-                    upDatedSpaName = "Bee and Co";
-                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
-                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
-                    upDatedSpaPhone = "(301)887-5495";
-                    upDatedDurationTotal = "60 Minutes";
-                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
-                    upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
-                    promoPrice = "69.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
-                    treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(747) 247-2204";
-                    insteadOfSpa = "$350"
-                    break;
-
-                        case "Kristals Burlington LED":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
-                            upDatedSpaPhone = "(289) 293-9711";
-                            upDatedDurationTotal = "50 Minutes";
-                            upDatedDurationOne = "- 10 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                            promoPrice = "79.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                            treatmentSelected = "LED Treatment";
-                            newSpaPhoneNumberSelected = "(647) 293-1112";
-                            insteadOfSpa = "$350"
-                            break; 
-
-                            case "Kristals Burlington AquaPure":
-                                upDatedSpaName = "Kristals Burlington Spa";
-                                upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                                upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-quapure-promo" ;
-                                upDatedSpaPhone = "(289) 293-9711";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = " 50 Minutes Aquapure Treatment & Consultation";
-                                upDatedDurationTwo = " ";
-                                promoPrice = "99.95"
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                                treatmentSelected = "AquaPure";
-                                newSpaPhoneNumberSelected = "(647) 293-1112";
-                                insteadOfSpa = "$350"
-                                break; 
-
-                            case "Kristals Barrie":
-                                upDatedSpaName = "Kristals Barrie Spa";
-                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
-                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-spa-led-promo-page" ;
-                                upDatedSpaPhone = "(705) 408-2681";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                                promoPrice = "79.95"
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
-                                treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(647) 787-7105";
-                                insteadOfSpa = "$350"
-                                break; 
-
-                                case "Kristals Barrie Non-Surgical Facelift":
-                                upDatedSpaName = "Kristals Barrie Spa";
-                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
-                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-non-surgical-facelift" ;
-                                upDatedSpaPhone = "(705) 408-2681";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
-                                upDatedDurationTwo = "- 15-minute Consultation";
-                                promoPrice = "79.95"
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
-                                treatmentSelected = "Non-Surgical Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(647) 787-7105";
-                                insteadOfSpa = "$350"
-                                break; 
-
-                                case "Adore Cookstown":
-                                    upDatedSpaName = "Adore spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
-                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(844) 377-7753";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Adore Cookstown Non Surgical Facelift":
-                                    upDatedSpaName = "Adore spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
-                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
-                                    upDatedDurationTwo = "- 15-minute Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-                                    treatmentSelected = "Non-Surgical Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(844) 377-7753";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Kristals Erin Mills LED":
-                                    upDatedSpaName = "Kristals Erin Mills spa";
-                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
-                                    upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
-                                    upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Light Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 293-1112";
-                                    insteadOfSpa = "$350"
-                                    break;       
-                                    
-                                    case "Kristals Erin Mills AquaPure":
-                                    upDatedSpaName = "Kristals Erin Mills spa";
-                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(1st floor, between Erin Mills Photo & Bluenotes)";
-                                    upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-anti-aging-aquapure-experience-promo-page" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 60 Minutes AquaPure Experience & Consultation";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "99.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                                    treatmentSelected = "AquaPure Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 293-1112";
-                                    insteadOfSpa = "$350"
-                                    break;       
-                    
-        
-                                        case "GreenBiotics Sherway Gardens":
-                                            upDatedSpaName = "GreenBiotics Spa";
-                                            upDatedSpaAddress = "CF Sherway Gardens,"+"<br>"+"25 The West Mall, Etobicoke, ON M9C 1B8" +"<br>"+"(First floor, next to Sephora)";
-                                            upDatedSpaLINK = "https://forms.gle/Lu4idBaYGDGdLYwt6";
-                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-sherwaygardens-led-promo" ;
-                                            upDatedSpaPhone = "(647) 259-6810";
-                                            upDatedDurationTotal = "60 Minutes";
-                                            upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                            upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
-                                            promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
-                                            treatmentSelected = "LED Treatment";
-                                            newSpaPhoneNumberSelected = "(647) 370-8733";
-                                            insteadOfSpa = "$350"
-                                            break;   
-                                                
-
-                                                    case "Rachels Beauty Scottsdale LED":
-                                                        upDatedSpaName = "Rachel’s Beauty Spa";
-                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(When you arrive at Sephora, turn right onto South Street, across from Skin Laundry.)";
-                                                        upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-led-promo-page" ;
-                                                        upDatedSpaPhone = "(480) 847-1841";
-                                                        upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 10 Minutes Light Cleansing";
-                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience & 20 Minutes Consultation";
-                                                        promoPrice = "59.95";
-                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
-                                                        treatmentSelected = "LED Treatment";
-                                                        newSpaPhoneNumberSelected = "(480) 808-9400";
-                                                        insteadOfSpa = "$350"
-                                                        break;   
-
-                                                                        case "Earth Lakeline Neck Tightening":
-                                                                            upDatedSpaName = "Earth Spa";
-                                                                            upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                            upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-neck-tightening-promo";
-                                                                            upDatedSpaPhone = "(512) 957-0399";
-                                                                            upDatedDurationTotal = "75 Minutes";
-                                                                            upDatedDurationOne = "- 50 Minutes Neck Tightening Experience";
-                                                                            upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                            promoPrice = "59.95";
-                                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "Neck Tightening Treatment";
-                                                                            newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                            insteadOfSpa = "$350"
-                                                                            break;
-
-                                                                            case "Earth Lakeline Non-Surgical Face Lift":
-                                                                                upDatedSpaName = "Earth Spa";
-                                                                                upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-non-surgical-fl-promo";
-                                                                                upDatedSpaPhone = "(512) 957-0399";
-                                                                                upDatedDurationTotal = "75 Minutes";
-                                                                                upDatedDurationOne = "- 50 Minutes Non-Surgical Face Lift Experience";
-                                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                promoPrice = "59.95";
-                                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                treatmentSelected = "Non-surgical Face Lift Treatment";
-                                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                insteadOfSpa = "$350"
-                                                                                break;
-
-                                                                                case "Earth Lakeline Rewind Facial Treatment":
-                                                                                    upDatedSpaName = "Earth Spa";
-                                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-rewind-promo";
-                                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                                    upDatedDurationTotal = "75 Minutes";
-                                                                                    upDatedDurationOne = "- 50 Minutes Rewind Facial Treatment";
-                                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                    promoPrice = "59.95";
-                                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Rewind Facial Treatment";
-                                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                    insteadOfSpa = "$350"
-                                                                                    break;
-
-                                                                                    case "Earth Lakeline LED Tightening":
-                                                                                    upDatedSpaName = "Earth Spa";
-                                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-led-tightening-promo";
-                                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                                    upDatedDurationTotal = "75 Minutes";
-                                                                                    upDatedDurationOne = "- 50 Minutes LED Tightening Treatment";
-                                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                    promoPrice = "59.95";
-                                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "LED Tightening";
-                                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                    insteadOfSpa = "$350"
-                                                                                    break;
-
-                                                                                    case "Earth Lakeline Age Reverse":
-                                                                                    upDatedSpaName = "Earth Spa";
-                                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-age-reverse-promo";
-                                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                                    upDatedDurationTotal = "75 Minutes";
-                                                                                    upDatedDurationOne = "- 50 Minutes Age Reverse Treatment";
-                                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                    promoPrice = "59.95";
-                                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Age Reverse";
-                                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                    insteadOfSpa = "$350"
-                                                                                    break;
-
-                                                                                    case "Earth Lakeline Collagen Lifting Facial":
-                                                                                        upDatedSpaName = "Earth Spa";
-                                                                                        upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                        upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-collagen-lifting-promo";
-                                                                                        upDatedSpaPhone = "(512) 957-0399";
-                                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                                        upDatedDurationOne = "- 50 Minutes Collagen Lifting Facial";
-                                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                        promoPrice = "59.95";
-                                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                        treatmentSelected = "Collagen Lifting Facial Treatment";
-                                                                                        newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                        insteadOfSpa = "$350"
-                                                                                        break;
-
-                                                                                        case "Earth Lakeline Elastin Tightening 70":
-                                                                                            upDatedSpaName = "Earth Spa";
-                                                                                            upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                            upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-elastin-tightening-promo";
-                                                                                            upDatedSpaPhone = "(512) 957-0399";
-                                                                                            upDatedDurationTotal = "75 Minutes";
-                                                                                            upDatedDurationOne = "- 50 Minutes Elastin Tightening Facial";
-                                                                                            upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                            promoPrice = "70";
-                                                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                            treatmentSelected = "Elastin Tightening Treatment";
-                                                                                            newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                            insteadOfSpa = "$350"
-                                                                                            break;
-                                                            
-                                                                                            case "Earth Lakeline Collagen Enhancing 70":
-                                                                                                upDatedSpaName = "Earth Spa";
-                                                                                                upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                                upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-collagen-enhancing-promo";
-                                                                                                upDatedSpaPhone = "(512) 957-0399";
-                                                                                                upDatedDurationTotal = "75 Minutes";
-                                                                                                upDatedDurationOne = "- 50 Minutes Collagen Enhancing Treatment";
-                                                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                                promoPrice = "70";
-                                                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                                treatmentSelected = "Collagen Enhancing Treatment";
-                                                                                                insteadOfSpa = "$350"
-                                                                                                break;
-
-                                                                                                case "Earth Round Rock LED Firming Facial (Face and Neck)":
-                                                                                                upDatedSpaName = "Earth Spa";
-                                                                                                upDatedSpaAddress = "Please write on Google maps: Salons By JC"+"<br>" + "(Inside Salons by JC, suite #4)";
-                                                                                                upDatedSpaLINK = "FORM";
-                                                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-roundrock-led-firming-face-neck-promo";
-                                                                                                upDatedSpaPhone = "(512) 887-1733";
-                                                                                                upDatedDurationTotal = "75 Minutes";
-                                                                                                upDatedDurationOne = "- 50 LED Firming Facial (Face&Neck)";
-                                                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                                promoPrice = "70";
-                                                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                                treatmentSelected = "LED Firming Facial Face & Neck Treatment";
-                                                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                                insteadOfSpa = "$350"
-                                                                                                break;
-
-                                                                                                case "Earth Round Rock RF Tightening And Brightening":
-                                                                                                upDatedSpaName = "Earth Spa";
-                                                                                                upDatedSpaAddress = "3021 S Frontage Rd"+"<br>" + "(Inside Salons by JC, suite #4)";
-                                                                                                upDatedSpaLINK = "FORM";
-                                                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthtech-roundrock-rftightbright-promo";
-                                                                                                upDatedSpaPhone = "(512) 887-1733";
-                                                                                                upDatedDurationTotal = "75 Minutes";
-                                                                                                upDatedDurationOne = "- 50 RF Tightening & Brightening Treatment";
-                                                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                                promoPrice = "70";
-                                                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                                treatmentSelected = "RF Tightening & Brightening Treatment";
-                                                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                                insteadOfSpa = "$350"
-                                                                                                break;
-
-                                                                                                
-
-                                                            case "Earth Lakeline HydroDermabrasion":
-                                                                upDatedSpaName = "Earth Spa";
-                                                                upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthtech-lakeline-hydrodermabrasion-promo";
-                                                                upDatedSpaPhone = "(512) 957-0399";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 15 Minutes Cleansing";
-                                                                upDatedDurationTwo = "- 45 Minutes HydroDermabrasion & Consultation";
-                                                                promoPrice = "70";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                treatmentSelected = "HydroDermabrasion Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                                case "Earth Lakeline Chin RF":
-                                                                upDatedSpaName = "Earth Spa";
-                                                                upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthtech-lakeline-rf-chin-promo";
-                                                                upDatedSpaPhone = "(512) 957-0399";
-                                                                upDatedDurationTotal = "75 Minutes";
-                                                                upDatedDurationOne = "- 50 Minutes RadioFrequency Chin";
-                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                promoPrice = "70";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                treatmentSelected = "Chin RF Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                            case "Earth Lakeline Age Defying":
-                                                                upDatedSpaName = "Earth Spa";
-                                                                upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthlakeline-spa-ad-promo";
-                                                                upDatedSpaPhone = "(512) 957-0399";
-                                                                upDatedDurationTotal = "75 Minutes";
-                                                                upDatedDurationOne = "- 50 Minutes LED Age Defying";
-                                                                upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                promoPrice = "70";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                treatmentSelected = "Age Defying Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                                case "Earth Lakeline Body Sculpting":
-                                                                    upDatedSpaName = "Earth Spa";
-                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-tech-lakeline-body-sculpting-body-sculpting-promo-page";
-                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                    upDatedDurationTotal = "85 Minutes";
-                                                                    upDatedDurationOne = "- 60 Minutes Body Sculpting";
-                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                    promoPrice = "79.95";
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                    treatmentSelected = "Body Sculpting Treatment";
-                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;
-
-                                                                    case "Earth Lakeline RF Tightening And Brightening":
-                                                                    upDatedSpaName = "Earth Spa";
-                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthtech-lakeline-rf-tightening-brightening-promo";
-                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                    upDatedDurationTotal = "85 Minutes";
-                                                                    upDatedDurationOne = "- 60 Minutes RF Tightening & Brightening";
-                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                    promoPrice = "79.95";
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                    treatmentSelected = "RF Tightening & Brightening Treatment";
-                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;
-
-                                                                    case "Earth Lakeline Perfect Skin Complexion Facial":
-                                                                        upDatedSpaName = "Earth Spa";
-                                                                        upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                        upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-akeline-perfectskincomplexion-promo";
-                                                                        upDatedSpaPhone = "(512) 957-0399";
-                                                                        upDatedDurationTotal = "85 Minutes";
-                                                                        upDatedDurationOne = "- 60 Minutes Perfect Skin Complexion Facial";
-                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                        promoPrice = "70";
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                        treatmentSelected = "Perfect Skin Complexion Facial Treatment";
-                                                                        newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;
-
-                                                                        case "Earth Lakeline Non-Surgical Lifting Facial":
-                                                                            upDatedSpaName = "Earth Spa";
-                                                                            upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                            upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-non-surgical-lifting-facial-promo";
-                                                                            upDatedSpaPhone = "(512) 957-0399";
-                                                                            upDatedDurationTotal = "85 Minutes";
-                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Facial";
-                                                                            upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                            promoPrice = "70";
-                                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "Non-surgical Lifting Facial Treatment";
-                                                                            newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                            insteadOfSpa = "$350"
-                                                                            break;
-
-                                                                            case "Earth Lakeline LED Firming Facial (Face and Neck)":
-                                                                            upDatedSpaName = "Earth Spa";
-                                                                            upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                            upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-led-firming-facial-face-amp-neck-promo";
-                                                                            upDatedSpaPhone = "(512) 957-0399";
-                                                                            upDatedDurationTotal = "85 Minutes";
-                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Facial";
-                                                                            upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                            promoPrice = "70";
-                                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "LED Firming Facial Face & Neck Treatment";
-                                                                            newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                            insteadOfSpa = "$350"
-                                                                            break;
-
-
-                                                                                case "Earth Lakeline Elastin Facial (Face and Neck)":
-                                                                                    upDatedSpaName = "Earth Spa";
-                                                                                    upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                    upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-elastin-facial-face-amp-neck-promo";
-                                                                                    upDatedSpaPhone = "(512) 957-0399";
-                                                                                    upDatedDurationTotal = "85 Minutes";
-                                                                                    upDatedDurationOne = "- 60 Minutes Elastin Facial (Face&Neck)";
-                                                                                    upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                    promoPrice = "70";
-                                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Elastin Faciel Face & Neck Treatment";
-                                                                                    newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                    insteadOfSpa = "$350"
-                                                                                    break;
-        
-                                                                                    case "Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage":
-                                                                                        upDatedSpaName = "Earth Spa";
-                                                                                        upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
-                                                                                        upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
-                                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-skin-tightening-facial-face-amp-neck-fsm-promo";
-                                                                                        upDatedSpaPhone = "(512) 957-0399";
-                                                                                        upDatedDurationTotal = "85 Minutes";
-                                                                                        upDatedDurationOne = "- 60 Minutes Skin Tightening Facial (Face & Neck) + Free Scalp Massage";
-                                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                                        promoPrice = "70"
-                                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                        treatmentSelected = "Skin Tightening Face & Neck Treatment";
-                                                                                        newSpaPhoneNumberSelected = "(512) 551-9944";
-                                                                                        insteadOfSpa = "$350"
-                                                                                        break;
-
-                                                                                    
-                                                                                    
-                                                        
-                                                            case "Earth Barton Creek Body Sculpting":
-                                                                upDatedSpaName = "Earth Tech Spa";
-                                                                upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
-                                                                upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-tech-barton-creek-body-sculpting-body-sculpting-promo-page";
-                                                                upDatedSpaPhone = "(512) 356-9260";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 60 Minutes Body Sculpting & Consultation";
-                                                                upDatedDurationTwo = " ";
-                                                                promoPrice = "79.95"
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                treatmentSelected = "Body Sculpting Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 992-0050";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                                case "Earth Barton Creek Neck Tightening":
-                                                                upDatedSpaName = "Earth Tech Spa";
-                                                                upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
-                                                                upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-tech-barton-creek-spa-led-neck-lift-promo-page";
-                                                                upDatedSpaPhone = "(512) 356-9260";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 60 Minutes Neck Lifting & Consultation";
-                                                                upDatedDurationTwo = " ";
-                                                                promoPrice = "59.95"
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                treatmentSelected = "Neck Tightening Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 992-0050";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                                case "Earth Barton Creek Collagen Lifting":
-                                                                upDatedSpaName = "Earth Tech Spa";
-                                                                upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
-                                                                upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-tech-barton-creek-spa-non-surgical-collagen-lift-promo-page";
-                                                                upDatedSpaPhone = "(512) 356-9260";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "- 60 Minutes Collagen Lifting & Consultation";
-                                                                upDatedDurationTwo = " ";
-                                                                promoPrice = "59.95"
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                treatmentSelected = "Collagen Lifting Treatment";
-                                                                newSpaPhoneNumberSelected = "(512) 992-0050";
-                                                                insteadOfSpa = "$350"
-                                                                break;
-
-                                                                case "Earth Barton Creek Chin Tightening":
-                                                                    upDatedSpaName = "Earth Tech Spa";
-                                                                    upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
-                                                                    upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthtech-bartoncreek-chin-promo";
-                                                                    upDatedSpaPhone = "(512) 356-9260";
-                                                                    upDatedDurationTotal = "60 Minutes";
-                                                                    upDatedDurationOne = "- 60 Minutes Chin Tightening & Consultation";
-                                                                    upDatedDurationTwo = " ";
-                                                                    promoPrice = "70"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                    treatmentSelected = "Chin Tightening Treatment";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;
-
-                                                                    case "Earth Barton Creek Non-Surgical Facelift":
-                                                                    upDatedSpaName = "Earth Tech Spa";
-                                                                    upDatedSpaAddress = "Barton Creek Square," + "<br>" + "2901 S Capital of Texas Hwy, Austin, TX 78746"+"<br>" + "(2nd floor, in front of Forever 21 between Express and Dillard's)";
-                                                                    upDatedSpaLINK = "https://forms.gle/qqJDfZr9QmL1cJye6";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-spa-nbsp-barton-nbsp-creek-non-surgical-face-lift-promo-page";
-                                                                    upDatedSpaPhone = "(512) 356-9260";
-                                                                    upDatedDurationTotal = "60 Minutes";
-                                                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
-                                                                    upDatedDurationTwo = "15-minute consultation";
-                                                                    promoPrice = "59.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 992-0050";
-                                                                    treatmentSelected = "Non-Surgical Face Lift";
-                                                                    newSpaPhoneNumberSelected = "(512) 992-0050";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;
-
-                                                                    case "Earth Aventura LED Anti-aging":
-                                                                        upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
-                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-led-promo";
-                                                                        upDatedSpaPhone = "(786) 539-3034";
-                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                        upDatedDurationOne = "- 50 Minutes LED Anti-aging Experience";
-                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                        promoPrice = "59.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "LED Anti-aging Treatment";
-                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;
-
-                                                                        case "Earth Aventura LED Skin Tightening":
-                                                                        upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
-                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-led-skin-tightening-promo";
-                                                                        upDatedSpaPhone = "(786) 539-3034";
-                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                        upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
-                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                        promoPrice = "59.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "LED Skin Tightening Treatment";
-                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;
-
-                                                                        case "Earth Aventura Non-surgical Facelift":
-                                                                        upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
-                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-nonsurgicalfacelift-promo";
-                                                                        upDatedSpaPhone = "(786) 539-3034";
-                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                        upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
-                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                        promoPrice = "59.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "Non-surgical Face Lift Treatment";
-                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;
-
-
-                                                                        case "Earth Aventura LED Light Facial":
-                                                                        upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
-                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-aventura-ledlight-promo";
-                                                                        upDatedSpaPhone = "(786) 539-3034";
-                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                        upDatedDurationOne = "- 50 Minutes LED Skin Tightening Experience";
-                                                                        upDatedDurationTwo = "- 25 Minutes Consultation";
-                                                                        promoPrice = "59.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "LED Light Facial Treatment";
-                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;
-
-                                                                        case "Earth Aventura Oxygen Anti Aging":
-                                                                        upDatedSpaName = "Earth Tech Spa";
-                                                                        upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
-                                                                        upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earthaventura-oxygenpromo";
-                                                                        upDatedSpaPhone = "(786) 539-3034";
-                                                                        upDatedDurationTotal = "75 Minutes";
-                                                                        upDatedDurationOne = "- 60 Minutes Oxygen Anti-Aging Treatment";
-                                                                        upDatedDurationTwo = "- 15 Minutes Consultation";
-                                                                        promoPrice = "69.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "Oxygen Anti-aging Experience";
-                                                                        newSpaPhoneNumberSelected = "(305) 203-2300";
-                                                                        insteadOfSpa = "$250"
-                                                                        break;
-
-                                                                case "Lola Beauty Mesa":
-                                                                    upDatedSpaName = "Lola Beauty Spa";
-                                                                    upDatedSpaAddress = "Superstition Mall" + "<br>" + "6555 E Southern Ave Mesa, AZ 85206"+"<br>"+"(First floor, Next to Cinnabon)";
-                                                                    upDatedSpaLINK = "https://forms.gle/peiS9dvWHZdg9aE26";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lolabeauty-mesa-led-promo" ;
-                                                                    upDatedSpaPhone = "(480) 716-5545";
-                                                                    upDatedDurationTotal = "60 Minutes";
-                                                                    upDatedDurationOne = "- 15 Minutes Skin Cleaning";
-                                                                    upDatedDurationTwo = "- 30 Minutes LED Light Experience Consultation" + "<br>" + "- 15 Minutes of Consultation";
-                                                                    promoPrice = "79.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
-                                                                    treatmentSelected = "LED Treatment";
-                                                                    newSpaPhoneNumberSelected = "(480) 742-6682";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;  
-
-                                                                    case "Lola Beauty Mesa 59":
-                                                                        upDatedSpaName = "Lola Beauty Spa";
-                                                                        upDatedSpaAddress = "Superstition Mall" + "<br>" + "6555 E Southern Ave Mesa, AZ 85206"+"<br>"+"(First floor, Next to Cinnabon)";
-                                                                        upDatedSpaLINK = "https://forms.gle/peiS9dvWHZdg9aE26";
-                                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lola-beauty-mesa-led-promo-59" ;
-                                                                        upDatedSpaPhone = "(480) 716-5545";
-                                                                        upDatedDurationTotal = "60 Minutes";
-                                                                        upDatedDurationOne = "- 15 Minutes Skin Cleaning";
-                                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience Consultation" + "<br>" + "- 15 Minutes of Consultation";
-                                                                        promoPrice = "59.95"
-                                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 742-6682";
-                                                                        treatmentSelected = "LED Treatment";
-                                                                        newSpaPhoneNumberSelected = "(480) 742-6682";
-                                                                        insteadOfSpa = "$350"
-                                                                        break;  
-                                                                    
-                                                                case "Supreme Brea":
-                                                                    upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
-                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
-                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
-                                                                    upDatedSpaPhone = "(714) 592-0373";
-                                                                    upDatedDurationTotal = "60 Minutes";
-                                                                    upDatedDurationOne = "- 15 Minutes Cleaning";
-                                                                    upDatedDurationTwo = "- 45 Minutes LED Light Experience & Consultation";
-                                                                    promoPrice = "79.95"
-                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
-                                                                    treatmentSelected = "LED Treatment";
-                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
-                                                                    insteadOfSpa = "$350"
-                                                                    break;  
-
-
-                                    case "Tresor Rare Las Olas":
-                                        upDatedSpaName = "Tresor Rare Spa";
-                                    upDatedSpaAddress = "617 east las Olas Blvd, Fort Lauderdale, FL 333011"+"<br>"+"(Next to Pan'e Dolci Italian Bakery)";
-                                    upDatedSpaLINK = "https://forms.gle/ojW56idhkRSLmsCa9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tresor-rare-las-olas-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(786) 206-8520";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (754) 701-0937";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(754) 701-0937";
-                                    insteadOfSpa = "$350"
-                                    break;  
-
-                                    case "Lola Beauty Tanger":
-                                        upDatedSpaName = "Lola Beauty spa";
-                                    upDatedSpaAddress = "Tanger Outlets," + "<br>" + "4840 Tanger outlet Blvd , North Charleston SC 29418"+"<br>"+"(In front of 'The North Face')";
-                                    upDatedSpaLINK = "https://forms.gle/5EoAxgvLh111YhVcA";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lola-beauty-spa-tanger-led-promo-page" ;
-                                    upDatedSpaPhone = "(843) 277-9518";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (843) 818-4617";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(843) 818-4617";
-                                    insteadOfSpa = "$350"
-                                    break;  
-
-                                    case "Lavelier Orange Park":
-                                        upDatedSpaName = "Lavelier spa";
-                                    upDatedSpaAddress = "Orange Park Mall," + "<br>" + "1910 Wells Rd, Orange Park, FL 32073"+"<br>"+"(Next to 'Helzberg Diamonds')";
-                                    upDatedSpaLINK = "https://forms.gle/kWcQs5a8tgAPpaqe6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-orange-park-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(904) 458-7896";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 592-7266";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 592-7266";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-
-                                    case "Elevatione Spa Beauty Skin Tightening":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-skin-tightening-promo-page" ;
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Collagen Lifting":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-collagen-lifting-experience-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Lifting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Non-surgical Face Lift":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-non-surgical-face-lift-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Non-surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty LED":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-anti-aging-led-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Collagen Enhancing 79.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Body Sculpting 99.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevetione-bodysculpting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Body Sculpting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$500"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Non-surgical Face Lift And Microdermabrasion":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-non-surgical-face-lift-experience-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Non-surgical Face Lift & Microdermabrasion Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Microdermabrasion":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-microdermabrasion-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Microdermabrasion Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty RF Facial":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-rf-facial-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "RF Facial Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-antiaging-mesotherapy-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "80";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty HYDRAGLOW":
-                                    upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-hydraglow-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "HYDRAGLOW Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break; 
-                                    
-                                    case "Elevatione Spa Beauty Collagen Boosting 69.95":
-                                    upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-boosting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45 minutes of Cleansing and Collagen Boosting Treatment";
-                                    upDatedDurationTwo = "15 minutes Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Boosting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break;
-
-                                    case "Elevatione Spa Beauty Collagen Enhancing Facial":
-                                    upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45 minutes of Cleansing and Collagen Boosting Treatment";
-                                    upDatedDurationTwo = "15 minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break;
-
-                                    case "Elevatione Spa Beauty Gold Collagen Facial":
-                                    upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-gold-collagen-facial-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15 minutes of Cleansing and 30 minutes of Gold Collagen Facial";
-                                    upDatedDurationTwo = "15 minutes Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$250"
-                                    break;
-
-                                    case "Elevatione Spa Beauty Microneedling":
-                                    upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-microneedling-treatment-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45 minutes of Microneedling Treatment";
-                                    upDatedDurationTwo = "15 minutes Consultation";
-                                    promoPrice = "99";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$299"
-                                    break;
-
-                                    case "Elevatione Spa Beauty Body Sculpting 79.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-body-sculpting";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Body Sculpting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$399"
-                                    break; 
-
-                                    case "Elevatione Spa Beauty Body Sculpting 69.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = " ";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Body Sculpting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$399"
-                                    break;
-
-                                    case "Elevatione Spa Beauty H2O Oxygen Facial 69":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-h2o-oxygen-facial-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Facial";
-                                    upDatedDurationTwo = "15-minutes of Consultation";
-                                    promoPrice = "69";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Oxygen Facial";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$200"
-                                    break;
-
-                                    case "Elevatione Spa Beauty Collagen Mesotherapy Facial":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-mesotherapy-facial-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45-minutes of Cleansing and Collagen Mesotherapy Facial";
-                                    upDatedDurationTwo = "15-minutes Consultation ";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Collagen Boosting Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$299"
-                                    break;
-
-                                    case "Elevatione Spa LED 59.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-elevatione-spa-led-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15-minutes of Cleansing";
-                                    upDatedDurationTwo = "30-minutes LED Facial and 15 minutes consultation";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break;
-
-                                    case "Adore Estero":
-                                        upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
-                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-estero-ledpromo";
-                                    upDatedSpaPhone = "(239) 444-8790";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing & Steam ";
-                                    upDatedDurationTwo = "- 35 Minutes LED Tightening Treatment and Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(239) 301-4943";
-                                    insteadOfSpa = "$350"
-                                    break; 
-
-                                    case "Flawless Wayne":
-                                        upDatedSpaName = "Flawless Beauty";
-                                    upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
-                                    upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawlessbeauty-wayne-led-promo";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 50 Minutes LED Treatment";
-                                    upDatedDurationTwo = "- 25 Minutes of Consultation"
-                                    promoPrice = "79.95";   
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(973) 406-6160";
-                                    insteadOfSpa = "$500";
-                                    break; 
-
-                                    case "Flawless Wayne $99.95 PROMO":
-                                        upDatedSpaName = "Flawless Beauty";
-                                    upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
-                                    upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-led-promo-99";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 50 Minutes LED Treatment";
-                                    upDatedDurationTwo = "- 25 Minutes of Consultation";
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(973) 406-6160";
-                                    insteadOfSpa = "$500";
-                                    break; 
-
-                                    case "Flawless Wayne $69.95 PROMO":
-                                        upDatedSpaName = "Flawless Beauty";
-                                    upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
-                                    upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-promo";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 50 Minutes LED Treatment";
-                                    upDatedDurationTwo = "- 25 Minutes of Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (973) 406-6160";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(973) 406-6160";
-                                    insteadOfSpa = "$500";
-                                    break; 
-
-                                    case "Be Pretty Spa":
-                                        upDatedSpaName = "Be Pretty";
-                                    upDatedSpaAddress = "309 S Main Street Breckenridge, Colorado 80424"+"<br>"+"(Next to the Crepes Cart)";
-                                    upDatedSpaLINK = "https://forms.gle/GMzxAcKuDiCsdVue8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-pretty-led-promo";
-                                    upDatedSpaPhone = "(970) 236-1162";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 25 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 Minutes LED Treatment and Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (970) 423-6268";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(970) 423-6268";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Pred Beauty St. Petersburg":
-                                        upDatedSpaName = "Pred Beauty Spa";
-                                    upDatedSpaAddress = "6901 22nd Ave N St. Petersburg, FL 33710"+"<br>"+"(Inside of Tyrone mall, Macys entrance. Across from the Pandora Store)";
-                                    upDatedSpaLINK = "https://forms.gle/K3YLkvdsaQTvWMRL8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-st-pete-led-promo";
-                                    upDatedSpaPhone = "(727) 350-1087";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 5-10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50-55 Minutes LED Treatment and Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (727) 341-0110";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(727) 341-0110";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
-                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
-                                    upDatedSpaPhone = "(250) 410-3324";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
-                                    upDatedDurationTwo = "- 15-minute consultation ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Victoria":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
-                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
-                                    upDatedSpaPhone = "(250) 410-3324";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Woodgrove":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
-                                    upDatedSpaPhone = "(250) 384-2980";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
-                                    upDatedSpaPhone = "(250) 384-2980";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
-                                    upDatedDurationTwo = "- 15-minute consultation ";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Metrotown":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
-                                    upDatedSpaPhone = "(778) 262-1606";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "AVOLOGI Eneo Metrotown EMS":
-                                        upDatedSpaName = "Avologi Eneo Spa";
-                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "EMS Anti-aging Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 638-6596";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "ICE 21":
-                                        upDatedSpaName = "ICE 21 Spa";
-                                    upDatedSpaAddress = "563 Lakeshore Rd E Mississauga ON L5G 0A8"+"<br>"+"(Unit 4 Next to Denture Clinic)";
-                                    upDatedSpaLINK = "https://forms.gle/L5JT9kcHLZXWke417";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/ice-21-spa-led-promo";
-                                    upDatedSpaPhone = "(647) 255-6989";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 minutes Cleansing and Collagen Mask";
-                                    upDatedDurationTwo = "- 40 minutes LED Anti-aging treatment & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at 1-888-4242321";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "1-888-4242321";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Stem Spa Redding":
-                                        upDatedSpaName = "Stem Spa";
-                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
-                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-redding-promo-page";
-                                    upDatedSpaPhone = "(279) 972-0008";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 5 minutes Cleansing";
-                                    upDatedDurationTwo = "- 55 minutes LED Anti-aging treatment & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(530) 768-1056";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Stem Spa Medford":
-                                        upDatedSpaName = "Stem Spa";
-                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
-                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
-                                    upDatedSpaPhone = "(541) 549-1196";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
-                                    upDatedDurationTwo = "- 20 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "INGLOT Charlotte":
-                                        upDatedSpaName = "INGLOT Spa";
-                                    upDatedSpaAddress = "SouthPark Mall," + "<br>" + "4400 Sharon rd. Charlotte, NC 28211"+"<br>"+"(Cheesecake Factory entrance, Between Pandora & Rolex)";
-                                    upDatedSpaLINK = "https://forms.gle/XKED2xx9G3cF8SP87";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/inglot-charlotte-spa-led-promo";
-                                    upDatedSpaPhone = "(980) 306-4655";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 minutes LED Anti-aging treatment & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443) 449-4761";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(443) 449-4761";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Pearl De Flore Augusta":
-                                        upDatedSpaName = "Pearl De Flore Spa";
-                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
-                                    upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
-                                    upDatedSpaPhone = "(706) 434-8750";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(706) 901-8979";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Luminous Skin-Tech":
-                                        upDatedSpaName = "Luminous Skin-Tech Spa";
-                                    upDatedSpaAddress = "La Palmera Mall," + "<br>" + "5488 S Padre island, Corpus Christi, TX 78411"+"<br>"+"(Second floor, next to H&M)";
-                                    upDatedSpaLINK = "https://forms.gle/Yaa4AmATGwwPAAVW7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/luminous-ledpromo";
-                                    upDatedSpaPhone = "(361) 356-1025";
-                                    upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 30 minutes Non-Surgical Facelift";
-                                    upDatedDurationTwo = "- 20 minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (361) 462-4319";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(361) 462-4319";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Be YOU":
-                                        upDatedSpaName = "Be YOU Spa";
-                                    upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left" + "<br>" + "Major Intersections: Eglinton and Bayview Ave, near Laird Drive";
-                                    upDatedSpaLINK = "https://forms.gle/z9qJxCgcyner9a5h6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyou-led-promo";
-                                    upDatedSpaPhone = "(647) 255-2607";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(416) 276-3231";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Orogold Frisco":
-                                        upDatedSpaName = "Orogold Spa";
-                                    upDatedSpaAddress = "StoneBriar Mall," + "<br>" + "2601 Preston Rd, Frisco, TX 75034"+"<br>"+"Second floor near Macy's next to Windsor";
-                                    upDatedSpaLINK = "https://forms.gle/VTQCZdFu3PsPWKhU8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-frisco-led-promo";
-                                    upDatedSpaPhone = "(469) 353-6194";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 438-7564";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(469) 438-7564";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Premier Pensacola":
-                                        upDatedSpaName = "Premier Spa";
-                                    upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
-                                    upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premierpen-spa-ledpromo";
-                                    upDatedSpaPhone = "(448) 400-2095";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(850) 637-7637";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Esthetix Cloverdale":
-                                        upDatedSpaName = "Esthetix Spa";
-                                    upDatedSpaAddress = "Cloverdale Mall," + "<br>" + "250 The East Mall Etobicoke ON M9B 3Y8 Canada"+"<br>"+"(Next to Scotiabank)";
-                                    upDatedSpaLINK = "https://forms.gle/th8Qyt5uShKY3r5y7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetixcloverdale-ledpromo";
-                                    upDatedSpaPhone = "(437) 826-3445";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 370-8733";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 370-8733";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Prestige Clearwater":
-                                        upDatedSpaName = "Prestige Spa";
-                                    upDatedSpaAddress = "Countryside Mall," + "<br>" + "27001 US Hwy 19 N, Clearwater, FL 33761"+"<br>"+"(Next to Victoria's Secrets)";
-                                    upDatedSpaLINK = "https://forms.gle/kALTejFtfwnYpKnm6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/prestige-clearwater-ledpromo";
-                                    upDatedSpaPhone = "(727) 308-0391";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(706) 901-8979";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Tierra Med Spa AquaPure Hydration":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydration-aquapure-promo";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "AquaPure Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$275";
-                                    break; 
-
-                                    case "Tierra Med Spa AquaPure Hydration 79.95":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-tierramed-aquapure-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "AquaPure Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Tierra Med Spa LED":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-ledpromo";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "50 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Tierra Med Spa Gold Collagen Facial":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-gold-collagen-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & 15-minute Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Tierra Med Spa Red Carpet Collagen Facial":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-red-carpet-collagen-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Red Carpet Collagen Facial & Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Tierra Med Hydraglow Facial":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hydraglow-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45 Minutes Cleansing and Hydraglow Facial";
-                                    upDatedDurationTwo = "- 15 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Hydraglow Facial";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$275";
-                                    break;
-
-                                    case "Tierra Med Non-Surgical Lifting Facial":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-non-surgical-lifting-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Non-Surgical Lifting Facial & Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Non-surgical Lifting Facial";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Tierra Med Collagen Enhancing Facial with LED":
-                                        upDatedSpaName = "Tierra Med Spa";
-                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-collagen-enhancing-facial-with-led-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Collagen Enhancing Facial with LED & Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Collagen Enhancing Facial";
-                                    newSpaPhoneNumberSelected = "(647) 503-5222";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Boutique 770":
-                                        upDatedSpaName = " Boutique 770 Spa";
-                                    upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
-                                    upDatedSpaLINK = "https://forms.gle/K6F4x2mbqCTGv65VA";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/boutique770-ledpromo";
-                                    upDatedSpaPhone = "(720) 548-1094";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 5 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 25 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (303) 248-3104";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(303) 248-3104";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "BioRevive LED":
-                                        upDatedSpaName = " BioRevive Spa";
-                                    upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
-                                    upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-led-promo";
-                                    upDatedSpaPhone = "(949) 688-6429";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(949) 220-7221";
-                                    insteadOfSpa = "$350";
-                                    break;
-                                    
-                                    case "BioRevive HIFU":
-                                        upDatedSpaName = " BioRevive Spa";
-                                    upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
-                                    upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-hifu-promo";
-                                    upDatedSpaPhone = "(949) 688-6429";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes HIFU Experience" +"<br>" + "- 15 Minutes Consultation";
-                                    promoPrice = "119.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
-                                    treatmentSelected = "HIFU Treatment";
-                                    newSpaPhoneNumberSelected = "(949) 220-7221";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "BioRevive CryoSkin Body Sculpting":
-                                        upDatedSpaName = " BioRevive Spa";
-                                        upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
-                                        upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-body-sculpting-promo";
-                                        upDatedSpaPhone = "(949) 688-6429";
-                                        upDatedDurationTotal = "50 Minutes";
-                                        upDatedDurationOne = "- 35 Body Sculpting Treatment";
-                                        upDatedDurationTwo = "- 15 Minutes Consultation";
-                                        promoPrice = "119.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
-                                        treatmentSelected = "Body Sculpting Treatment";
-                                        newSpaPhoneNumberSelected = "(949) 220-7221";
-                                        insteadOfSpa = "$500";
-                                        break; 
-
-                                        case "BioRevive CryoSkin Body Sculpting 99.95":
-                                        upDatedSpaName = " BioRevive Spa";
-                                        upDatedSpaAddress = "Lido Marina Village," +"<br>" + "3404 Via Lido a Newport Beach, CA 92663" + "<br>" + "(Next to the the UPS store)";
-                                        upDatedSpaLINK = "https://forms.gle/v8BY6QH2oQYG8DbW8";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/biorevive-body-sculpting-promo";
-                                        upDatedSpaPhone = "(949) 688-6429";
-                                        upDatedDurationTotal = "50 Minutes";
-                                        upDatedDurationOne = "- 35 Body Sculpting Treatment";
-                                        upDatedDurationTwo = "- 15 Minutes Consultation";
-                                        promoPrice = "99.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 220-7221";
-                                        treatmentSelected = "Body Sculpting Treatment";
-                                        newSpaPhoneNumberSelected = "(949) 220-7221";
-                                        insteadOfSpa = "$500";
-                                        break; 
-
-                                    case "Natural Blossom LED":
-                                        upDatedSpaName = "Natural Blossom Spa";
-                                    upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
-                                    upDatedSpaLINK = "https://forms.gle/92UM2qkkZQdkrJdN9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/naturalblossom-ledpromo";
-                                    upDatedSpaPhone = "(904) 368-6790";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 615-1394";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "ATIK Deerfield Beach LED":
-                                    upDatedSpaName = "ATIK Spa";
-                                    upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
-                                    upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-led-promo";
-                                    upDatedSpaPhone = "(754) 333-2318";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 637-4226";
-                                    insteadOfSpa = "$350";
-                                    break;  
-
-                                    case "ATIK Deerfield Beach Laser Lipo":
-                                    upDatedSpaName = "ATIK Spa";
-                                    upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
-                                    upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triangular-laser-lipo-promo-page";
-                                    upDatedSpaPhone = "(754) 333-2318";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 60 Minutes Laser Lipo & Consultation";
-                                    upDatedDurationTwo = " ";
-                                    promoPrice = "70";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
-                                    treatmentSelected = "Laser Lipo Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 637-4226";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "ATIK Deerfield Beach Body Sculpting":
-                                        upDatedSpaName = "ATIK Spa";
-                                        upDatedSpaAddress = "447 S Federal Hwy, Deerfield Beach, FL 33441" + "<br>" + "(Next to Say Fitness)";
-                                        upDatedSpaLINK = "https://forms.gle/mJb9u8wV5XXH7SC69";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-body-sculpting-promo";
-                                        upDatedSpaPhone = "(754) 333-2318";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 Minutes of the Venus Legacy Treatment";
-                                        upDatedDurationTwo = "15 Minute Consultation";
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 637-4226";
-                                        treatmentSelected = "Body Sculpting Treatment";
-                                        newSpaPhoneNumberSelected = "(954) 637-4226";
-                                        insteadOfSpa = "$350";
-                                        break; 
-
-                                    case "Avinichi Spa Collagen":
-                                        upDatedSpaName = "Avinichi Spa";
-                                        upDatedSpaAddress = "319 Worth Ave, Palm Beach, FL 33480" + "<br>" + "(Next to CHANEL)";
-                                        upDatedSpaLINK = "https://forms.gle/hicyYX3N4HLWQyo4A";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avinichi-worth-ave-collagen-promo";
-                                        upDatedSpaPhone = "(561) 202-1748";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
-                                        upDatedDurationTwo = " ";
-                                        promoPrice = "99.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 791-6283";
-                                        treatmentSelected = "Collagen Lifting Treatment";
-                                        newSpaPhoneNumberSelected = "(561) 791-6283";
-                                        insteadOfSpa = "$350";
-                                        break; 
-
-                                        case "Hermetise Fayetteville":
-                                            upDatedSpaName = "Hermetise Spa";
-                                            upDatedSpaAddress = "Cross Creek Mall, 419 cross creek mall, Fayetteville, NC 28303" + "<br>" + "(1st floor, in the center of the mall next to Zales)";
-                                            upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
-                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-led-promo";
-                                            upDatedSpaPhone = "(984) 263-2191";
-                                            upDatedDurationTotal = "60 Minutes";
-                                            upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
-                                            upDatedDurationTwo = " ";
-                                            promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (910) 867-4100";
-                                            treatmentSelected = "LED Treatment";
-                                            newSpaPhoneNumberSelected = "(910) 867-4100";
-                                            insteadOfSpa = "$350";
-                                            break; 
-
-
-                                        case "Orogold Valencia":
-                                            upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Lush')";
-                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
-                                            upDatedSpaPhone = "(661) 206-1303";
-                                            upDatedDurationTotal = "60 Minutes";
-                                            upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
-                                            upDatedDurationTwo = " ";
-                                            promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
-                                            treatmentSelected = "LED Treatment";
-                                            newSpaPhoneNumberSelected = "(661) 383-9238";
-                                            insteadOfSpa = "$350";
-                                            break; 
-
-                                            case "Pura Vida AB":
-                                                upDatedSpaName = "Pura Vida Spa";
-                                                upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(First Floor, across from Sport Check)";
-                                                upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
-                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/puravida-antiaging-led-promo";
-                                                upDatedSpaPhone = "(825) 258-5779";
-                                                upDatedDurationTotal = "45 Minutes";
-                                                upDatedDurationOne = "- 15 Minutes Cleansing";
-                                                upDatedDurationTwo = "- 30 Minutes LED Experience & Consultation";
-                                                promoPrice = "79.95";
-                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
-                                                treatmentSelected = "LED Treatment";
-                                                newSpaPhoneNumberSelected = "(587) 800-1699";
-                                                insteadOfSpa = "$350";
-                                                break; 
-
-                                                case "West County Spa Center":
-                                                    upDatedSpaName = "West County Spa Center";
-                                                    upDatedSpaAddress = "West County Center Mall," + "<br>" + "53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
-                                                    upDatedSpaLINK = "https://forms.gle/W8RQmTPZ8ZyKToLCA";
-                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/westcounty-spacenter-led-promo";
-                                                    upDatedSpaPhone = "(314) 582-1397";
-                                                    upDatedDurationTotal = "60 Minutes";
-                                                    upDatedDurationOne = "- 10 Minnutes Cleansing";
-                                                    upDatedDurationTwo = "- 30 Minutes LED Experience & Consultation" + "<br>" + "- 20 Minutes Consultation";
-                                                    promoPrice = "79.95";
-                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
-                                                    treatmentSelected = "LED Treatment";
-                                                    newSpaPhoneNumberSelected = "(314) 664-9655";
-                                                    insteadOfSpa = "$350";
-                                                    break; 
-
-                                                    case "Rose Spa":
-                                                        upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                        upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-led-promo";
-                                                        upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 40 Minutes Cleansing and the LED Experience";
-                                                        upDatedDurationTwo = "- 20 Minutes Consultation";
-                                                        promoPrice = "79.95";
-                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                        treatmentSelected = "LED Treatment";
-                                                        newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                        insteadOfSpa = "$350";
-                                                        break; 
-
-                                                        case "Rose Spa Body Treatment":
-                                                        upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                        upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rosebeauty-revo-promo";
-                                                        upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 40 minutes Body Tightening & Healing Treatment";
-                                                        upDatedDurationTwo = "- 20 minutes Consultation";
-                                                        promoPrice = "99.95";
-                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                        treatmentSelected = "Body Tightening & Healing Treatment";
-                                                        newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                        insteadOfSpa = "$350";
-                                                        break; 
-
-                                                        case "Rose Spa Non Surgical Facelift":
-                                                        upDatedSpaName = "Rose Spa";
-                                                        upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                        upDatedSpaLINK = "https://forms.gle/zx1bo5MnuVnqwXYaA";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-non-surgical-facelift";
-                                                        upDatedSpaPhone = "(971) 350-7408";
-                                                        upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 40-minute Cleansing and the Non-Surgical Face Lift treatment";
-                                                        upDatedDurationTwo = "- 20-minute Consultation";
-                                                        promoPrice = "79.95";
-                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                        treatmentSelected = "Non-Surgical Facelift Treatment";
-                                                        newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                        insteadOfSpa = "$350";
-                                                        break; 
-
-                                                        case "Rose Spa Collagen Enhancing Facial":
-                                                            upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-or-collagen-enhancing-facial";
-                                                            upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "60 Minutes";
-                                                            upDatedDurationOne = "- 40-minute cleansing and Collagen Enhancing";
-                                                            upDatedDurationTwo = "- 20 minutes Consultation";
-                                                            promoPrice = "59.95";
-                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                            treatmentSelected = "Collagen Enhancing Treatment";
-                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                            insteadOfSpa = "$350";
-                                                            break; 
-    
-                                                            case "Rose Spa Skin Tightening LED":
-                                                            upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-skin-tightening-with-led-technology";
-                                                            upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "60 Minutes";
-                                                            upDatedDurationOne = "- 40-LED Skin Tightening treatment";
-                                                            upDatedDurationTwo = "- 20 minutes Consultation";
-                                                            promoPrice = "59.95";
-                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                            treatmentSelected = "LED Treatment";
-                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                            insteadOfSpa = "$350";
-                                                            break; 
-
-                                                            case "Rose Spa Gold Collagen Facial":
-                                                            upDatedSpaName = "Rose Spa";
-                                                            upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
-                                                            upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-gold-collagen-facial";
-                                                            upDatedSpaPhone = "(971) 350-7408";
-                                                            upDatedDurationTotal = "60 Minutes";
-                                                            upDatedDurationOne = "- 40 Minutes Light Cleaning & the Gold Collagen Facial";
-                                                            upDatedDurationTwo = "- 20 Minute Consultation";
-                                                            promoPrice = "79.95";
-                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
-                                                            treatmentSelected = "LED Treatment";
-                                                            newSpaPhoneNumberSelected = "(503) 206-6696";
-                                                            insteadOfSpa = "$299";
-                                                            break;
-
-                                                        case "Gold Beauty Sacramento":
-                                                            upDatedSpaName = "Gold Beauty Spa";
-                                                            upDatedSpaAddress = "Arden Fair Mall," + "<br>" + "1689 Arden Way, Sacramento, CA 95815" + "<br>" + "(Across from Forever 21)";
-                                                            upDatedSpaLINK = "https://forms.gle/wJbvy77r3MWKKLGc6";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/goldbeauty-spa-sacramento-led-promo";
-                                                            upDatedSpaPhone = "(916) 459-4966";
-                                                            upDatedDurationTotal = "60 Minutes";
-                                                            upDatedDurationOne = "- 10 Minnutes Cleansing";
-                                                            upDatedDurationTwo = "- 50 Minutes LED Experience & Consultation";
-                                                            promoPrice = "79.95";
-                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 920-3388";
-                                                            treatmentSelected = "LED Treatment";
-                                                            newSpaPhoneNumberSelected = "(916) 920-3388";
-                                                            insteadOfSpa = "$350";
-                                                            break; 
-
-
-                                                        case "Beyond The Spa":
-                                                            upDatedSpaName = "Beyond The Spa";
-                                                            upDatedSpaAddress = "Dadeland Mall," + "<br>" + "7535 N Kendall Dr, Miami, FL 33156" + "<br>" + "(Lower level, Between Cotton On & A Sneaker City)";
-                                                            upDatedSpaLINK = "https://forms.gle/YqnpipYTp8uUPTERA";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-spa-ledpromo";
-                                                            upDatedSpaPhone = "(786) 589-7009";
-                                                            upDatedDurationTotal = "45 Minutes";
-                                                            upDatedDurationOne = "- 10 Minnutes Cleansing";
-                                                            upDatedDurationTwo = "- 35 Minutes LED Experience & Consultation";
-                                                            promoPrice = "79.95";
-                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 537-2523";
-                                                            treatmentSelected = "LED Treatment";
-                                                            newSpaPhoneNumberSelected = "(786) 537-2523";
-                                                            insteadOfSpa = "$350";
-                                                            break; 
-
-                                                            case "ATIK Boca Raton LED":
-                                                                upDatedSpaName = "ATIK Spa";
-                                                                upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
-                                                                upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-led-promo";
-                                                                upDatedSpaPhone = "(561) 210-0586";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "60 Minutes LED Treatment";
-                                                                upDatedDurationTwo = "";
-                                                                promoPrice = "69.95";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
-                                                                treatmentSelected = "LED Treatment";
-                                                                newSpaPhoneNumberSelected = "(954) 408-8882";
-                                                                insteadOfSpa = "$350";
-                                                                break; 
-
-                                    case "Gentle Touch Beauty":
-                                    upDatedSpaName = "Gentle Touch Beauty";
-                                    upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
-                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
-                                    upDatedSpaPhone = "(941) 840-5993";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "30 minute LED Experience and Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(941) 244-0044";
-                                    insteadOfSpa = "$350";
-                                    break; 
-
-                                    case "Gentle Touch Beauty LED 99.95":
-                                    upDatedSpaName = "Gentle Touch Beauty";
-                                    upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
-                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-new-promo-page" ;
-                                    upDatedSpaPhone = "(941) 840-5993";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Facial Massage";
-                                    upDatedDurationTwo = "30 minute LED Experience and Consultation";
-                                    promoPrice = "99.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(941) 244-0044";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                                            case "ATIK Boca Raton Body Sculpting":
-                                                                upDatedSpaName = "ATIK Spa";
-                                                                upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
-                                                                upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-body-sculpting-promo";
-                                                                upDatedSpaPhone = "(561) 210-0586";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "45 Minutes Venus Legacy Treatment";
-                                                                upDatedDurationTwo = "15-minute Consultation";
-                                                                promoPrice = "59.95";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
-                                                                treatmentSelected = "Body Sculpting Treatment";
-                                                                newSpaPhoneNumberSelected = "(954) 408-8882";
-                                                                insteadOfSpa = "$350";
-                                                                break;
-
-                                    case "Ben's Beauty Spa":
-                                    upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
-                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15 minute Cleansing ";
-                                    upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
-                                    promoPrice = "89.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Ben's Beauty Spa Collagen Enhancing Facial":
-                                    upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
-                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "20 minute Cleansing ";
-                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Faccial and Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Ben's Beauty Spa Hydraglow Facial":
-                                    upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
-                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15 minute Consultation ";
-                                    upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Facial";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "Hydraglow Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Ben's Beauty Spa Collagen Enhancing Facial with LED":
-                                    upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
-                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "20 minute Cleansing";
-                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Facial with LED and Consultation";
-                                    promoPrice = "69.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Resveratrol":
-                                    upDatedSpaName = "Resveratrol Spa";
-                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
-                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-promo-page";
-                                    upDatedSpaPhone = "(602) 887-9960 ";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(602) 935-5655";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Resveratrol LED 59.95":
-                                    upDatedSpaName = "Resveratrol Spa";
-                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
-                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-led-new-promo-page";
-                                    upDatedSpaPhone = "(602) 887-9960 ";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                                    promoPrice = "59.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(602) 935-5655";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Resveratrol Gold Collagen Facial":
-                                    upDatedSpaName = "Resveratrol Spa";
-                                    upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
-                                    upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/resveratrol-biltmore-gold-collagen-facial";
-                                    upDatedSpaPhone = "(602) 887-9960 ";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(602) 935-5655";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                        case "Stem Spa Ann Arbor":
-                                    upDatedSpaName = "Stem Spa Ann Arbor";
-                                    upDatedSpaAddress = "100 Briarwood Cir Ann Arbor MI 48108"+"<br>"+"(Briarwood mall, In the middle of the mall next to Lush)";
-                                    upDatedSpaLINK = "https://forms.gle/X2Z4xKUkrre7Njjn8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/stem-spa-ann-arbor";
-                                    upDatedSpaPhone = "(734) 418-8344";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(734) 330-0991";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "GreenBiotics Woodfield":
-                                    upDatedSpaName = "GreenBiotics Woodfield";
-                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
-                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
-                                    upDatedSpaPhone = "(847) 792-1710";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$299";
-                                    break;
-                                    
-                                    case "Infinity Pompano Beach":
-                                        upDatedSpaName = "Infinity Pompano Beach";
-                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
-                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-pompano-beach-led-promo";
-                                        upDatedSpaPhone = "(786) 206-8296";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 10 minutes Cleansing";
-                                        upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"20 minute Consultation";
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(954) 247-5328";
-                                        insteadOfSpa = "$350";
-                                        break;
-
-                                        case "Infinity Spa Non-Surgical Collagen Treatment":
-                                        upDatedSpaName = "Infinity Pompano Beach";
-                                        upDatedSpaAddress = "Festival Marketplace,"+"<br>"+"2900  W Sample Rd, Pompano Beach, FL 33073"+"<br>"+"(Enter through the main entrance, food court turn left, and it's the fourth store on the right, near Flash)";
-                                        upDatedSpaLINK = "https://forms.gle/q7cKRPakisyJWXRk8";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/infinity-spa-non-surgical-collagen-treatment";
-                                        upDatedSpaPhone = "(786) 206-8296";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 10 minutes Cleansing";
-                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Collagen Treatment"+"<br>"+"20 minute Consultation";
-                                        promoPrice = "49.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 348-6250";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(954) 247-5328";
-                                        insteadOfSpa = "$299";
-                                        break;
-
-                                        case "SkinTech Spa Collagen Enhancing":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "SkinTech Spa Collagen Enhancing $59.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-collagen-enhancing-facial-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "SkinTech LED":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "SkinTech Spa LED $59.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-spa-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "SkinTech Spa Men's LED $59.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-led-facial-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "SkinTech Spa Men's Body Sculpting $69.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
-                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "SkinTech Spa Body Sculpting $69.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
-                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "SkinTech Spa Cryogenic Body Sculpting $69.95":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-cryogenic-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 30 minute evaluation"+"<br>"+" 10 minute preparation";
-                                    upDatedDurationTwo = "- 20 minutes of the Cryo Sculpting Treatment"+"<br>"+"25 minute post-care and consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "SkinTech Hydraglow":
-                                    upDatedSpaName = "SkinTech Spa";
-                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-hydraglow-promo-page";
-                                    upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Hydraglow Facial treatment"+"<br>"+"15 minute Consultation";
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "Hydraglow Treatment";
-                                    newSpaPhoneNumberSelected = "(214) 616-4827";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Botanifique Spa":
-                                    upDatedSpaName = "Botanifique Spa";
-                                    upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
-                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
-                                    upDatedSpaPhone = "(03) 7042 2770";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment" + "<br>" + "- 15 Minutes of Consultation"
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "0481768980";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Botanifique - Emporium":
-                                    upDatedSpaName = "Botanifique";
-                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
-                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
-                                    upDatedSpaPhone = "(03) 7042 2770";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
-                                    promoPrice = "129.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "0481768980";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Good Life Spa":
-                                    upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
-                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
-                                    upDatedSpaPhone = "(386) 267-6296";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
-                                    upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(386) 267-5157";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "NeoLumo Florence":
-                                    upDatedSpaName = "NeoLumo Florence";
-                                    upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
-                                    upDatedSpaLINK = "https://forms.gle/HLY8sSM46sDjSD8V6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/neolumo-promo-page";
-                                    upDatedSpaPhone = "(864) 999-4665";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (864) 999-4665";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(864) 999-4665";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Vera Beauty Spa":
-                                    upDatedSpaName = "Vera Beauty Spa";
-                                    upDatedSpaAddress = "Chandler Fashion Center,"+"<br>"+"3111 W Chandler Blvd Chandler AZ 85226"+"<br>"+"(Second Floor Next To Helzberz Jewelry)";
-                                    upDatedSpaLINK = "https://forms.gle/4SbX4TQJudodoCAd6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vera-beauty-spa-promo-page";
-                                    upDatedSpaPhone = "(480) 805-5171";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 394-7750";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(602) 394-7750";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "BU Care Spa":
-                                    upDatedSpaName = "BU Care Spa";
-                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
-                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-promo-page";
-                                    upDatedSpaPhone = "(561) 560-7797";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minutes of light Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"20-minutes Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 908-2623";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "BU Care Spa Gold Collagen Facial":
-                                    upDatedSpaName = "BU Care Spa";
-                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
-                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-spa-gold-collagen-facial";
-                                    upDatedSpaPhone = "(561) 560-7797";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of light Cleaning";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 908-2623";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "The Soap Tree Spa":
-                                    upDatedSpaName = "The Soap Tree Spa";
-                                    upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
-                                    upDatedSpaLINK = "https://forms.gle/QZeUWwaHiUZESaHx6";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/soap-tree-spa-led-promo";
-                                    upDatedSpaPhone = "(614) 763-2688";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 370-2401";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(614) 370-2401";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Cecilia Spa Center":
-                                    upDatedSpaName = "Cecilia Spa Center";
-                                    upDatedSpaAddress = "Oak Park Mall"+"<br>"+"11149 W 95th St, Overland Park, Kansas 66214"+"<br>"+"(Second Floor next to JC penny, Unit 122)";
-                                    upDatedSpaLINK = "https://forms.gle/a2h3Hx6oVjQJ8hqWA";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/cecilia-spa-by-voupre-promo-page";
-                                    upDatedSpaPhone = "(913) 359-7256";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 40-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (913) 408-8071";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(913) 408-8071";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Esthetix Gurnee":
-                                    upDatedSpaName = "Esthetix Gurnee";
-                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
-                                    upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-il-promo-page";
-                                    upDatedSpaPhone = "(224) 955-2828";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(646) 220-8444";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "GreenBiotics Barton Creek 59.95":
-                                    upDatedSpaName = "GreenBiotics Barton Creek";
-                                    upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
-                                    upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-barton-creek-new-promo";
-                                    upDatedSpaPhone = "(512) 354-2417";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$300";
-                                    break;
-
-                                    case "GreenBiotics Barton Creek 49.95":
-                                    upDatedSpaName = "GreenBiotics Barton Creek";
-                                    upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
-                                    upDatedSpaLINK = "https://forms.gle/i5TUHvLgMZa7nuVJ7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-greenbiotics-barton-creek-promo-page";
-                                    upDatedSpaPhone = "(512) 354-2417";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "49.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "OraSempre Montana":
-                                    upDatedSpaName = "OraSempre Montana";
-                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
-                                    upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
-                                    upDatedSpaPhone = "(406) 601-8145";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment & 20-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(406) 885-1321";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "GreenBiotics Pentagon":
-                                    upDatedSpaName = "GreenBiotics Pentagon";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
-                                    upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
-                                    upDatedSpaPhone = "(571) 695-2525";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 695-2525";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(571) 695-2525";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Lumiere By Adriana Laser Lipo Facial":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse, Metered parking is available)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-laser-lipo-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Lumiere By Adriana Laser Lipo Facial $69.95":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-laser-lipo-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Lumiere By Adriana Collagen Enhancing Treatment":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Lumiere By Adriana Collagen Enhancing Treatment(instead of $399)":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Lumiere By Adriana Body Sculpting Treatment":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$399";
-                                    break;
-                                    
-                                    case "Lumiere By Adriana Body Sculpting Treatment $69.95":
-                                    upDatedSpaName = "Lumiere By Adriana";
-                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
-                                    newSpaPhoneNumberSelected = "(954) 777-6770";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Lumiere By Adriana Body Sculpting Treatment $59.95":
-                                        upDatedSpaName = "Lumiere By Adriana";
-                                        upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
-                                        upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiereadriana-bodysculp-promofifty";
-                                        upDatedSpaPhone = "(754) 799-8010";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15-minutes of Consultation";
-                                        upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                        treatmentSelected = "Laser Lipo Treatment";
-                                        newSpaPhoneNumberSelected = "(954) 777-6770";
-                                        insteadOfSpa = "$399";
-                                        break;
-
-                                    case "Colorado MedLaser LED":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-led-promo";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 40-minutes Skin Tightening & LED Anti-Aging Treatment";
-                                    upDatedDurationTwo = "- 20-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Colorado MedLaser Skin Tightening":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-promo";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
-                                    upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Colorado MedLaser Skin Tightening 69.95":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-colorado-medlaser-skin-tightening-promo";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
-                                    upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Colorado MedLaser Skin Tightening 59.95":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-new-promo";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
-                                    upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Colorado MedLaser Cryo Body Sculpting 69.95":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-colorado-medlaser-cryo-body-sculpting";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
-                                    upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Colorado MedLaser Cryo Body Sculpting":
-                                    upDatedSpaName = "Colorado MedLaser";
-                                    upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-                                    upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-cryo-body-sculpting";
-                                    upDatedSpaPhone = "(720) 358-4719";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
-                                    upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 960-7077";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Donna Ella Spa LED":
-                                    upDatedSpaName = "Donna Ella Spa";
-                                    upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
-                                    upDatedSpaLINK = "https://forms.gle/XHLsxffpnMpoKiUm6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
-                                    upDatedSpaPhone = "(346) 980-4152";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 648-6648";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(346) 648-6648";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Royal Bee Spa LED":
-                                    upDatedSpaName = "Royal Bee Spa";
-                                    upDatedSpaAddress = "Katy Mills Mall,"+"<br>"+"5000 Katy Mills Cir. Katy, TX 77494"+"<br>"+"(Ground Flr. Between The Rainforest Cafe and Marshalls)";
-                                    upDatedSpaLINK = "https://forms.gle/wPtz1bB63FmzDMHr8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-spa-promo-page";
-                                    upDatedSpaPhone = "(737) 910-4135";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Facial Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 20-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(832)-715-4897";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Royal Bee Spa LED 69.95":
-                                    upDatedSpaName = "Royal Bee Spa";
-                                    upDatedSpaAddress = "Katy Mills Mall,"+"<br>"+"5000 Katy Mills Cir. Katy, TX 77494"+"<br>"+"(Ground Flr. Between The Rainforest Cafe and Marshalls)";
-                                    upDatedSpaLINK = "https://forms.gle/wPtz1bB63FmzDMHr8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-royal-bee-spa-promo-page";
-                                    upDatedSpaPhone = "(737) 910-4135";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Facial Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 20-minutes Consultation"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832)-715-4897";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(832)-715-4897";
-                                    insteadOfSpa = "$299";
-                                    break;
-                                    
-                                    case "Rilassare Spa LED":
-                                    upDatedSpaName = "Rilassare Spa";
-                                    upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
-                                    upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-spa-promo-page";
-                                    upDatedSpaPhone = "(725) 710-2050";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(720) 589-1628";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Esthetix St. Augustine LED":
-                                    upDatedSpaName = "Esthetix Spa";
-                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
-                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-promo-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 342-2780";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Esthetix St. Augustine LED 69.95":
-                                    upDatedSpaName = "Esthetix Spa";
-                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
-                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-esthetix-st-augustine-promo-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"   
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 342-2780";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Joli Visage Spa LED":
-                                    upDatedSpaName = "Joli Visage Spa";
-                                    upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
-                                    upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/joli-visage-spa-led-promo";
-                                    upDatedSpaPhone = "(239) 963-4469";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35 minutes LED session with Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(239) 234-6855";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Adore Edmonton LED":
-                                    upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
-                                    upDatedSpaPhone = "(587) 442-4900";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(780) 890-0008";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Beauty Essentials LED":
-                                    upDatedSpaName = "Beauty Essentials";
-                                    upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
-                                    upDatedSpaLINK = "https://forms.gle/17UVeGaXJyFPgsnG7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-essentials-promo-page";
-                                    upDatedSpaPhone = "(734) 659-0707";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(734) 330-0991";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "ISHA Collagen Enhancing":
-                                    upDatedSpaName = "ISHA Beauty & Wellness";
-                                    upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
-                                    upDatedSpaLINK = "https://forms.gle/anBN3G7GuuKCydG1A";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-collagen-enhancing-promo-page";
-                                    upDatedSpaPhone = "(786) 744-5319";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20-minute Cleansing and Massage";
-                                    upDatedDurationTwo = "- 25-minutes Collagen Enhancing Facial and 15-minutes Consultation"
-                                    promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "305-603-7536";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "ISHA Body Sculpting":
-                                        upDatedSpaName = "ISHA Beauty & Wellness";
-                                        upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
-                                        upDatedSpaLINK = "https://forms.gle/anBN3G7GuuKCydG1A";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-body-contouring-promo";
-                                        upDatedSpaPhone = "(786) 744-5319";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 20-minute Cleansing and Massage";
-                                        upDatedDurationTwo = "- 25-minutes LED Treatment and 15-minutes Consultation"
-                                        promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
-                                        treatmentSelected = "Body Sculpting Treatment";
-                                        newSpaPhoneNumberSelected = "305-603-7536";
-                                        insteadOfSpa = "$399";
-                                        break;
-
-                                    case "Y and G Boutique LED":
-                                    upDatedSpaName = "Y and G Boutique Spa";
-                                    upDatedSpaAddress = "9625 Brighton Way Beverly Hills, CA 90210"+"<br>"+"(Right across Madison Beverly Hills)";
-                                    upDatedSpaLINK = "https://forms.gle/bVZE7GS3Zbz8qsoZ9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/y-amp-g-boutique-promo-page";
-                                    upDatedSpaPhone = "(424) 423-0151";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (424) 335-0070";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(424) 335-0070";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Introstem Chicago Ridge LED":
-                                    upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Chicago Ridge Mall"+"<br>"+"444 Chicago Ridge Mall Drive, Chicago Ridge, IL. 60415"+"<br>"+"(Unit C-13, First Floor near Bath & Body Works)";
-                                    upDatedSpaLINK = "https://forms.gle/wRbUHTgEqHGzxZ6P9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-chicago-promo-page";
-                                    upDatedSpaPhone = "(708) 773-0218";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(614) 592-9909";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Introstem Spokane LED":
-                                    upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
-                                    upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-promo-page";
-                                    upDatedSpaPhone = "(509) 606-6110";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(509) 824-9926";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Lavelier Spokane LED":
-                                    upDatedSpaName = "Lavelier Spa";
-                                    upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
-                                    upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
-                                    upDatedSpaPhone = "(509) 508-4214";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(516) 369-2994";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Predire Prestige LED":
-                                    upDatedSpaName = "Predire Prestige Spa";
-                                    upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
-                                    upDatedSpaLINK = "https://forms.gle/MCWTC7rXeR7iRFHk7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-prestige-tucson-promo-page";
-                                    upDatedSpaPhone = "(520) 467-6911";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 758-0541";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(480) 758-0541";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Introstem Alderwood LED":
-                                    upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "Alderwood Mall,"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #976, outside section next to Purple, right outside the entrance of Sephora, Across Nordstrom)";
-                                    upDatedSpaLINK = "https://forms.gle/Xd7zenHToR2ga51c7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-alderwood-promo-page";
-                                    upDatedSpaPhone = "(425) 546-0417";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 986-3222";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(509) 986-3222";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Royal Bee Rosemont LED":
-                                    upDatedSpaName = "Royal Bee Spa";
-                                    upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
-                                    upDatedSpaLINK = "https://forms.gle/PrdnpxyQLnMTFwFE6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-promo-page";
-                                    upDatedSpaPhone = "(847) 585-2401";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Light Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
-                                    promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (313) 746-1007";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(313) 746-1007";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Introstem Carlsbad Collagen Enhancing Facial":
-                                    upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
-                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-led-promo-page";
-                                    upDatedSpaPhone = "(760) 621-0800";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Collagen Enhancing";
-                                    newSpaPhoneNumberSelected = "(760) 421-4454";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "Introstem Carlsbad Body Sculpting":
-                                    upDatedSpaName = "Introstem Spa";
-                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
-                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(760) 621-0800";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Consultation";
-                                    upDatedDurationTwo = "- 45-minutes Cleaning & Body Sculpting Treatment"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(760) 421-4454";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "Lavelier Longview LED":
-                                    upDatedSpaName = "Lavelier Spa";
-                                    upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
-                                    upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-promo-page";
-                                    upDatedSpaPhone = "(430) 288-5519";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(928) 399-9242";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Gold Spa Roseville LED":
-                                    upDatedSpaName = "Gold Spa";
-                                    upDatedSpaAddress = "Westfield Galleria,"+"<br>"+"1151 Galleria Blvd, Roseville, CA 95747"+"<br>"+"(Second floor by Zara)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-roseville-promo-page";
-                                    upDatedSpaPhone = "(916) 277-9994";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(916) 781-0167";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "Bee and Co Olympia LED":
-                                    upDatedSpaName = "Bee and Co";
-                                    upDatedSpaAddress = "Capital Mall,"+"<br>"+"625 Black Lake Blvd SW. Olympia, WA 98502"+"<br>"+"(Unit 233, in front of Victoria's Secret)";
-                                    upDatedSpaLINK = "https://forms.gle/JhrhG3XiisY9JfW38";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-and-co-olympia-promo-page";
-                                    upDatedSpaPhone = "(253) 528-4765";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 210-2937";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(702) 210-2937";
-                                    insteadOfSpa = "$350";
-                                    break;
-
-                                    case "The Glow Med Spa Collagen Enhancing Facial":
-                                    upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
-                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
-                                    upDatedSpaPhone = "(760) 683-2256";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes Collagen Enhancing Facial Treatment and Consultation"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
-                                    treatmentSelected = "Collagen Enhancing";
-                                    newSpaPhoneNumberSelected = "(760) 452-6073";
-                                    insteadOfSpa = "$299";
-                                    break;
-
-                                    case "The Glow Med Spa Body Sculpting":
-                                    upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
-                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(760) 683-2256";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Consultation";
-                                    upDatedDurationTwo = "- 45-minutes Body Sculpting Treatment"
-                                    promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
-                                    treatmentSelected = "Body Sculpting";
-                                    newSpaPhoneNumberSelected = "(760) 452-6073";
-                                    insteadOfSpa = "$399";
-                                    break;
-
-                                    case "D'or24k Prestige Spa LED":
-                                        upDatedSpaName = "D'or24k Prestige Spa";
-                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
-                                        upDatedSpaPhone = "(567) 298-4583";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 15-minute Consultation";
-                                        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"
-                                        promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
-                                        treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(971) 380-9085";
-                                        insteadOfSpa = "$350";
-                                        break;
-                                    
-
-                                                                
-
-                                                            
-                                                                
-    
-                                                        
-            default:
-                break;
-        }
-
-
-        if (spaNameStatus.innerHTML.includes("Elevatione")) {
-            let hideOne = document.getElementById("hideOne")
-            let hideTwo = document.getElementById("hideTwo")
-            let hideThree = document.getElementById("hideThree")
-            let hideFour = document.getElementById("hideFour")
-            // let hideFive = document.getElementById("hideFive")
-
-
-            hideOne.classList.add("hide");
-            hideTwo.classList.add("hide");
-            hideThree.classList.add("hide");
-            hideFour.classList.add("hide");
-            // hideFive.classList.add("hide");
-
-
-        } else {
-            hideOne.classList.remove("hide");
-            hideTwo.classList.remove("hide");
-            hideThree.classList.remove("hide");
-            hideFour.classList.remove("hide");
-            // hideFive.classList.remove("hide");
-
-
-        }
-
-        // Variables in text
-        let custNameArray = document.getElementsByClassName("varCustName");
-        let repNameArray = document.getElementsByClassName("varRepName");
-        let promoPriceArray = document.getElementsByClassName("varPromoPrice");
-        let aptDateDayArray = document.getElementsByClassName("varAptDateDay");
-        let aptDateMonthArray = document.getElementsByClassName("varAptDateMonth");
-        let aptTimeArray = document.getElementsByClassName("varAptTime");
-        let aptTimeAmPmArray = document.getElementsByClassName("varAptTimeAmPm");
-        let aptTimeMinutesArray = document.getElementsByClassName("varMinutesOfTime");
-        let treatmentSelectedArray = document.getElementsByClassName("varTreatmentSelected");
-        let insteadOfArray = document.getElementsByClassName("insteadOf");
-
-
-        // USER DATA ENTRY
-        let customerName = document.getElementById("custName").value;
-        let repName = document.getElementById("empName").value;
-        //  let promoPrice = document.getElementById("promoPrice").value;
-        let aptDateDay = document.getElementById("aptDateDay").value;
-        let aptDateMonth = document.getElementById("aptDateMonth").value;
-        let aptMinutesTime = document.getElementById("minutesOfTime").value;
-        let aptTime = document.getElementById("aptTime").value;
-        let aptTimeAmPm = document.getElementById("aptTimeAmPm").value;
-        //  let treatmentSelected = document.getElementById("chooseTreatment").value;
-
-        // CUSTOMER NAME LOOP
-        for(var i = 0; i < custNameArray.length; i++){
-        custNameArray[0].innerHTML = customerName;
-        custNameArray[i].innerHTML = customerName;
-    }
-        // REP NAME LOOP
-        for(var i = 0; i < repNameArray.length; i++){
-        repNameArray[0].innerHTML = repName;
-        repNameArray[i].innerHTML = repName;
-    }
-        // PROMO PRICE LOOP
-        for(var i = 0; i < promoPriceArray.length; i++){
-        promoPriceArray[0].innerHTML = promoPrice;
-        promoPriceArray[i].innerHTML = promoPrice;
-    }
-        // APT DATE Day LOOP
-        for(var i = 0; i < aptDateDayArray.length; i++){
-            aptDateDayArray[0].innerHTML = aptDateDay;
-            aptDateDayArray[i].innerHTML = aptDateDay;
-    }
-    // APT DATE Month LOOP
-        for(var i = 0; i < aptDateMonthArray.length; i++){
-        aptDateMonthArray[0].innerHTML = aptDateMonth;
-        aptDateMonthArray[i].innerHTML = aptDateMonth;
-    }
-        // APT TIME LOOP
-        for(var i = 0; i < aptTimeArray.length; i++){
-            aptTimeArray[0].innerHTML = aptTime;
-            aptTimeArray[i].innerHTML = aptTime;
-    }
-
-    // APT TIME AMPM LOOP
-    for(var i = 0; i < aptTimeAmPmArray.length; i++){
-        aptTimeAmPmArray[0].innerHTML = aptTimeAmPm;
-        aptTimeAmPmArray[i].innerHTML = aptTimeAmPm;
-    }
-
-        // APT TIME Minutes LOOP
-        for(var i = 0; i < aptTimeMinutesArray.length; i++){
-            aptTimeMinutesArray[0].innerHTML = aptMinutesTime;
-            aptTimeMinutesArray[i].innerHTML = aptMinutesTime;
-    }
-
-
-
-    // Selected Treatment LOOP
-    for(var i = 0; i < treatmentSelectedArray.length; i++){
-        treatmentSelectedArray[0].innerHTML = treatmentSelected;
-        treatmentSelectedArray[i].innerHTML = treatmentSelected;
-    }
-
-        // insteadOf Loop
-        for(var i = 0; i < insteadOfArray.length; i++){
-            insteadOfArray[0].innerHTML = insteadOfSpa;
-            insteadOfArray[i].innerHTML = insteadOfSpa;
-        }
-
-    let newLink = document.getElementById("newSpaLink");
-    newLink.setAttribute('href', upDatedSpaWebLINK);
-
-    let newSpaPhoneNumber = document.getElementById("newSpaPhoneNumber");
-    newSpaPhoneNumber.innerHTML = newSpaPhoneNumberSelected;
-
-    }
-
-
-
-    //  COPY BOTTON
-    function copyEvent(id)
-    {
-        var str = document.getElementById(id);
-        window.getSelection().selectAllChildren(str);
-        document.execCommand("Copy")
-    }
-
-    // SEARCH BARS
-
-    const selected = document.querySelector(".selected");
-    const optionsContainer = document.querySelector(".options-container");
-    const searchBox = document.querySelector(".search-box input");
-
-    const optionsList = document.querySelectorAll(".option");
-
-    selected.addEventListener("click", () => {
-        optionsContainer.classList.toggle("active");
-
-        searchBox.value = "";
-        filterList("");
-
-        if(optionsContainer.classList.contains("active")) {
-            searchBox.focus();
-        }
-    });
-
-    optionsList.forEach( o => {
-        o.addEventListener("click", () => {
-            selected.innerHTML = o.querySelector("label").innerHTML;
-            optionsContainer.classList.remove("active");
-        });
-    });
-
-    searchBox.addEventListener("keyup", function(e){
-    filterList(e.target.value);
-    });
-
-    const filterList = searchTerm => {
-        searchTerm = searchTerm.toLowerCase();
-        optionsList.forEach( option => {
-            let label = option.firstElementChild.nextElementSibling.innerText.toLowerCase();
-            if (label.indexOf(searchTerm) != -1 ) {
-                option.style.display = "block";
-            } else {
-                option.style.display = "none";
-            }
-        });
-    };
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+</html>
