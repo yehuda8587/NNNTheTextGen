@@ -2807,7 +2807,7 @@
                                     break;
 
                                     case "Esthetix Gurnee":
-                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaName = "Esthetix";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-il-promo-page";
