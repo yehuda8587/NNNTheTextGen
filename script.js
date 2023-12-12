@@ -2631,6 +2631,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Good Life Spa 59.95":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-new-led-promo";
+                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
+                                    upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "NeoLumo Florence":
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
