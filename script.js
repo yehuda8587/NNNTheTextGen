@@ -139,7 +139,7 @@
                 insteadOfSpa = "$350"
                 break;
 
-                case "Skin Analytics Gold Facial":
+                case "Skin Analytics Gold Treatment":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
@@ -147,7 +147,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"
                 promoPrice = "80"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "LED Treatment";
@@ -155,7 +155,7 @@
                 insteadOfSpa = "$299"
                 break;
 
-                case "Skin Analytics Collagen Enhancing Facial":
+                case "Skin Analytics Collagen Enhancing Treatment":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
@@ -163,7 +163,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Facial & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & a 15 minute Consultation"
                 promoPrice = "69.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Collagen Enhancing Treatment";
@@ -171,7 +171,7 @@
                 insteadOfSpa = "$299"
                 break;
 
-                case "Skin Analytics Spa Skin Tightening Facial":
+                case "Skin Analytics Spa Skin Tightening Treatment":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
@@ -202,101 +202,6 @@
                 newSpaPhoneNumberSelected = "(919) 900-8271";
                 insteadOfSpa = "$350"
                 break;
-
-                case "The Bay Aesthetics Tampa":
-                upDatedSpaName = "The Bay Aesthetics Tampa";
-                upDatedSpaAddress = "1413 south howard avenue, Tampa, Florida 33606" +"<br>"+"(Soho building next to Clayton Gray Home)";
-                upDatedSpaLINK = "";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-bay-aesthetics";
-                upDatedSpaPhone = "(813)798-6023";
-                upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "";
-                upDatedDurationTwo = "";
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "non set";
-                insteadOfSpa = "$350"
-                break;
-                
-                case "Earth Sarasota":
-                upDatedSpaName = "Earth Spa";
-                upDatedSpaAddress = "380B saint Armands circle, Sarasota FL 34236" +"<br>"+"(Next to Ben & Jerrys)";
-                upDatedSpaLINK = "ask admin to add link";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sarasota-promo" ;
-                upDatedSpaPhone = "(941)789-8086";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(941) 302-5495";
-                insteadOfSpa = "$350"
-                break; 
-                
-                case "Forever Flawless Sarasota":
-                upDatedSpaName = "Forever Flawless Spa";
-                upDatedSpaAddress = "140 University Town Center Dr, Sarasota, FL 34243" +"<br>"+ "(The Mall at University Town Center, second floor next to Macy's)";
-                upDatedSpaLINK = "ask admin to add link";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-sar-promo";
-                upDatedSpaPhone = "(941)977-4893";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "none set";
-                insteadOfSpa = "$500"
-                break;
-
-                case "Esthetix Sarasota":
-                    upDatedSpaName = "Esthetix Spa";
-                    upDatedSpaAddress = "140 University Town Center Dr, Sarasota, FL 34243" +"<br>"+ "(The Mall at University Town Center, second floor next to Macy's)";
-                    upDatedSpaLINK = "https://forms.gle/oXDozKmQBfd5ewfQA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-sarasota-promo";
-                    upDatedSpaPhone = "(941) 867-8627";
-                    upDatedDurationTotal = "90 Minutes";
-                    upDatedDurationOne = "- 45 Minutes Anti-Aging Collagen Facial & LED Light";
-                    upDatedDurationTwo = "- 45 Minutes LED Light Benefit Consultation";
-                    promoPrice = "89.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 302-5495";
-                    treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(941) 302-5495";
-                    insteadOfSpa = "$350"
-                    break;
-        
-                case "Voupre MD":
-                upDatedSpaName = "Voupre Spa";
-                upDatedSpaAddress = "211 Main St, Annapolis, MD 21401";
-                upDatedSpaLINK = "https://forms.gle/ZqMTRgNFz48hfLU48";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-spa-md" ;
-                upDatedSpaPhone = "(443) 545-3555";
-                upDatedDurationTotal = "90 Minutes";
-                upDatedDurationOne = "- 45 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(301) 775-3494";
-                insteadOfSpa = "$350"
-                break; 
-
-                case "Voupre Beverly Hills":
-                upDatedSpaName = "Voupre Spa Beverly Hills";
-                upDatedSpaAddress = "363 N Beverly Dr Beverly Hills, California 90210";
-                upDatedSpaLINK = "https://forms.gle/K4G86angPuq3yjmB7";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/voupre-ca-promo-page" ;
-                upDatedSpaPhone = "(310) 751-2750";
-                upDatedDurationTotal = "45 Minutes";
-                upDatedDurationOne = "- 15 Cleansing";
-                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation";
-                promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 734-7031";
-                treatmentSelected = "LED Treatment";
-                newSpaPhoneNumberSelected = "(310) 734-7031";
-                insteadOfSpa = "$350"
-                break; 
 
                 case "Beauty Frizz MD":
                 upDatedSpaName = "BeautyFrizz Spa";
@@ -556,18 +461,18 @@
                                                                                 insteadOfSpa = "$350"
                                                                                 break;
 
-                                                                                case "Earth Lakeline Rewind Facial Treatment":
+                                                                                case "Earth Lakeline Rewind Treatment":
                                                                                     upDatedSpaName = "Earth Spa";
                                                                                     upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                                     upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-rewind-promo";
                                                                                     upDatedSpaPhone = "(512) 957-0399";
                                                                                     upDatedDurationTotal = "75 Minutes";
-                                                                                    upDatedDurationOne = "- 50 Minutes Rewind Facial Treatment";
+                                                                                    upDatedDurationOne = "- 50 Minutes Rewind Treatment";
                                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                     promoPrice = "59.95";
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                    treatmentSelected = "Rewind Facial Treatment";
+                                                                                    treatmentSelected = "Rewind Treatment";
                                                                                     newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                     insteadOfSpa = "$350"
                                                                                     break;
@@ -604,18 +509,18 @@
                                                                                     insteadOfSpa = "$350"
                                                                                     break;
 
-                                                                                    case "Earth Lakeline Collagen Lifting Facial":
+                                                                                    case "Earth Lakeline Collagen Lifting Treatment":
                                                                                         upDatedSpaName = "Earth Spa";
                                                                                         upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                                         upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-collagen-lifting-promo";
                                                                                         upDatedSpaPhone = "(512) 957-0399";
                                                                                         upDatedDurationTotal = "75 Minutes";
-                                                                                        upDatedDurationOne = "- 50 Minutes Collagen Lifting Facial";
+                                                                                        upDatedDurationOne = "- 50 Minutes Collagen Lifting";
                                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                         promoPrice = "59.95";
                                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                        treatmentSelected = "Collagen Lifting Facial Treatment";
+                                                                                        treatmentSelected = "Collagen Lifting Treatment";
                                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                         insteadOfSpa = "$350"
                                                                                         break;
@@ -627,7 +532,7 @@
                                                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-elastin-tightening-promo";
                                                                                             upDatedSpaPhone = "(512) 957-0399";
                                                                                             upDatedDurationTotal = "75 Minutes";
-                                                                                            upDatedDurationOne = "- 50 Minutes Elastin Tightening Facial";
+                                                                                            upDatedDurationOne = "- 50 Minutes Elastin Tightening Treatment";
                                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                             promoPrice = "70";
                                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
@@ -651,18 +556,18 @@
                                                                                                 insteadOfSpa = "$350"
                                                                                                 break;
 
-                                                                                                case "Earth Round Rock LED Firming Facial (Face and Neck)":
+                                                                                                case "Earth Round Rock LED Firming Treatment (Face and Neck)":
                                                                                                 upDatedSpaName = "Earth Spa";
                                                                                                 upDatedSpaAddress = "Please write on Google maps: Salons By JC"+"<br>" + "(Inside Salons by JC, suite #4)";
                                                                                                 upDatedSpaLINK = "FORM";
                                                                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-roundrock-led-firming-face-neck-promo";
                                                                                                 upDatedSpaPhone = "(512) 887-1733";
                                                                                                 upDatedDurationTotal = "75 Minutes";
-                                                                                                upDatedDurationOne = "- 50 LED Firming Facial (Face&Neck)";
+                                                                                                upDatedDurationOne = "- 50 LED Firming Treatment (Face&Neck)";
                                                                                                 upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                                 promoPrice = "70";
                                                                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                                                treatmentSelected = "LED Firming Facial Face & Neck Treatment";
+                                                                                                treatmentSelected = "LED Firming Face & Neck Treatment";
                                                                                                 newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                                                 insteadOfSpa = "$350"
                                                                                                 break;
@@ -765,63 +670,63 @@
                                                                     insteadOfSpa = "$350"
                                                                     break;
 
-                                                                    case "Earth Lakeline Perfect Skin Complexion Facial":
+                                                                    case "Earth Lakeline Perfect Skin Complexion Treatment":
                                                                         upDatedSpaName = "Earth Spa";
                                                                         upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                         upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-akeline-perfectskincomplexion-promo";
                                                                         upDatedSpaPhone = "(512) 957-0399";
                                                                         upDatedDurationTotal = "85 Minutes";
-                                                                        upDatedDurationOne = "- 60 Minutes Perfect Skin Complexion Facial";
+                                                                        upDatedDurationOne = "- 60 Minutes Perfect Skin Complexion Treatment";
                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                         promoPrice = "70";
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                        treatmentSelected = "Perfect Skin Complexion Facial Treatment";
+                                                                        treatmentSelected = "Perfect Skin Complexion Treatment";
                                                                         newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                         insteadOfSpa = "$350"
                                                                         break;
 
-                                                                        case "Earth Lakeline Non-Surgical Lifting Facial":
+                                                                        case "Earth Lakeline Non-Surgical Lifting Treatment":
                                                                             upDatedSpaName = "Earth Spa";
                                                                             upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                             upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-non-surgical-lifting-facial-promo";
                                                                             upDatedSpaPhone = "(512) 957-0399";
                                                                             upDatedDurationTotal = "85 Minutes";
-                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Facial";
+                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Treatment";
                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                             promoPrice = "70";
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "Non-surgical Lifting Facial Treatment";
+                                                                            treatmentSelected = "Non-surgical Lifting Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                             insteadOfSpa = "$350"
                                                                             break;
 
-                                                                            case "Earth Lakeline LED Firming Facial (Face and Neck)":
+                                                                            case "Earth Lakeline LED Firming Treatment (Face and Neck)":
                                                                             upDatedSpaName = "Earth Spa";
                                                                             upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                             upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-led-firming-facial-face-amp-neck-promo";
                                                                             upDatedSpaPhone = "(512) 957-0399";
                                                                             upDatedDurationTotal = "85 Minutes";
-                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Facial";
+                                                                            upDatedDurationOne = "- 60 Minutes Non-Surgical Lifting Treatment";
                                                                             upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                             promoPrice = "70";
                                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
-                                                                            treatmentSelected = "LED Firming Facial Face & Neck Treatment";
+                                                                            treatmentSelected = "LED Firming Face & Neck Treatment";
                                                                             newSpaPhoneNumberSelected = "(512) 551-9944";
                                                                             insteadOfSpa = "$350"
                                                                             break;
 
 
-                                                                                case "Earth Lakeline Elastin Facial (Face and Neck)":
+                                                                                case "Earth Lakeline Elastin Treatment (Face and Neck)":
                                                                                     upDatedSpaName = "Earth Spa";
                                                                                     upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                                     upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-spa-elastin-facial-face-amp-neck-promo";
                                                                                     upDatedSpaPhone = "(512) 957-0399";
                                                                                     upDatedDurationTotal = "85 Minutes";
-                                                                                    upDatedDurationOne = "- 60 Minutes Elastin Facial (Face&Neck)";
+                                                                                    upDatedDurationOne = "- 60 Minutes Elastin Treatment (Face&Neck)";
                                                                                     upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                     promoPrice = "70";
                                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
@@ -830,14 +735,14 @@
                                                                                     insteadOfSpa = "$350"
                                                                                     break;
         
-                                                                                    case "Earth Lakeline Skin Tightening Facial (Face and Neck) + Free Scalp Massage":
+                                                                                    case "Earth Lakeline Skin Tightening Treatment (Face and Neck) + Free Scalp Massage":
                                                                                         upDatedSpaName = "Earth Spa";
                                                                                         upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
                                                                                         upDatedSpaLINK = "https://forms.gle/pPPf7Sy3TMNsuCmT7";
                                                                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/earth-lakeline-skin-tightening-facial-face-amp-neck-fsm-promo";
                                                                                         upDatedSpaPhone = "(512) 957-0399";
                                                                                         upDatedDurationTotal = "85 Minutes";
-                                                                                        upDatedDurationOne = "- 60 Minutes Skin Tightening Facial (Face & Neck) + Free Scalp Massage";
+                                                                                        upDatedDurationOne = "- 60 Minutes Skin Tightening Treatment (Face & Neck) + Free Scalp Massage";
                                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                                         promoPrice = "70"
                                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 551-9944";
@@ -978,7 +883,7 @@
                                                                         break;
 
 
-                                                                        case "Earth Aventura LED Light Facial":
+                                                                        case "Earth Aventura LED Light Treatment":
                                                                         upDatedSpaName = "Earth Tech Spa";
                                                                         upDatedSpaAddress = "Promenade Shops," + "<br>" + "20335 Biscayne Blvd Suite #10 Miami, FL 33180"+"<br>" + "(Back entrance of City Bikes, and Fox's. Facing the 203rd St. ramp/bridge)";
                                                                         upDatedSpaLINK = "https://forms.gle/tsbzwRoFssaCfHnN8";
@@ -989,7 +894,7 @@
                                                                         upDatedDurationTwo = "- 25 Minutes Consultation";
                                                                         promoPrice = "59.95"
                                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 203-2300";
-                                                                        treatmentSelected = "LED Light Facial Treatment";
+                                                                        treatmentSelected = "LED Light Treatment";
                                                                         newSpaPhoneNumberSelected = "(305) 203-2300";
                                                                         insteadOfSpa = "$350"
                                                                         break;
@@ -1236,7 +1141,7 @@
                                     insteadOfSpa = "$350"
                                     break; 
 
-                                    case "Elevatione Spa Beauty RF Facial":
+                                    case "Elevatione Spa Beauty RF Treatment":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -1247,12 +1152,12 @@
                                     upDatedDurationTwo = " ";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "RF Facial Treatment";
+                                    treatmentSelected = "RF Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$350"
                                     break; 
 
-                                    case "Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Facial":
+                                    case "Elevatione Spa Beauty Non-Surgical Lifting With Mesotherapy Treatment":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -1263,7 +1168,7 @@
                                     upDatedDurationTwo = " ";
                                     promoPrice = "80";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135";
-                                    treatmentSelected = "Non-Surgical Lifting With Mesotherapy Facial";
+                                    treatmentSelected = "Non-Surgical Lifting With Mesotherapy Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$350"
                                     break; 
@@ -1300,7 +1205,7 @@
                                     insteadOfSpa = "$350"
                                     break;
 
-                                    case "Elevatione Spa Beauty Collagen Enhancing Facial":
+                                    case "Elevatione Spa Beauty Collagen Enhancing Treatment":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
@@ -1316,14 +1221,14 @@
                                     insteadOfSpa = "$350"
                                     break;
 
-                                    case "Elevatione Spa Beauty Gold Collagen Facial":
+                                    case "Elevatione Spa Beauty Gold Collagen Treatment":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-gold-collagen-facial-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15 minutes of Cleansing and 30 minutes of Gold Collagen Facial";
+                                    upDatedDurationOne = "15 minutes of Cleansing and 30 minutes of Gold Collagen Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
@@ -1380,30 +1285,30 @@
                                     insteadOfSpa = "$399"
                                     break;
 
-                                    case "Elevatione Spa Beauty H2O Oxygen Facial 69":
+                                    case "Elevatione Spa Beauty H2O Oxygen Treatment 69":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-h2o-oxygen-facial-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Facial";
+                                    upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Treatment";
                                     upDatedDurationTwo = "15-minutes of Consultation";
                                     promoPrice = "69";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Oxygen Facial";
+                                    treatmentSelected = "Oxygen Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$200"
                                     break;
 
-                                    case "Elevatione Spa Beauty Collagen Mesotherapy Facial":
+                                    case "Elevatione Spa Beauty Collagen Mesotherapy Treatment":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-mesotherapy-facial-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "45-minutes of Cleansing and Collagen Mesotherapy Facial";
+                                    upDatedDurationOne = "45-minutes of Cleansing and Collagen Mesotherapy Treatment";
                                     upDatedDurationTwo = "15-minutes Consultation ";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
@@ -1420,24 +1325,8 @@
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15-minutes of Cleansing";
-                                    upDatedDurationTwo = "30-minutes LED Facial and 15 minutes consultation";
+                                    upDatedDurationTwo = "30-minutes LED Treatment and 15 minutes consultation";
                                     promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$350"
-                                    break;
-
-                                    case "Elevatione Spa Men's LED 69.95":
-                                        upDatedSpaName = "Elevatione Spa & Beauty";
-                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
-                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15-minutes of Cleansing";
-                                    upDatedDurationTwo = "45-minutes LED Facial and minutes consultation";
-                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
@@ -1611,7 +1500,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1627,7 +1516,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Facial Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
                                     upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1820,7 +1709,7 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
+                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Treatment & Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "AquaPure Treatment";
@@ -1836,7 +1725,7 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Facial & Consultation";
+                                    upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Treatment & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "AquaPure Treatment";
@@ -1860,7 +1749,7 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
-                                    case "Tierra Med Spa Gold Collagen Facial":
+                                    case "Tierra Med Spa Gold Collagen Treatment":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
@@ -1868,7 +1757,7 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & 15-minute Consultation";
+                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & 15-minute Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "Collagen Enhancing Treatment";
@@ -1876,7 +1765,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Tierra Med Spa Red Carpet Collagen Facial":
+                                    case "Tierra Med Spa Red Carpet Collagen Treatment":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
@@ -1884,7 +1773,7 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Red Carpet Collagen Facial & Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Red Carpet Collagen Treatment & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "Collagen Enhancing Treatment";
@@ -1892,23 +1781,23 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Tierra Med Hydraglow Facial":
+                                    case "Tierra Med Hydraglow Treatment":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hydraglow-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45 Minutes Cleansing and Hydraglow Facial";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and Hydraglow Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Hydraglow Facial";
+                                    treatmentSelected = "Hydraglow Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$275";
                                     break;
 
-                                    case "Tierra Med Non-Surgical Lifting Facial":
+                                    case "Tierra Med Non-Surgical Lifting Treatment":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
@@ -1916,15 +1805,15 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Non-Surgical Lifting Facial & Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Non-Surgical Lifting Treatment & Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Non-surgical Lifting Facial";
+                                    treatmentSelected = "Non-surgical Lifting Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Tierra Med Collagen Enhancing Facial with LED":
+                                    case "Tierra Med Collagen Enhancing Treatment with LED":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
@@ -1932,10 +1821,10 @@
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 Minutes Collagen Enhancing Facial with LED & Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Collagen Enhancing Treatment with LED & Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Collagen Enhancing Facial";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$299";
                                     break;
@@ -2213,7 +2102,7 @@
                                                         insteadOfSpa = "$350";
                                                         break; 
 
-                                                        case "Rose Spa Collagen Enhancing Facial":
+                                                        case "Rose Spa Collagen Enhancing Treatment":
                                                             upDatedSpaName = "Rose Spa";
                                                             upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
@@ -2245,14 +2134,14 @@
                                                             insteadOfSpa = "$350";
                                                             break; 
 
-                                                            case "Rose Spa Gold Collagen Facial":
+                                                            case "Rose Spa Gold Collagen Treatment":
                                                             upDatedSpaName = "Rose Spa";
                                                             upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
                                                             upDatedSpaLINK = " https://forms.gle/zx1bo5MnuVnqwXYaA ";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rose-beauty-gold-collagen-facial";
                                                             upDatedSpaPhone = "(971) 350-7408";
                                                             upDatedDurationTotal = "60 Minutes";
-                                                            upDatedDurationOne = "- 40 Minutes Light Cleaning & the Gold Collagen Facial";
+                                                            upDatedDurationOne = "- 40 Minutes Light Cleaning & the Gold Collagen Treatment";
                                                             upDatedDurationTwo = "- 20 Minute Consultation";
                                                             promoPrice = "79.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (503) 206-6696";
@@ -2317,7 +2206,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Facial Massage";
+                                    upDatedDurationOne = "30 minute Cleansing and Massage";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
@@ -2333,7 +2222,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-new-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Facial Massage";
+                                    upDatedDurationOne = "30 minute Cleansing and Massage";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "99.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
@@ -2374,7 +2263,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Ben's Beauty Spa Collagen Enhancing Facial":
+                                    case "Ben's Beauty Spa Collagen Enhancing Treatment":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2390,7 +2279,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Spa Hydraglow Facial":
+                                    case "Ben's Beauty Spa Hydraglow Treatment":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2398,7 +2287,7 @@
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation ";
-                                    upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Facial";
+                                    upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Treatment";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Hydraglow Treatment";
@@ -2406,7 +2295,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Spa Collagen Enhancing Facial with LED":
+                                    case "Ben's Beauty Spa Collagen Enhancing Treatment with LED":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2414,7 +2303,7 @@
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "20 minute Cleansing";
-                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Facial with LED and Consultation";
+                                    upDatedDurationTwo = "40 minutes of Collagen Enhancing Treatment with LED and Consultation";
                                     promoPrice = "69.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Collagen Enhancing Treatment";
@@ -2454,7 +2343,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Resveratrol Gold Collagen Facial":
+                                    case "Resveratrol Gold Collagen Treatment":
                                     upDatedSpaName = "Resveratrol Spa";
                                     upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
                                     upDatedSpaLINK = "https://docs.google.com/forms/d/e/1FAIpQLSc-Cl2YrrLTk92ckfwdIqIt8J5lEtsG30UsOIsfyFriHlgybA/viewform?usp=sf_link";
@@ -2462,7 +2351,7 @@
                                     upDatedSpaPhone = "(602) 887-9960 ";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation";
+                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 935-5655";
                                     treatmentSelected = "LED Treatment";
@@ -2540,12 +2429,12 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes Collagen Enhancing"+"<br>"+"10 minute Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
+                                    treatmentSelected = "Collagen Enhancing";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$350";
                                     break;
@@ -2556,9 +2445,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing Facial"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes Collagen Enhancing"+"<br>"+"10 minute Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2572,9 +2461,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2588,9 +2477,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2604,9 +2493,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-led-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2620,8 +2509,8 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute consultation and body analysis"+"<br>"+" 20 minutes of treatment time using our 4-in-1 technology";
                                     upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
@@ -2636,8 +2525,8 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute consultation and body analysis"+"<br>"+" 20 minutes of treatment time using our 4-in-1 technology";
                                     upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
@@ -2652,9 +2541,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-cryogenic-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 30 minute evaluation"+"<br>"+" 10 minute preparation";
-                                    upDatedDurationTwo = "- 20 minutes of the Cryo Sculpting Treatment"+"<br>"+"25 minute post-care and consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 minute evaluation"+"<br>"+" 5 minute preparation";
+                                    upDatedDurationTwo = "- 20 minutes of the Cryo Sculpting Treatment"+"<br>"+"10 minute post-care and consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Body Sculpting";
@@ -2668,9 +2557,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-hydraglow-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 20-minute skin analysis"+"<br>"+"10 minutes of facial cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Hydraglow Facial treatment"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
+                                    upDatedDurationTwo = "- 15 minutes Hydraglow treatment"+"<br>"+"10 minute Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Hydraglow Treatment";
@@ -2774,7 +2663,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "BU Care Spa Gold Collagen Facial":
+                                    case "BU Care Spa Gold Collagen Treatment":
                                     upDatedSpaName = "BU Care Spa";
                                     upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
                                     upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
@@ -2782,7 +2671,7 @@
                                     upDatedSpaPhone = "(561) 560-7797";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of light Cleaning";
-                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Facial & a 15 minute Consultation"
+                                    upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
@@ -2902,7 +2791,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Lumiere By Adriana Laser Lipo Facial":
+                                    case "Lumiere By Adriana Laser Lipo Treatment":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse, Metered parking is available)";
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
@@ -2918,7 +2807,7 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "Lumiere By Adriana Laser Lipo Facial $69.95":
+                                    case "Lumiere By Adriana Laser Lipo Treatment $69.95":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
@@ -3037,7 +2926,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-promo";
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
+                                    upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
                                     upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
@@ -3053,7 +2942,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-colorado-medlaser-skin-tightening-promo";
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
+                                    upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
                                     upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
@@ -3069,7 +2958,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-new-promo";
                                     upDatedSpaPhone = "(720) 358-4719";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes light Cleansing, Facial Massage & HIFU";
+                                    upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
                                     upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
@@ -3117,7 +3006,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
                                     upDatedSpaPhone = "(346) 980-4152";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-Facial Cleansing and Steamer";
+                                    upDatedDurationOne = "- 15-Cleansing and Steamer";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 648-6648";
@@ -3262,7 +3151,7 @@
                                     upDatedSpaPhone = "(786) 744-5319";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minute Cleansing and Massage";
-                                    upDatedDurationTwo = "- 25-minutes Collagen Enhancing Facial and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 25-minutes Collagen Enhancing Treatment and 15-minutes Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
                                     treatmentSelected = "Collagen Enhancing Treatment";
@@ -3398,7 +3287,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Introstem Carlsbad Collagen Enhancing Facial":
+                                    case "Introstem Carlsbad Collagen Enhancing Treatment":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
                                     upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
@@ -3478,7 +3367,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "The Glow Med Spa Collagen Enhancing Facial":
+                                    case "The Glow Med Spa Collagen Enhancing Treatment":
                                     upDatedSpaName = "The Glow Med Spa";
                                     upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
@@ -3486,7 +3375,7 @@
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes Collagen Enhancing Facial Treatment and Consultation"
+                                    upDatedDurationTwo = "- 45-minutes Collagen Enhancing Treatment and Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "Collagen Enhancing";
