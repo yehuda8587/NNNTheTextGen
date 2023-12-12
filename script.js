@@ -2727,6 +2727,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "The Soap Tree 69.95":
+                                    upDatedSpaName = "The Soap Tree";
+                                    upDatedSpaAddress = "The Mall at Tuttle Crossing"+"<br>"+"5043 Tuttle Crossing Blvd, Dublin, Ohio 43016"+"<br>"+"(First floor near sunglasses hut)";
+                                    upDatedSpaLINK = "https://forms.gle/QZeUWwaHiUZESaHx6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-soap-tree-spa-led-promo";
+                                    upDatedSpaPhone = "(614) 763-2688";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 370-2401";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 370-2401";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Cecilia Spa Center":
                                     upDatedSpaName = "Cecilia Spa Center";
                                     upDatedSpaAddress = "Oak Park Mall"+"<br>"+"11149 W 95th St, Overland Park, Kansas 66214"+"<br>"+"(Second Floor next to JC penny, Unit 122)";
