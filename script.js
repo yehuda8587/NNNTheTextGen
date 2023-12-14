@@ -1349,6 +1349,22 @@
                                     insteadOfSpa = "$350"
                                     break;
 
+                                    case "Elevatione Spa Men's Body Sculpting 69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-mens-body-sculpting-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$350"
+                                    break;
+
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
@@ -2743,6 +2759,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "The Soap Tree Branson":
+                                    upDatedSpaName = "The Soap Tree";
+                                    upDatedSpaAddress = "100 Branson Landing Blvd. Branson, Missouri 65616"+"<br>"+"(Unit 223, Next to Victoria's Secret)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-soap-tree-spa-mo-led-promo-page";
+                                    upDatedSpaPhone = "417) 708-0054";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 5-10 minutes of Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment & Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 966-0585";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "417) 708-0054";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Cecilia Spa Center":
                                     upDatedSpaName = "Cecilia Spa Center";
                                     upDatedSpaAddress = "Oak Park Mall"+"<br>"+"11149 W 95th St, Overland Park, Kansas 66214"+"<br>"+"(Second Floor next to JC penny, Unit 122)";
@@ -3157,6 +3189,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(239) 234-6855";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Joli Visage Spa LED 69.95":
+                                    upDatedSpaName = "Joli Visage Spa";
+                                    upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
+                                    upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-new-promo-page";
+                                    upDatedSpaPhone = "(239) 963-4469";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes LED session with Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 234-6855";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Adore Edmonton LED":
