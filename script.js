@@ -2604,7 +2604,7 @@
                                     upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
-                                    upDatedSpaPhone = "(03) 7042 2770";
+                                    upDatedSpaPhone = "(04) 8585 7060";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment" + "<br>" + "- 15 Minutes of Consultation"
@@ -2620,7 +2620,7 @@
                                     upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
-                                    upDatedSpaPhone = "(03) 7042 2770";
+                                    upDatedSpaPhone = "(04) 8585 7060";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
