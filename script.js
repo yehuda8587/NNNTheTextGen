@@ -2604,7 +2604,7 @@
                                     upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-led-promo-page";
-                                    upDatedSpaPhone = "(04) 8585 7060";
+                                    upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment" + "<br>" + "- 15 Minutes of Consultation"
@@ -2620,7 +2620,7 @@
                                     upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
-                                    upDatedSpaPhone = "(04) 8585 7060";
+                                    upDatedSpaPhone = "(03) 7042 2770";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
@@ -2762,7 +2762,7 @@
                                     case "The Soap Tree Branson":
                                     upDatedSpaName = "The Soap Tree";
                                     upDatedSpaAddress = "100 Branson Landing Blvd. Branson, Missouri 65616"+"<br>"+"(Unit 223, Next to Victoria's Secret)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/2ZJCkLAfbswgUjNL9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-soap-tree-spa-mo-led-promo-page";
                                     upDatedSpaPhone = "417) 708-0054";
                                     upDatedDurationTotal = "45 Minutes";
@@ -3511,6 +3511,21 @@
                                         insteadOfSpa = "$350";
                                         break;
                                     
+                                        case "Sthetics Med Spa LED":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St."+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$350";
+                                        break;
 
                                                                 
 
