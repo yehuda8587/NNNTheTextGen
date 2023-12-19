@@ -427,7 +427,23 @@
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(480) 808-9400";
                                                         insteadOfSpa = "$350"
-                                                        break;   
+                                                        break;
+
+                                                        case "Rachels Beauty Scottsdale LED 49":
+                                                        upDatedSpaName = "Rachel’s Beauty Spa";
+                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(When you arrive at Sephora, turn right onto South Street, across from Skin Laundry.)";
+                                                        upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
+                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-new-led-promo-page" ;
+                                                        upDatedSpaPhone = "(480) 847-1841";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 10 Minutes Light Cleansing";
+                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience & 20 Minutes Consultation";
+                                                        promoPrice = "49.95";
+                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
+                                                        treatmentSelected = "LED Treatment";
+                                                        newSpaPhoneNumberSelected = "(480) 808-9400";
+                                                        insteadOfSpa = "$350"
+                                                        break; 
 
                                                                         case "Earth Lakeline Neck Tightening":
                                                                             upDatedSpaName = "Earth Spa";
