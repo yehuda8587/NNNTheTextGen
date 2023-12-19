@@ -1349,6 +1349,22 @@
                                     insteadOfSpa = "$350"
                                     break;
 
+                                    case "Elevatione Spa Men's LED 89.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-new-promo-page";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15-minutes of Cleansing";
+                                    upDatedDurationTwo = "45-minutes LED Treatment and Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$299"
+                                    break;
+
                                     case "Elevatione Spa Men's Body Sculpting 69.95":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
@@ -2877,7 +2893,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
                                     promoPrice = "79.95";
@@ -2893,7 +2909,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Laser Lipo Experience"
                                     promoPrice = "69.95";
@@ -2909,7 +2925,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
                                     promoPrice = "69.95";
@@ -2925,7 +2941,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Collagen Enhancing Treatment"
                                     promoPrice = "69.95";
@@ -2941,7 +2957,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                     promoPrice = "79.95";
@@ -2957,7 +2973,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                     promoPrice = "69.95";
@@ -2973,7 +2989,7 @@
                                         upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiereadriana-bodysculp-promofifty";
                                         upDatedSpaPhone = "(754) 799-8010";
-                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationTotal = "75 Minutes";
                                         upDatedDurationOne = "- 15-minutes of Consultation";
                                         upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                         promoPrice = "59.95";
@@ -2982,6 +2998,22 @@
                                         newSpaPhoneNumberSelected = "(954) 777-6770";
                                         insteadOfSpa = "$399";
                                         break;
+
+                                        case "Lumiere By Adriana Men's LED":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-mens-led-treatment-promo-page";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of LED Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$299";
+                                    break;
 
                                     case "Colorado MedLaser LED":
                                     upDatedSpaName = "Colorado MedLaser";
@@ -3520,6 +3552,22 @@
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Sthetics Med Spa Body Sculpting":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St."+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minutes of Consultation";
+                                        upDatedDurationTwo = "- 45-minutes of the Body Sculpting Treatment"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
                                         treatmentSelected = "LED Treatment";
