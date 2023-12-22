@@ -3545,7 +3545,7 @@
                                     
                                         case "Sthetics Med Spa LED":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St."+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -3561,7 +3561,7 @@
 
                                         case "Sthetics Med Spa Body Sculpting":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St."+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -3576,9 +3576,9 @@
                                         break;
 
                                     case "Introstem Tyler LED":
-                                    upDatedSpaName = "Introstem";
+                                    upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
-                                    upDatedSpaLINK = "https://forms.gle/REouLcpGxFGhpsQC9";
+                                    upDatedSpaLINK = "";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-tyler-promo-page";
                                     upDatedSpaPhone = "(430) 562-9946";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3594,7 +3594,7 @@
                                     case "Lavelier Round Rock LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
-                                    upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaLINK = "";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-promo-page";
                                     upDatedSpaPhone = "(512) 600-9666";
                                     upDatedDurationTotal = "60 Minutes";
