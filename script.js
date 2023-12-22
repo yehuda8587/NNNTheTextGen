@@ -427,23 +427,7 @@
                                                         treatmentSelected = "LED Treatment";
                                                         newSpaPhoneNumberSelected = "(480) 808-9400";
                                                         insteadOfSpa = "$350"
-                                                        break;
-
-                                                        case "Rachels Beauty Scottsdale LED 49":
-                                                        upDatedSpaName = "Rachel’s Beauty Spa";
-                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(When you arrive at Sephora, turn right onto South Street, across from Skin Laundry.)";
-                                                        upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
-                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachel-beauty-scottsdale-spa-new-led-promo-page" ;
-                                                        upDatedSpaPhone = "(480) 847-1841";
-                                                        upDatedDurationTotal = "60 Minutes";
-                                                        upDatedDurationOne = "- 10 Minutes Light Cleansing";
-                                                        upDatedDurationTwo = "- 30 Minutes LED Light Experience & 20 Minutes Consultation";
-                                                        promoPrice = "49.95";
-                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
-                                                        treatmentSelected = "LED Treatment";
-                                                        newSpaPhoneNumberSelected = "(480) 808-9400";
-                                                        insteadOfSpa = "$350"
-                                                        break; 
+                                                        break;   
 
                                                                         case "Earth Lakeline Neck Tightening":
                                                                             upDatedSpaName = "Earth Spa";
@@ -3201,9 +3185,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (605) 941-1002";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(605) 941-1002";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$350";
                                     break;
 
@@ -3217,9 +3201,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"   
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (605) 941-1002";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(605) 941-1002";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$399";
                                     break;
 
@@ -3368,7 +3352,7 @@
                                     break;
 
                                     case "Lavelier Spokane LED":
-                                    upDatedSpaName = "Lavelier Spa";
+                                    upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
                                     upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
@@ -3464,7 +3448,7 @@
                                     break;
 
                                     case "Lavelier Longview LED":
-                                    upDatedSpaName = "Lavelier Spa";
+                                    upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
                                     upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-promo-page";
@@ -3590,6 +3574,40 @@
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$299";
                                         break;
+
+                                    case "Introstem Tyler LED":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-tyler-promo-page";
+                                    upDatedSpaPhone = "(430) 562-9946";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9243";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9243";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Lavelier Round Rock LED":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-promo-page";
+                                    upDatedSpaPhone = "(512) 600-9666";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(512) 953-8818";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                        
 
                                                                 
 
