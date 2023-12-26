@@ -3570,7 +3570,7 @@
                                         upDatedDurationTwo = "- 45-minutes of the Body Sculpting Treatment"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
-                                        treatmentSelected = "LED Treatment";
+                                        treatmentSelected = "RF Body Sculpting";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$299";
                                         break;
