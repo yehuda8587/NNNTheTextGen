@@ -3604,7 +3604,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(512) 953-8818";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Lavelier Round Rock Men's LED":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
+                                    upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-treatment-promo-page";
+                                    upDatedSpaPhone = "(512) 600-9666";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(512) 953-8818";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                         
