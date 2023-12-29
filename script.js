@@ -3399,6 +3399,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Introstem Alderwood LED 99.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "Alderwood Mall,"+"<br>"+"3000 184th St SW, Lynnwood, WA. 98037"+"<br>"+"(Space #976, OUTSIDE Section between Purple and Lovesac, right outside the entrance of Sephora)"+"<br>"+"(Nearest Landmark Apple store or Sephora)"+"<br>"+"NOTE: You may also use mall directions";
+                                    upDatedSpaLINK = "https://forms.gle/Xd7zenHToR2ga51c7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-alderwood-promo-page";
+                                    upDatedSpaPhone = "(425) 546-0417";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 986-3222";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(509) 986-3222";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Royal Bee Rosemont LED":
                                     upDatedSpaName = "Royal Bee";
                                     upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
@@ -3445,6 +3461,22 @@
                                     treatmentSelected = "Body Sculpting";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Introstem Carlsbad Men's LED Treatment":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-mens-led-treatment-promo-page ";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Lavelier Longview LED":
@@ -3527,6 +3559,22 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "The Glow Med Spa Men's LED":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-mens-led-treatment-promo-page ";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "D'or24k Prestige Spa LED":
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
@@ -3571,6 +3619,22 @@
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
                                         treatmentSelected = "RF Body Sculpting";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Sthetics Med Spa Men's LED":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment and minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$299";
                                         break;
