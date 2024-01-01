@@ -2647,6 +2647,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Jevoute Spa":
+                                    upDatedSpaName = "Jevoute Spa";
+                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
+                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/jevoute-spa-promo-page";
+                                    upDatedSpaPhone = "(04) 85 857 060";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
+                                    promoPrice = "129.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "0481768980";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Good Life Spa":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
