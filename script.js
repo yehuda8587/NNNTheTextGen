@@ -2631,12 +2631,12 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Jevoute Spa":
-                                    upDatedSpaName = "Jevoute Spa";
+                                    case "Botanifique - Emporium":
+                                    upDatedSpaName = "Botanifique - Emporium";
                                     upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
                                     upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/botanifique-emporium-promo-page";
-                                    upDatedSpaPhone = "(03) 7042 2770";
+                                    upDatedSpaPhone = "(04) 85 857 060";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
