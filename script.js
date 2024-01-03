@@ -2359,6 +2359,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Ben's Beauty Men LED":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"When you reach the entrance, enter the door code to call us. We'll speak through the intercom and buzz you in. Once you hear the buzz, simply pull the door open."+"<br>"+"Metered parking is available next to the store or park at 48 N Raymond Ave Parking Garage";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing ";
+                                    upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Resveratrol":
                                     upDatedSpaName = "Resveratrol Spa";
                                     upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
