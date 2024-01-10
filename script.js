@@ -1877,6 +1877,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Tierra Med Men's LED":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-mens-led-promo-page";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes LED Treatment & Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Non-surgical Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
@@ -2679,6 +2695,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Jevoute Spa 99.95":
+                                    upDatedSpaName = "Jevoute Spa";
+                                    upDatedSpaAddress = "Emporium Melbourne,"+"<br>"+"Shop 18, 287 Lonsdale St, Melbourne VIC 3000"+"<br>"+"(Level 1, next to Replay)";
+                                    upDatedSpaLINK = "https://forms.gle/Zc6Henp3wU25Lxaz6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-jevoute-promo-page";
+                                    upDatedSpaPhone = "(04) 85 857 060";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 Minutes of LED Anti-Aging Treatment and Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61481768980";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "0481768980";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Good Life Spa":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
@@ -2705,6 +2737,22 @@
                                     upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
                                     upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
                                     promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Good Life Spa Men's LED":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-led-promo";
+                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes LED Treatment & Consultation"
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(386) 267-5157";
@@ -2769,6 +2817,22 @@
                                     upDatedDurationOne = "- 15-minutes of light Cleaning";
                                     upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"
                                     promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "BU Care Spa Men's LED":
+                                    upDatedSpaName = "BU Care Spa";
+                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
+                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bu-care-mens-led-promo-page";
+                                    upDatedSpaPhone = "(561) 560-7797";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of light Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment and Consultation"
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(561) 908-2623";
@@ -3237,6 +3301,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Esthetix St. Augustine Men's LED":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-mens-led-promo-page";
+                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Joli Visage Spa LED":
@@ -3716,6 +3796,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(512) 953-8818";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Iridescent Medical & Wellness Spa LED":
+                                    upDatedSpaName = "Iridescent Medical & Wellness Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 690-8693";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 690-8693";
                                     insteadOfSpa = "$299";
                                     break;
 
