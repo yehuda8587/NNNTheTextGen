@@ -255,7 +255,7 @@
                     upDatedSpaName = "Bee and Co";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-bee-amp-co-spa-led-promo" ;
                     upDatedSpaPhone = "(301)887-5495";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 30 Minutes Light Cleaning";
