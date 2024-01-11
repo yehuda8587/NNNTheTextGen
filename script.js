@@ -2509,9 +2509,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes Collagen Enhancing"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & Collagen Enhancing";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Collagen Enhancing";
@@ -2525,12 +2525,12 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-collagen-enhancing-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes Collagen Enhancing"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & Collagen Enhancing";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "LED Treatment";
+                                    treatmentSelected = "Collagen Enhancing";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$299";
                                     break;
@@ -2541,9 +2541,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & LED Anti-aging treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2557,9 +2557,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-spa-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & LED Anti-aging treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2573,9 +2573,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-led-facial-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes LED Anti-aging treatment"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & LED Anti-aging treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "LED Treatment";
@@ -2589,9 +2589,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute consultation and body analysis"+"<br>"+" 20 minutes of treatment time using our 4-in-1 technology";
-                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Body Sculpting";
@@ -2605,9 +2605,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute consultation and body analysis"+"<br>"+" 20 minutes of treatment time using our 4-in-1 technology";
-                                    upDatedDurationTwo = "- 2-minute lymphatic massage with Wood Therapy"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Body Sculpting";
@@ -2621,9 +2621,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-cryogenic-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10 minute evaluation"+"<br>"+" 5 minute preparation";
-                                    upDatedDurationTwo = "- 20 minutes of the Cryo Sculpting Treatment"+"<br>"+"10 minute post-care and consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Body Sculpting";
@@ -2637,9 +2637,9 @@
                                     upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-spa-hydraglow-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
-                                    upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"10 minutes of cleansing";
-                                    upDatedDurationTwo = "- 15 minutes Hydraglow treatment"+"<br>"+"10 minute Consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute skin analysis"+"<br>"+"30-minute facial cleansing & Hydraglow treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
                                     treatmentSelected = "Hydraglow Treatment";
@@ -3284,7 +3284,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
-                                    insteadOfSpa = "$399";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Esthetix St. Augustine Men's LED":
@@ -3780,6 +3780,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(512) 953-8818";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Iridescent Wellness & Medical Spa LED":
+                                    upDatedSpaName = "Iridescent Wellness & Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 690-8693";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 690-8693";
                                     insteadOfSpa = "$299";
                                     break;
 
