@@ -3783,8 +3783,8 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Iridescent Wellness & Medical Spa LED":
-                                    upDatedSpaName = "Iridescent Wellness & Medical Spa";
+                                    case "Iridescent Wellness and Medical Spa LED":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
