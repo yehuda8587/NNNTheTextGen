@@ -3095,6 +3095,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Lumiere By Adriana Neck and Jawline":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-adriana-neck-jawline-tightening";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Neck and Jawline Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Colorado MedLaser LED":
                                     upDatedSpaName = "Colorado MedLaser";
                                     upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
