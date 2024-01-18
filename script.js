@@ -3104,7 +3104,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Neck and Jawline Treatment"
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
