@@ -2072,7 +2072,7 @@
 
                                         case "Orogold Valencia":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Lush')";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
                                             upDatedSpaPhone = "(661) 206-1303";
