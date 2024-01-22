@@ -3818,7 +3818,7 @@
                                     case "Iridescent Wellness and Medical Spa LED":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
