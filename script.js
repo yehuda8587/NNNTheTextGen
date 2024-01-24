@@ -1381,18 +1381,18 @@
                                     insteadOfSpa = "$350"
                                     break;
 
-                                    case "Elevatione Neck and Jaw Tightening":
+                                    case "Elevatione Neck and Jawline Tightening":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes of Cleansing";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Neck & Jawline Treatment";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Neck and Jaw Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$299"
                                     break;
@@ -3139,7 +3139,7 @@
                                     upDatedDurationTwo = "- 45 minutes of Neck and Jawline Treatment"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    treatmentSelected = "Neck and Jawline Tightening";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
                                     insteadOfSpa = "$299";
                                     break;
