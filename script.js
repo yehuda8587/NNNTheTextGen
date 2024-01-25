@@ -3880,7 +3880,7 @@
                                         insteadOfSpa = "$300";
                                         break;
 
-                                        case "Melle Soul Skin & Body LED":
+                                        case "Melle Soul Skin and Body LED":
                                         upDatedSpaName = "Introstem";
                                         upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
                                         upDatedSpaLINK = " ";
