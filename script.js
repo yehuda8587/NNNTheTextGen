@@ -2105,7 +2105,7 @@
 
                                             case "Pura Vida AB":
                                                 upDatedSpaName = "Pura Vida Spa";
-                                                upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(First Floor, across from Sport Check)";
+                                                upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
                                                 upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/puravida-antiaging-led-promo";
                                                 upDatedSpaPhone = "(825) 258-5779";
@@ -3849,7 +3849,7 @@
                                     break;
 
                                     case "Spa De Solei LED":
-                                        upDatedSpaName = "Introstem";
+                                        upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/spa-de-solei-promo-page";
@@ -3861,6 +3861,22 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 630-9245";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(808) 630-9245";
+                                        insteadOfSpa = "$300";
+                                        break;
+
+                                        case "Melle Soul Skin & Body LED":
+                                        upDatedSpaName = "Introstem";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 35-minute LED Anti-aging Treatment";
+                                        upDatedDurationTwo = "- 10-minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
                                         insteadOfSpa = "$300";
                                         break;
 
