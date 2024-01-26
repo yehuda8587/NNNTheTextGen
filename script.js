@@ -3897,7 +3897,7 @@
                                         break;
 
                                         case "Melle Soul Skin and Body LED":
-                                        upDatedSpaName = "Introstem";
+                                        upDatedSpaName = "Melle Soul Skin and Body";
                                         upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
