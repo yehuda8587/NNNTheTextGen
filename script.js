@@ -3899,7 +3899,7 @@
                                         case "Melle Soul Skin and Body LED":
                                         upDatedSpaName = "Melle Soul Skin and Body";
                                         upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
                                         upDatedSpaPhone = "(346) 646-5755";
                                         upDatedDurationTotal = "45 Minutes";
