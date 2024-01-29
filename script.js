@@ -3883,7 +3883,7 @@
                                     case "Spa De Solei LED":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/zb8L36aK2hCgHm366";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/spa-de-solei-promo-page";
                                         upDatedSpaPhone = "(323) 484-5791";
                                         upDatedDurationTotal = "60 Minutes";
@@ -3909,6 +3909,22 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$300";
+                                        break;
+
+                                        case "Truffoire LED":
+                                        upDatedSpaName = "Truffoire";
+                                        upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
+                                        upDatedSpaLINK = "https://forms.gle/zb8L36aK2hCgHm366";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/spa-de-solei-promo-page";
+                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10 minutes cleansing";
+                                        upDatedDurationTwo = "- 45-minute LED Anti-aging Treatment and 15-minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(256) 517-8740";
                                         insteadOfSpa = "$300";
                                         break;
 
