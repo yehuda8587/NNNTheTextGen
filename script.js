@@ -2840,6 +2840,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "BU Care Spa instead of 377":
+                                    upDatedSpaName = "BU Care Spa";
+                                    upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
+                                    upDatedSpaLINK = "https://forms.gle/1kexSf7DQpnBhC3w7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bu-care-led-promo";
+                                    upDatedSpaPhone = "(561) 560-7797";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minutes of light Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"20-minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 908-2623";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 908-2623";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "BU Care Spa Gold Collagen Treatment":
                                     upDatedSpaName = "BU Care Spa";
                                     upDatedSpaAddress = "411 E Atlantic Ave Delray Beach FL 33483"+"<br>"+"(Delray Beach next to wine and cheese)";
@@ -3767,6 +3783,22 @@
                                         newSpaPhoneNumberSelected = "(971) 380-9085";
                                         insteadOfSpa = "$350";
                                         break;
+
+                                        case "D'or24k Prestige Spa LED 69.95":
+                                        upDatedSpaName = "D'or24k Prestige Spa";
+                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
+                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-prestige-led-promo";
+                                        upDatedSpaPhone = "(567) 298-4583";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15-minute Consultation";
+                                        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(971) 380-9085";
+                                        insteadOfSpa = "$377";
+                                        break;
                                     
                                         case "Sthetics Med Spa LED":
                                         upDatedSpaName = "Sthetics Med Spa";
@@ -3894,6 +3926,22 @@
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(808) 630-9245";
                                         insteadOfSpa = "$300";
+                                        break;
+
+                                        case "Spa De Solei LED 69.95":
+                                        upDatedSpaName = "Spa De Solei";
+                                        upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
+                                        upDatedSpaLINK = "https://forms.gle/zb8L36aK2hCgHm366";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-spa-de-solei-led-promo";
+                                        upDatedSpaPhone = "(323) 484-5791";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45-minute LED Anti-aging Treatment";
+                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 630-9245";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(808) 630-9245";
+                                        insteadOfSpa = "$377";
                                         break;
 
                                         case "Melle Soul Skin and Body LED":
