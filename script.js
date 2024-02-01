@@ -429,6 +429,22 @@
                                                         insteadOfSpa = "$350"
                                                         break;   
 
+                                                        case "Rachels Beauty Scottsdale Neck and Jawline":
+                                                        upDatedSpaName = "Rachel’s Beauty Spa";
+                                                        upDatedSpaAddress = "Scottsdale Quarter,"+"<br>"+"15147 N Scottsdale Rd, Scottsdale, AZ 85254, STE 130"+"<br>"+"(When you arrive at Sephora, turn right onto South Street, across from Skin Laundry.)";
+                                                        upDatedSpaLINK = "https://forms.gle/QTfEEaaG3Y6RXNzV6";
+                                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rachels-beauty-neck-and-jaw-line-tightening-treatment-promo" ;
+                                                        upDatedSpaPhone = "(480) 847-1841";
+                                                        upDatedDurationTotal = "60 Minutes";
+                                                        upDatedDurationOne = "- 15 Minutes Consultation";
+                                                        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment";
+                                                        promoPrice = "69.95";
+                                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
+                                                        treatmentSelected = "Neck and Jawline Tightening";
+                                                        newSpaPhoneNumberSelected = "(480) 808-9400";
+                                                        insteadOfSpa = "$377"
+                                                        break; 
+
                                                                         case "Earth Lakeline Neck Tightening":
                                                                             upDatedSpaName = "Earth Spa";
                                                                             upDatedSpaAddress = "Lakeline Mall," + "<br>" + "11200 Lakeline Mall Dr, Cedar Park, TX 78613"+"<br>" + "(First floor, between Macy's & Plusbeauxatour)";
@@ -2792,6 +2808,38 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Good Life Spa Collagen Enhancing":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-collagen-enhancing-promo";
+                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes of the Collagen Enhancing Treatment & 15 minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Good Life Spa Neck and Jawline":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-neck-and-jawline-treatment-page";
+                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of the Neck & Jawline Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(386) 267-5157";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "NeoLumo Florence":
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
@@ -3030,6 +3078,38 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$399";
+                                    break;
+
+                                    case "OraSempre Collagen Enhancing":
+                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
+                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 20-minutes Collagen Enhancing Treatment & 20-minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "OraSempre Neck and Jawline":
+                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "GreenBiotics Pentagon":
@@ -3398,6 +3478,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Esthetix St. Augustine Neck and Jawline":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-neck-and-jawline-treatment-page";
+                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Neck & Jawline Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Joli Visage Spa LED":
@@ -3958,6 +4054,38 @@
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(562) 357-4062";
                                         insteadOfSpa = "$300";
+                                        break;
+
+                                        case "Melle Soul Skin and Body Collagen Enhancing":
+                                        upDatedSpaName = "Melle Soul Skin and Body";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo-page";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 30-minute LED Anti-aging Treatment and Consultation";
+                                        upDatedDurationTwo = "- 15-minutes light cleansing"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "Collagen Enhancing";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Melle Soul Skin and Body Neck and Jawline":
+                                        upDatedSpaName = "Melle Soul Skin and Body";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-neck-and-jaw-line-tightening-treatment-promo";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 30-minute Neck and Jawline Treatment";
+                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$377";
                                         break;
 
                                         case "Truffoire LED":
