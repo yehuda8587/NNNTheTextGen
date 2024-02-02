@@ -1430,6 +1430,38 @@
                                     insteadOfSpa = "$350"
                                     break; 
 
+                                    case "Adore Estero LED Skin Tightening":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
+                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes light cleansing ";
+                                    upDatedDurationTwo = "- 35 Minutes LED Skin Tightening Treatment and Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$377"
+                                    break; 
+
+                                    case "Adore Estero Neck and Jawline":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
+                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes light cleansing ";
+                                    upDatedDurationTwo = "- 35 Minutes Neck & Jawline Treatment and Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$377"
+                                    break; 
+
                                     case "Flawless Wayne":
                                         upDatedSpaName = "Flawless Beauty";
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
@@ -3560,6 +3592,38 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Beauty Essentials LED Skin Tightening":
+                                    upDatedSpaName = "Beauty Essentials";
+                                    upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
+                                    upDatedSpaLINK = "https://forms.gle/17UVeGaXJyFPgsnG7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beauty-essentials-led-skin-tightening-promo";
+                                    upDatedSpaPhone = "(734) 659-0707";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Skin Tightening Treatment and 15-minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(734) 330-0991";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Beauty Essentials Neck and Jawline":
+                                    upDatedSpaName = "Beauty Essentials";
+                                    upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
+                                    upDatedSpaLINK = "https://forms.gle/17UVeGaXJyFPgsnG7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beauty-essentials-neck-and-jawline-treatment-page";
+                                    upDatedSpaPhone = "(734) 659-0707";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Neck & Jawline Tightening Treatment and 15-minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(734) 330-0991";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "ISHA Collagen Enhancing":
                                     upDatedSpaName = "ISHA Beauty & Wellness";
                                     upDatedSpaAddress = "31 Almeria Ave, Coral Gables, FL 33134"+"<br>"+"(Douglas & Almeria Ave, Next to Bellami hair salon)";
@@ -3942,6 +4006,22 @@
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Sthetics Med Spa Neck and Jawline":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Neck & Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$377";
                                         break;
 
                                     case "Introstem Tyler LED":
