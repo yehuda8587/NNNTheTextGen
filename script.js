@@ -3704,6 +3704,38 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Introstem Spokane LED 69.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
+                                    upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-spokane-led-promo-page";
+                                    upDatedSpaPhone = "(509) 606-6110";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(509) 824-9926";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Introstem Spokane Neck and Jawline":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
+                                    upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(509) 606-6110";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(509) 824-9926";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavelier Spokane LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
