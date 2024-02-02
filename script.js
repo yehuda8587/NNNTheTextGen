@@ -1450,7 +1450,7 @@
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-neck-and-jawline-treatment-page";
                                     upDatedSpaPhone = "(239) 444-8790";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes light cleansing ";
