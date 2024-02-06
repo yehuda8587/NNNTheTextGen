@@ -4154,7 +4154,7 @@
 
                                         case "Melle Soul Skin and Body LED":
                                         upDatedSpaName = "Melle Soul Skin and Body";
-                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"(Free Parking within the Plaza)";
                                         upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
                                         upDatedSpaPhone = "(346) 646-5755";
@@ -4170,7 +4170,7 @@
 
                                         case "Melle Soul Skin and Body Collagen Enhancing":
                                         upDatedSpaName = "Melle Soul Skin and Body";
-                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"(Free Parking within the Plaza)";
                                         upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo-page";
                                         upDatedSpaPhone = "(346) 646-5755";
@@ -4186,7 +4186,7 @@
 
                                         case "Melle Soul Skin and Body Neck and Jawline":
                                         upDatedSpaName = "Melle Soul Skin and Body";
-                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"(Free Parking within the Plaza)";
                                         upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(346) 646-5755";
