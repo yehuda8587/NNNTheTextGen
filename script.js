@@ -305,9 +305,9 @@
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
                             upDatedSpaPhone = "(289) 293-9711";
-                            upDatedDurationTotal = "50 Minutes";
+                            upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Light Consultation";
-                            upDatedDurationTwo = "- 40 Minutes Neck & Jawline Treatment";
+                            upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                             treatmentSelected = "Neck & Jawline Tightening";
