@@ -216,7 +216,7 @@
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
                 treatmentSelected = "LED Treatment";
                 newSpaPhoneNumberSelected = "(301) 775-3494";
-                insteadOfSpa = "$350"
+                insteadOfSpa = "$377"
                 break; 
 
                 case "Beauty Frizz MD Body Sculpting":
@@ -4278,6 +4278,22 @@
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(256) 517-8740";
                                         insteadOfSpa = "$300";
+                                        break;
+
+                                        case "Laconico Spa LED":
+                                        upDatedSpaName = "Laconico";
+                                        upDatedSpaAddress = "5805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
+                                        upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/spa-de-solei-promo-page";
+                                        upDatedSpaPhone = "(786) 522-2327";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 20 minutes cleansing";
+                                        upDatedDurationTwo = "- 25-minute LED Anti-aging Treatment and 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 333-1979";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(747) 333-1979";
+                                        insteadOfSpa = "$377";
                                         break;
 
                                         
