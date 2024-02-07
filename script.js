@@ -4284,7 +4284,7 @@
                                         upDatedSpaName = "Laconico";
                                         upDatedSpaAddress = "5805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
                                         upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/spa-de-solei-promo-page";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/laconico-spa-promo-page";
                                         upDatedSpaPhone = "(786) 522-2327";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 20 minutes cleansing";
