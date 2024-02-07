@@ -299,6 +299,22 @@
                                 insteadOfSpa = "$350"
                                 break; 
 
+                                case "Kristals Burlington Neck and Jawline":
+                            upDatedSpaName = "Kristals Burlington Spa";
+                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
+                            upDatedSpaPhone = "(289) 293-9711";
+                            upDatedDurationTotal = "50 Minutes";
+                            upDatedDurationOne = "- 15 Minutes Light Consultation";
+                            upDatedDurationTwo = "- 40 Minutes Neck & Jawline Treatment";
+                            promoPrice = "79.95"
+                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                            treatmentSelected = "Neck & Jawline Tightening";
+                            newSpaPhoneNumberSelected = "(647) 293-1112";
+                            insteadOfSpa = "$377"
+                            break; 
+
                             case "Kristals Barrie":
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
@@ -394,6 +410,22 @@
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
                                     insteadOfSpa = "$350"
                                     break;       
+
+                                    case "Kristals Erin Mills Neck and Jawline":
+                                    upDatedSpaName = "Kristals Erin Mills spa";
+                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
+                                    upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-neck-and-jaw-line-tightening-treatment-promo" ;
+                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                    treatmentSelected = "Neck & Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(647) 293-1112";
+                                    insteadOfSpa = "$377"
+                                    break;    
                     
         
                                         case "GreenBiotics Sherway Gardens":
@@ -1622,6 +1654,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Neck and Jawline":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing and Massage";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Metrotown EMS":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
@@ -1956,6 +2004,22 @@
                                     treatmentSelected = "Collagen Enhancing Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Tierra Med Neck and Jawline":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Neck & Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Boutique 770":
@@ -4154,13 +4218,13 @@
 
                                         case "Melle Soul Skin and Body LED":
                                         upDatedSpaName = "Melle Soul Skin and Body";
-                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"(Free Parking within the Plaza)";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                         upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
                                         upDatedSpaPhone = "(346) 646-5755";
                                         upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 35-minute LED Anti-aging Treatment";
-                                        upDatedDurationTwo = "- 10-minutes Consultation"
+                                        upDatedDurationOne = "- 10-minutes Consultation";
+                                        upDatedDurationTwo = "- 35-minute LED Anti-aging Treatment"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
                                         treatmentSelected = "LED Treatment";
@@ -4175,8 +4239,8 @@
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo-page";
                                         upDatedSpaPhone = "(346) 646-5755";
                                         upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30-minute LED Anti-aging Treatment and Consultation";
-                                        upDatedDurationTwo = "- 15-minutes light cleansing"
+                                        upDatedDurationOne = "- 15-minutes light cleansing";
+                                        upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
                                         treatmentSelected = "Collagen Enhancing";
