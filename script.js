@@ -4280,6 +4280,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Melle Soul Skin and Body Collagen Enhancing 59":
+                                        upDatedSpaName = "Melle Soul Skin and Body";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15-minutes light cleansing";
+                                        upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "Collagen Enhancing";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Melle Soul Skin and Body Neck and Jawline":
                                         upDatedSpaName = "Melle Soul Skin and Body";
                                         upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
