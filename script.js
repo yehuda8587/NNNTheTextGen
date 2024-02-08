@@ -1718,6 +1718,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "Stem Spa Redding Collagen Enhancing":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
+                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-collagen-enhancing-promo";
+                                    upDatedSpaPhone = "(279) 972-0008";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Stem Spa Medford":
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
@@ -1727,6 +1743,22 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "Stem Spa Medford Collagen Enhancing":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-collagen-enhancing-promo";
+                                    upDatedSpaPhone = "(541) 549-1196";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
                                     treatmentSelected = "LED Treatment";
