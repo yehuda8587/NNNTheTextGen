@@ -4248,6 +4248,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Spa De Solei Neck and Jawline":
+                                        upDatedSpaName = "Spa De Solei";
+                                        upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
+                                        upDatedSpaLINK = "https://forms.gle/zb8L36aK2hCgHm366";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-spa-de-solei-led-promo";
+                                        upDatedSpaPhone = "(323) 484-5791";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45-minute Neck and Jawline Treatment";
+                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 630-9245";
+                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(808) 630-9245";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Melle Soul Skin and Body LED":
                                         upDatedSpaName = "Melle Soul Skin and Body";
                                         upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
