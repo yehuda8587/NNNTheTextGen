@@ -4328,6 +4328,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Melle Soul Skin and Body Men's LED":
+                                        upDatedSpaName = "Melle Soul Skin and Body";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-mens-led-promo-page";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
+                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Truffoire LED":
                                         upDatedSpaName = "Truffoire";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
