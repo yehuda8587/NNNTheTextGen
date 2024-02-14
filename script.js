@@ -2279,6 +2279,22 @@
                                                     insteadOfSpa = "$350";
                                                     break; 
 
+                                                    case "West County Spa Center Collagen Enhancing":
+                                                    upDatedSpaName = "West County Spa Center";
+                                                    upDatedSpaAddress = "West County Center Mall," + "<br>" + "53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
+                                                    upDatedSpaLINK = "https://forms.gle/W8RQmTPZ8ZyKToLCA";
+                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/west-county-spa-center-collagen-enhancing-promo";
+                                                    upDatedSpaPhone = "(314) 582-1397";
+                                                    upDatedDurationTotal = "60 Minutes";
+                                                    upDatedDurationOne = "- 10 Minnutes Cleansing";
+                                                    upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & Consultation" + "<br>" + "- 20 Minutes Consultation";
+                                                    promoPrice = "69.95";
+                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
+                                                    treatmentSelected = "Collagen Enhancing";
+                                                    newSpaPhoneNumberSelected = "(314) 664-9655";
+                                                    insteadOfSpa = "$377";
+                                                    break;
+
                                                     case "Rose Spa":
                                                         upDatedSpaName = "Rose Spa";
                                                         upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
@@ -4373,6 +4389,22 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 333-1979";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(747) 333-1979";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Blossom Cosmetics LED":
+                                        upDatedSpaName = "Blossom";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-promo-page";
+                                        upDatedSpaPhone = "(904) 516-9268";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30-minute LED Anti-aging Treatment and 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(904) 629-3611";
                                         insteadOfSpa = "$377";
                                         break;
 
