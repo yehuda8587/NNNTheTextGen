@@ -1590,6 +1590,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Victoria Collagen Enhancing":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
+                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20-minute cleansing and 20 Minutes Collagen Enhancing treatment";
+                                    upDatedDurationTwo = "- 20-minute consultation ";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Victoria":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
@@ -1622,6 +1638,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Woodgrove Collagen":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-collagen-enhancing-new-promo";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
@@ -1652,6 +1684,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown Collagen Enhancing":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
+                                    upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown Neck and Jawline":
