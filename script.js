@@ -4443,7 +4443,7 @@
                                         case "Blossom Cosmetics LED":
                                         upDatedSpaName = "Blossom";
                                         upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
-                                        upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
+                                        upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-promo-page";
                                         upDatedSpaPhone = "(904) 516-9268";
                                         upDatedDurationTotal = "60 Minutes";
