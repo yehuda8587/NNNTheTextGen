@@ -2536,7 +2536,7 @@
                                                                 insteadOfSpa = "$350";
                                                                 break;
 
-                                    case "Ben's Beauty Spa":
+                                    case "Ben's Beauty Spa 89.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2552,7 +2552,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Ben's Beauty Spa Collagen Enhancing Treatment":
+                                    case "Ben's Beauty Spa Collagen Enhancing Treatment 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2568,7 +2568,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Spa Hydraglow Treatment":
+                                    case "Ben's Beauty Spa Hydraglow Treatment 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2584,7 +2584,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Spa Collagen Enhancing Treatment with LED":
+                                    case "Ben's Beauty Spa Collagen Enhancing Treatment with LED 69.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2600,7 +2600,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Men LED":
+                                    case "Ben's Beauty Men LED 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -2616,7 +2616,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Ben's Beauty Neck and Jawline Tightening":
+                                    case "Ben's Beauty Neck and Jawline Tightening 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -4453,6 +4453,22 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(904) 629-3611";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Glamour Spa LED":
+                                        upDatedSpaName = "Glamour Spa";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo-page";
+                                        upDatedSpaPhone = "(603) 600-8357";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 45-minute LED Anti-aging Treatment and Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (603) 943-1805";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(603) 943-1805";
                                         insteadOfSpa = "$377";
                                         break;
 
