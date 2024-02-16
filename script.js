@@ -347,6 +347,22 @@
                                 insteadOfSpa = "$350"
                                 break; 
 
+                                case "Kristals Barrie Neck and Jawline 69.95":
+                                upDatedSpaName = "Kristals Barrie Spa";
+                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-neck-and-jaw-line-tightening-treatment-promo" ;
+                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
+                                promoPrice = "69.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                                treatmentSelected = "Neck and Jawline Tightening";
+                                newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
@@ -377,6 +393,22 @@
                                     treatmentSelected = "Non-Surgical Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     insteadOfSpa = "$350"
+                                    break; 
+
+                                    case "Adore Cookstown Neck and Jawline 69.95":
+                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
+                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
+                                    promoPrice = "69.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$377"
                                     break; 
 
                                     case "Kristals Erin Mills LED":
@@ -4024,6 +4056,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Introstem Carlsbad Neck and Jawline 59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -4118,6 +4166,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$299";
+                                    break;
+
+                                    case "The Glow Med Spa Neck and Jawline 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "D'or24k Prestige Spa LED":
@@ -4312,15 +4376,15 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Spa De Solei Neck and Jawline":
+                                        case "Spa De Solei Neck and Jawline 69.95":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
                                         upDatedSpaLINK = "https://forms.gle/zb8L36aK2hCgHm366";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-spa-de-solei-led-promo";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/spa-de-soleil-neck-and-jawline-treatment-page";
                                         upDatedSpaPhone = "(323) 484-5791";
                                         upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45-minute Neck and Jawline Treatment";
-                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        upDatedDurationOne = "- 15-minute light cleansing";
+                                        upDatedDurationTwo = "- 45-minute Neck and Jawline Treatment and Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 630-9245";
                                         treatmentSelected = "Neck and Jawline Tightening";
@@ -4436,6 +4500,22 @@
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 333-1979";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(747) 333-1979";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Laconico Spa Neck and Jawline 69.95":
+                                        upDatedSpaName = "Laconico";
+                                        upDatedSpaAddress = "5805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
+                                        upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/laconico-neck-and-jaw-line-tightening-treatment-promo";
+                                        upDatedSpaPhone = "(786) 522-2327";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 45-minute Neck and Jawline Treatment and Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 333-1979";
+                                        treatmentSelected = "Neck and Jawline Tightening";
                                         newSpaPhoneNumberSelected = "(747) 333-1979";
                                         insteadOfSpa = "$377";
                                         break;
