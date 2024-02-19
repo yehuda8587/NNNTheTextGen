@@ -4552,8 +4552,24 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        
+                                        case "Forever Flawless Biltmore":
+                                        upDatedSpaName = "Forever Flawless";
+                                        upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
+                                        upDatedSpaLINK = "https://forms.gle/bxfiEhPtH4LtwdW89";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo-page";
+                                        upDatedSpaPhone = "(623) 600-4375";
+                                        upDatedDurationTotal = "75 Minutes";
+                                        upDatedDurationOne = "- 10 minutes cleansing";
+                                        upDatedDurationTwo = "- 50 minutes LED Anti-aging Treatment and a 15 minute Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 956-3077";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(602) 956-3077";
+                                        insteadOfSpa = "$377";
+                                        break;
 
+                                        
+                                        
                                                                 
 
                                                             
