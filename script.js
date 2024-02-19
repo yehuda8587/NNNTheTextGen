@@ -4556,7 +4556,7 @@
                                         upDatedSpaName = "Forever Flawless";
                                         upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
                                         upDatedSpaLINK = "https://forms.gle/bxfiEhPtH4LtwdW89";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo-page";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/forever-flawless-promo-page";
                                         upDatedSpaPhone = "(623) 600-4375";
                                         upDatedDurationTotal = "75 Minutes";
                                         upDatedDurationOne = "- 10 minutes cleansing";
