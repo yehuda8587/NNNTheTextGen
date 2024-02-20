@@ -3427,7 +3427,7 @@
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
+                                    treatmentSelected = "Body Sculpting Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
                                     insteadOfSpa = "$399";
                                     break;
@@ -3443,7 +3443,7 @@
                                     upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Laser Lipo Treatment";
+                                    treatmentSelected = "Body Sculpting Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
                                     insteadOfSpa = "$399";
                                     break;
@@ -3459,7 +3459,7 @@
                                         upDatedDurationTwo = "- 60 minutes of Cleaning & Body Sculpting Treatment"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                        treatmentSelected = "Laser Lipo Treatment";
+                                        treatmentSelected = "Body Sculpting Treatment";
                                         newSpaPhoneNumberSelected = "(954) 777-6770";
                                         insteadOfSpa = "$399";
                                         break;
