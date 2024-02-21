@@ -2984,7 +2984,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Good Life Spa":
+                                    case "Good Life Spa LED 79.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
@@ -2993,14 +2993,14 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
                                     upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                    promoPrice = "69.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(386) 267-5157";
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Good Life Spa 59.95":
+                                    case "Good Life Spa LED 59.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
@@ -3016,7 +3016,7 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Good Life Spa Men's LED":
+                                    case "Good Life Spa Men's LED 79.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
@@ -3032,7 +3032,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Good Life Spa Collagen Enhancing":
+                                    case "Good Life Spa Collagen Enhancing 69.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
@@ -3048,7 +3048,7 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Good Life Spa Neck and Jawline":
+                                    case "Good Life Spa Neck and Jawline 69.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
