@@ -4536,6 +4536,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Blossom Cosmetics Neck and Jawline 69.95":
+                                        upDatedSpaName = "Blossom";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-neck-and-jawline-treatment-page";
+                                        upDatedSpaPhone = "(904) 516-9268";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30-minute LED Neck and Jawline Treatment and Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
+                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(904) 629-3611";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Glamour Spa LED":
                                         upDatedSpaName = "Glamour Spa";
                                         upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator)"+"<br>"+"(Park near target)";
