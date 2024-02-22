@@ -4490,7 +4490,7 @@
 
                                         case "Laconico Spa LED":
                                         upDatedSpaName = "Laconico";
-                                        upDatedSpaAddress = "5805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
+                                        upDatedSpaAddress = "15805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
                                         upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/laconico-spa-promo-page";
                                         upDatedSpaPhone = "(786) 522-2327";
@@ -4506,7 +4506,7 @@
 
                                         case "Laconico Spa Neck and Jawline 69.95":
                                         upDatedSpaName = "Laconico";
-                                        upDatedSpaAddress = "5805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
+                                        upDatedSpaAddress = "15805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
                                         upDatedSpaLINK = "https://forms.gle/wEj6wz45i8V4fr898";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/laconico-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(786) 522-2327";
