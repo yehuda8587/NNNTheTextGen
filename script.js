@@ -1750,6 +1750,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Skin Tightening 69.95":
+                                        upDatedSpaName = "Avologi Eneo Spa";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-avologi-metrotown-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing and Massage";
+                                    upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Metrotown EMS":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
@@ -2660,6 +2676,22 @@
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Ben's Beauty Skin Tightening 69.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Consultation";
+                                    upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
+                                    promoPrice = "69.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4468,6 +4500,22 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Melle Soul Skin and Body Skin Tightening 69.95":
+                                        upDatedSpaName = "Melle Soul Skin and Body";
+                                        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-melle-soul-skin-amp-body-skin-tightening-treatment";
+                                        upDatedSpaPhone = "(346) 646-5755";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
+                                        upDatedDurationTwo = "- 15-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        treatmentSelected = "Skin Tightening";
                                         newSpaPhoneNumberSelected = "(562) 357-4062";
                                         insteadOfSpa = "$377";
                                         break;
