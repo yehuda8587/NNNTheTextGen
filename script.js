@@ -4616,6 +4616,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Glamour Spa LED 79.95":
+                                        upDatedSpaName = "Glamour Spa";
+                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator)"+"<br>"+"(Park near target)";
+                                        upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo";
+                                        upDatedSpaPhone = "(603) 600-8357";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 45-minute LED Anti-aging Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (603) 943-1805";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(603) 943-1805";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Forever Flawless Biltmore":
                                         upDatedSpaName = "Forever Flawless";
                                         upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
