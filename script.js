@@ -4568,18 +4568,18 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Blossom Cosmetics LED":
+                                        case "Blossom Cosmetics Collagen Enhancing $59.95":
                                         upDatedSpaName = "Blossom";
                                         upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
                                         upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-promo-page";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-collagen-enhancing-promo-page";
                                         upDatedSpaPhone = "(904) 516-9268";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30-minute LED Anti-aging Treatment and 15-minutes Consultation"
-                                        promoPrice = "69.95";
+                                        promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
-                                        treatmentSelected = "LED Treatment";
+                                        treatmentSelected = "Collagen Enhancing";
                                         newSpaPhoneNumberSelected = "(904) 629-3611";
                                         insteadOfSpa = "$377";
                                         break;
