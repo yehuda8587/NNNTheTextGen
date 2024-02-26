@@ -4577,7 +4577,7 @@
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30-minute LED Anti-aging Treatment and 15-minutes Consultation"
-                                        promoPrice = "69.95";
+                                        promoPrice = "99.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(904) 629-3611";
