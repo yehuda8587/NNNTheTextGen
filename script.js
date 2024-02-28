@@ -4570,7 +4570,7 @@
 
                                         case "Blossom Cosmetics LED":
                                         upDatedSpaName = "Blossom";
-                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to EverBank)"+"<br>"+"(Plenty of parking within the premises)";
                                         upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-promo-page";
                                         upDatedSpaPhone = "(904) 516-9268";
@@ -4586,7 +4586,7 @@
 
                                         case "Blossom Cosmetics Collagen Enhancing $59.95":
                                         upDatedSpaName = "Blossom";
-                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to EverBank)"+"<br>"+"(Plenty of parking within the premises)";
                                         upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-collagen-enhancing-promo-page";
                                         upDatedSpaPhone = "(904) 516-9268";
@@ -4602,7 +4602,7 @@
 
                                         case "Blossom Cosmetics Neck and Jawline 69.95":
                                         upDatedSpaName = "Blossom";
-                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to FedEx)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to EverBank)"+"<br>"+"(Plenty of parking within the premises)";
                                         upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-neck-and-jawline-treatment-page";
                                         upDatedSpaPhone = "(904) 516-9268";
