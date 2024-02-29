@@ -1494,6 +1494,22 @@
                                     insteadOfSpa = "$350"
                                     break; 
 
+                                    case "Adore Estero LED 79.95 NEW":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-anti-aging-promo-page";
+                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Cleansing & Steam ";
+                                    upDatedDurationTwo = "- 35 Minutes LED Tightening Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$350"
+                                    break; 
+
                                     case "Adore Estero LED Skin Tightening":
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)";
