@@ -4697,7 +4697,7 @@
                                         break;
 
                                         case "Aloe Skin Aesthetics Skin Tightening $59.95":
-                                        upDatedSpaName = "Forever Flawless";
+                                        upDatedSpaName = "Aloe Skin Aesthetics";
                                         upDatedSpaAddress = "3225 N 75th St. Scottsdale, AZ 85251"+"<br>"+"(STE 110, Next to Great wall Chinese Medicine)"+"<br>"+"(There is a big parking lot in front of the spa for customers use)";
                                         upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/aloe-skin-aesthetics-promo-page";
