@@ -2407,6 +2407,22 @@
                                                     insteadOfSpa = "$377";
                                                     break;
 
+                                                    case "West County Spa Center Collagen Enhancing 59.95":
+                                                    upDatedSpaName = "West County Spa Center";
+                                                    upDatedSpaAddress = "West County Center Mall," + "<br>" + "53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
+                                                    upDatedSpaLINK = "https://forms.gle/W8RQmTPZ8ZyKToLCA";
+                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/west-county-spa-center-collagen-enhancing-treatment-promo";
+                                                    upDatedSpaPhone = "(314) 582-1397";
+                                                    upDatedDurationTotal = "60 Minutes";
+                                                    upDatedDurationOne = "- 10 Minnutes Cleansing";
+                                                    upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & Consultation" + "<br>" + "- 20 Minutes Consultation";
+                                                    promoPrice = "59.95";
+                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
+                                                    treatmentSelected = "Collagen Enhancing";
+                                                    newSpaPhoneNumberSelected = "(314) 664-9655";
+                                                    insteadOfSpa = "$377";
+                                                    break;
+
                                                     case "Rose Spa":
                                                         upDatedSpaName = "Rose Spa";
                                                         upDatedSpaAddress = "635 SW Morrison St, Portland, OR 97205" + "<br>" + "(Inside of the Wells Fargo Building, across from Pioneer Courthouse Square)";
