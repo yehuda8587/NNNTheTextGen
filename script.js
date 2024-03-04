@@ -4466,9 +4466,9 @@
                                         upDatedDurationOne = "- 10-minutes Consultation";
                                         upDatedDurationTwo = "- 35-minute LED Anti-aging Treatment"
                                         promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$300";
                                         break;
 
@@ -4482,9 +4482,9 @@
                                         upDatedDurationOne = "- 15-minutes light cleansing";
                                         upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "Collagen Enhancing";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -4498,9 +4498,9 @@
                                         upDatedDurationOne = "- 15-minutes light cleansing";
                                         upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "Collagen Enhancing";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -4514,9 +4514,9 @@
                                         upDatedDurationOne = "- 30-minute Neck and Jawline Treatment";
                                         upDatedDurationTwo = "- 15-minutes Consultation"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "Neck and Jawline Tightening";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -4530,9 +4530,9 @@
                                         upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
                                         upDatedDurationTwo = "- 15-minutes Consultation"
                                         promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -4546,9 +4546,9 @@
                                         upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
                                         upDatedDurationTwo = "- 15-minutes Consultation"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (562) 357-4062";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 290-4942";
                                         treatmentSelected = "Skin Tightening";
-                                        newSpaPhoneNumberSelected = "(562) 357-4062";
+                                        newSpaPhoneNumberSelected = "(832) 290-4942";
                                         insteadOfSpa = "$377";
                                         break;
 
