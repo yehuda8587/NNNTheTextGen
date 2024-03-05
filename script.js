@@ -4559,8 +4559,8 @@
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/truffoire-led-promo-page";
                                         upDatedSpaPhone = "(251) 999-8489";
                                         upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 5 minutes cleansing";
-                                        upDatedDurationTwo = "- 35-minute LED Anti-aging Treatment and 20-minutes Consultation"
+                                        upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
+                                        upDatedDurationTwo = "- 30-minutes Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
                                         treatmentSelected = "LED Treatment";
