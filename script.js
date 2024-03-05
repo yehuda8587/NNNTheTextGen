@@ -4686,7 +4686,7 @@
                                         upDatedSpaLINK = "https://forms.gle/bxfiEhPtH4LtwdW89";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/forever-flawless-promo-page";
                                         upDatedSpaPhone = "(623) 600-4375";
-                                        upDatedDurationTotal = "75 Minutes";
+                                        upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10 minutes cleansing";
                                         upDatedDurationTwo = "- 50 minutes LED Anti-aging Treatment and a 15 minute Consultation"
                                         promoPrice = "79.95";
