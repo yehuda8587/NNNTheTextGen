@@ -326,7 +326,7 @@
                             upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                            treatmentSelected = "Neck & Jawline Tightening";
+                            treatmentSelected = "Neck and Jawline Tightening Treatment";
                             newSpaPhoneNumberSelected = "(647) 293-1112";
                             insteadOfSpa = "$377"
                             break; 
@@ -374,7 +374,7 @@
                                 upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
                                 promoPrice = "69.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
-                                treatmentSelected = "Neck and Jawline Tightening";
+                                treatmentSelected = "Neck and Jawline Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(647) 787-7105";
                                 insteadOfSpa = "$377"
                                 break;
@@ -422,7 +422,7 @@
                                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
                                     promoPrice = "69.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     insteadOfSpa = "$377"
                                     break; 
@@ -470,7 +470,7 @@
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
-                                    treatmentSelected = "Neck & Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
                                     insteadOfSpa = "$377"
                                     break;    
@@ -520,7 +520,7 @@
                                                         upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment";
                                                         promoPrice = "69.95";
                                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 808-9400";
-                                                        treatmentSelected = "Neck and Jawline Tightening";
+                                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                                         newSpaPhoneNumberSelected = "(480) 808-9400";
                                                         insteadOfSpa = "$377"
                                                         break; 
@@ -1488,7 +1488,7 @@
                                     upDatedDurationTwo = "- 45 minutes of Neck & Jawline Treatment";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$299"
                                     break;
@@ -1553,7 +1553,7 @@
                                     upDatedDurationTwo = "- 35 Minutes Neck & Jawline Treatment and Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(239) 301-4943";
                                     insteadOfSpa = "$377"
                                     break; 
@@ -1777,7 +1777,7 @@
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$377";
                                     break; 
@@ -2177,7 +2177,7 @@
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Neck & Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$377";
                                     break;
@@ -2723,7 +2723,7 @@
                                     upDatedDurationTwo = "45 minutes of Neck and Jawline Treatment";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$377";
                                     break;
@@ -3139,7 +3139,7 @@
                                     upDatedDurationTwo = "- 45 minutes of the Neck & Jawline Treatment"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(386) 267-5157";
                                     insteadOfSpa = "$377";
                                     break;
@@ -3411,7 +3411,7 @@
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$377";
                                     break;
@@ -3571,7 +3571,7 @@
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(954) 777-6770";
                                     insteadOfSpa = "$299";
                                     break;
@@ -3795,7 +3795,7 @@
                                     upDatedDurationTwo = "- 45-minutes Neck & Jawline Treatment"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
                                     insteadOfSpa = "$377";
                                     break;
@@ -3888,10 +3888,10 @@
                                     upDatedSpaPhone = "(734) 659-0707";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Neck & Jawline Tightening Treatment and 15-minutes Consultation"
+                                    upDatedDurationTwo = "- 30-minutes Neck and Jawline Tightening Treatment and 15-minutes Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 330-0991";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(734) 330-0991";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4003,7 +4003,7 @@
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(509) 824-9926";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4147,7 +4147,7 @@
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4259,7 +4259,7 @@
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
-                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4355,7 +4355,7 @@
                                         upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and minutes Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
-                                        treatmentSelected = "Neck & Jawline Tightening";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$377";
                                         break;
@@ -4467,7 +4467,7 @@
                                         upDatedDurationTwo = "- 45-minute Neck and Jawline Treatment and Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 630-9245";
-                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(808) 630-9245";
                                         insteadOfSpa = "$377";
                                         break;
@@ -4531,7 +4531,7 @@
                                         upDatedDurationTwo = "- 15-minutes Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(832) 920-4942";
                                         insteadOfSpa = "$377";
                                         break;
@@ -4611,7 +4611,7 @@
                                         upDatedDurationTwo = "- 45-minute Neck and Jawline Treatment and Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 333-1979";
-                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(747) 333-1979";
                                         insteadOfSpa = "$377";
                                         break;
@@ -4659,7 +4659,7 @@
                                         upDatedDurationTwo = "- 30-minute LED Neck and Jawline Treatment and Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
-                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(904) 629-3611";
                                         insteadOfSpa = "$377";
                                         break;
