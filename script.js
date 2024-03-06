@@ -4666,7 +4666,7 @@
 
                                         case "Glamour Spa LED":
                                         upDatedSpaName = "Glamour Spa";
-                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator)"+"<br>"+"(Park near target)";
+                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator, next to Ann Taylor)"+"<br>"+"(Park near target)";
                                         upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo-page";
                                         upDatedSpaPhone = "(603) 600-8357";
@@ -4682,7 +4682,7 @@
 
                                         case "Glamour Spa LED 79.95":
                                         upDatedSpaName = "Glamour Spa";
-                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator)"+"<br>"+"(Park near target)";
+                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator, next to Ann Taylor)"+"<br>"+"(Park near target)";
                                         upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-promo";
                                         upDatedSpaPhone = "(603) 600-8357";
