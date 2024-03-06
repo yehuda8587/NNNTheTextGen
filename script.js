@@ -187,6 +187,22 @@
                 insteadOfSpa = "$399"
                 break;
 
+                case "Skin Analytics Male Non-Surgical Face Lift":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-mens-non-surgical-facelift-promo-page"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Non-Surgical Face Lift & LED Technology & a 15 minute Consultation"
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Non-Surgical Face Lift";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$377"
+                break;
+
             case "Esthetix Raliegh":
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
