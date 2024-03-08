@@ -4600,6 +4600,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Truffoire LED 69.95":
+                                        upDatedSpaName = "Truffoire";
+                                        upDatedSpaAddress = "2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
+                                        upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-truffoire-led-promo-page";
+                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
+                                        upDatedDurationTwo = "- 30-minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(256) 517-8740";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Laconico Spa LED":
                                         upDatedSpaName = "Laconico";
                                         upDatedSpaAddress = "15805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
