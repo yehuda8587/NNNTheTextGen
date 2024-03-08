@@ -4782,12 +4782,12 @@
                                         upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15 minutes cleansing";
-                                        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                        upDatedDurationTotal = "70 Minutes";
+                                        upDatedDurationOne = "- 50 minutes light cleansing and the LED Non-Surgical Face Lift treatment";
+                                        upDatedDurationTwo = "- 20 minutes Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
-                                        treatmentSelected = "LED Treatment";
+                                        treatmentSelected = "LED Non-Surgical Face Lift Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$377";
                                         break;
