@@ -4760,6 +4760,38 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Malka Med Spa LED 79.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavelier Grand Junction LED 79.95":
+                                        upDatedSpaName = "Lavlier";
+                                        upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
+                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-colorado-promo-page";
+                                        upDatedSpaPhone = "(970) 398-8569";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 5 minute Skin Analysis and 10 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(720) 404-3885";
+                                        insteadOfSpa = "$350";
+                                        break;
+
                                         
                                         
                                                                 
