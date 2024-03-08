@@ -4776,18 +4776,18 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Malka Med Spa LED 79.95":
+                                        case "Malka Med Spa Skin Tightening 79.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "70 Minutes";
-                                        upDatedDurationOne = "- 50 minutes light cleansing and the LED Non-Surgical Face Lift treatment";
+                                        upDatedDurationOne = "- 50 minutes light cleansing and the Skin Tightening treatment";
                                         upDatedDurationTwo = "- 20 minutes Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
-                                        treatmentSelected = "LED Non-Surgical Face Lift Treatment";
+                                        treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$377";
                                         break;
