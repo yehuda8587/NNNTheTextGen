@@ -4696,6 +4696,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Blossom Cosmetics Neck and Jawline 59.95":
+                                        upDatedSpaName = "Blossom";
+                                        upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to EverBank)"+"<br>"+"(Plenty of parking within the premises)";
+                                        upDatedSpaLINK = "https://forms.gle/wMBGEkEVzETSdEr77";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blossom-neck-and-jawline-treatment-new";
+                                        upDatedSpaPhone = "(904) 516-9268";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30-minute LED Neck and Jawline Treatment and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 629-3611";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(904) 629-3611";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Glamour Spa LED":
                                         upDatedSpaName = "Glamour Spa";
                                         upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator, next to Ann Taylor)"+"<br>"+"(Park near target)";
@@ -4786,6 +4802,22 @@
                                         upDatedDurationOne = "- 50 minutes light cleansing and the Skin Tightening treatment";
                                         upDatedDurationTwo = "- 20 minutes Consultation"
                                         promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Malka Med Spa Skin Tightening 59.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "70 Minutes";
+                                        upDatedDurationOne = "- 50 minutes light cleansing and the Skin Tightening treatment";
+                                        upDatedDurationTwo = "- 20 minutes Consultation"
+                                        promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
                                         treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
