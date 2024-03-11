@@ -4795,7 +4795,7 @@
                                         case "Malka Med Spa Skin Tightening 79.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "70 Minutes";
@@ -4811,7 +4811,7 @@
                                         case "Malka Med Spa Skin Tightening 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "70 Minutes";
