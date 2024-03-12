@@ -2834,11 +2834,11 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Esthetix Gurnee":
-                                    upDatedSpaName = "Esthetix";
+                                    case "Vivorelle Gurnee":
+                                    upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-il-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
@@ -2848,7 +2848,7 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(646) 220-8444";
                                     insteadOfSpa = "$350";
-                                    break;
+                                    break; 
 
                                     case "GreenBiotics Barton Creek 59.95":
                                     upDatedSpaName = "GreenBiotics";
