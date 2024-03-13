@@ -1696,6 +1696,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Tierra Med Neck and Jawline 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-treatment";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
@@ -2848,6 +2864,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(646) 220-8444";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "Vivorelle Gurnee Neck and Jawline $69.95":
+                                    upDatedSpaName = "Vivorelle";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
+                                    upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(224) 955-2828";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes light cleansing & Neck and Jawline Treatment "
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
+                                    treatmentSelected = "NNeck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(646) 220-8444";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "GreenBiotics Barton Creek 59.95":
