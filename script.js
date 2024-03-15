@@ -4132,7 +4132,7 @@
 
                                         case "Truffoire LED":
                                         upDatedSpaName = "Truffoire";
-                                        upDatedSpaAddress = "2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
+                                        upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/truffoire-led-promo-page";
                                         upDatedSpaPhone = "(251) 999-8489";
@@ -4148,7 +4148,7 @@
 
                                         case "Truffoire LED 69.95":
                                         upDatedSpaName = "Truffoire";
-                                        upDatedSpaAddress = "2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
+                                        upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-truffoire-led-promo-page";
                                         upDatedSpaPhone = "(251) 999-8489";
