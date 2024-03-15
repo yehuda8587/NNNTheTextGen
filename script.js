@@ -3980,9 +3980,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 690-8693";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 690-8693";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
                                     insteadOfSpa = "$299";
                                     break;
 
@@ -4389,7 +4389,7 @@
                                         case "Lavelier Grand Junction LED 79.95":
                                         upDatedSpaName = "Lavlier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
-                                        upDatedSpaLINK = "https://forms.gle/1nvezFf1zSk8n8zp9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-colorado-promo-page";
                                         upDatedSpaPhone = "(970) 398-8569";
                                         upDatedDurationTotal = "60 Minutes";
