@@ -4386,6 +4386,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Malka Med Spa Collagen 69.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-collagen-promo";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "70 Minutes";
+                                        upDatedDurationOne = "- 50 minutes light cleansing and the Collagen Enhancing treatment";
+                                        upDatedDurationTwo = "- 20 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Collagen Enhancing";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Lavelier Grand Junction LED 79.95":
                                         upDatedSpaName = "Lavlier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
