@@ -2909,7 +2909,7 @@
                                     upDatedDurationTwo = "- 45-minutes light cleansing & Neck and Jawline Treatment "
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
-                                    treatmentSelected = "NNeck and Jawline Tightening Treatment";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(646) 220-8444";
                                     insteadOfSpa = "$377";
                                     break; 
