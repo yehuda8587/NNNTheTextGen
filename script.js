@@ -1376,6 +1376,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Stem Spa Redding Neck and Jawline 69.95":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
+                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-neck-and-jawline-treatment";
+                                    upDatedSpaPhone = "(279) 972-0008";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes LED Anti-aging treatment & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Stem Spa Medford":
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
@@ -1406,6 +1422,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "Stem Spa Medford Neck and Jawline 69.95":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
+                                    upDatedSpaPhone = "(541) 549-1196";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes LED Anti-aging treatment & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "INGLOT Charlotte":
@@ -3408,6 +3440,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(780) 890-0008";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Adore Edmonton Neck and Jawline 99.95":
+                                    upDatedSpaName = "Adore";
+                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultaion";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
+                                    treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(780) 890-0008";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Beauty Essentials LED":
