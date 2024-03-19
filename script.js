@@ -2967,7 +2967,7 @@
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
-                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minutes of Cleansing";
                                     upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment & 20-minutes Consultation"
@@ -2983,7 +2983,7 @@
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
-                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minutes of Cleansing";
                                     upDatedDurationTwo = "- 20-minutes Collagen Enhancing Treatment & 20-minutes Consultation"
@@ -2999,7 +2999,7 @@
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(406) 601-8145";
+                                    upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
