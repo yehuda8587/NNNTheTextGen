@@ -4466,6 +4466,22 @@
                                         insteadOfSpa = "$350";
                                         break;
 
+                                        case "Oasis Aesthetics LED 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-promo-page";
+                                        upDatedSpaPhone = "(204) 201-4734";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292-2530";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 292-2530";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         
                                         
                                                                 
