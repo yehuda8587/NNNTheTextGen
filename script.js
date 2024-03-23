@@ -1255,7 +1255,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1271,7 +1271,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1287,7 +1287,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing and Massage";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1303,7 +1303,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-avologi-metrotown-skin-tightening-treatment";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing and Massage";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -1319,7 +1319,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing and Massage";
+                                    upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
@@ -2153,7 +2153,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Massage";
+                                    upDatedDurationOne = "30 minute Cleansing";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
@@ -2169,7 +2169,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-new-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "30 minute Cleansing and Massage";
+                                    upDatedDurationOne = "30 minute Cleansing";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
                                     promoPrice = "99.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
@@ -3513,7 +3513,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/isha-beauty-amp-wellness-collagen-enhancing-promo-page";
                                     upDatedSpaPhone = "(786) 744-5319";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20-minute Cleansing and Massage";
+                                    upDatedDurationOne = "- 20-minute Cleansing";
                                     upDatedDurationTwo = "- 25-minutes Collagen Enhancing Treatment and 15-minutes Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at 305-603-7536";
@@ -4479,6 +4479,38 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292-2530";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(204) 292-2530";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavan Med Spa LED 59.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-promo-page";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavan Med Spa Neck and Jawline 59.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "Neck and Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
                                         insteadOfSpa = "$377";
                                         break;
 
