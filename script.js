@@ -1417,11 +1417,11 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "Stem Spa Medford Neck and Jawline 69.95":
