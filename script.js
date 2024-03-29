@@ -1397,7 +1397,7 @@
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
-                                    upDatedSpaPhone = "(541) 549-1196";
+                                    upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
@@ -1413,7 +1413,7 @@
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(541) 549-1196";
+                                    upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
@@ -1429,7 +1429,7 @@
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
-                                    upDatedSpaPhone = "(541) 549-1196";
+                                    upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes LED Anti-aging treatment & Consultation";
@@ -3335,7 +3335,7 @@
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-promo-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
@@ -3351,7 +3351,7 @@
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-esthetix-st-augustine-promo-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"   
@@ -3367,7 +3367,7 @@
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-mens-led-promo-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
@@ -3383,7 +3383,7 @@
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-neck-and-jawline-treatment-page";
-                                    upDatedSpaPhone = "(352) 505-7757";
+                                    upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Neck & Jawline Treatment"
@@ -4343,7 +4343,7 @@
                                         upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
                                         upDatedSpaLINK = "https://forms.gle/bxfiEhPtH4LtwdW89";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/forever-flawless-promo-page";
-                                        upDatedSpaPhone = "(623) 600-4375";
+                                        upDatedSpaPhone = "(602) 887-9960";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10 minutes cleansing";
                                         upDatedDurationTwo = "- 50 minutes LED Anti-aging Treatment and Consultation"
@@ -4359,7 +4359,7 @@
                                         upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
                                         upDatedSpaLINK = "https://forms.gle/bxfiEhPtH4LtwdW89";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/forever-flawless-led-promo-page";
-                                        upDatedSpaPhone = "(623) 600-4375";
+                                        upDatedSpaPhone = "(602) 887-9960";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10 minutes cleansing";
                                         upDatedDurationTwo = "- 50 minutes LED Anti-aging Treatment and Consultation"
