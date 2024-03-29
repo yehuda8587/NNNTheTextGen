@@ -2644,7 +2644,7 @@
 
                                     case "Good Life Spa LED 79.95":
                                     upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
                                     upDatedSpaPhone = "(386) 267-6296";
@@ -2660,7 +2660,7 @@
 
                                     case "Good Life Spa LED 59.95":
                                     upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-new-led-promo";
                                     upDatedSpaPhone = "(386) 267-6296";
@@ -2676,7 +2676,7 @@
 
                                     case "Good Life Spa Men's LED 79.95":
                                     upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-led-promo";
                                     upDatedSpaPhone = "(386) 267-6296";
@@ -2692,7 +2692,7 @@
 
                                     case "Good Life Spa Collagen Enhancing 69.95":
                                     upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(386) 267-6296";
@@ -2708,7 +2708,7 @@
 
                                     case "Good Life Spa Neck and Jawline 69.95":
                                     upDatedSpaName = "Good Life Spa";
-                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Near T-Mobile)";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-neck-and-jawline-treatment-page";
                                     upDatedSpaPhone = "(386) 267-6296";
