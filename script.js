@@ -3970,6 +3970,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Sthetics Med Spa Body Lipo $69.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minutes of Consultation";
+                                        upDatedDurationTwo = "- 45-minutes of the Body Lipo Cavitation Treatment"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Body Lipo Cavitation";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$399";
+                                        break;
+
                                     case "Introstem Tyler LED":
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
@@ -4389,7 +4405,7 @@
                                         case "Malka Med Spa Skin Tightening 79.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4405,7 +4421,7 @@
                                         case "Malka Med Spa Skin Tightening 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4421,7 +4437,7 @@
                                         case "Malka Med Spa Skin Tightening 59.95 instead of $299":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4437,7 +4453,7 @@
                                         case "Malka Med Spa Neck and Jawline 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4453,7 +4469,7 @@
                                         case "Malka Med Spa Collagen 69.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-collagen-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4469,7 +4485,7 @@
                                         case "Lavelier Grand Junction LED 79.95":
                                         upDatedSpaName = "Lavlier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/EoTh4TZAKX8K1AP67";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-colorado-promo-page";
                                         upDatedSpaPhone = "(970) 398-8569";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4485,7 +4501,7 @@
                                         case "Oasis Aesthetics LED 69.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-promo-page";
                                         upDatedSpaPhone = "(204) 201-4734";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4501,7 +4517,7 @@
                                         case "Lavan Med Spa LED 59.95":
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-promo-page";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -4517,7 +4533,7 @@
                                         case "Lavan Med Spa Neck and Jawline 59.95":
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
