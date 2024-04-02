@@ -3458,6 +3458,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Adore Edmonton Skin Tightening 99.95":
+                                    upDatedSpaName = "Adore";
+                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-skin-tightening-promo-page";
+                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultaion";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(780) 890-0008";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Beauty Essentials LED":
                                     upDatedSpaName = "Beauty Essentials";
                                     upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
@@ -4215,6 +4231,22 @@
                                         upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-truffoire-led-promo-page";
+                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(256) 517-8740";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Truffoire LED 59.95":
+                                        upDatedSpaName = "Truffoire";
+                                        upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
+                                        upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/truffoire-led-new-promo-page";
                                         upDatedSpaPhone = "(251) 999-8489";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
