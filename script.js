@@ -4251,7 +4251,7 @@
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
-                                        promoPrice = "69.95";
+                                        promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(256) 517-8740";
