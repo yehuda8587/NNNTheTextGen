@@ -3466,7 +3466,7 @@
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultaion";
-                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                    upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment"
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
                                     treatmentSelected = "Skin Tightening";
