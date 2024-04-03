@@ -1168,6 +1168,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Victoria Neck and Jawline 69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-neck-and-jaw-line-tightening-treatment-promo ";
+                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45-minute cleansing and the Neck and Jawline treatment";
+                                    upDatedDurationTwo = "- 15-minute consultation ";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Victoria Collagen Enhancing":
                                         upDatedSpaName = "Avologi Eneo Spa";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
@@ -1228,6 +1244,22 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
                                     treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Woodgrove Neck and Jawline 69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-neck-and-jaw-line-tightening-treatment-promo ";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Neck and Jawline Treatment";
                                     newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$377";
                                     break; 
@@ -4215,7 +4247,7 @@
                                         upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/truffoire-led-promo-page";
-                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedSpaPhone = "(938) 867-6022";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -4231,7 +4263,7 @@
                                         upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-truffoire-led-promo-page";
-                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedSpaPhone = "(938) 867-6022";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -4247,7 +4279,7 @@
                                         upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
                                         upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/truffoire-led-new-promo-page";
-                                        upDatedSpaPhone = "(251) 999-8489";
+                                        upDatedSpaPhone = "(938) 867-6022";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes LED Anti-aging Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
