@@ -1153,7 +1153,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
@@ -1185,7 +1185,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Victoria Collagen Enhancing":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
@@ -1201,7 +1201,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Victoria":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
@@ -1216,8 +1216,24 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Victoria Men's LED $69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-mens-led-promo-page";
+                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Woodgrove":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
@@ -1233,7 +1249,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Woodgrove Collagen":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-collagen-enhancing-new-promo";
@@ -1265,7 +1281,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
@@ -1280,8 +1296,24 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "AVOLOGI Eneo Woodgrove Men's LED $69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-mens-led-promo-page";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Metrotown":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
@@ -1297,7 +1329,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown Collagen Enhancing":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
@@ -1313,7 +1345,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown Neck and Jawline":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
@@ -1329,7 +1361,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown Skin Tightening 69.95":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-avologi-metrotown-skin-tightening-treatment";
@@ -1345,7 +1377,7 @@
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown EMS":
-                                        upDatedSpaName = "Avologi Eneo Spa";
+                                        upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
@@ -3810,6 +3842,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Introstem Carlsbad Body Lipo 69.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-lipo-cavitation-promo-page";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Body Cleaning and Body Lipo Cavitation Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Body Lipo Cavitation Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -3920,6 +3968,22 @@
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$377";
+                                    break;
+
+                                    case "The Glow Med Spa Body Lipo 69.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-lipo-cavitation-promo-page";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Body Cleaning and Body Lipo Cavitation Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Body Lipo Cavitation Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$399";
                                     break;
 
                                     case "D'or24k Prestige Spa LED":
@@ -4542,6 +4606,22 @@
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
                                         treatmentSelected = "Collagen Enhancing";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Malka Med Spa Men's LED 69.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-medspa-mens-led-promo-page";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes light cleansing";
+                                        upDatedDurationTwo = "- 45 minutes LED Treatment and  Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$377";
                                         break;
