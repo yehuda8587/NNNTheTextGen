@@ -4057,8 +4057,8 @@
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15-minute Light Cleansing";
-                                        upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment and minutes Consultation"
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 45-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
                                         treatmentSelected = "LED Treatment";
@@ -4073,8 +4073,8 @@
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 15-minute Light Cleansing";
-                                        upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment and minutes Consultation"
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes Neck and Jawline Treatment and 15 minutes Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
                                         treatmentSelected = "Neck and Jawline Tightening Treatment";
