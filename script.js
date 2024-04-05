@@ -3874,12 +3874,12 @@
                                     insteadOfSpa = "$350";
                                     break;
 
-                                    case "Gold Spa Roseville LED":
-                                    upDatedSpaName = "Gold Spa";
-                                    upDatedSpaAddress = "Westfield Galleria,"+"<br>"+"1151 Galleria Blvd, Roseville, CA 95747"+"<br>"+"(Second floor by Zara)";
+                                    case "TKO Beauty Tech LED":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-roseville-promo-page";
-                                    upDatedSpaPhone = "(916) 277-9994";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
+                                    upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
@@ -3887,7 +3887,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
-                                    insteadOfSpa = "$350";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Bee and Co Olympia LED":
