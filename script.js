@@ -3874,6 +3874,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Lavelier Longview Neck and Jawline":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
+                                    upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(430) 288-5519";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline and Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9242";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "TKO Beauty Tech LED":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
