@@ -1007,6 +1007,22 @@
                                     insteadOfSpa = "$299"
                                     break;
 
+                                    case "Elevatione Turkey Neck Tightening $79.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Turkey Neck Tightening Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
@@ -1390,6 +1406,22 @@
                                     treatmentSelected = "EMS Anti-aging Treatment";
                                     newSpaPhoneNumberSelected = "(236) 638-6596";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown Turkey Neck Tightening 79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "ICE 21":
@@ -4206,6 +4238,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Iridescent Wellness and Medical Spa Hydrofacial $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing and Steam";
+                                    upDatedDurationTwo = "- 20-minutes HydroFacial Cleansing and 15-minutes of infrared and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Hydrafacial Treatment";
                                     newSpaPhoneNumberSelected = "(586) 981-1850";
                                     insteadOfSpa = "$299";
                                     break;
