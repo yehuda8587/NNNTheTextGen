@@ -1376,6 +1376,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Neck and Jawline $69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Metrotown Skin Tightening 69.95":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
@@ -2489,13 +2505,29 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationOne = "- 15 minutes Consultation";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     insteadOfSpa = "$299";
+                                    break;
+
+                                    case "GreenBiotics Woodfield Turkey Neck Tightening $69.95":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Consultation";
+                                    upDatedDurationTwo = "- 45 minutes Turkey Neck Tightening Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$377";
                                     break;
                                     
                                     case "Infinity Pompano Beach":
@@ -3006,6 +3038,22 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(646) 220-8444";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "Vivorelle Gurnee Turkey Neck Tightening $69.95":
+                                    upDatedSpaName = "Vivorelle";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
+                                    upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-turkey-neck-tightening-treatment-promo ";
+                                    upDatedSpaPhone = "(224) 955-2828";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Turkey Neck Tightening Treatment "
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(646) 220-8444";
                                     insteadOfSpa = "$377";
                                     break; 
@@ -4178,6 +4226,22 @@
                                         insteadOfSpa = "$399";
                                         break;
 
+                                        case "Sthetics Med Spa Turkey Neck Tightening $69.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-turkey-neck-tightening-treatment-promo";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Consultation";
+                                        upDatedDurationTwo = "- 45-minutes Turkey Neck Tightening Treatment"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Turkey Neck Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                     case "Introstem Tyler LED":
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
@@ -4574,6 +4638,22 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (603) 943-1805";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(603) 943-1805";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Glamour Spa Turkey Neck Tightening 79.95":
+                                        upDatedSpaName = "Glamour Spa";
+                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator, next to Ann Taylor)"+"<br>"+"(Park near target)";
+                                        upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-turkey-neck-tightening-treatment-promo";
+                                        upDatedSpaPhone = "(603) 600-8357";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Consultation";
+                                        upDatedDurationTwo = "- 45-Turkey Neck Tightening Treatment"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (603) 943-1805";
+                                        treatmentSelected = "Turkey Neck Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(603) 943-1805";
                                         insteadOfSpa = "$377";
                                         break;
