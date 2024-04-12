@@ -363,6 +363,22 @@
                                 insteadOfSpa = "$350"
                                 break; 
 
+                                case "Kristals Burlington Turkey Neck Tightening $79.95":
+                            upDatedSpaName = "Kristals Burlington Spa";
+                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-turkey-neck-tightening-treatment-promo" ;
+                            upDatedSpaPhone = "(289) 293-9711";
+                            upDatedDurationTotal = "60 Minutes";
+                            upDatedDurationOne = "- 15 Minutes Consultation";
+                            upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                            promoPrice = "79.95"
+                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                            treatmentSelected = "Turkey Neck Tightening Treatment";
+                            newSpaPhoneNumberSelected = "(647) 293-1112";
+                            insteadOfSpa = "$377"
+                            break; 
+
                                 case "Kristals Barrie Neck and Jawline 69.95":
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
@@ -471,6 +487,22 @@
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 293-1112";
+                                    insteadOfSpa = "$377"
+                                    break;    
+
+                                    case "Kristals Erin Mills Turkey Neck Tightening $79.95":
+                                    upDatedSpaName = "Kristals Erin Mills spa";
+                                    upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
+                                    upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-turkey-neck-tightening-treatment-promo" ;
+                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
                                     insteadOfSpa = "$377"
                                     break;    
@@ -1852,6 +1884,22 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Tierra Med Turkey Neck Tightening 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Turkey Neck Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$377";
                                     break;
