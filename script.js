@@ -1376,6 +1376,23 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "AVOLOGI Eneo Woodgrove Sagging Neck Rescue $79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-sagging-neck-rescue-treatment-promo";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "Sagging Neck Rescue Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+
                                     case "AVOLOGI Eneo Metrotown":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
@@ -1509,7 +1526,7 @@
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-redding-promo-page";
-                                    upDatedSpaPhone = "(279) 972-0008";
+                                    upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5 minutes Cleansing";
                                     upDatedDurationTwo = "- 55 minutes LED Anti-aging treatment & Consultation";
@@ -1525,7 +1542,7 @@
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(279) 972-0008";
+                                    upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
@@ -1541,7 +1558,7 @@
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-neck-and-jawline-treatment";
-                                    upDatedSpaPhone = "(279) 972-0008";
+                                    upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes LED Anti-aging treatment & Consultation";
@@ -4386,6 +4403,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Iridescent Wellness and Medical Spa Sagging Neck Recue $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Sagging Neck Recue Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Sagging Neck Recue Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Spa De Solei LED":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
@@ -4862,6 +4895,22 @@
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Malka Med Spa Sagging Neck Rescue 79.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-sagging-neck-rescue-treatment-promo";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Consultation";
+                                        upDatedDurationTwo = "- 45 minutes Sagging Neck Rescue Treatment"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Sagging Neck Rescue Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$377";
                                         break;
