@@ -3395,6 +3395,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Lumiere By Adriana Sagging Neck Rescue $69.95":
+                                    upDatedSpaName = "Lumiere By Adriana";
+                                    upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse)";
+                                    upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-sagging-neck-rescue-treatment-promo";
+                                    upDatedSpaPhone = "(754) 799-8010";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Sagging Neck Rescue Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
+                                    treatmentSelected = "Sagging Neck Rescue Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 777-6770";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Colorado MedLaser LED":
                                     upDatedSpaName = "Colorado MedLaser";
                                     upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
@@ -4407,7 +4423,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-sagging-neck-rescue-treatment-promo";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
