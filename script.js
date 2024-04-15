@@ -4428,7 +4428,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Sagging Neck Recue Treatment"
-                                    promoPrice = "79.95";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "Sagging Neck Recue Treatment";
                                     newSpaPhoneNumberSelected = "(586) 981-1850";
