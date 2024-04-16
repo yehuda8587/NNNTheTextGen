@@ -4435,7 +4435,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Iridescent Wellness and Medical Spa Sagging Neck Recue $79.95":
+                                    case "Iridescent Wellness and Medical Spa Sagging Neck Recue $99.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
