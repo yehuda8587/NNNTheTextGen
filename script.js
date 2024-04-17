@@ -1521,6 +1521,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "AVOLOGI Eneo Metrotown Men's LED 79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 Minutes Men's LED Anti-Aging Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 638-6596";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 638-6596";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "ICE 21":
                                         upDatedSpaName = "ICE 21 Spa";
                                     upDatedSpaAddress = "563 Lakeshore Rd E Mississauga ON L5G 0A8"+"<br>"+"(Unit 4 Next to Denture Clinic)";
@@ -1900,7 +1916,7 @@
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment & Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$299";
                                     break;
