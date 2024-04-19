@@ -1745,6 +1745,22 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
+                                    case "Premier Pensacola Reverse Turkey Neck 79.95":
+                                        upDatedSpaName = "Premier Spa";
+                                    upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
+                                    upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premier-pensacola-reverse-turkey-neck-treatment-promo ";
+                                    upDatedSpaPhone = "(448) 400-2095";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Reverse Turkey Neck Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
+                                    treatmentSelected = "Reverse Turkey Neck Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 637-7637";
+                                    insteadOfSpa = "$350";
+                                    break; 
+
                                     case "Esthetix Cloverdale":
                                         upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "Cloverdale Mall," + "<br>" + "250 The East Mall Etobicoke ON M9B 3Y8 Canada"+"<br>"+"(Next to Scotiabank)";
@@ -3667,6 +3683,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Esthetix St. Augustine Reverse Turkey Neck 69.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-reverse-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(904) 368-6923";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Reverse Turkey Neck Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
@@ -4067,6 +4099,22 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "Introstem Carlsbad Reverse Turkey Neck Treatment 59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-carlsbad-reverse-turkey-neck-treatment-promo ";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Reverse Turkey Neck Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Introstem Carlsbad HIFU 69.95":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
@@ -4127,6 +4175,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "TKO Beauty Tech Reverse Turkey Neck Treatment 79.95":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-reverse-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "Reverse Turkey Neck Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4980,7 +5044,7 @@
                                         break;
 
                                         case "Lavelier Grand Junction LED 79.95":
-                                        upDatedSpaName = "Lavlier";
+                                        upDatedSpaName = "Lavelier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
                                         upDatedSpaLINK = "https://forms.gle/EoTh4TZAKX8K1AP67";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-colorado-promo-page";
@@ -4991,6 +5055,22 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(720) 404-3885";
+                                        insteadOfSpa = "$350";
+                                        break;
+
+                                        case "Lavelier Grand Junction Reverse Turkey Neck 79.95":
+                                        upDatedSpaName = "Lavelier";
+                                        upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
+                                        upDatedSpaLINK = "https://forms.gle/EoTh4TZAKX8K1AP67";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-grand-junction-reverse-turkey-neck-treatment-promo";
+                                        upDatedSpaPhone = "(970) 398-8569";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Consultation";
+                                        upDatedDurationTwo = "- 45 minutes Reverse Turkey Neck Treatment"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
+                                        treatmentSelected = "Reverse Turkey Neck Treatment";
                                         newSpaPhoneNumberSelected = "(720) 404-3885";
                                         insteadOfSpa = "$350";
                                         break;
