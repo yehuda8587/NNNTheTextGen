@@ -4112,7 +4112,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
                                     treatmentSelected = "Reverse Turkey Neck Treatment";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
-                                    insteadOfSpa = "$377";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Introstem Carlsbad HIFU 69.95":
