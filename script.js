@@ -3687,7 +3687,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-reverse-turkey-neck-tightening-treatment-promo";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-reverse-turkey-neck-promo";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
@@ -5122,6 +5122,38 @@
                                         newSpaPhoneNumberSelected = "(480) 408-4170";
                                         insteadOfSpa = "$377";
                                         break;
+
+                                        case "Be You Wellness LED 79.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(Next to Häagen-Dazs ice cream)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
+                                        upDatedSpaPhone = "(289) 667-1380";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(416) 276-3231";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Be You Wellness Reverse Turkey Neck 79.95":
+                                            upDatedSpaName = "Be You";
+                                            upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(Next to Häagen-Dazs ice cream)"+"<br>"+"(Public Parking around the area)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
+                                            upDatedSpaPhone = "(289) 667-1380";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes consultation";
+                                            upDatedDurationTwo = "- 30 minutes Reverse Turkey Neck Treatment"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                            treatmentSelected = "Reverse Turkey Neck Treatment";
+                                            newSpaPhoneNumberSelected = "(416) 276-3231";
+                                            insteadOfSpa = "$377";
+                                            break;
 
                                         
                                         
