@@ -5129,7 +5129,7 @@
                                         upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
                                         upDatedSpaPhone = "(289) 667-1380";
-                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and Consultation"
                                         promoPrice = "79.95";
@@ -5145,7 +5145,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
                                             upDatedSpaPhone = "(289) 667-1380";
-                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes consultation";
                                             upDatedDurationTwo = "- 30 minutes Reverse Turkey Neck Treatment"
                                             promoPrice = "79.95";
