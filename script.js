@@ -2563,6 +2563,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "FTB Ben's Beauty Spa 79.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-led-promo" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing ";
+                                    upDatedDurationTwo = "30 minutes of LED Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Resveratrol":
                                     upDatedSpaName = "Resveratrol Spa";
                                     upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
