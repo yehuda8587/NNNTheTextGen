@@ -283,6 +283,22 @@
                     insteadOfSpa = "$350"
                     break;
 
+                    case "Bee and Co FTB LED 69.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-spa-led-promo" ;
+                    upDatedSpaPhone = "(301)887-5495";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 30 Minutes Light Cleaning";
+                    upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
+                    promoPrice = "69.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "LED Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$350"
+                    break;
+
                         case "Kristals Burlington LED":
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
@@ -594,6 +610,22 @@
                                                                     upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
+                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedDurationTotal = "90 Minutes";
+                                                                    upDatedDurationOne = "- 30 Minutes Cleaning";
+                                                                    upDatedDurationTwo = "- 60 Minutes LED Light Experience & Consultation";
+                                                                    promoPrice = "79.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
+                                                                    treatmentSelected = "LED Treatment";
+                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$350"
+                                                                    break;  
+
+                                                                    case "Supreme Brea FTB LED 79.95":
+                                                                    upDatedSpaName = "Supreme Spa";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
                                                                     upDatedSpaPhone = "(714) 592-0373";
                                                                     upDatedDurationTotal = "90 Minutes";
                                                                     upDatedDurationOne = "- 30 Minutes Cleaning";
@@ -2178,6 +2210,22 @@
                                             insteadOfSpa = "$350";
                                             break; 
 
+                                            case "Orogold Valencia FTB LED 79.95":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/lavelier-grand-junction-led-promo";
+                                            upDatedSpaPhone = "(661) 206-1303";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
+                                            upDatedDurationTwo = " ";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$350";
+                                            break; 
+
                                             case "Pura Vida AB":
                                                 upDatedSpaName = "Pura Vida Spa";
                                                 upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
@@ -3635,6 +3683,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Rilassare Spa FTB LED 79.95":
+                                    upDatedSpaName = "Rilassare Spa";
+                                    upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
+                                    upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/rilassare-led-promo";
+                                    upDatedSpaPhone = "(725) 710-2050";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 589-1628";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Esthetix St. Augustine LED":
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
@@ -3971,6 +4035,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Lavelier Spokane FTB LED 79.95":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
+                                    upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/lavelier-spokane-led-promo";
+                                    upDatedSpaPhone = "(509) 508-4214";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Predire Prestige LED":
                                     upDatedSpaName = "Predire Prestige Spa";
                                     upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
@@ -4147,6 +4227,38 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Introstem FTB LED 59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-led-promo";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Introstem Carlsbad FTB Men's LED Treatment 79.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-mens-led-promo";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Men's LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -4207,6 +4319,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "Reverse Turkey Neck Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "TKO Beauty Tech LED FTB 79.95":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
+                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
                                     insteadOfSpa = "$377";
                                     break;
@@ -4321,6 +4449,22 @@
                                     treatmentSelected = "HIFU Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$377";
+                                    break;
+
+                                    case "The Glow Med Spa FTB LED 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-led-promo";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "D'or24k Prestige Spa LED":
@@ -4449,6 +4593,22 @@
                                         treatmentSelected = "Turkey Neck Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
                                         insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Sthetics Med Spa FTB LED 59.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$299";
                                         break;
 
                                     case "Introstem Tyler LED":
@@ -5075,6 +5235,22 @@
                                         insteadOfSpa = "$350";
                                         break;
 
+                                        case "Lavelier Grand Junction FTB LED 79.95":
+                                        upDatedSpaName = "Lavelier";
+                                        upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
+                                        upDatedSpaLINK = "https://forms.gle/EoTh4TZAKX8K1AP67";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/lavelier-grand-junction-led-promo";
+                                        upDatedSpaPhone = "(970) 398-8569";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 5 minute Skin Analysis and 10 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(720) 404-3885";
+                                        insteadOfSpa = "$350";
+                                        break;
+
                                         case "Lavelier Grand Junction Reverse Turkey Neck 79.95":
                                         upDatedSpaName = "Lavelier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
@@ -5142,7 +5318,7 @@
                                         case "Be You Wellness LED 79.95":
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(Next to Häagen-Dazs ice cream)"+"<br>"+"(Public Parking around the area)";
-                                        upDatedSpaLINK = " ";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -5158,7 +5334,7 @@
                                         case "Be You Wellness Reverse Turkey Neck 79.95":
                                             upDatedSpaName = "Be You";
                                             upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(Next to Häagen-Dazs ice cream)"+"<br>"+"(Public Parking around the area)";
-                                            upDatedSpaLINK = " ";
+                                            upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
                                             upDatedSpaPhone = "(289) 667-1380";
                                             upDatedDurationTotal = "45 Minutes";
