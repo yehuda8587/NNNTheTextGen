@@ -2214,7 +2214,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/lavelier-grand-junction-led-promo";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-led-promo";
                                             upDatedSpaPhone = "(661) 206-1303";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
