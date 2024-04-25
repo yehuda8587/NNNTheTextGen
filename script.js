@@ -5347,6 +5347,38 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Sinfulicious LED 79.95":
+                                            upDatedSpaName = "Sinfulicious";
+                                            upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
+                                            upDatedSpaPhone = "(760) 688-7992";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 10 minutes consultation";
+                                            upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 459-3426";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(760) 459-3426";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "La Reve LED 79.95":
+                                            upDatedSpaName = "Le Reve";
+                                            upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor, Near Sephora)"+"<br>"+"(Park near main entrance)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/le-reve-il-promo-page";
+                                            upDatedSpaPhone = "(847) 779-6577";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 10 minutes consultation";
+                                            upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (848) 219-0593";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(848) 219-0593";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                         
                                         
                                                                 
