@@ -3417,8 +3417,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Laser Lipo Experience";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Laser Lipo Experience";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3433,8 +3433,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-laser-lipo-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Laser Lipo Experience";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Laser Lipo Experience";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3449,8 +3449,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Collagen Enhancing Treatment";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Collagen Enhancing Treatment";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3465,8 +3465,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-collagen-enhancing-treatment-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Collagen Enhancing Treatment";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Collagen Enhancing Treatment";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3481,8 +3481,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiere-by-adriana-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Body Sculpting Treatment";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Body Sculpting Treatment";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3497,8 +3497,8 @@
                                     upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-lumiere-by-adriana-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(754) 799-8010";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 60 minutes of Cleaning & Body Sculpting Treatment";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Cleaning & Body Sculpting Treatment";
                                     upDatedDurationTwo = "- 15-minutes of Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
@@ -3513,8 +3513,8 @@
                                         upDatedSpaLINK = "https://forms.gle/VwV9xhaFEQtL8LqN8";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lumiereadriana-bodysculp-promofifty";
                                         upDatedSpaPhone = "(754) 799-8010";
-                                        upDatedDurationTotal = "75 Minutes";
-                                        upDatedDurationOne = "- 60 minutes of Cleaning & Body Sculpting Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes of Cleaning & Body Sculpting Treatment";
                                         upDatedDurationTwo = "- 15-minutes of Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 777-6770";
