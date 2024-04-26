@@ -411,6 +411,22 @@
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Kristals Barrie Skin Tightening 69.95":
+                                upDatedSpaName = "Kristals Barrie Spa";
+                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-skin-tightening-promo-page" ;
+                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
+                                promoPrice = "69.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$299"
+                                break;
+
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
@@ -458,6 +474,22 @@
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     insteadOfSpa = "$377"
                                     break; 
+
+                                    case "Adore Cookstown Skin Tightening 69.95":
+                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
+                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
+                                    promoPrice = "69.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$299"
+                                    break;
 
                                     case "Kristals Erin Mills LED":
                                     upDatedSpaName = "Kristals Erin Mills spa";
@@ -1644,7 +1676,7 @@
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
-                                    treatmentSelected = "LED Treatment";
+                                    treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
                                     insteadOfSpa = "$350";
                                     break; 
@@ -2621,6 +2653,22 @@
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "30 minutes of LED Treatment and 15 minutes Consultation";
                                     promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB Ben's Beauty Spa Skin Tightening 59.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-skin-tightening-promo" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing ";
+                                    upDatedDurationTwo = "30 minutes of LED Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
@@ -4195,6 +4243,22 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "FTB Introstem Carlsbad Body Lipo 69.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-body-lipo-cavitation-promo";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Body Cleaning and Body Lipo Cavitation Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Body Lipo Cavitation Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Introstem Carlsbad Reverse Turkey Neck Treatment 59.95":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
@@ -4435,6 +4499,22 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "FTB The Glow Med Spa Body Lipo 69.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-body-lipo-cavitation-promo";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Body Cleaning and Body Lipo Cavitation Treatment"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Body Lipo Cavitation Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "The Glow Med Spa HIFU 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
                                     upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
@@ -4568,6 +4648,22 @@
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minutes of Consultation";
+                                        upDatedDurationTwo = "- 45-minutes of the Body Lipo Cavitation Treatment"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Body Lipo Cavitation";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$399";
+                                        break;
+
+                                        case "FTB Sthetics Med Spa Body Lipo $69.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-body-lipo-cavitation-promo";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minutes of Consultation";
