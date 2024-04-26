@@ -4691,16 +4691,16 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Sthetics Med Spa FTB LED 59.95":
+                                        case "Sthetics Med Spa FTB LED 69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
-                                        promoPrice = "59.95";
+                                        promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
                                         treatmentSelected = "LED Treatment";
                                         newSpaPhoneNumberSelected = "(619) 379-7301";
