@@ -2745,9 +2745,9 @@
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Consultation";
-                                    upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 minutes light cleansing";
+                                    upDatedDurationTwo = "- 20 minutes LED Anti-aging treatment"+"<br>"+"15 minute Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "LED Treatment";
@@ -2761,9 +2761,9 @@
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(847) 792-1710";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Consultation";
-                                    upDatedDurationTwo = "- 45 minutes Turkey Neck Tightening Treatment";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 minutes cleansing";
+                                    upDatedDurationTwo = "- 20 minutes Turkey Neck Tightening Treatment and 15 minutes Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
                                     treatmentSelected = "Turkey Neck Tightening Treatment";
@@ -5450,7 +5450,7 @@
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
                                             upDatedSpaPhone = "(760) 688-7992";
                                             upDatedDurationTotal = "45 Minutes";
-                                            upDatedDurationOne = "- 10 minutes consultation";
+                                            upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
                                             promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 459-3426";
@@ -5466,8 +5466,8 @@
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/le-reve-il-promo-page";
                                             upDatedSpaPhone = "(847) 779-6577";
                                             upDatedDurationTotal = "45 Minutes";
-                                            upDatedDurationOne = "- 10 minutes consultation";
-                                            upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
+                                            upDatedDurationOne = "- 10 minutes light cleansing";
+                                            upDatedDurationTwo = "- 20 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
                                             promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (848) 219-0593";
                                             treatmentSelected = "LED Treatment";
