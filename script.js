@@ -5460,7 +5460,7 @@
                                             break;
 
                                             case "La Reve LED 79.95":
-                                            upDatedSpaName = "Le Reve";
+                                            upDatedSpaName = "La Reve";
                                             upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor, Near Sephora)"+"<br>"+"(Park near main entrance)";
                                             upDatedSpaLINK = " ";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/le-reve-il-promo-page";
@@ -5473,6 +5473,22 @@
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(848) 219-0593";
                                             insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Hydrasphere LED 79.95":
+                                            upDatedSpaName = "Hydrasphere";
+                                            upDatedSpaAddress = "Orland Square,"+"<br>"+"228 Orland Square Dr, Orland Park, IL 60462"+"<br>"+"(In front of the Apple Store)"+"<br>"+"(Park next to the Apple Store)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hydrasphere-skin-tightening";
+                                            upDatedSpaPhone = "(708) 323-2488";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 15 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 716-2510";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(971) 716-2510";
+                                            insteadOfSpa = "$299";
                                             break;
 
                                         
