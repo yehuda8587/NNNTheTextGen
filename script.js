@@ -352,7 +352,7 @@
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-spa-led-promo-page" ;
-                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -368,7 +368,7 @@
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-non-surgical-facelift" ;
-                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
                                 upDatedDurationTwo = "- 15-minute Consultation";
@@ -400,7 +400,7 @@
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-neck-and-jaw-line-tightening-treatment-promo" ;
-                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
@@ -416,7 +416,7 @@
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-skin-tightening-promo-page" ;
-                                upDatedSpaPhone = "(705) 408-2681";
+                                upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
@@ -5446,7 +5446,7 @@
                                             case "Sinfulicious LED 79.95":
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
-                                            upDatedSpaLINK = " ";
+                                            upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
                                             upDatedSpaPhone = "(760) 688-7992";
                                             upDatedDurationTotal = "45 Minutes";
@@ -5462,7 +5462,7 @@
                                             case "La Reve LED 79.95":
                                             upDatedSpaName = "La Reve";
                                             upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor, Near Sephora)"+"<br>"+"(Park near main entrance)";
-                                            upDatedSpaLINK = " ";
+                                            upDatedSpaLINK = "https://forms.gle/koSZjR9n17v9PQqV8";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/le-reve-il-promo-page";
                                             upDatedSpaPhone = "(847) 779-6577";
                                             upDatedDurationTotal = "45 Minutes";
@@ -5478,7 +5478,7 @@
                                             case "Hydrasphere LED 79.95":
                                             upDatedSpaName = "Hydrasphere";
                                             upDatedSpaAddress = "Orland Square,"+"<br>"+"228 Orland Square Dr, Orland Park, IL 60462"+"<br>"+"(In front of the Apple Store)"+"<br>"+"(Park next to the Apple Store)";
-                                            upDatedSpaLINK = " ";
+                                            upDatedSpaLINK = "https://forms.gle/TxYr4b33gUcrgy7E9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hydrasphere-skin-tightening";
                                             upDatedSpaPhone = "(708) 323-2488";
                                             upDatedDurationTotal = "45 Minutes";
