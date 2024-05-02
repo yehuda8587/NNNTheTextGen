@@ -251,6 +251,22 @@
                     insteadOfSpa = "$500"
                     break; 
 
+                    case "Beauty Frizz Ocala LED 79.95":
+                        upDatedSpaName = "BeautyFrizz Spa";
+                        upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                        upDatedSpaLINK = " ";
+                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
+                        upDatedSpaPhone = "(352) 431-2111";
+                        upDatedDurationTotal = "60 Minutes";
+                        upDatedDurationOne = "- 15 Minutes Cleansing";
+                        upDatedDurationTwo = "- 30 Minutes LED Anti-Aging Treatment & 15 minutes Consultation";
+                        promoPrice = "79.95"
+                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                        treatmentSelected = "LED Treatment";
+                        newSpaPhoneNumberSelected = "(352) 216-4557";
+                        insteadOfSpa = "$377"
+                        break;     
+
                 case "Bee and Co":
                     upDatedSpaName = "Bee and Co";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
@@ -4193,6 +4209,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(919) 420-4647";
                                     insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Royal Bee Rosemont LED 59":
+                                    upDatedSpaName = "Royal Bee";
+                                    upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
+                                    upDatedSpaLINK = "https://forms.gle/PrdnpxyQLnMTFwFE6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-new-promo-page";
+                                    upDatedSpaPhone = "(847) 230-7546";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Light Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 420-4647";
+                                    treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(919) 420-4647";
+                                    insteadOfSpa = "$299";
                                     break;
 
                                     case "Introstem Carlsbad Collagen Enhancing Treatment":
