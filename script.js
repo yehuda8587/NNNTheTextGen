@@ -254,7 +254,7 @@
                     case "Beauty Frizz Ocala LED 79.95":
                         upDatedSpaName = "BeautyFrizz Spa";
                         upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
-                        upDatedSpaLINK = " ";
+                        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
                         upDatedSpaPhone = "(352) 431-2111";
                         upDatedDurationTotal = "60 Minutes";
