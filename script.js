@@ -2834,6 +2834,22 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     insteadOfSpa = "$377";
                                     break;
+
+                                    case "GreenBiotics Woodfield Skin Tightening $69.95":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-new-promo-page";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 minutes light cleansing";
+                                    upDatedDurationTwo = "- 20 minutes Skin Tightening treatment"+"<br>"+"15 minute Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$377";
+                                    break;
                                     
                                     case "Infinity Pompano Beach":
                                         upDatedSpaName = "Infinity Pompano Beach";
@@ -5583,6 +5599,22 @@
                                             promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (848) 219-0593";
                                             treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(848) 219-0593";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "La Reve Skin Tightening 69.95":
+                                            upDatedSpaName = "La Reve";
+                                            upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor, Near Sephora)"+"<br>"+"(Park near main entrance)";
+                                            upDatedSpaLINK = "https://forms.gle/koSZjR9n17v9PQqV8";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lareve-led-69-95-promo";
+                                            upDatedSpaPhone = "(847) 779-6577";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 10 minutes light cleansing";
+                                            upDatedDurationTwo = "- 20 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (848) 219-0593";
+                                            treatmentSelected = "Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(848) 219-0593";
                                             insteadOfSpa = "$377";
                                             break;
