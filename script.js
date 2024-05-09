@@ -1633,6 +1633,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Oxygen and LED 89.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and the Oxygen and LED Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Oxygen and LED Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$299";
+                                    break; 
+
                                     case "ICE 21":
                                         upDatedSpaName = "ICE 21 Spa";
                                     upDatedSpaAddress = "563 Lakeshore Rd E Mississauga ON L5G 0A8"+"<br>"+"(Unit 4 Next to Denture Clinic)";
@@ -5473,6 +5489,22 @@
                                         treatmentSelected = "Sagging Neck Rescue Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Malka Med Spa HIFU LED 89.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-hifu-amp-led-treatment-promo";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Cleansing and the HIFU with LED Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "HIFU with LED Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$299";
                                         break;
 
                                         case "Lavelier Grand Junction LED 79.95":
