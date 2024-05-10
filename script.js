@@ -5715,6 +5715,22 @@
                                             insteadOfSpa = "$299";
                                             break;
 
+                                            case "Predire Paris LED 79.95":
+                                            upDatedSpaName = "Predire Paris";
+                                            upDatedSpaAddress = "Freehold Raceway Mall,"+"<br>"+"3710 US-9 Space #C116 Freehold, NJ 07728"+"<br>"+"(First Floor in front of Victoria's Secret)"+"<br>"+"Park Near the Main Entrance";
+                                            upDatedSpaLINK = "https://forms.gle/BVyHXmrRBWiYzUGq7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-paris-promo-page";
+                                            upDatedSpaPhone = "(732) 790-5966";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (725) 314-4125";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(725) 314-4125";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                         
                                         
                                                                 
