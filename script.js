@@ -5331,6 +5331,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Glamour Spa LED 89.95":
+                                        upDatedSpaName = "Glamour Spa";
+                                        upDatedSpaAddress = "Pheasant Lane Mall, 310 Daniel Webster Hwy, Nashua NH 03060"+"<br>"+"(Second Floor, near the elevator, next to Ann Taylor)"+"<br>"+"(Park near target)";
+                                        upDatedSpaLINK = "https://forms.gle/LRBGgjLb759EGy9EA";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/glamour-spa-new-promo-page";
+                                        upDatedSpaPhone = "(603) 600-8357";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Consultation";
+                                        upDatedDurationTwo = "- 45-minute LED Anti-aging Treatment and Consultation"
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (603) 943-1805";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(603) 943-1805";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Forever Flawless Biltmore":
                                         upDatedSpaName = "Forever Flawless";
                                         upDatedSpaAddress = "2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(STE101, Next to Macy's, across Express Tailoring)"+"<br>"+"(Please park at the north end of Biltmore Fashion Park. Inside the parking garage of Saks Fifth Avenue / next to BLDG. B)";
@@ -5599,6 +5615,22 @@
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
                                         treatmentSelected = "Neck and Jawline Tightening";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavan Med Spa Cryo Body Contouring 79.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-cryo-body-contouring";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
+                                        upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "Cryo Body Contouring";
                                         newSpaPhoneNumberSelected = "(480) 408-4170";
                                         insteadOfSpa = "$377";
                                         break;
