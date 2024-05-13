@@ -5603,6 +5603,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Lavan Med Spa LED 69.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-new-promo-page";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Lavan Med Spa Neck and Jawline 59.95":
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
@@ -5672,11 +5688,27 @@
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
-                                            upDatedSpaPhone = "(760) 688-7992";
+                                            upDatedSpaPhone = "(760) 517-7642";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
                                             promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 459-3426";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(760) 459-3426";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Sinfulicious LED 89.95":
+                                            upDatedSpaName = "Sinfulicious";
+                                            upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
+                                            upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-new-led-promo-page";
+                                            upDatedSpaPhone = "(760) 517-7642";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 10 minutes light cleansing";
+                                            upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
+                                            promoPrice = "89.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 459-3426";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(760) 459-3426";
@@ -5688,7 +5720,7 @@
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo-page";
-                                            upDatedSpaPhone = "(760) 688-7992";
+                                            upDatedSpaPhone = "(760) 517-7642";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
