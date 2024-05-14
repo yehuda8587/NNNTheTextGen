@@ -3571,6 +3571,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "GreenBiotics Pentagon Neck and Jawline":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-pentagon-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(571) 695-2525";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 695-2525";
+                                    treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(571) 695-2525";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lumiere By Adriana Laser Lipo Treatment":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse, Metered parking is available)";
