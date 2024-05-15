@@ -1170,7 +1170,7 @@
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-estero-ledpromo";
                                     upDatedSpaPhone = "(239) 444-8790";
@@ -1186,7 +1186,7 @@
 
                                     case "Adore Estero LED 79.95 NEW":
                                         upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-anti-aging-promo-page";
                                     upDatedSpaPhone = "(239) 444-8790";
@@ -1202,7 +1202,7 @@
 
                                     case "Adore Estero LED Skin Tightening":
                                         upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
                                     upDatedSpaPhone = "(239) 444-8790";
@@ -1218,7 +1218,7 @@
 
                                     case "Adore Estero Neck and Jawline":
                                         upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-neck-and-jawline-treatment-page";
                                     upDatedSpaPhone = "(239) 444-8790";
