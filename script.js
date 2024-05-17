@@ -5741,9 +5741,9 @@
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and Consultation"
                                         promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                         treatmentSelected = "LED Treatment";
-                                        newSpaPhoneNumberSelected = "(416) 276-3231";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -5757,9 +5757,9 @@
                                             upDatedDurationOne = "- 15 minutes consultation";
                                             upDatedDurationTwo = "- 30 minutes Reverse Turkey Neck Treatment"
                                             promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                             treatmentSelected = "Reverse Turkey Neck Treatment";
-                                            newSpaPhoneNumberSelected = "(416) 276-3231";
+                                            newSpaPhoneNumberSelected = "(289) 279-0388";
                                             insteadOfSpa = "$377";
                                             break;
 
