@@ -1167,6 +1167,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione Natural Facelifting Treatment $69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
@@ -2579,6 +2595,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Gentle Touch Beauty Natural Facelift Treatment":
+                                    upDatedSpaName = "Gentle Touch Beauty";
+                                    upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-promo" ;
+                                    upDatedSpaPhone = "(941) 840-5993";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing";
+                                    upDatedDurationTwo = "45 minute Natural Facelift Treatment";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(941) 244-0044";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                                             case "ATIK Boca Raton Body Sculpting":
                                                                 upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
@@ -2687,6 +2719,22 @@
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Ben's Beauty Skin Tightening 79.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Consultation";
+                                    upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
                                     insteadOfSpa = "$377";
                                     break;
@@ -5537,6 +5585,22 @@
                                         treatmentSelected = "HIFU with LED Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
                                         insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Malka Med Spa Natural Facelift 99.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-promo";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Consultation";
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelifting Treatment"
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Natural Facelifting Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$399";
                                         break;
 
                                         case "Lavelier Grand Junction LED 79.95":
