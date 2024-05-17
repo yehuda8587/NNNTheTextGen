@@ -444,7 +444,7 @@
                                 break;
 
                                 case "Adore Cookstown":
-                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
@@ -460,7 +460,7 @@
                                     break; 
 
                                     case "Adore Cookstown Non Surgical Facelift":
-                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
@@ -476,7 +476,7 @@
                                     break; 
 
                                     case "Adore Cookstown Neck and Jawline 69.95":
-                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
@@ -492,7 +492,7 @@
                                     break; 
 
                                     case "Adore Cookstown Skin Tightening 69.95":
-                                    upDatedSpaName = "Adore spa";
+                                    upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
@@ -1835,9 +1835,9 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 276-3231";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(416) 276-3231";
+                                    newSpaPhoneNumberSelected = "(289) 279-0388";
                                     insteadOfSpa = "$350";
                                     break; 
 
