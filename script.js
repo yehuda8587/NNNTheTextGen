@@ -445,7 +445,7 @@
 
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
                                     upDatedSpaPhone = "(705) 408-0758";
@@ -461,7 +461,7 @@
 
                                     case "Adore Cookstown Non Surgical Facelift":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
                                     upDatedSpaPhone = "(705) 408-0758";
@@ -477,7 +477,7 @@
 
                                     case "Adore Cookstown Neck and Jawline 69.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
                                     upDatedSpaPhone = "(705) 408-0758";
@@ -493,7 +493,7 @@
 
                                     case "Adore Cookstown Skin Tightening 69.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Sketchers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
                                     upDatedSpaPhone = "(705) 408-0758";
@@ -1406,6 +1406,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
                                     insteadOfSpa = "$377";
+                                    break;
+
+                                    case "AVOLOGI Eneo Victoria Natural Facelift $80":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$399";
                                     break; 
 
                                     case "AVOLOGI Eneo Woodgrove":
@@ -1502,6 +1518,22 @@
                                     treatmentSelected = "Sagging Neck Rescue Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
                                     insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Woodgrove Natural Facelift $80":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
+                                    upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$399";
                                     break; 
 
 
@@ -1663,6 +1695,22 @@
                                     treatmentSelected = "Oxygen and LED Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
                                     insteadOfSpa = "$299";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown Natural Facelift $80":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 Minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$399";
                                     break; 
 
                                     case "ICE 21":
@@ -1887,6 +1935,22 @@
                                     treatmentSelected = "Reverse Turkey Neck Treatment";
                                     newSpaPhoneNumberSelected = "(850) 637-7637";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "Premier Pensacola Natural Facelift":
+                                        upDatedSpaName = "Premier Spa";
+                                    upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
+                                    upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premier-pensacola-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(448) 400-2095";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Consultation";
+                                    upDatedDurationTwo = "- 45 Natural Facelift Treatment";
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 637-7637";
+                                    insteadOfSpa = "$399";
                                     break; 
 
                                     case "Esthetix Cloverdale":
@@ -3507,6 +3571,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Vivorelle Gurnee Natural Facelift":
+                                    upDatedSpaName = "Vivorelle";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
+                                    upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-promo-page";
+                                    upDatedSpaPhone = "(224) 955-2828";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(646) 220-8444";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "GreenBiotics Barton Creek 59.95":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
@@ -3601,6 +3681,22 @@
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$377";
+                                    break;
+
+                                    case "OraSempre Montana Natural Facelift $80":
+                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-natural-facelift-treatment-promo";
+                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
+                                    promoPrice = "80";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
+                                    insteadOfSpa = "$399";
                                     break;
 
                                     case "GreenBiotics Pentagon":
