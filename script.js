@@ -1415,8 +1415,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "80";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -1527,8 +1527,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "80";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -1704,8 +1704,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "80";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
