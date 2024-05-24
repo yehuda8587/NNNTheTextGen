@@ -1183,6 +1183,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione Natural Facelifting Treatment $59.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-elevatione-natural-facelift-promo-page";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
@@ -5823,6 +5839,22 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
                                         treatmentSelected = "Cryo Body Contouring";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavan Med Spa Natural Facelift 59.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-natural-facelift-treatment-promo";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "Natural Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(480) 408-4170";
                                         insteadOfSpa = "$377";
                                         break;
