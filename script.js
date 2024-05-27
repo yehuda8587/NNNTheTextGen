@@ -1346,7 +1346,7 @@
 
                                     case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1362,7 +1362,7 @@
 
                                     case "AVOLOGI Eneo Victoria Neck and Jawline 69.95":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-neck-and-jaw-line-tightening-treatment-promo ";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1378,7 +1378,7 @@
 
                                     case "AVOLOGI Eneo Victoria Collagen Enhancing":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1394,7 +1394,7 @@
 
                                     case "AVOLOGI Eneo Victoria":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1410,7 +1410,7 @@
 
                                     case "AVOLOGI Eneo Victoria Men's LED $69.95":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-mens-led-promo-page";
                                     upDatedSpaPhone = "(250) 410-3324";
@@ -1426,7 +1426,7 @@
 
                                     case "AVOLOGI Eneo Victoria Natural Facelift $80":
                                         upDatedSpaName = "Avologi Eneo";
-                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Beside People's Jewelers Store and the Telus/Koodo Kiosk.)";
+                                    upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
