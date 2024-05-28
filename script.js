@@ -5171,6 +5171,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                case "Iridescent Wellness and Medical Spa Cryo Body Contouring $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-79-95";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Cryo Body Contouring Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Spa De Solei LED":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
