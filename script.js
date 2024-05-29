@@ -4773,7 +4773,7 @@
 
                                     case "The Glow Med Spa Collagen Enhancing Treatment":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4789,7 +4789,7 @@
 
                                     case "The Glow Med Spa Body Sculpting":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4805,7 +4805,7 @@
 
                                     case "The Glow Med Spa Men's LED":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-mens-led-treatment-promo-page ";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4821,7 +4821,7 @@
 
                                     case "The Glow Med Spa Neck and Jawline 59.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4837,7 +4837,7 @@
 
                                     case "The Glow Med Spa Body Lipo 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-lipo-cavitation-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4853,7 +4853,7 @@
 
                                     case "FTB The Glow Med Spa Body Lipo 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-body-lipo-cavitation-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4869,7 +4869,7 @@
 
                                     case "The Glow Med Spa HIFU 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-hifu-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -4885,7 +4885,7 @@
 
                                     case "The Glow Med Spa FTB LED 59.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(at the plaza next to the Donuts Place & F45 fitness)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-led-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
