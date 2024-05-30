@@ -6003,6 +6003,23 @@
                                             insteadOfSpa = "$299";
                                             break;
 
+
+                                            case "Hydrasphere Skin Tightening 99.95":
+                                            upDatedSpaName = "Hydrasphere";
+                                            upDatedSpaAddress = "Orland Square,"+"<br>"+"228 Orland Square Dr, Orland Park, IL 60462"+"<br>"+"(In front of the Apple Store)"+"<br>"+"(Park next to the Apple Store)";
+                                            upDatedSpaLINK = "https://forms.gle/TxYr4b33gUcrgy7E9";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hydrasphere-skin-tightening-99-95";
+                                            upDatedSpaPhone = "(708) 323-2488";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 15 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                            promoPrice = "99.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 716-2510";
+                                            treatmentSelected = "Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(971) 716-2510";
+                                            insteadOfSpa = "$299";
+                                            break;
+
                                             case "Predire Paris LED 79.95":
                                             upDatedSpaName = "Predire Paris";
                                             upDatedSpaAddress = "Freehold Raceway Mall,"+"<br>"+"3710 US-9 Space #C116 Freehold, NJ 07728"+"<br>"+"(First Floor in front of Victoria's Secret)"+"<br>"+"Park Near the Main Entrance";
