@@ -1729,6 +1729,24 @@
                                     insteadOfSpa = "$399";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Natural Facelift $69.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$399";
+                                    break; 
+
+                                    A
+
                                     case "ICE 21":
                                         upDatedSpaName = "ICE 21 Spa";
                                     upDatedSpaAddress = "563 Lakeshore Rd E Mississauga ON L5G 0A8"+"<br>"+"(Unit 4 Next to Denture Clinic)";
@@ -4163,6 +4181,24 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Esthetix St. Augustine Natural Facelift 69.95":
+                                        upDatedSpaName = "Esthetix Spa";
+                                        upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                        upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-staugustine-led-promo";
+                                        upDatedSpaPhone = "(904) 368-6923";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Consultation";
+                                        upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(904) 342-2780";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                    
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
@@ -4515,7 +4551,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Introstem Carlsbad Collagen Enhancing Treatment":
+                                    case "Introstem Carlsbad Natural Facelift Treatment":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
                                     upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
@@ -4523,10 +4559,10 @@
                                     upDatedSpaPhone = "(760) 621-0800";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment and Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Collagen Enhancing";
+                                    treatmentSelected = "Natural Facelift";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$299";
                                     break;
