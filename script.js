@@ -4910,8 +4910,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-hifu-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute light cleansing";
-                                    upDatedDurationTwo = "- 45-minutes HIFU Treatment and Consultation"
+                                    upDatedDurationOne = "- 15 minute light cleansing";
+                                    upDatedDurationTwo = "- 45 minutes HIFU Treatment and Consultation"
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "HIFU Treatment";
@@ -4926,11 +4926,27 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-led-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Treatment and 15 minutes Consultation"
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Treatment and 15 minutes Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "The Glow Med Spa Natural Facelift 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$299";
                                     break;
