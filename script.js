@@ -363,6 +363,22 @@
                             insteadOfSpa = "$377"
                             break; 
 
+                            case "Kristals Burlington Natural Facelift $79.95":
+                                upDatedSpaName = "Kristals Burlington Spa";
+                                upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                                upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/burlington-natural-face-lift-promo-79-95" ;
+                                upDatedSpaPhone = "(289) 293-9711";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                promoPrice = "79.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 293-1112";
+                                insteadOfSpa = "$377"
+                                break; 
+
                             case "Kristals Barrie":
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
@@ -569,7 +585,25 @@
                                     treatmentSelected = "Turkey Neck Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 293-1112";
                                     insteadOfSpa = "$377"
-                                    break;    
+                                    break;   
+                                    
+                                    case "Kristals Erin Mills Natural Facelift $79.95":
+                                        upDatedSpaName = "Kristals Erin Mills spa";
+                                        upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
+                                        upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/erin-mills-natural-face-lift-promo-79-95" ;
+                                        upDatedSpaPhone = "(437) 253-8259";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 Minutes Consultation";
+                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                        promoPrice = "79.95"
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(647) 293-1112";
+                                        insteadOfSpa = "$377"
+                                        break; 
+
+                                    
                     
         
                                         case "GreenBiotics Sherway Gardens":
@@ -1424,7 +1458,7 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "AVOLOGI Eneo Victoria Natural Facelift $80":
+                                    case "AVOLOGI Eneo Victoria Natural Facelift $69.95":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
@@ -1433,7 +1467,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
-                                    promoPrice = "80";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
@@ -1536,7 +1570,7 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
-                                    case "AVOLOGI Eneo Woodgrove Natural Facelift $80":
+                                    case "AVOLOGI Eneo Woodgrove Natural Facelift $69.95":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
@@ -1545,7 +1579,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
-                                    promoPrice = "80";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
@@ -2242,6 +2276,24 @@
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$377";
                                     break;
+
+                                    case "Tierra Med Natural Facelift Treatment 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-promo-page";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    
 
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
@@ -5795,6 +5847,22 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(720) 404-3885";
+                                        insteadOfSpa = "$350";
+                                        break;
+
+                                        case "Lavelier Grand Junction Natural Facelift 79.95":
+                                        upDatedSpaName = "Lavelier";
+                                        upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
+                                        upDatedSpaLINK = "https://forms.gle/EoTh4TZAKX8K1AP67";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/grandjunction-natural-facelift-promo-79-95";
+                                        upDatedSpaPhone = "(970) 398-8569";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 5 minute Skin Analysis and 10 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 404-3885";
+                                        treatmentSelected = "Natural Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(720) 404-3885";
                                         insteadOfSpa = "$350";
                                         break;
