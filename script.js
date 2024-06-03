@@ -203,6 +203,22 @@
                 insteadOfSpa = "$377"
                 break;
 
+                case "Skin Analytics Natural Facelift 79.95":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-naturalfacelift-treatment-79"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$377"
+                break;
+
             case "Esthetix Raliegh":
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
@@ -4839,6 +4855,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "TKO Beauty Tech Natural Facelift FTB 79.95":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
+                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
                                     insteadOfSpa = "$377";
                                     break;
