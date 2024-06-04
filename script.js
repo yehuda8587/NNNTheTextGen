@@ -283,6 +283,22 @@
                         insteadOfSpa = "$377"
                         break;     
 
+                        case "Beauty Frizz Ocala Natural Facelift 79.95":
+                        upDatedSpaName = "BeautyFrizz Spa";
+                        upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
+                        upDatedSpaPhone = "(352) 431-2111";
+                        upDatedDurationTotal = "60 Minutes";
+                        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+                        upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
+                        promoPrice = "79.95"
+                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                        treatmentSelected = "Natural Facelift Treatment";
+                        newSpaPhoneNumberSelected = "(352) 216-4557";
+                        insteadOfSpa = "$377"
+                        break;   
+
                 case "Bee and Co":
                     upDatedSpaName = "Bee and Co";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
@@ -5867,6 +5883,22 @@
                                         insteadOfSpa = "$399";
                                         break;
 
+                                        case "Malka Med Spa Natural Facelift 59.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-59-95";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelifting Treatment and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Natural Facelifting Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Lavelier Grand Junction LED 79.95":
                                         upDatedSpaName = "Lavelier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
@@ -6170,6 +6202,22 @@
                                             treatmentSelected = "Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(971) 716-2510";
                                             insteadOfSpa = "$299";
+                                            break;
+
+                                            case "Hydrasphere Natural Facelift 99.95":
+                                            upDatedSpaName = "Hydrasphere";
+                                            upDatedSpaAddress = "Orland Square,"+"<br>"+"228 Orland Square Dr, Orland Park, IL 60462"+"<br>"+"(In front of the Apple Store)"+"<br>"+"(Park next to the Apple Store)";
+                                            upDatedSpaLINK = "https://forms.gle/TxYr4b33gUcrgy7E9";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hydrasphere-natural-facelift-treatment-99-95";
+                                            upDatedSpaPhone = "(708) 323-2488";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing and facial massage";
+                                            upDatedDurationTwo = "- 15 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                            promoPrice = "99.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 716-2510";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(971) 716-2510";
+                                            insteadOfSpa = "$377";
                                             break;
 
                                             case "Predire Paris LED 79.95":
