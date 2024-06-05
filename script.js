@@ -1811,8 +1811,6 @@
                                     insteadOfSpa = "$399";
                                     break; 
 
-                                    A
-
                                     case "ICE 21":
                                         upDatedSpaName = "ICE 21 Spa";
                                     upDatedSpaAddress = "563 Lakeshore Rd E Mississauga ON L5G 0A8"+"<br>"+"(Unit 4 Next to Denture Clinic)";
@@ -1877,10 +1875,26 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Stem Spa Redding Natural Facelift $69.95":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
+                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-redding-natural-facelift-treatment-69-95";
+                                    upDatedSpaPhone = "(530) 250-4950";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift treatment & 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Stem Spa Medford":
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
-                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1896,7 +1910,7 @@
                                     case "Stem Spa Medford Collagen Enhancing":
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
-                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1912,7 +1926,7 @@
                                     case "Stem Spa Medford Neck and Jawline 69.95":
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
-                                    upDatedSpaLINK = "https://forms.gle/iNEoopF9HxSicZFE9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1921,6 +1935,22 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
                                     treatmentSelected = "Neck and Jawline Tightening";
+                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "Stem Spa Medford Natural Facelift 69.95":
+                                        upDatedSpaName = "Stem Spa";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
+                                    upDatedSpaPhone = "(541) 512-7170";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift treatment & 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(541) 816-4404";
                                     insteadOfSpa = "$377";
                                     break; 
@@ -3319,6 +3349,22 @@
                                     treatmentSelected = "Free Body Consultation";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$99";
+                                    break;
+
+                                    case "SkinTech Natural Facelift $129.95":
+                                    upDatedSpaName = "SkinTech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-natural-facelift-treatment-129-95";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute skin analysis"+"<br>"+"30-minute facial cleansing & Natural Facelift treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation ";
+                                    promoPrice = "129.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Botanifique Spa":
