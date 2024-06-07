@@ -1330,6 +1330,22 @@
                                     insteadOfSpa = "$377"
                                     break; 
 
+                                    case "Adore Estero Natural Facelift":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adoreestero-naturalfacelift-79-95";
+                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Light Cleansing ";
+                                    upDatedDurationTwo = "- 35 Minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$377"
+                                    break; 
+
                                     case "Flawless Wayne":
                                         upDatedSpaName = "Flawless Beauty";
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
@@ -1985,6 +2001,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(706) 901-8979";
                                     insteadOfSpa = "$350";
+                                    break; 
+
+                                    case "Pearl De Flore Augusta Natural Facelift":
+                                        upDatedSpaName = "Pearl De Flore Spa";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
+                                    upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearl-de-flore-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(706) 434-8750";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(706) 901-8979";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "Luminous Skin-Tech":
@@ -4873,6 +4905,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Lavelier Longview Natural Facelift":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
+                                    upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(430) 288-5519";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9242";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "TKO Beauty Tech LED":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
@@ -5273,6 +5321,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Introstem Tyler Natural Facelift $79.95":
+                                    upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
+                                    upDatedSpaLINK = "https://forms.gle/REouLcpGxFGhpsQC9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-tyler-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(430) 562-9946";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9243";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9243";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavelier Round Rock LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
@@ -5381,6 +5445,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Iridescent Wellness and Medical Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(586) 981-1850";
                                     insteadOfSpa = "$377";
                                     break;
