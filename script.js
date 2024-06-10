@@ -4633,6 +4633,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Lavelier Spokane Natural Faecelift":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
+                                    upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(509) 508-4214";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes Natural Faecelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    treatmentSelected = "Natural Faecelift Treatment";
+                                    newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Predire Prestige LED":
                                     upDatedSpaName = "Predire Prestige Spa";
                                     upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
