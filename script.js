@@ -491,6 +491,22 @@
                                 insteadOfSpa = "$299"
                                 break;
 
+                                case "Kristals Barrie Natural Facelift 79.95":
+                                upDatedSpaName = "Kristals Barrie Spa";
+                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/barrie-natural-face-lift-promo-79-95" ;
+                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 20 Minutes Light Cleaning";
+                                upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
+                                promoPrice = "79.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
@@ -554,6 +570,22 @@
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     insteadOfSpa = "$299"
                                     break;
+
+                                    case "Adore Cookstown Natural Facelift":
+                                    upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
+                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 40 Minutes Natural Facelift Treatment & Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$377"
+                                    break; 
 
                                     case "Kristals Erin Mills LED":
                                     upDatedSpaName = "Kristals Erin Mills spa";
@@ -3927,6 +3959,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "GreenBiotics Pentagon Natural Facelift":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(571) 695-2525";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment & Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 695-2525";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(571) 695-2525";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Lumiere By Adriana Laser Lipo Treatment":
                                     upDatedSpaName = "Lumiere By Adriana";
                                     upDatedSpaAddress = "2434 E Las Olas Blvd, Fort Lauderdale, FL  33301"+"<br>"+"(Next to Chima Steakhouse, Metered parking is available)";
@@ -5189,6 +5237,22 @@
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
                                         treatmentSelected = "LED Treatment";
+                                        newSpaPhoneNumberSelected = "(971) 380-9085";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "D'or24k Prestige Spa Natural Facelift 69.95":
+                                        upDatedSpaName = "D'or24k Prestige Spa";
+                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
+                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-facelift-treatment-69-95";
+                                        upDatedSpaPhone = "(567) 298-4583";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 10-minute Cleansing";
+                                        upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                        treatmentSelected = "Natural Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(971) 380-9085";
                                         insteadOfSpa = "$377";
                                         break;
