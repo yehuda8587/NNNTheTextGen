@@ -6185,6 +6185,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Oasis Aesthetics Oxygen and LED 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oxygen-treatment-oasis-med-spa";
+                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Oxygen and LED Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Oxygen and LED Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Lavan Med Spa LED 59.95":
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
@@ -6439,6 +6455,22 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (725) 314-4125";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(725) 314-4125";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Alabama Med Spa Natural Facelift 59.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
+                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(713) 826-6363";
                                             insteadOfSpa = "$377";
                                             break;
 
