@@ -219,7 +219,7 @@
                 insteadOfSpa = "$377"
                 break;
 
-            case "Esthetix Raliegh":
+            case "Esthetix Raleigh":
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
                 upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
@@ -231,6 +231,22 @@
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
                 treatmentSelected = "LED Treatment";
+                newSpaPhoneNumberSelected = "(919) 900-8271";
+                insteadOfSpa = "$350"
+                break;
+
+                case "Esthetix Raleigh Natural Facelift":
+                upDatedSpaName = "Esthetix Spa";
+                upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
+                upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-face-lift-promo-79-95";
+                upDatedSpaPhone = "(984) 205-6033";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment & Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
+                treatmentSelected = "Natural Facelift Treatment";
                 newSpaPhoneNumberSelected = "(919) 900-8271";
                 insteadOfSpa = "$350"
                 break;
