@@ -1313,6 +1313,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione Collagen Restoration Treatment $59.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-collagen-restoration-promo-page";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Collagen Restoration Treatment";
+                                    upDatedDurationTwo = "- 15 minutes of Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Collagen Restoration Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
