@@ -3254,6 +3254,22 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     insteadOfSpa = "$377";
                                     break;
+
+                                    case "GreenBiotics Woodfield Natural Facelift $79.95":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-natural-face-lift-promo-79-95";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes light cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$299";
+                                    break;
                                     
                                     case "Infinity Pompano Beach":
                                         upDatedSpaName = "Infinity Pompano Beach";
@@ -4805,6 +4821,22 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 420-4647";
                                     treatmentSelected = "LED Treatment";
+                                    newSpaPhoneNumberSelected = "(919) 420-4647";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Royal Bee Rosemont Natural Facelift 59":
+                                    upDatedSpaName = "Royal Bee";
+                                    upDatedSpaAddress = "5220 Fashion Outlet Way"+"<br>"+"Rosemont, IL. 60118"+"<br>"+"(First floor, in front of Bath & Body works)";
+                                    upDatedSpaLINK = "https://forms.gle/PrdnpxyQLnMTFwFE6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/royal-bee-rosemont-natural-facelift-treatment-59-95";
+                                    upDatedSpaPhone = "(847) 230-7546";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Light Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 420-4647";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(919) 420-4647";
                                     insteadOfSpa = "$299";
                                     break;
