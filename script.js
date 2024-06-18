@@ -6554,6 +6554,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Alabama Med Spa Men's Natural Facelift 89.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-mens-natural-face-lift-promo-89-95";
+                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "89.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                         
                                         
                                                                 
