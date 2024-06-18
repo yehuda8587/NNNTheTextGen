@@ -3479,6 +3479,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "SkinTech Body Treatment $99.95":
+                                    upDatedSpaName = "SkinTech Spa";
+                                    upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-treatment-99-95";
+                                    upDatedSpaPhone = "(682) 900-3832";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minute body analysis"+"<br>"+"30 minutes Body Treatment";
+                                    upDatedDurationTwo = "- 15 minute Post-Care Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
+                                    treatmentSelected = "Body Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 616-4827";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Botanifique Spa":
                                     upDatedSpaName = "Botanifique Spa";
                                     upDatedSpaAddress = "Manchester Unity Building,"+"<br>"+"Shop 9/107 Swanston Street, Melbourne, Victoria 3187"+"<br>"+"(Located on the Ground floor)";
