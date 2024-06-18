@@ -5584,8 +5584,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
+                                    upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
