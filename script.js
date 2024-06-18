@@ -147,7 +147,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "80"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "LED Treatment";
@@ -163,7 +163,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "69.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Collagen Enhancing Treatment";
@@ -179,7 +179,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Skin Tightening Treatment with HIFU & LED";
@@ -195,7 +195,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Non-Surgical Face Lift & LED Technology & a 15 minute Consultation"
+                upDatedDurationTwo = "- 30 Minutes Non-Surgical Face Lift & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Non-Surgical Face Lift";
@@ -211,7 +211,7 @@
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Cleaning";
-                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Natural Facelift Treatment";
@@ -227,7 +227,7 @@
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 30 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation"+"<br><br>"+"Dont Forget! You are eligeble for a 25% off your next purchase at our spa :)";
+                upDatedDurationTwo = "- 30 Minutes LED Light Session & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
                 treatmentSelected = "LED Treatment";
@@ -243,7 +243,7 @@
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
-                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment & Consultation";
+                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
                 treatmentSelected = "Natural Facelift Treatment";
