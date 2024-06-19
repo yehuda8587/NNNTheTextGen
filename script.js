@@ -2919,6 +2919,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Gentle Touch Beauty Natural Facelift $99.95":
+                                    upDatedSpaName = "Gentle Touch Beauty";
+                                    upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-99-95" ;
+                                    upDatedSpaPhone = "(941) 840-5993";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing";
+                                    upDatedDurationTwo = "45 minute Natural Facelift Treatment";
+                                    promoPrice = "99.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(941) 244-0044";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                                             case "ATIK Boca Raton Body Sculpting":
                                                                 upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
@@ -4551,6 +4567,22 @@
                                     treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(780) 890-0008";
                                     insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Adore Edmonton Natural Facelift $79.95":
+                                    upDatedSpaName = "Adore";
+                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-face-lift-promo-79-95";
+                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(780) 890-0008";
+                                    insteadOfSpa = "$350";
                                     break;
 
                                     case "Beauty Essentials LED":
