@@ -3127,6 +3127,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Ben's Beauty DTB Natural Facelift $59.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-natural-facelift-59-95" ;
+                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "15 minutes Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "FTB Ben's Beauty Spa 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -6586,6 +6602,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Predire Paris Natural Facelift 79.95":
+                                            upDatedSpaName = "Predire Paris";
+                                            upDatedSpaAddress = "Freehold Raceway Mall,"+"<br>"+"3710 US-9 Space #C116 Freehold, NJ 07728"+"<br>"+"(First Floor in front of Victoria's Secret)"+"<br>"+"Park Near the Main Entrance";
+                                            upDatedSpaLINK = "https://forms.gle/BVyHXmrRBWiYzUGq7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-paris-natural-facelift-treatment-79-95";
+                                            upDatedSpaPhone = "(732) 790-5966";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (725) 314-4125";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(725) 314-4125";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Alabama Med Spa Natural Facelift 59.95":
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
@@ -6612,6 +6644,22 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "89.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Alabama Med Spa Natural Facelift 79.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-79";
+                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
                                             treatmentSelected = "Natural Facelift Treatment";
                                             newSpaPhoneNumberSelected = "(713) 826-6363";
