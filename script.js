@@ -427,6 +427,22 @@
                                 insteadOfSpa = "$377"
                                 break; 
 
+                                case "Kristals Burlington Natural Facelift $69.95":
+                                upDatedSpaName = "Kristals Burlington Spa";
+                                upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                                upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-69-95" ;
+                                upDatedSpaPhone = "(289) 293-9711";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                promoPrice = "69.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 293-1112";
+                                insteadOfSpa = "$377"
+                                break; 
+
                             case "Kristals Barrie":
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
@@ -682,6 +698,22 @@
                                         newSpaPhoneNumberSelected = "(647) 293-1112";
                                         insteadOfSpa = "$377"
                                         break; 
+
+                                        case "Kristals Erin Mills Natural Facelift $69.95":
+                                        upDatedSpaName = "Kristals Erin Mills spa";
+                                        upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
+                                        upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-69-95" ;
+                                        upDatedSpaPhone = "(437) 253-8259";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 Minutes Consultation";
+                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                        promoPrice = "69.95"
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(647) 293-1112";
+                                        insteadOfSpa = "$377"
+                                        break;
 
                                     
                     
