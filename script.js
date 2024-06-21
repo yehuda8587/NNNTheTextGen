@@ -6698,6 +6698,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "The Beauty Lab Skin Tight 79.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase II, First Floor. Next to the food court";
+                                            upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-beauty-lab-natural-facelift-treatment";
+                                            upDatedSpaPhone = "(587) 442-6910";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Post Care and Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(587) 800-1699";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                         
                                         
                                                                 
