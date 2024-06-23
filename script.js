@@ -3454,7 +3454,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-mens-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationOne = "- 15 minute consultation"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
@@ -3470,7 +3470,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationOne = "- 15 minute consultation"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
@@ -3486,7 +3486,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-skintech-cryogenic-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minute consultation and body analysis"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
+                                    upDatedDurationOne = "- 15 minute consultation and"+"<br>"+" 30 minutes of treatment time using our 4-in-1 technology including lymphatic massage with Wood Therapy";
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
@@ -3550,7 +3550,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-treatment-99-95";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minute body analysis"+"<br>"+"30 minutes Body Treatment";
+                                    upDatedDurationOne = "- 15 minute consultation"+"<br>"+"30 minutes Body Treatment";
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
