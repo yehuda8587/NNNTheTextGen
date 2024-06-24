@@ -431,7 +431,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-69-95" ;
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-69-95" ;
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Consultation";
