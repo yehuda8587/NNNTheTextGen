@@ -831,6 +831,22 @@
                                                                     insteadOfSpa = "$350"
                                                                     break;  
 
+                                                                    case "Supreme Brea Natural Facelift $79.95":
+                                                                    upDatedSpaName = "Supreme Spa";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
+                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedDurationTotal = "90 Minutes";
+                                                                    upDatedDurationOne = "- 30 Minutes Cleaning";
+                                                                    upDatedDurationTwo = "- 60 Minutes Natural Facelift Treatment & Consultation";
+                                                                    promoPrice = "79.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
+                                                                    treatmentSelected = "Natural Facelift Treatment";
+                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$350"
+                                                                    break;  
+
 
                                     case "Tresor Rare Las Olas":
                                         upDatedSpaName = "Tresor Rare Spa";
@@ -1919,6 +1935,22 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$399";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown Body Treatment $79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
+                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Body Analysis";
+                                    upDatedDurationTwo = "- 40 Minutes Body Treatment and 10 minutes post-care consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Body Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
                                     insteadOfSpa = "$399";
                                     break; 
