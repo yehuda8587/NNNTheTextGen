@@ -6732,7 +6732,7 @@
 
                                             case "The Beauty Lab Skin Tight 79.95":
                                             upDatedSpaName = "The Beauty Lab";
-                                            upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase II, First Floor. Next to the food court";
+                                            upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
                                             upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-beauty-lab-natural-facelift-treatment";
                                             upDatedSpaPhone = "(587) 442-6910";
