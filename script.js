@@ -6732,7 +6732,7 @@
 
                                             case "Alabama Med Spa Natural Facelift 69.95":
                                             upDatedSpaName = "Alabama Med Spa";
-                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
                                             upDatedSpaPhone = "(713) 574-6718";
