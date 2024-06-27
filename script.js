@@ -6730,6 +6730,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Alabama Med Spa Natural Facelift 69.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
+                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "The Beauty Lab Skin Tight 79.95":
                                             upDatedSpaName = "The Beauty Lab";
                                             upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
