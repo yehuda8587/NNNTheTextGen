@@ -2087,7 +2087,7 @@
                                         upDatedSpaName = "Stem Spa";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-natural-facelift-treatment-69-95";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Cleansing";
