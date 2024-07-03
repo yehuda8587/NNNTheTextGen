@@ -2036,7 +2036,7 @@
                                     break; 
 
                                     case "Stem Spa Medford":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
@@ -2052,7 +2052,7 @@
                                     break; 
 
                                     case "Stem Spa Medford Collagen Enhancing":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-collagen-enhancing-promo";
@@ -2068,7 +2068,7 @@
                                     break; 
 
                                     case "Stem Spa Medford Neck and Jawline 69.95":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
@@ -2084,7 +2084,7 @@
                                     break; 
 
                                     case "Stem Spa Medford Natural Facelift 69.95":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-natural-facelift-treatment-69-95";
@@ -4567,7 +4567,21 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                    
+                                        case "Esthetix St. Augustine DTB Natural Facelift 69.95":
+                                            upDatedSpaName = "Esthetix Spa";
+                                            upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                            upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-esthetix-st-augustine-natural-facelift-69-95";
+                                            upDatedSpaPhone = "(904) 368-6923";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15-minute Consultation";
+                                            upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(904) 342-2780";
+                                            insteadOfSpa = "$377";
+                                            break;
 
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
