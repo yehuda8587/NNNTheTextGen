@@ -1972,7 +1972,7 @@
                                     break; 
 
                                     case "Stem Spa Redding":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-redding-promo-page";
@@ -1988,7 +1988,7 @@
                                     break; 
 
                                     case "Stem Spa Redding Collagen Enhancing":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-collagen-enhancing-promo";
@@ -2004,7 +2004,7 @@
                                     break; 
 
                                     case "Stem Spa Redding Neck and Jawline 69.95":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-neck-and-jawline-treatment";
@@ -2020,7 +2020,7 @@
                                     break; 
 
                                     case "Stem Spa Redding Natural Facelift $69.95":
-                                        upDatedSpaName = "Stem Spa";
+                                        upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-redding-natural-facelift-treatment-69-95";
