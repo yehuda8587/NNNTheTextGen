@@ -5175,6 +5175,38 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "FTB Introstem Carlsbad Natural Facelift Treatment":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-natural-facelift-59-95";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Natural Facelift";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB Introstem Carlsbad Body Facelift Treatment $59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-body-treatment-59-95";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Body Treatment and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Body Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
