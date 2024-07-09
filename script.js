@@ -2045,9 +2045,9 @@
                                     upDatedDurationOne = "- 40 Minutes LED Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "Skin Tightening";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2061,9 +2061,9 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment & 15 minutes Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2077,9 +2077,9 @@
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes LED Anti-aging treatment & Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "Neck and Jawline Tightening";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2093,9 +2093,9 @@
                                     upDatedDurationOne = "- 15 minutes of Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift treatment & 15 minutes Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2109,9 +2109,9 @@
                                     upDatedDurationOne = "- 15 minutes of Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift treatment & 15 minutes Consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (541) 816-4404";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(541) 816-4404";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
                                     insteadOfSpa = "$377";
                                     break; 
 
