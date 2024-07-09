@@ -5447,6 +5447,38 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "FTB - The Glow Med Spa Natural Facelift 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-natural-facelift-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB - The Glow Med Spa Body Treatment 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-body-treatment-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Body Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Body Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "D'or24k Prestige Spa LED":
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
@@ -6837,6 +6869,22 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
                                             treatmentSelected = "Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(587) 800-1699";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Renee Med Spa Natural Facelift $69.95":
+                                            upDatedSpaName = "Renee Med Spa";
+                                            upDatedSpaAddress = "8950 E Germann Rd. Mesa, AZ 85212"+"<br>"+"(Unit 34, Lavish Studio Building)";
+                                            upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment";
+                                            upDatedSpaPhone = "(480) 613-7764";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(480) 919-3445";
                                             insteadOfSpa = "$377";
                                             break;
 
