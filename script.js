@@ -3991,6 +3991,22 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "Vivorelle Gurnee Natural Facelift $79.95":
+                                    upDatedSpaName = "Vivorelle";
+                                    upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
+                                    upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(224) 955-2828";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (646) 220-8444";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(646) 220-8444";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "GreenBiotics Barton Creek 59.95":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Barton Creek Square,"+"<br>"+"2901 S Capital of Texas Hwy. Austin, TX 78746"+"<br>"+"(In front of Sephora)";
