@@ -6663,6 +6663,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Be You Wellness Men's Non-Surgical Facelift 89.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
+                                        upDatedSpaPhone = "(289) 667-1380";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and Consultation"
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
+                                        treatmentSelected = "Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                             case "Sinfulicious LED 79.95":
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
@@ -6914,6 +6930,38 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(480) 919-3445";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Renee Med Spa Natural Facelift $59.95":
+                                            upDatedSpaName = "Renee Med Spa";
+                                            upDatedSpaAddress = "8950 E Germann Rd. Mesa, AZ 85212"+"<br>"+"(Unit 34, Lavish Studio Building)";
+                                            upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment-59-95";
+                                            upDatedSpaPhone = "(480) 613-7764";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(480) 919-3445";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "GreenBiotics Ross Park Mall Natural Facelift $79.95":
+                                            upDatedSpaName = "GreenBiotics";
+                                            upDatedSpaAddress = "Ross Park Mall,"+"<br>"+"1000 Ross Park Mall Dr. Pittsburgh PA 15237"+"<br>"+"(Unit K14, Second floor next Macy’s)";
+                                            upDatedSpaLINK = "https://forms.gle/b1pixDf8r3mbyTyx5";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
+                                            upDatedSpaPhone = "(480) 613-7764";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Post Care and Consultation"
+                                            promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
                                             treatmentSelected = "Natural Facelift Treatment";
                                             newSpaPhoneNumberSelected = "(480) 919-3445";
