@@ -1345,11 +1345,11 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Elevatione Natural Facelifting Treatment $59.95":
+                                    case "DTB Elevatione Natural Facelifting Treatment $59.95":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-elevatione-natural-facelift-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-59-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
@@ -1811,16 +1811,16 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
-                                    case "AVOLOGI Eneo Metrotown Skin Tightening 69.95":
+                                    case "DTB AVOLOGI Eneo Metrotown Skin Tightening 79.95":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-avologi-metrotown-skin-tightening-treatment";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-79-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
-                                    promoPrice = "69.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
@@ -2483,11 +2483,11 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Tierra Med Skin Tightening 69.95":
+                                    case "DTB Tierra Med Skin Tightening 69.95":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-tierra-med-spa-skin-tightening-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-69-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
@@ -6957,14 +6957,14 @@
                                             upDatedSpaAddress = "Ross Park Mall,"+"<br>"+"1000 Ross Park Mall Dr. Pittsburgh PA 15237"+"<br>"+"(Unit K14, Second floor next Macy’s)";
                                             upDatedSpaLINK = "https://forms.gle/mPVCU5fBKenPPYbj8";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(480) 613-7764";
+                                            upDatedSpaPhone = "(412) 420-6848";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Post Care and Consultation"
                                             promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 516-0618";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(480) 919-3445";
+                                            newSpaPhoneNumberSelected = "(661) 516-0618";
                                             insteadOfSpa = "$377";
                                             break;
 
