@@ -6939,7 +6939,7 @@
                                             case "Renee Med Spa Natural Facelift $69.95":
                                             upDatedSpaName = "Renee Med Spa";
                                             upDatedSpaAddress = "8950 E Germann Rd. Mesa, AZ 85212"+"<br>"+"(Unit 34, Lavish Studio Building)";
-                                            upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaLINK = "https://forms.gle/tNu16fnzJqADAVWJ6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment";
                                             upDatedSpaPhone = "(480) 613-7764";
                                             upDatedDurationTotal = "45 Minutes";
@@ -6955,7 +6955,7 @@
                                             case "Renee Med Spa Natural Facelift $59.95":
                                             upDatedSpaName = "Renee Med Spa";
                                             upDatedSpaAddress = "8950 E Germann Rd. Mesa, AZ 85212"+"<br>"+"(Unit 34, Lavish Studio Building)";
-                                            upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaLINK = "https://forms.gle/tNu16fnzJqADAVWJ6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment-59-95";
                                             upDatedSpaPhone = "(480) 613-7764";
                                             upDatedDurationTotal = "45 Minutes";
