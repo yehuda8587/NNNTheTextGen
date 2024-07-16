@@ -2946,7 +2946,7 @@
                                                             upDatedDurationTwo = "- 30 Minutes Natural Facelift & Consultation";
                                                             promoPrice = "69.95";
                                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 537-2523";
-                                                            treatmentSelected = "LED Treatment";
+                                                            treatmentSelected = "Natural Facelift Treatment";
                                                             newSpaPhoneNumberSelected = "(786) 537-2523";
                                                             insteadOfSpa = "$377";
                                                             break; 
