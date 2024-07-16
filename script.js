@@ -2939,7 +2939,7 @@
                                                             upDatedSpaName = "Beyond The Spa";
                                                             upDatedSpaAddress = "Dadeland Mall," + "<br>" + "7535 N Kendall Dr, Miami, FL 33156" + "<br>" + "(Lower level, Between Cotton On & A Sneaker City)";
                                                             upDatedSpaLINK = "https://forms.gle/YqnpipYTp8uUPTERA";
-                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-spa-ledpromo";
+                                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beyond-the-spa-natural-facelift-page";
                                                             upDatedSpaPhone = "(786) 589-6927";
                                                             upDatedDurationTotal = "45 Minutes";
                                                             upDatedDurationOne = "- 15 Minnutes Cleansing";
@@ -3578,7 +3578,7 @@
                                     case "SkinTech Free Body Consultation":
                                     upDatedSpaName = "SkinTech Spa";
                                     upDatedSpaAddress = "Mira Vista Office Building,"+"<br>"+"6100 Southwest Blvd #100 Benbrook, TX 76109, USA"+"<br>"+"(First Floor)";
-                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/SKINTECHSPAFACIALFORMANDHIPPAFORM/formperma/QP2srStVFR-iWxO1_eeJ9S24S89sZbawbL11BS2LjB0";
+                                    upDatedSpaLINK = "https://forms.zohopublic.com/skintechspa/form/BodyForm/formperma/94fMdGEeOtBuWFgew2JhOAORr4F6i0-YNUzjcfoFu9M";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-body-freeconsult";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "30 Minutes";
