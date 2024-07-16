@@ -6962,9 +6962,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "69.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 962-8551";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(480) 919-3445";
+                                            newSpaPhoneNumberSelected = "(602) 962-8551";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -6978,9 +6978,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "59.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 919-3445";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 962-8551";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(480) 919-3445";
+                                            newSpaPhoneNumberSelected = "(602) 962-8551";
                                             insteadOfSpa = "$377";
                                             break;
 
