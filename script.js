@@ -2935,6 +2935,22 @@
                                                             insteadOfSpa = "$350";
                                                             break; 
 
+                                                            case "Beyond The Spa Natural Facelift $69.95":
+                                                            upDatedSpaName = "Beyond The Spa";
+                                                            upDatedSpaAddress = "Dadeland Mall," + "<br>" + "7535 N Kendall Dr, Miami, FL 33156" + "<br>" + "(Lower level, Between Cotton On & A Sneaker City)";
+                                                            upDatedSpaLINK = "https://forms.gle/YqnpipYTp8uUPTERA";
+                                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-spa-ledpromo";
+                                                            upDatedSpaPhone = "(786) 589-6927";
+                                                            upDatedDurationTotal = "45 Minutes";
+                                                            upDatedDurationOne = "- 15 Minnutes Cleansing";
+                                                            upDatedDurationTwo = "- 30 Minutes Natural Facelift & Consultation";
+                                                            promoPrice = "69.95";
+                                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 537-2523";
+                                                            treatmentSelected = "LED Treatment";
+                                                            newSpaPhoneNumberSelected = "(786) 537-2523";
+                                                            insteadOfSpa = "$377";
+                                                            break; 
+
                                                             case "ATIK Boca Raton LED":
                                                                 upDatedSpaName = "ATIK Spa";
                                                                 upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
@@ -6983,6 +6999,24 @@
                                             newSpaPhoneNumberSelected = "(661) 516-0618";
                                             insteadOfSpa = "$377";
                                             break;
+
+                                            case "Beyond The Soap Natural Facelift $69.95":
+                                            upDatedSpaName = "Beyond The Soap";
+                                            upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
+                                            upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-natural-facelift";
+                                            upDatedSpaPhone = "(954) 908-7637";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(786) 317-6182";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            
 
                                         
                                         
