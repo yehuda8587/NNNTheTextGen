@@ -6282,7 +6282,7 @@
                                         case "Malka Med Spa Skin Tightening 79.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6298,7 +6298,7 @@
                                         case "Malka Med Spa Skin Tightening 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6314,7 +6314,7 @@
                                         case "Malka Med Spa Skin Tightening 59.95 instead of $299":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6330,7 +6330,7 @@
                                         case "Malka Med Spa Neck and Jawline 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6346,7 +6346,7 @@
                                         case "Malka Med Spa Collagen 69.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-collagen-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6362,7 +6362,7 @@
                                         case "Malka Med Spa Men's LED 69.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-medspa-mens-led-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6378,7 +6378,7 @@
                                         case "Malka Med Spa Sagging Neck Rescue 79.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-sagging-neck-rescue-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6394,7 +6394,7 @@
                                         case "Malka Med Spa HIFU LED 89.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-hifu-amp-led-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6410,7 +6410,7 @@
                                         case "Malka Med Spa Natural Facelift 99.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6426,7 +6426,7 @@
                                         case "Malka Med Spa Natural Facelift 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
-                                        upDatedSpaLINK = "https://forms.gle/kxpo1f7uQZBy6MUi9";
+                                        upDatedSpaLINK = " ";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-59-95";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
