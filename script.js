@@ -4897,9 +4897,9 @@
                                     upDatedDurationOne = "- 10-minute Cleansing";
                                     upDatedDurationTwo = "- 35-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    upDatedActualSpaPhone = " ";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    newSpaPhoneNumberSelected = " ";
                                     insteadOfSpa = "$350";
                                     break;
 
@@ -4913,9 +4913,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    upDatedActualSpaPhone = " ";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    newSpaPhoneNumberSelected = " ";
                                     insteadOfSpa = "$350";
                                     break;
 
@@ -4929,9 +4929,9 @@
                                     upDatedDurationOne = "- 10-minute Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Faecelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 369-2994";
+                                    upDatedActualSpaPhone = " ";
                                     treatmentSelected = "Natural Faecelift Treatment";
-                                    newSpaPhoneNumberSelected = "(516) 369-2994";
+                                    newSpaPhoneNumberSelected = " ";
                                     insteadOfSpa = "$350";
                                     break;
 
