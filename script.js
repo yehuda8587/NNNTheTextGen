@@ -5223,6 +5223,38 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Introstem Carlsbad Men's Natural Facelift Treatment 79.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-mens-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Men's Natural Facelift Treatment and a 15 minute Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB Introstem Carlsbad Microdermadbrasion Treatment":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-microdermabrasion-59-95";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and a 15 minute Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Microdermadbrasion";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -5523,6 +5555,38 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "Body Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB - The Glow Med Spa Men's Natural Facelift Treatment 79.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-mens-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "FTB - The Glow Med Spa Hydrafacial Treatment 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-hydrafacial-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Hydrafacial Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Hydrafacial Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$299";
                                     break;
@@ -6958,9 +7022,9 @@
                                             upDatedSpaLINK = "https://forms.gle/tNu16fnzJqADAVWJ6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment";
                                             upDatedSpaPhone = "(480) 613-7764";
-                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
-                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and a 15 minute Post Care and Consultation"
                                             promoPrice = "69.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 962-8551";
                                             treatmentSelected = "Natural Facelift Treatment";
@@ -6974,9 +7038,9 @@
                                             upDatedSpaLINK = "https://forms.gle/tNu16fnzJqADAVWJ6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renee-med-spa-natural-facelift-treatment-59-95";
                                             upDatedSpaPhone = "(480) 613-7764";
-                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
-                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and a 15 minute Post Care and Consultation"
                                             promoPrice = "59.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 962-8551";
                                             treatmentSelected = "Natural Facelift Treatment";
