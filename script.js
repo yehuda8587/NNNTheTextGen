@@ -219,6 +219,22 @@
                 insteadOfSpa = "$377"
                 break;
 
+                case "Skin Analytics Natural Facelift $69.95":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-69-95"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "69.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$377"
+                break;
+
             case "Esthetix Raleigh":
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
@@ -245,6 +261,22 @@
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
                 promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "(919) 900-8271";
+                insteadOfSpa = "$350"
+                break;
+
+                case "Esthetix Raleigh Natural Facelift $69.95":
+                upDatedSpaName = "Esthetix Spa";
+                upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
+                upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-facelift-page-69-95";
+                upDatedSpaPhone = "(984) 205-6033";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "69.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
                 treatmentSelected = "Natural Facelift Treatment";
                 newSpaPhoneNumberSelected = "(919) 900-8271";
@@ -7077,6 +7109,22 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
                                             treatmentSelected = "Natural Facelift Treatment";
                                             newSpaPhoneNumberSelected = "(786) 317-6182";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Skin So Sweet Natural Facelift $59.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
+                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
                                             insteadOfSpa = "$377";
                                             break;
 
