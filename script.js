@@ -4583,6 +4583,22 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Rilassare Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Rilassare Spa";
+                                    upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
+                                    upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(725) 710-2050";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 589-1628";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(720) 589-1628";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Esthetix St. Augustine LED 69.95":
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
