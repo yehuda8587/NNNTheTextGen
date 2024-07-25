@@ -5847,6 +5847,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "DTB - Sthetics Med Spa Natural Facelift 69.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-natural-facelift-69";
+                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                     case "Introstem Tyler LED":
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
