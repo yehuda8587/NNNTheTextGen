@@ -5311,10 +5311,10 @@
                                     upDatedSpaPhone = "(760) 621-0800";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and a 15 minute Consultation"
+                                    upDatedDurationTwo = "- 30-minutes Microdermabrasion Treatment and a 15 minute Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
-                                    treatmentSelected = "Microdermadbrasion";
+                                    treatmentSelected = "Microdermabrasion";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$299";
                                     break;
