@@ -5303,7 +5303,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "FTB Introstem Carlsbad Microdermadbrasion Treatment":
+                                    case "FTB Introstem Carlsbad Microdermabrasion Treatment":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
                                     upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
