@@ -5977,7 +5977,7 @@
 
                                     case "Iridescent Wellness and Medical Spa LED":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
@@ -5993,7 +5993,7 @@
 
                                     case "Iridescent Wellness and Medical Spa Hydrofacial $79.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
@@ -6009,7 +6009,7 @@
 
                                     case "Iridescent Wellness and Medical Spa Sagging Neck Recue $99.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-sagging-neck-rescue-treatment-promo";
                                     upDatedSpaPhone = "(586) 981-1850";
@@ -6025,7 +6025,7 @@
 
                                     case "Iridescent Wellness and Medical Spa LED $99.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-new-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
@@ -6041,7 +6041,7 @@
 
                 case "Iridescent Wellness and Medical Spa Cryo Body Contouring $79.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
@@ -6056,6 +6056,22 @@
                                     break;
 
                                     case "Iridescent Wellness and Medical Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "Partridge Creek Mall,"+"<br>"+"17370 Hall Rd. Suite 111B. Clinton Twp, MI 48038"+"<br>"+"(Inside Partridge Creek Mall. We are located by Vera Bradley and Cato)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-treatment-79-95";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "NEW LOCATION Iridescent Wellness and Medical Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
