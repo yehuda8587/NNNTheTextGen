@@ -4185,7 +4185,7 @@
 
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(571) 695-2525";
@@ -4201,7 +4201,7 @@
 
                                     case "GreenBiotics Pentagon Neck and Jawline":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-pentagon-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(571) 695-2525";
@@ -4217,7 +4217,7 @@
 
                                     case "GreenBiotics Pentagon Natural Facelift":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon-natural-facelift-79-95";
                                     upDatedSpaPhone = "(571) 695-2525";
