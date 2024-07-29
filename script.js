@@ -4185,7 +4185,7 @@
 
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(571) 695-2525";
@@ -4201,7 +4201,7 @@
 
                                     case "GreenBiotics Pentagon Neck and Jawline":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-pentagon-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(571) 695-2525";
@@ -4217,7 +4217,7 @@
 
                                     case "GreenBiotics Pentagon Natural Facelift":
                                     upDatedSpaName = "GreenBiotics";
-                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
+                                    upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(Second floor near Armani exchange)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon-natural-facelift-79-95";
                                     upDatedSpaPhone = "(571) 695-2525";
@@ -6083,22 +6083,6 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
-                                    insteadOfSpa = "$377";
-                                    break;
-
-                                    case "NEW LOCATION Iridescent Wellness and Medical Spa Cryo Body Contouring $79.95":
-                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
-                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
-                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-promo-79-95";
-                                    upDatedSpaPhone = "(586) 981-1850";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
-                                    upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
-                                    treatmentSelected = "Cryo Body Contouring Treatment";
                                     newSpaPhoneNumberSelected = "(586) 981-1850";
                                     insteadOfSpa = "$377";
                                     break;
