@@ -7291,7 +7291,7 @@
                                             case "GreenBiotics Ross Park Mall Natural Facelift $79.95":
                                             upDatedSpaName = "GreenBiotics";
                                             upDatedSpaAddress = "Ross Park Mall,"+"<br>"+"1000 Ross Park Mall Dr. Pittsburgh PA 15237"+"<br>"+"(Unit K14, Second floor next Macy’s)";
-                                            upDatedSpaLINK = "https://forms.gle/mPVCU5fBKenPPYbj8";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
                                             upDatedSpaPhone = "(412) 420-6848";
                                             upDatedDurationTotal = "60 Minutes";
