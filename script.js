@@ -563,12 +563,28 @@
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 20 Minutes Light Cleaning";
-                                upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
+                                upDatedDurationTwo = "- 40 Minutes Natural Facelift Treatment & Consultation";
                                 promoPrice = "79.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
                                 treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(647) 787-7105";
                                 insteadOfSpa = "$377"
+                                break;
+
+                                case "Kristals Barrie Men Skin Tightening $89.95":
+                                upDatedSpaName = "Kristals Barrie Spa";
+                                upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                                upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/barrie-natural-face-lift-promo-79-95" ;
+                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 20 Minutes Light Cleaning";
+                                upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
+                                promoPrice = "89.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(647) 787-7105";
+                                insteadOfSpa = "$299"
                                 break;
 
                                 case "Adore Cookstown":
@@ -649,6 +665,22 @@
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(844) 377-7753";
                                     insteadOfSpa = "$377"
+                                    break; 
+
+                                    case "Adore Cookstown Men's Skin Tightening $89.95":
+                                    upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
+                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 20 Minutes Light Cleaning";
+                                    upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
+                                    promoPrice = "89.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(844) 377-7753";
+                                    insteadOfSpa = "$299"
                                     break; 
 
                                     case "Kristals Erin Mills LED":
@@ -5263,7 +5295,7 @@
                                     upDatedSpaPhone = "(760) 621-0800";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment and Consultation"
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
                                     treatmentSelected = "Natural Facelift";
@@ -5271,7 +5303,7 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "FTB Introstem Carlsbad Body Facelift Treatment $59.95":
+                                    case "FTB Introstem Carlsbad Body Treatment $59.95":
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
                                     upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
@@ -5331,6 +5363,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "DTB Introstem Carlsbad Natural Facelift Treatment $59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-introstem-carlsbad-natural-facelift-59";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(760) 421-4454";
                                     insteadOfSpa = "$299";
                                     break;
@@ -5699,6 +5747,22 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "DTB The Glow Med Spa Natural Facelift 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-the-glow-med-spa-natural-facelift-page-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$299";
                                     break;
@@ -7271,6 +7335,22 @@
                                             newSpaPhoneNumberSelected = "(714) 203-3527";
                                             insteadOfSpa = "$377";
                                             break;
+
+                                            case "DTB Skin So Sweet Natural Facelift $59.95":
+                                                upDatedSpaName = "Skin So Sweet";
+                                                upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                                upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-skin-so-sweet-natural-facelift-page-59-95";
+                                                upDatedSpaPhone = "(714) 617-1806";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                                promoPrice = "59.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                                treatmentSelected = "Natural Facelift Treatment";
+                                                newSpaPhoneNumberSelected = "(714) 203-3527";
+                                                insteadOfSpa = "$377";
+                                                break;
 
                                             
 
