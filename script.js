@@ -5499,7 +5499,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-79-95";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-89-95";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
