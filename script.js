@@ -6167,6 +6167,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "NEW LOCATION DTB Iridescent Wellness and Medical Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-iridescent-med-spa-natural-facelift-79";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Spa De Solei LED":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
@@ -6727,6 +6743,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "DTB Malka Med Spa Natural Facelift 59.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-malka-med-spa-natural-facelift-treatment-59";
+                                        upDatedSpaPhone = "(469) 487-7573";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelifting Treatment and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Natural Facelifting Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Lavelier Grand Junction LED 79.95":
                                         upDatedSpaName = "Lavelier";
                                         upDatedSpaAddress = "Mesa Mall, 2424 US-6, Grand Junction, CO 81505"+"<br>"+"(in the aisle of Target next to Verizon)"+"<br>"+"(The entrance by Target is the closest)";
@@ -7229,6 +7261,22 @@
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
+                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "DTB Alabama Med Spa Natural Facelift 69.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-alabama-med-spa-natural-facelift-treatment-69";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
