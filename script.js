@@ -7400,6 +7400,22 @@
                                                 insteadOfSpa = "$377";
                                                 break;
 
+                                                case "Lift and Revive Med Spa Natural Facelift $79.95":
+                                                upDatedSpaName = "Lift and Revive Med Spa";
+                                                upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
+                                                upDatedSpaLINK = "https://forms.gle/5N6x5tGFyvQJ6TNe7";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lift-n-revive-med-spa-natural-facelift-79-95";
+                                                upDatedSpaPhone = "(714) 617-1806";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 15 minutes light cleansing and 35 minutes of the Natural Facelift Treatment";
+                                                upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (210) 951-5045";
+                                                treatmentSelected = "Natural Facelift Treatment";
+                                                newSpaPhoneNumberSelected = "(210) 951-5045";
+                                                insteadOfSpa = "$377";
+                                                break;
+
                                             
 
                                         
