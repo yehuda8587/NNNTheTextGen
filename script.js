@@ -7407,8 +7407,8 @@
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lift-n-revive-med-spa-natural-facelift-79-95";
                                                 upDatedSpaPhone = "(714) 617-1806";
                                                 upDatedDurationTotal = "60 Minutes";
-                                                upDatedDurationOne = "- 15 minutes light cleansing and 35 minutes of the Natural Facelift Treatment";
-                                                upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+                                                upDatedDurationOne = "- 10 minutes light cleansing and 35 minutes of the Natural Facelift Treatment";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (210) 951-5045";
                                                 treatmentSelected = "Natural Facelift Treatment";
