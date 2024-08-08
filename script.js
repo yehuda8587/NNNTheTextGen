@@ -2000,7 +2000,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(236) 258-6757";
-                                    insteadOfSpa = "$399";
+                                    insteadOfSpa = "$377";
                                     break; 
 
                                     case "AVOLOGI Eneo Metrotown Body Treatment $79.95":
