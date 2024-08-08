@@ -3726,7 +3726,7 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skintech-skin-tightening-promo-59-95";
                                     upDatedSpaPhone = "(682) 900-3832";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minute skin analysis"+"<br>"+"30-minute facial cleansing & Natural Facelift treatment";
+                                    upDatedDurationOne = "- 15 minute skin analysis"+"<br>"+"30-minute facial cleansing & Skin Tightening treatment";
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation ";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
