@@ -3730,7 +3730,7 @@
                                     upDatedDurationTwo = "- 15 minute Post-Care Consultation ";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 616-4827";
-                                    treatmentSelected = "Natural Facelift Treatment";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(214) 616-4827";
                                     insteadOfSpa = "$377";
                                     break;
