@@ -3111,22 +3111,6 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                                            case "ATIK Boca Raton Body Sculpting":
-                                                                upDatedSpaName = "ATIK Spa";
-                                                                upDatedSpaAddress = "PNC Bank Building," + "<br>" + "9033 Glades Rd, Boca Raton, FL 33434" + "<br>" + "(2nd floor, Use the back entrance, Suite B)";
-                                                                upDatedSpaLINK = "https://forms.gle/HZ6bnRKxtijtYkZt6";
-                                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/atik-body-sculpting-promo";
-                                                                upDatedSpaPhone = "(561) 210-0586";
-                                                                upDatedDurationTotal = "60 Minutes";
-                                                                upDatedDurationOne = "45 Minutes Venus Legacy Treatment";
-                                                                upDatedDurationTwo = "15-minute Consultation";
-                                                                promoPrice = "59.95";
-                                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 408-8882";
-                                                                treatmentSelected = "Body Sculpting Treatment";
-                                                                newSpaPhoneNumberSelected = "(954) 408-8882";
-                                                                insteadOfSpa = "$350";
-                                                                break;
-
                                     case "Ben's Beauty Spa 89.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -7453,7 +7437,7 @@
                                                 upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
                                                 upDatedSpaLINK = "https://forms.gle/5N6x5tGFyvQJ6TNe7";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lift-n-revive-med-spa-natural-facelift-79-95";
-                                                upDatedSpaPhone = "(714) 617-1806";
+                                                upDatedSpaPhone = "(210) 512-4944";
                                                 upDatedDurationTotal = "60 Minutes";
                                                 upDatedDurationOne = "- 10 minutes light cleansing and 35 minutes of the Natural Facelift Treatment";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
