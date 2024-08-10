@@ -447,7 +447,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/burlington-natural-face-lift-promo-79-95" ;
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95";
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Consultation";
@@ -471,6 +471,22 @@
                                 promoPrice = "69.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                 treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 293-1112";
+                                insteadOfSpa = "$377"
+                                break; 
+
+                                case "Kristals Burlington Men's Skin Tightening $89.95":
+                                upDatedSpaName = "Kristals Burlington Spa";
+                                upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                                upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95";
+                                upDatedSpaPhone = "(289) 293-9711";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
+                                promoPrice = "89.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
+                                treatmentSelected = "Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(647) 293-1112";
                                 insteadOfSpa = "$377"
                                 break; 
@@ -751,7 +767,7 @@
                                         upDatedSpaName = "Kristals Erin Mills spa";
                                         upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                         upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/erin-mills-natural-face-lift-promo-79-95" ;
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-page-79-95" ;
                                         upDatedSpaPhone = "(437) 253-8259";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
@@ -2595,18 +2611,34 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Tierra Med Natural Facelift Treatment 69.95":
+                                    case "Tierra Med Natural Facelift Treatment 79.95":
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-promo-page";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-79-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
-                                    promoPrice = "69.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 503-5222";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Tierra Med Natural Men's Skin Tightening Treatment 89.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-mens-skin-tightening-promo-89-95";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 503-5222";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 503-5222";
                                     insteadOfSpa = "$377";
                                     break;
