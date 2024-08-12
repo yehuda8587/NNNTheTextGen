@@ -434,7 +434,7 @@
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
                             upDatedSpaPhone = "(289) 293-9711";
                             upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Consultation";
+                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
                             upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -450,7 +450,7 @@
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95";
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
                                 promoPrice = "79.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -466,7 +466,7 @@
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-69-95" ;
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
                                 promoPrice = "69.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
@@ -482,7 +482,7 @@
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95";
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 Minutes Light Consultation";
+                                upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
                                 promoPrice = "89.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
