@@ -4791,6 +4791,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                    case "Esthetix St. Augustine Collagen Enhancing 69.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-collagen-enhancement-69-95";
+                                    upDatedSpaPhone = "(904) 368-6923";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Collagen Enhancing Treatment and 15-minutes Consultation"   
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Collagen Enhancing";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
