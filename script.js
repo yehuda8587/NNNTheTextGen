@@ -171,7 +171,7 @@
                 insteadOfSpa = "$299"
                 break;
 
-                case "Skin Analytics Spa Skin Tightening Treatment":
+                case "Skin Analytics Spa Skin Tightening Treatment()":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
@@ -7314,9 +7314,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "59.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -7330,9 +7330,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "89.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -7346,9 +7346,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -7362,9 +7362,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "69.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -7378,9 +7378,9 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
                                             promoPrice = "69.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
                                             treatmentSelected = "Natural Facelift Treatment";
-                                            newSpaPhoneNumberSelected = "(713) 826-6363";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
                                             insteadOfSpa = "$377";
                                             break;
 
@@ -7394,7 +7394,7 @@
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Post Care and Consultation"
                                             promoPrice = "79.95";
-                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 826-6363";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
                                             treatmentSelected = "Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(587) 800-1699";
                                             insteadOfSpa = "$377";
