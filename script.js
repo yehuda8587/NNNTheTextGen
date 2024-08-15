@@ -322,7 +322,7 @@
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
                         upDatedSpaPhone = "(352) 431-2111";
                         upDatedDurationTotal = "60 Minutes";
-                        upDatedDurationOne = "- 15 Minutes Cleansing";
+                        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                         upDatedDurationTwo = "- 30 Minutes LED Anti-Aging Treatment & 15 minutes Consultation";
                         promoPrice = "79.95"
                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
@@ -424,7 +424,7 @@
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 293-1112";
                                 treatmentSelected = "AquaPure";
                                 newSpaPhoneNumberSelected = "(647) 293-1112";
-                                insteadOfSpa = "$350"
+                                insteadOfSpa = "$550"
                                 break; 
 
                                 case "Kristals Burlington Neck and Jawline":
@@ -4807,6 +4807,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Esthetix St. Augustine Skin Tightening 69.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-skin-tightening-69-95";
+                                    upDatedSpaPhone = "(904) 368-6923";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
@@ -5463,6 +5479,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Introstem Carlsbad Skin Tightening Treatment $59.95":
+                                        upDatedSpaName = "Introstem Spa";
+                                        upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                        upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-carlsbad-skin-tightening-59-95";
+                                        upDatedSpaPhone = "(760) 621-0800";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15-minute Cleansing";
+                                        upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(760) 421-4454";
+                                        insteadOfSpa = "$299";
+                                        break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -5843,6 +5875,22 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "The Glow Med Spa Skin Tightening 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-skin-tightening-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(760) 452-6073";
                                     insteadOfSpa = "$299";
                                     break;
