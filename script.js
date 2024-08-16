@@ -1473,7 +1473,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Elevatione Skin Tightenin Treatment $69.95":
+                                    case "Elevatione Skin Tightening Treatment $69.95":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
