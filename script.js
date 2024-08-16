@@ -171,7 +171,7 @@
                 insteadOfSpa = "$299"
                 break;
 
-                case "Skin Analytics Spa Skin Tightening Treatment()":
+                case "Skin Analytics Spa Skin Tightening Treatment":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
@@ -231,6 +231,22 @@
                 promoPrice = "69.95"
                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
                 treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$377"
+                break;
+
+                case "Skin Analytics Skin Tightening $69.95":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-skin-tightening-69-95"
+                upDatedSpaPhone = "(919) 321-1008";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Skin Tightening Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "69.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Skin Tightening Treatment";
                 newSpaPhoneNumberSelected = "(919) 405-2586";
                 insteadOfSpa = "$377"
                 break;
@@ -1453,6 +1469,22 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Collagen Restoration Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elevatione Skin Tightenin Treatment $69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-skin-tightening-treatment-69-95";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes of Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
                                     insteadOfSpa = "$377"
                                     break;
