@@ -7212,7 +7212,7 @@
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
-                                            upDatedSpaPhone = "(760) 517-7642";
+                                            upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
@@ -7228,7 +7228,7 @@
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-new-led-promo-page";
-                                            upDatedSpaPhone = "(760) 517-7642";
+                                            upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
@@ -7244,7 +7244,7 @@
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo-page";
-                                            upDatedSpaPhone = "(760) 517-7642";
+                                            upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 10 minutes light cleansing";
                                             upDatedDurationTwo = "- 35 minutes LED Anti-Aging Treatment and Consultation"
@@ -7589,6 +7589,22 @@
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (210) 951-5045";
                                                 treatmentSelected = "Natural Facelift Treatment";
                                                 newSpaPhoneNumberSelected = "(210) 951-5045";
+                                                insteadOfSpa = "$377";
+                                                break;
+
+                                                case "Senslife Boutique Skin Tightening 89.95":
+                                                upDatedSpaName = "Senslife Boutique";
+                                                upDatedSpaAddress = " Ocean Ave. 2 SE Monte Verde St, Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Portobello restaurant, On the corner of Monte Verde and ocean Avenue)";
+                                                upDatedSpaLINK = "https://forms.gle/QZ8RwTcdks9qZTJu8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-89-95";
+                                                upDatedSpaPhone = "(831) 330-8002";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Post Care and Consultation"
+                                                promoPrice = "89.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 482-8316";
+                                                treatmentSelected = "Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(914) 482-8316";
                                                 insteadOfSpa = "$377";
                                                 break;
 
