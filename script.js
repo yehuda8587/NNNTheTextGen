@@ -5543,6 +5543,22 @@
                                         insteadOfSpa = "$299";
                                         break;
 
+                                        case "DTB Introstem Carlsbad Skin Tightening Treatment $59.95":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "The Shoppes at Carlsbad,"+"<br>"+"2525 El Camino real Carlsbad, CA. 92008"+"<br>"+"(Second floor, front of Macy's Women)";
+                                    upDatedSpaLINK = "https://forms.gle/WuKSMaAcUSzaoATW8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-introstem-carlsbad-skin-tightening-59-95-two";
+                                    upDatedSpaPhone = "(760) 621-0800";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 421-4454";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 421-4454";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Lavelier Longview LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
@@ -5932,6 +5948,22 @@
                                     upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-skin-tightening-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+                                    case "DTB The Glow Med Spa Skin Tightening 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-the-glow-med-spa-skin-tightening-59-95-two";
                                     upDatedSpaPhone = "(760) 683-2256";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
