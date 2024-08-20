@@ -2158,7 +2158,23 @@
                                     upDatedDurationTwo = "- 30 minutes Collagen Enhancing treatment & 15 minutes Consultation";
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
-                                    treatmentSelected = "Natural Facelift Treatment";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "Stem Spa Redding Skin Tightening $89.95":
+                                        upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
+                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-skin-tightening-89-95";
+                                    upDatedSpaPhone = "(530) 250-4950";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening treatment & 15 minutes Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(530) 768-1056";
                                     insteadOfSpa = "$377";
                                     break; 
