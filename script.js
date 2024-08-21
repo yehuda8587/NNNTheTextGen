@@ -7656,6 +7656,22 @@
                                                 insteadOfSpa = "$377";
                                                 break;
 
+                                                case "SKT Med Spa Korean 3 in 1 Skin Tightening 79.95":
+                                                upDatedSpaName = "SKT Med Spa";
+                                                upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
+                                                upDatedSpaPhone = "(949) 200-8470";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 15 minutes Light Cleansing";
+                                                upDatedDurationTwo = "- 30 minutes KrX V-Tox application and Red Light Therapy and 15 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
+                                                treatmentSelected = "Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(949) 545-7129";
+                                                insteadOfSpa = "$377";
+                                                break;
+
                                             
 
                                         
