@@ -7663,13 +7663,13 @@
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
                                                 upDatedSpaPhone = "(949) 200-8470";
                                                 upDatedDurationTotal = "60 Minutes";
-                                                upDatedDurationOne = "- 15 minutes Light Cleansing";
-                                                upDatedDurationTwo = "- 30 minutes KrX V-Tox application and Red Light Therapy and 15 minutes Post Care and Consultation"
+                                                upDatedDurationOne = "- 45 minutes KrX V-Tox application and Red Light Therapy";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
-                                                treatmentSelected = "Skin Tightening Treatment";
+                                                treatmentSelected = "Korean 3 in 1 Skin Tightening Treatment";
                                                 newSpaPhoneNumberSelected = "(949) 545-7129";
-                                                insteadOfSpa = "$377";
+                                                insteadOfSpa = "$299";
                                                 break;
 
                                             
