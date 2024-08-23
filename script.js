@@ -4871,6 +4871,54 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Esthetix St. Augustine Skin Tightening 59.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-skin-tightening-59-95";
+                                    upDatedSpaPhone = "(904) 368-6923";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Esthetix St. Augustine Face & Neck Tightening 69.95":
+                                            upDatedSpaName = "Esthetix Spa";
+                                            upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                            upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-face-amp-neck-tightening-facial-69-95";
+                                            upDatedSpaPhone = "(904) 368-6923";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15-minute Cleansing";
+                                            upDatedDurationTwo = "- 45-minutes Face & Neck Tightening Treatment and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                            treatmentSelected = "Face & Neck Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(904) 342-2780";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Esthetix St. Augustine Body Contouring 79.95":
+                                            upDatedSpaName = "Esthetix Spa";
+                                            upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                            upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-body-contouring-79-95";
+                                            upDatedSpaPhone = "(904) 368-6923";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15-minute Body Analysis";
+                                            upDatedDurationTwo = "- 45-minutes Body Contouring Treatment and 15 minutes post-care and consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                            treatmentSelected = "Body Contouring Treatment";
+                                            newSpaPhoneNumberSelected = "(904) 342-2780";
+                                            insteadOfSpa = "$399";
+                                            break;
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
