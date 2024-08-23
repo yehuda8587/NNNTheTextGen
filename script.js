@@ -4887,7 +4887,7 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Esthetix St. Augustine Face & Neck Tightening 69.95":
+                                    case "Esthetix St. Augustine Face and Neck Tightening 69.95":
                                             upDatedSpaName = "Esthetix Spa";
                                             upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                             upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
