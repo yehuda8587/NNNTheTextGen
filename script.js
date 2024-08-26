@@ -2259,6 +2259,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Stem Spa Medford Skin Tightening 99.95":
+                                        upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-skin-tightening-99-95";
+                                    upDatedSpaPhone = "(541) 512-7170";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening treatment & 15 minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "INGLOT Charlotte":
                                         upDatedSpaName = "INGLOT Spa";
                                     upDatedSpaAddress = "SouthPark Mall," + "<br>" + "4400 Sharon rd. Charlotte, NC 28211"+"<br>"+"(Cheesecake Factory entrance, Between Pandora & Rolex)";
