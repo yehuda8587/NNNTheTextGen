@@ -2087,7 +2087,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-skin-tightening-69-95";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
