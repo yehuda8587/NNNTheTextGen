@@ -6359,6 +6359,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Lavelier Round Rock Skin Tightening $59.95":
+                                    upDatedSpaName = "Lavelier";
+                                    upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
+                                    upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-skin-tightening-59-95";
+                                    upDatedSpaPhone = "(512) 617-0084";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(512) 953-8818";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Iridescent Wellness and Medical Spa LED":
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
