@@ -1441,6 +1441,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "FTB Elevatione Natural Facelifting Treatment $69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-natural-facelift-69-95";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Consultation";
+                                    upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "DTB Elevatione Natural Facelifting Treatment $59.95":
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
@@ -1478,6 +1494,22 @@
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-skin-tightening-treatment-69-95";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes of Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "FTB Elevatione Skin Tightening Treatment $69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-skin-tightening-69-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of Skin Tightening Treatment";
@@ -2227,6 +2259,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Stem Spa Redding Skin Tightening $79.95":
+                                        upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
+                                    upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(530) 250-4950";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening treatment & 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (530) 768-1056";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(530) 768-1056";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Stem Spa Medford":
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
@@ -2317,6 +2365,22 @@
                                     upDatedDurationOne = "- 15 minutes of Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening treatment & 15 minutes Consultation";
                                     promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "Stem Spa Medford Skin Tightening 79.95":
+                                        upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(541) 512-7170";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening treatment & 15 minutes Consultation";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(971) 401-4148";
@@ -6087,6 +6151,22 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "The Glow Med Spa 3 in 1 Skin Lifting 59.95":
+                                    upDatedSpaName = "The Glow Med Spa";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-med-spa-3-in-1-skin-lifting-treatment-59-95";
+                                    upDatedSpaPhone = "(760) 683-2256";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Post Care Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 452-6073";
+                                    treatmentSelected = "Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(760) 452-6073";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "D'or24k Prestige Spa LED":
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
@@ -6343,12 +6423,12 @@
                                     insteadOfSpa = "$299";
                                     break;
 
-                                    case "Lavelier Round Rock Men's LED":
+                                    case "Lavelier Round Rock Men's LED $79.95":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-treatment-promo-page";
-                                    upDatedSpaPhone = "(512) 600-9666";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-anti-aging-promo-79-95";
+                                    upDatedSpaPhone = "(512) 617-0084";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
@@ -7767,6 +7847,22 @@
                                                 newSpaPhoneNumberSelected = "(714) 203-3527";
                                                 insteadOfSpa = "$377";
                                                 break;
+
+                                                case "Skin So Sweet Mens LED $79.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
+                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and LED Anti-Aging Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "LED Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$377";
+                                            break;
 
                                                 case "Lift and Revive Med Spa Natural Facelift $79.95":
                                                 upDatedSpaName = "Lift and Revive Med Spa";
