@@ -1537,6 +1537,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione 3 in 1 Skin Lifting Treatment $69.95":
+                                        upDatedSpaName = "Elevatione Spa & Beauty";
+                                    upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
+                                    upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-3-in-1-skin-lifting-treatment-69-95";
+                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes of 3 in 1 Skin Lifting Treatment";
+                                    upDatedDurationTwo = "- 15 minutes of Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
+                                    treatmentSelected = "Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 469-6135";
+                                    insteadOfSpa = "$377"
+                                    break;
+
 
                                     case "Adore Estero":
                                         upDatedSpaName = "Adore Spa";
@@ -5881,7 +5897,7 @@
 
                                     case "The Glow Med Spa Collagen Enhancing Treatment":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -5897,7 +5913,7 @@
 
                                     case "The Glow Med Spa Body Sculpting":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-body-sculpting-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -5913,7 +5929,7 @@
 
                                     case "The Glow Med Spa Men's LED":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-mens-led-treatment-promo-page ";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -5929,7 +5945,7 @@
 
                                     case "The Glow Med Spa Neck and Jawline 59.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -5945,7 +5961,7 @@
 
                                     case "The Glow Med Spa Body Lipo 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-glow-med-spa-lipo-cavitation-promo-page";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -5961,7 +5977,7 @@
 
                                     case "FTB The Glow Med Spa Body Lipo 69.95":
                                     upDatedSpaName = "The Glow Med Spa";
-                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, Unit 100, At the plaza between The doughnut shop and the barbershop)";
+                                    upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
                                     upDatedSpaLINK = "https://forms.gle/u9CoVLbPmLxcHUNm7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-glow-body-lipo-cavitation-promo";
                                     upDatedSpaPhone = "(760) 683-2256";
@@ -7284,6 +7300,22 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
                                         treatmentSelected = "Natural Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Skin Tightening 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-skin-tightening-69-95";
+                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292-2530";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 292-2530";
                                         insteadOfSpa = "$377";
                                         break;
 
