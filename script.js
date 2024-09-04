@@ -2571,7 +2571,7 @@
                                     upDatedSpaPhone = "(448) 400-2095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 minutes Natural Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 45 minutes Natural Skin Tightening Treatment and Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
