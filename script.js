@@ -2451,6 +2451,22 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Pearl De Flore Augusta Natural Skin Tightening $79.95":
+                                        upDatedSpaName = "Pearl De Flore Spa";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
+                                    upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(706) 434-8750";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                    treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(706) 901-8979";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Luminous Skin-Tech":
                                         upDatedSpaName = "Luminous Skin-Tech Spa";
                                     upDatedSpaAddress = "La Palmera Mall," + "<br>" + "5488 S Padre island, Corpus Christi, TX 78411"+"<br>"+"(Second floor, next to H&M)";
@@ -2546,6 +2562,22 @@
                                     newSpaPhoneNumberSelected = "(850) 637-7637";
                                     insteadOfSpa = "$399";
                                     break; 
+
+                                    case "Premier Pensacola Natural Skin Tightening 79.95":
+                                        upDatedSpaName = "Premier Spa";
+                                    upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
+                                    upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/premier-pensacola-natural-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(448) 400-2095";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 minutes Natural Skin Tightening Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
+                                    treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 637-7637";
+                                    insteadOfSpa = "$377";
+                                    break;
 
                                     case "Esthetix Cloverdale":
                                         upDatedSpaName = "Esthetix Spa";
