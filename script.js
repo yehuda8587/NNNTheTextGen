@@ -5911,6 +5911,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "TKO Beauty Tech Natural Skin Tightening 99.95":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-natural-skin-tightening-treatment-99-95";
+                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Bee and Co Olympia LED":
                                     upDatedSpaName = "Bee and Co";
                                     upDatedSpaAddress = "Capital Mall,"+"<br>"+"625 Black Lake Blvd SW. Olympia, WA 98502"+"<br>"+"(Unit 233, in front of Victoria's Secret)";
