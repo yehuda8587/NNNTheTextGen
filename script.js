@@ -8030,9 +8030,9 @@
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-promo-79" ;
                                     upDatedSpaPhone = "(817) 768-9858";
-                                    upDatedDurationTotal = "80 Minutes";
-                                    upDatedDurationOne = "- 10 minutes Cleansing";
-                                    upDatedDurationTwo = "- 50 minutes Natural Facelift Treatment and 20 minutes post-care and consultation";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Natural Facelift Treatment";
