@@ -8026,7 +8026,7 @@
 
                                     case "Soap Tree Grapevine Natural Facelift $79.95":
                                     upDatedSpaName = "Soap Tree";
-                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Papa Pig)";
+                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)";
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-promo-79" ;
                                     upDatedSpaPhone = "(817) 768-9858";
