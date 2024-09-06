@@ -8024,7 +8024,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Soap Tree Grapevine Natural Facelift $79.95":
+                                    case "Soap Tree Grapevine Natural Facelift $69.95":
                                     upDatedSpaName = "Soap Tree";
                                     upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)";
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
@@ -8033,7 +8033,7 @@
                                     upDatedDurationTotal = "80 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 50 minutes Natural Facelift Treatment and 20 minutes post-care and consultation";
-                                    promoPrice = "79.95";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(214) 713-8689";
