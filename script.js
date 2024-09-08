@@ -6271,10 +6271,26 @@
                                         upDatedSpaPhone = "(567) 298-4583";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 10-minute Cleansing";
-                                        upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
+                                        upDatedDurationTwo = "- 20-minutes Natural Facelift Treatment and 15 minutes Consultation"
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
                                         treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(971) 380-9085";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "D'or24k Prestige Spa Natural Skin Tightening 69.95":
+                                        upDatedSpaName = "D'or24k Prestige Spa";
+                                        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
+                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-skin-tightening-69-95";
+                                        upDatedSpaPhone = "(567) 666-4053";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 10-minute Cleansing";
+                                        upDatedDurationTwo = "- 20-minutes Natural Skin Tightening Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                        treatmentSelected = "Natural Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(971) 380-9085";
                                         insteadOfSpa = "$377";
                                         break;
