@@ -7994,7 +7994,7 @@
 
                                                 case "Senslife Boutique Skin Tightening 89.95":
                                                 upDatedSpaName = "Senslife Boutique";
-                                                upDatedSpaAddress = " Ocean Ave. 2 SE Monte Verde St, Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Portobello restaurant, On the corner of Monte Verde and ocean Avenue)";
+                                                upDatedSpaAddress = "1 SE Ocean Ave & Monteverde St., Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Meuse Gallery By SIMON BULL)";
                                                 upDatedSpaLINK = "https://forms.gle/QZ8RwTcdks9qZTJu8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-89-95";
                                                 upDatedSpaPhone = "(831) 330-8002";
