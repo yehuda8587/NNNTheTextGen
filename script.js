@@ -8008,6 +8008,22 @@
                                                 insteadOfSpa = "$377";
                                                 break;
 
+                                                case "Senslife Boutique Skin Tightening 99.95":
+                                                upDatedSpaName = "Senslife Boutique";
+                                                upDatedSpaAddress = "1 SE Ocean Ave & Monteverde St., Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Meuse Gallery By SIMON BULL)";
+                                                upDatedSpaLINK = "https://forms.gle/QZ8RwTcdks9qZTJu8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-99-95";
+                                                upDatedSpaPhone = "(831) 330-8002";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Post Care and Consultation"
+                                                promoPrice = "99.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (831) 889-2314";
+                                                treatmentSelected = "Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(831) 889-2314";
+                                                insteadOfSpa = "$377";
+                                                break;
+
                                                 case "SKT Med Spa Korean 3 in 1 Skin Tightening 79.95":
                                                 upDatedSpaName = "SKT Med Spa";
                                                 upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
@@ -8020,6 +8036,22 @@
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
                                                 treatmentSelected = "Korean 3 in 1 Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(949) 545-7129";
+                                                insteadOfSpa = "$299";
+                                                break;
+
+                                                case "SKT Med Spa 3 in 1 Natural Skin Tightening 79.95":
+                                                upDatedSpaName = "SKT Med Spa";
+                                                upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-skin-tightening-3-in-1-79-95";
+                                                upDatedSpaPhone = "(949) 200-8470";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 45 minutes KrX V-Tox application and Red Light Therapy";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
+                                                treatmentSelected = "3 in 1 Natural Skin Tightening Treatment";
                                                 newSpaPhoneNumberSelected = "(949) 545-7129";
                                                 insteadOfSpa = "$299";
                                                 break;
