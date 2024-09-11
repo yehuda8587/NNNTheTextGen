@@ -3718,6 +3718,22 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     insteadOfSpa = "$299";
                                     break;
+
+                                    case "GreenBiotics Woodfield Natural Facelift $99.95":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-natural-facelift-99-95";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes light cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$299";
+                                    break;
                                     
                                     case "Infinity Pompano Beach":
                                         upDatedSpaName = "Infinity Pompano Beach";
@@ -5125,6 +5141,22 @@
                                     treatmentSelected = "LED Treatment";
                                     newSpaPhoneNumberSelected = "(239) 234-6855";
                                     insteadOfSpa = "$299";
+                                    break;
+
+                                    case "Joli Visage Natural Skin Tightening 69.95":
+                                    upDatedSpaName = "Joli Visage Spa";
+                                    upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
+                                    upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-natural-skin-tightening-promo";
+                                    upDatedSpaPhone = "(239) 799-4212";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 10-minute Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Natural Skin Tightening with Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
+                                    treatmentSelected = "Natural Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(239) 234-6855";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Adore Edmonton LED":
