@@ -7639,6 +7639,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Be You Wellness Neck & Jawline 79.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
+                                        upDatedSpaPhone = "(289) 667-1380";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
+                                        treatmentSelected = "Neck & Jawline Treatment";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                             case "Sinfulicious LED 79.95":
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
@@ -8149,6 +8165,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(214) 713-8689";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Parie Med Spa Skin Tightening $79.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
+                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
                                     insteadOfSpa = "$377"
                                     break;
 
