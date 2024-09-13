@@ -7441,9 +7441,9 @@
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292-2530";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
                                         treatmentSelected = "Skin Tightening Treatment";
-                                        newSpaPhoneNumberSelected = "(204) 292-2530";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
                                         insteadOfSpa = "$377";
                                         break;
 
