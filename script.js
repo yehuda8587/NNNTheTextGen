@@ -2867,7 +2867,21 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    
+                                    case "Tierra Med TG Skin Tightening Treatment 79.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-tg-79-95";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
 
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
@@ -4455,8 +4469,8 @@
                                     insteadOfSpa = "$300";
                                     break;
 
-                                    case "OraSempre Montana":
-                                    upDatedSpaName = "OraSempre Montana";
+                                    case "Tesoro Mio Spa":
+                                    upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
@@ -4472,7 +4486,7 @@
                                     break;
 
                                     case "OraSempre Collagen Enhancing":
-                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
@@ -4488,7 +4502,7 @@
                                     break;
 
                                     case "OraSempre Neck and Jawline":
-                                    upDatedSpaName = "OraSempre Montana";
+                                    upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
@@ -4503,8 +4517,8 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "OraSempre Montana Natural Facelift $80":
-                                    upDatedSpaName = "OraSempre Montana";
+                                    case "Tesoro Mio Spa Natural Facelift $80":
+                                    upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-natural-facelift-treatment-promo";
@@ -7312,7 +7326,7 @@
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and Consultation"
-                                        promoPrice = "69.95";
+                                        promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
                                         treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
