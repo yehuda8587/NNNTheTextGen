@@ -4557,7 +4557,7 @@
                                     upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment"
+                                    upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                     treatmentSelected = "Skin Tightening Treatment";
