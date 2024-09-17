@@ -4549,7 +4549,7 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "Tesoro Mio Spa Skin Tightening $79.95":
+                                    case "Tesoro Mio Spa Skin Tightening 79.95":
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/UAnwX8kZKKePA1QW7";
