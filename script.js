@@ -299,6 +299,22 @@
                 insteadOfSpa = "$350"
                 break;
 
+                case "Esthetix Raleigh 3 in 1 Skin Tightening $79.95":
+                upDatedSpaName = "Esthetix Spa";
+                upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
+                upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-3-in-1-skin-tightening-promo-79-95";
+                upDatedSpaPhone = "(984) 205-6033";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 45 Minutes 3 in 1 Skin Tightening Treatment & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
+                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                newSpaPhoneNumberSelected = "(919) 900-8271";
+                insteadOfSpa = "$377"
+                break;
+
                 case "Beauty Frizz MD":
                 upDatedSpaName = "BeautyFrizz Spa";
                 upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
@@ -4485,7 +4501,7 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "OraSempre Collagen Enhancing":
+                                    case "Tesoro Mio Spa Collagen Enhancing":
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
@@ -4501,7 +4517,7 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "OraSempre Neck and Jawline":
+                                    case "Tesoro Mio Spa Neck and Jawline":
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
@@ -4531,6 +4547,22 @@
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$399";
+                                    break;
+
+                                    case "Tesoro Mio Spa Skin Tightening $79.95":
+                                    upDatedSpaName = "Tesoro Mio Spa";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = "https://forms.gle/UAnwX8kZKKePA1QW7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "GreenBiotics Pentagon":
@@ -7445,6 +7477,22 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Oasis Aesthetics Men's Skin Tightening 89.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-mens-skin-tightening-promo-89-95";
+                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Men's Skin Tightening and 15 minutes Consultation"
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Oasis Aesthetics Henderson Skin Tightening 69.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -8006,6 +8054,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Beyond The Soap 3 in 1 Skin Tightening $59.95":
+                                            upDatedSpaName = "Beyond The Soap";
+                                            upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
+                                            upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-las-olas-3-in-1-skin-tightening-promo";
+                                            upDatedSpaPhone = "(954) 908-7637";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
+                                            treatmentSelected = "3 in 1 Skin Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(786) 317-6182";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Skin So Sweet Natural Facelift $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
@@ -8162,6 +8226,22 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elevatione Spa Davie Skin Tightening $69.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-69-95" ;
+                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(954) 765-6091";
                                     insteadOfSpa = "$377"
                                     break;
