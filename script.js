@@ -7685,7 +7685,7 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Be You Wellness Neck & Jawline 79.95":
+                                        case "Be You Wellness Neck and Jawline 79.95":
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
@@ -7693,7 +7693,7 @@
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
-                                        upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and Consultation"
+                                        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                         treatmentSelected = "Neck & Jawline Treatment";
