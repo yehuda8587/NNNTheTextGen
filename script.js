@@ -4549,22 +4549,6 @@
                                     insteadOfSpa = "$399";
                                     break;
 
-                                    case "Tesoro Mio Spa Skin Tightening 79.95":
-                                    upDatedSpaName = "Tesoro Mio Spa";
-                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
-                                    upDatedSpaLINK = "https://forms.gle/UAnwX8kZKKePA1QW7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
-                                    upDatedSpaPhone = "(406) 545-3587";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minutes of Consultation";
-                                    upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(406) 885-1321";
-                                    insteadOfSpa = "$377";
-                                    break;
-
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
@@ -8275,6 +8259,22 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tesoro Mio Skin Tightening Treatment $79.95":
+                                    upDatedSpaName = "Tesoro Mio Spa";
+                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                    upDatedSpaLINK = "https://forms.gle/UAnwX8kZKKePA1QW7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(406) 885-1321";
                                     insteadOfSpa = "$377"
                                     break;
 
