@@ -7442,7 +7442,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
                                         treatmentSelected = "Oxygen and LED Treatment";
                                         newSpaPhoneNumberSelected = "(204) 306-7627";
-                                        insteadOfSpa = "$377";
+                                        insteadOfSpa = "$299";
                                         break;
 
                                         case "Oasis Aesthetics Natural Facelift 69.95":
@@ -7474,7 +7474,7 @@
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
                                         treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(204) 306-7627";
-                                        insteadOfSpa = "$377";
+                                        insteadOfSpa = "$299";
                                         break;
 
                                         case "Oasis Aesthetics Henderson Skin Tightening 69.95":
@@ -7491,6 +7491,38 @@
                                         treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(204) 691-1922";
                                         insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Men's Skin Tightening 89.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-mens-skin-tightening-promo-89-95";
+                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Oxygen Treatment 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-oxygen-treatment";
+                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Oxygen Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Oxygen Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$299";
                                         break;
 
                                         case "Lavan Med Spa LED 59.95":
