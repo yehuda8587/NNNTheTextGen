@@ -8278,6 +8278,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Oasis Boutique Skin Tightening $79.95":
+                                    upDatedSpaName = "Oasis Boutique";
+                                    upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)";
+                                    upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 960-4489";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(407) 960-4489";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                             
 
                                         
