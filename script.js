@@ -8326,6 +8326,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Moana Crystals Skin Tightening $59.95":
+                                    upDatedSpaName = "Moana Crystals";
+                                    upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                    upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-promo";
+                                    upDatedSpaPhone = "(808) 427-8404";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 382-5819";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(808) 382-5819";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                             
 
                                         
