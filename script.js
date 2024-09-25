@@ -6359,7 +6359,7 @@
                                     
                                         case "Sthetics Med Spa LED":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
