@@ -6375,7 +6375,7 @@
 
                                         case "Sthetics Med Spa Body Sculpting":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6391,7 +6391,7 @@
 
                                         case "Sthetics Med Spa Men's LED":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6407,7 +6407,7 @@
 
                                         case "Sthetics Med Spa Neck and Jawline":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6423,7 +6423,7 @@
 
                                         case "Sthetics Med Spa Body Lipo $69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6439,7 +6439,7 @@
 
                                         case "FTB Sthetics Med Spa Body Lipo $69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-body-lipo-cavitation-promo";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6455,7 +6455,7 @@
 
                                         case "Sthetics Med Spa Turkey Neck Tightening $69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-turkey-neck-tightening-treatment-promo";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6471,7 +6471,7 @@
 
                                         case "Sthetics Med Spa FTB LED 69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6487,7 +6487,7 @@
 
                                         case "Sthetics Med Spa Natural Facelift 69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-treatment";
                                         upDatedSpaPhone = "(619) 983-0069";
@@ -6503,7 +6503,7 @@
 
                                         case "DTB - Sthetics Med Spa Natural Facelift 69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
-                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-natural-facelift-69";
                                         upDatedSpaPhone = "(619) 983-0069";
