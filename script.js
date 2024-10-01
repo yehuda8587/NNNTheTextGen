@@ -8360,7 +8360,7 @@
 
                                     case "Liv Med Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Liv Med Spa";
-                                    upDatedSpaAddress = "16741 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-promo-page";
                                     upDatedSpaPhone = "(346) 771-1001";
