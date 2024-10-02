@@ -8342,6 +8342,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Oasis Boutique Skin Tightening $99.95":
+                                    upDatedSpaName = "Oasis Boutique";
+                                    upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)"+"<br>"+"(Parking is free on the street anywhere on Park Ave.)";
+                                    upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening";
+                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 960-4489";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(407) 960-4489";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Moana Crystals Skin Tightening $59.95":
                                     upDatedSpaName = "Moana Crystals";
                                     upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
