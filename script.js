@@ -6773,6 +6773,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Iridescent Wellness and Medical Spa Jawline Lifting $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-jawline-lifting-treatment";
+                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Jawline Lifting Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    treatmentSelected = "Jawline Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Spa De Solei LED":
                                         upDatedSpaName = "Spa De Solei";
                                         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
