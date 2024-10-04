@@ -5429,6 +5429,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Introstem Spokane Natural Facelift":
+                                    upDatedSpaName = "Introstem Spa";
+                                    upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
+                                    upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-spokane-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(509) 606-6110";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (509) 824-9926";
+                                    treatmentSelected = "Natural Facelift Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(509) 824-9926";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Lavelier Spokane LED":
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
