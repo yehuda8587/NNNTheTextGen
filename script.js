@@ -6604,8 +6604,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-promo-page";
                                     upDatedSpaPhone = "(512) 600-9666";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 15 minutes Cleansing and 30-minutes LED Anti-aging Treatment"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "LED Treatment";
@@ -6620,8 +6620,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-anti-aging-promo-79-95";
                                     upDatedSpaPhone = "(512) 617-0084";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 15-minutes Cleansing and 30-minutes LED Anti-aging Treatment"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "LED Treatment";
@@ -6636,8 +6636,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-skin-tightening-59-95";
                                     upDatedSpaPhone = "(512) 617-0084";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15-minute Cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"
+                                    upDatedDurationOne = "- 15-minute Consultation";
+                                    upDatedDurationTwo = "- 15-minutes Cleansing and 30-minutes Skin Tightening Treatment"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
                                     treatmentSelected = "Skin Tightening Treatment";
