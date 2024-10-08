@@ -8374,6 +8374,22 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Parie Med Spa Laser Hair Removal $89.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
+                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedDurationTotal = "30 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Laser Hair Removal";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Tesoro Mio Skin Tightening Treatment $79.95":
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
