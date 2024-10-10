@@ -8230,6 +8230,22 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Skin So Sweet 3 in 1 Lifting Facial $59.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-3-in-1-lifting-facial-treatment";
+                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Lifting Facial Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                                 case "Lift and Revive Med Spa Natural Facelift $79.95":
                                                 upDatedSpaName = "Lift and Revive Med Spa";
                                                 upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
