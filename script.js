@@ -11,6 +11,9 @@
     // Location LINK variables in text
     let locationALinkArray = document.getElementsByClassName("varLocationFormLink");
     let upDatedSpaLINK = "SELECT SPA FOR FORM LINK" 
+    // Location MAP LINK variables in text
+    let locationMapLinkArray = document.getElementsByClassName("varLocationMapLink");
+    let upDatedSpaMapLINK = "SELECT SPA FOR MAP LINK"; // New variable for map link
     // NNN Location PHONE variables in text
     let locationPhoneArray = document.getElementsByClassName("varLocationPhone");
     let upDatedSpaPhone = "SELECT SPA FOR Location Phone" 
@@ -58,6 +61,12 @@
         for (let i = 0; i < locationALinkArray.length; i++) {
             locationALinkArray[0].innerHTML = upDatedSpaLINK;
             locationALinkArray[i].innerHTML = upDatedSpaLINK; 
+                }
+
+        // LOCATION MAP LINK FORLOOP        
+        for (let i = 0; i < locationMapLinkArray.length; i++) {
+            locationMapLinkArray[0].innerHTML = upDatedSpaMapLINK;
+            locationMapLinkArray[i].innerHTML = upDatedSpaMapLINK; // Update map link
                 }
 
                 //LOCATION Phone FORLOOP
@@ -113,6 +122,7 @@
                 upDatedSpaName = "Please Select Spa Spa";
                 upDatedSpaAddress = "No Spa Selected";
                 upDatedSpaLINK = "No Spa Selected";
+                upDatedSpaMapLINK = "No Spa Selected";
                 upDatedSpaWebLINK = "No Spa Selected";
                 upDatedSpaPhone = "No Spa Selected";
                 upDatedDurationTotal = "No Spa Selected";
@@ -127,6 +137,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-spa-led-promo"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -143,6 +154,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -159,6 +171,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-collagen-enhancing-facial-promo-page"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -175,6 +188,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-skin-tightening-treatment-with-hifu-led-page"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -191,6 +205,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-mens-non-surgical-facelift-promo-page"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -207,6 +222,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-naturalfacelift-treatment-79"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -223,6 +239,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-69-95"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -239,6 +256,7 @@
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-skin-tightening-69-95"
                 upDatedSpaPhone = "(919) 321-1008";
                 upDatedDurationTotal = "60 Minutes";
@@ -255,6 +273,7 @@
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
                 upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-nc-promo";
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
@@ -271,6 +290,7 @@
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
                 upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-face-lift-promo-79-95";
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
@@ -287,6 +307,7 @@
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
                 upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-facelift-page-69-95";
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
@@ -303,6 +324,7 @@
                 upDatedSpaName = "Esthetix Spa";
                 upDatedSpaAddress = "4325 Glenwood Ave, Suit 2106, Raleigh NC 27612" +"<br>"+"(Crabtree Valley Mall, 2nd floor, next to Johnston & Murphy)";
                 upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-3-in-1-skin-tightening-promo-79-95";
                 upDatedSpaPhone = "(984) 205-6033";
                 upDatedDurationTotal = "60 Minutes";
@@ -351,6 +373,7 @@
                         upDatedSpaName = "BeautyFrizz Spa";
                         upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
                         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
                         upDatedSpaPhone = "(352) 431-2111";
                         upDatedDurationTotal = "60 Minutes";
@@ -367,6 +390,7 @@
                         upDatedSpaName = "BeautyFrizz Spa";
                         upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
                         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
                         upDatedSpaPhone = "(352) 431-2111";
                         upDatedDurationTotal = "60 Minutes";
@@ -431,6 +455,7 @@
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
                             upDatedSpaPhone = "(289) 293-9711";
                             upDatedDurationTotal = "50 Minutes";
@@ -447,6 +472,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-quapure-promo" ;
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "50 Minutes";
@@ -463,6 +489,7 @@
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
                             upDatedSpaPhone = "(289) 293-9711";
                             upDatedDurationTotal = "60 Minutes";
@@ -479,6 +506,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95";
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
@@ -495,6 +523,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-69-95" ;
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
@@ -511,6 +540,7 @@
                                 upDatedSpaName = "Kristals Burlington Spa";
                                 upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95";
                                 upDatedSpaPhone = "(289) 293-9711";
                                 upDatedDurationTotal = "60 Minutes";
@@ -527,6 +557,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-spa-led-promo-page" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -543,6 +574,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-non-surgical-facelift" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -559,6 +591,7 @@
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-turkey-neck-tightening-treatment-promo" ;
                             upDatedSpaPhone = "(289) 293-9711";
                             upDatedDurationTotal = "60 Minutes";
@@ -575,6 +608,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-neck-and-jaw-line-tightening-treatment-promo" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -591,6 +625,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-skin-tightening-promo-page" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -607,6 +642,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/barrie-natural-face-lift-promo-79-95" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -623,6 +659,7 @@
                                 upDatedSpaName = "Kristals Barrie Spa";
                                 upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-mens-skin-tightening-promo-89-95" ;
                                 upDatedSpaPhone = "(705) 408-2815";
                                 upDatedDurationTotal = "60 Minutes";
@@ -639,6 +676,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -655,6 +693,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -671,6 +710,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -687,6 +727,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -703,6 +744,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -719,6 +761,7 @@
                                     upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
                                     upDatedSpaPhone = "(705) 408-0758";
                                     upDatedDurationTotal = "60 Minutes";
@@ -735,6 +778,7 @@
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(437) 253-8259";
                                     upDatedDurationTotal = "50 Minutes";
@@ -751,6 +795,7 @@
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(1st floor, between Erin Mills Photo & Bluenotes)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-anti-aging-aquapure-experience-promo-page" ;
                                     upDatedSpaPhone = "(437) 253-8259";
                                     upDatedDurationTotal = "60 Minutes";
@@ -767,6 +812,7 @@
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-neck-and-jaw-line-tightening-treatment-promo" ;
                                     upDatedSpaPhone = "(437) 253-8259";
                                     upDatedDurationTotal = "60 Minutes";
@@ -783,6 +829,7 @@
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-turkey-neck-tightening-treatment-promo" ;
                                     upDatedSpaPhone = "(437) 253-8259";
                                     upDatedDurationTotal = "60 Minutes";
@@ -799,6 +846,7 @@
                                         upDatedSpaName = "Kristals Erin Mills spa";
                                         upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                         upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-page-79-95" ;
                                         upDatedSpaPhone = "(437) 253-8259";
                                         upDatedDurationTotal = "60 Minutes";
@@ -815,6 +863,7 @@
                                         upDatedSpaName = "Kristals Erin Mills spa";
                                         upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                         upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-69-95" ;
                                         upDatedSpaPhone = "(437) 253-8259";
                                         upDatedDurationTotal = "60 Minutes";
@@ -826,9 +875,6 @@
                                         newSpaPhoneNumberSelected = "(647) 277-5122";
                                         insteadOfSpa = "$377"
                                         break;
-
-                                    
-                    
         
                                         case "GreenBiotics Sherway Gardens":
                                             upDatedSpaName = "GreenBiotics";
@@ -915,6 +961,7 @@
                                                                     upDatedSpaName = "Supreme Spa";
                                                                     upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
                                                                     upDatedSpaPhone = "(714) 592-0373";
                                                                     upDatedDurationTotal = "90 Minutes";
@@ -931,6 +978,7 @@
                                                                     upDatedSpaName = "Supreme Spa";
                                                                     upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
                                                                     upDatedSpaPhone = "(714) 592-0373";
                                                                     upDatedDurationTotal = "90 Minutes";
@@ -947,6 +995,7 @@
                                                                     upDatedSpaName = "Supreme Spa";
                                                                     upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
                                                                     upDatedSpaPhone = "(714) 592-0373";
                                                                     upDatedDurationTotal = "90 Minutes";
@@ -1013,6 +1062,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-skin-tightening-promo-page" ;
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1029,6 +1079,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-collagen-lifting-experience-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1045,6 +1096,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-non-surgical-face-lift-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1061,6 +1113,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-anti-aging-led-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1077,6 +1130,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1093,6 +1147,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevetione-bodysculpting-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1109,6 +1164,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-non-surgical-face-lift-experience-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1125,6 +1181,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-microdermabrasion-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1141,6 +1198,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-rf-facial-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1157,6 +1215,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-antiaging-mesotherapy-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1173,6 +1232,7 @@
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-hydraglow-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1189,6 +1249,7 @@
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-boosting-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1205,6 +1266,7 @@
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1221,6 +1283,7 @@
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-gold-collagen-facial-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1237,6 +1300,7 @@
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-microneedling-treatment-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1253,6 +1317,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-body-sculpting";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1269,6 +1334,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1285,6 +1351,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-h2o-oxygen-facial-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1301,6 +1368,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-mesotherapy-facial-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1317,6 +1385,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-elevatione-spa-led-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1333,6 +1402,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1349,6 +1419,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-new-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1365,6 +1436,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-mens-body-sculpting-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1381,6 +1453,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1397,6 +1470,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1413,6 +1487,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-sagging-neck-rescue-treatment-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1429,6 +1504,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-pumpkin-mask-treatment";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1445,6 +1521,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1461,6 +1538,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-natural-facelift-69-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1477,6 +1555,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-59-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1493,6 +1572,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-collagen-restoration-promo-page";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1509,6 +1589,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-skin-tightening-treatment-69-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1525,6 +1606,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-skin-tightening-69-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1541,6 +1623,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-3in1-skin-lifting-59";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1557,6 +1640,7 @@
                                         upDatedSpaName = "Elevatione Spa & Beauty";
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-3-in-1-skin-lifting-treatment-69-95";
                                     upDatedSpaPhone = "(561) 337-1669";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1734,6 +1818,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1750,6 +1835,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-neck-and-jaw-line-tightening-treatment-promo ";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1766,6 +1852,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1782,6 +1869,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1798,6 +1886,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-mens-led-promo-page";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1814,6 +1903,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(250) 410-3324";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1830,6 +1920,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1846,6 +1937,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1862,6 +1954,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-neck-and-jaw-line-tightening-treatment-promo ";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1878,6 +1971,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1894,6 +1988,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-mens-led-promo-page";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1910,6 +2005,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-sagging-neck-rescue-treatment-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1926,6 +2022,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1942,6 +2039,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-skin-tightening-69-95";
                                     upDatedSpaPhone = "(250) 384-2980";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1959,6 +2057,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1975,6 +2074,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -1991,6 +2091,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2007,6 +2108,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2023,6 +2125,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-79-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2039,6 +2142,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2055,6 +2159,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2071,6 +2176,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-sagging-neck-rescue-treatment-promo ";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2087,6 +2193,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2103,6 +2210,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2119,6 +2227,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2135,6 +2244,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2151,6 +2261,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2167,6 +2278,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2183,6 +2295,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-skin-tightening";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2199,6 +2312,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-skin-tightening-tg";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2231,6 +2345,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-redding-promo-page";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2247,6 +2362,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2263,6 +2379,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-neck-and-jawline-treatment";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2279,6 +2396,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-redding-natural-facelift-treatment-69-95";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2295,6 +2413,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-collagen-enhancing-89-95";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2311,6 +2430,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-skin-tightening-89-95";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2327,6 +2447,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "900 Dana Dr Redding, CA 96003"+"<br>"+"(Mt. Shasta Mall, next to Auntie Anne's)";
                                     upDatedSpaLINK = "https://forms.gle/Eqg9xCBYDHTLCcz16";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hcevL11qy71asiiD6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-redding-skin-tightening-79-95";
                                     upDatedSpaPhone = "(530) 250-4950";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2343,6 +2464,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-led-promo";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2359,6 +2481,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2375,6 +2498,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-neck-and-jawline-treatment";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2391,6 +2515,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-medford-natural-facelift-treatment-69-95";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2424,6 +2549,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-natural-facelift-99-95";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2440,6 +2566,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-skin-tightening-99-95";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2456,6 +2583,7 @@
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
                                     upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-skin-tightening-79-95";
                                     upDatedSpaPhone = "(541) 512-7170";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2488,6 +2616,7 @@
                                         upDatedSpaName = "Pearl De Flore Spa";
                                     upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
                                     upDatedSpaPhone = "(706) 434-8750";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2504,6 +2633,7 @@
                                         upDatedSpaName = "Pearl De Flore Spa";
                                     upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearl-de-flore-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(706) 434-8750";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2520,6 +2650,7 @@
                                         upDatedSpaName = "Pearl De Flore Spa";
                                     upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor next to the Edge store in front of the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95";
                                     upDatedSpaPhone = "(706) 434-8750";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2584,6 +2715,7 @@
                                         upDatedSpaName = "Premier Spa";
                                     upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iuVMVBTF2NhGtsDN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premierpen-spa-ledpromo";
                                     upDatedSpaPhone = "(448) 400-2095";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2600,6 +2732,7 @@
                                         upDatedSpaName = "Premier Spa";
                                     upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iuVMVBTF2NhGtsDN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premier-pensacola-reverse-turkey-neck-treatment-promo ";
                                     upDatedSpaPhone = "(448) 400-2095";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2616,6 +2749,7 @@
                                         upDatedSpaName = "Premier Spa";
                                     upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iuVMVBTF2NhGtsDN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/premier-pensacola-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(448) 400-2095";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2632,6 +2766,7 @@
                                         upDatedSpaName = "Premier Spa";
                                     upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iuVMVBTF2NhGtsDN7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/premier-pensacola-natural-skin-tightening-79-95";
                                     upDatedSpaPhone = "(448) 400-2095";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2680,6 +2815,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydration-aquapure-promo";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
@@ -2696,6 +2832,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-tierramed-aquapure-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
@@ -2712,6 +2849,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-ledpromo";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "50 Minutes";
@@ -2728,6 +2866,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-gold-collagen-facial-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2744,6 +2883,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-red-carpet-collagen-facial-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2760,6 +2900,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hydraglow-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2776,6 +2917,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-non-surgical-lifting-facial-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2792,6 +2934,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-collagen-enhancing-facial-with-led-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2808,6 +2951,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-medspa-mens-led-promo-page";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2824,6 +2968,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2840,6 +2985,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-treatment";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2856,6 +3002,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2872,6 +3019,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-69-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2888,6 +3036,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-oxygen-anti-aging-treatment";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2904,6 +3053,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-79-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2920,6 +3070,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-mens-skin-tightening-promo-89-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2936,6 +3087,7 @@
                                         upDatedSpaName = "Tierra Med Spa";
                                     upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-tg-79-95";
                                     upDatedSpaPhone = "(647) 476-2808";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3338,6 +3490,7 @@
                                                             upDatedSpaName = "Beyond The Spa";
                                                             upDatedSpaAddress = "Dadeland Mall," + "<br>" + "7535 N Kendall Dr, Miami, FL 33156" + "<br>" + "(Lower level, Between Cotton On & A Sneaker City)";
                                                             upDatedSpaLINK = "https://forms.gle/YqnpipYTp8uUPTERA";
+                                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/yAoJZmVHo5KjfMG68";
                                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-spa-ledpromo";
                                                             upDatedSpaPhone = "(786) 589-7009";
                                                             upDatedDurationTotal = "45 Minutes";
@@ -3354,6 +3507,7 @@
                                                             upDatedSpaName = "Beyond The Spa";
                                                             upDatedSpaAddress = "Dadeland Mall," + "<br>" + "7535 N Kendall Dr, Miami, FL 33156" + "<br>" + "(Lower level, Between Cotton On & A Sneaker City)";
                                                             upDatedSpaLINK = "https://forms.gle/YqnpipYTp8uUPTERA";
+                                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/yAoJZmVHo5KjfMG68";
                                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/beyond-the-spa-natural-facelift-page";
                                                             upDatedSpaPhone = "(786) 589-6927";
                                                             upDatedDurationTotal = "45 Minutes";
@@ -3386,6 +3540,7 @@
                                     upDatedSpaName = "Gentle Touch Beauty";
                                     upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3402,6 +3557,7 @@
                                     upDatedSpaName = "Gentle Touch Beauty";
                                     upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-new-promo-page" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3418,6 +3574,7 @@
                                     upDatedSpaName = "Gentle Touch Beauty";
                                     upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-promo" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3434,6 +3591,7 @@
                                     upDatedSpaName = "Gentle Touch Beauty";
                                     upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-99-95" ;
                                     upDatedSpaPhone = "(941) 840-5993";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3450,6 +3608,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3466,6 +3625,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3482,6 +3642,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3498,6 +3659,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3514,6 +3676,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3530,6 +3693,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-neck-jawline-tightening" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3546,6 +3710,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3562,6 +3727,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3578,6 +3744,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3594,6 +3761,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3610,6 +3778,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-new-mens-led-treatment-promo-page" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3626,6 +3795,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-treatment-59-95" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3642,6 +3812,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-led-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3658,6 +3829,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-skin-tightening-promo" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3674,6 +3846,7 @@
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-treatment" ;
                                     upDatedSpaPhone = "(626) 381-9054";
                                     upDatedDurationTotal = "60 Minutes";
@@ -3754,6 +3927,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "45 Minutes";
@@ -3770,6 +3944,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "45 Minutes";
@@ -3786,6 +3961,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-il-new-promo-page";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "45 Minutes";
@@ -3802,6 +3978,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-natural-face-lift-promo-79-95";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "45 Minutes";
@@ -3818,6 +3995,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
                                     upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-natural-facelift-99-95";
                                     upDatedSpaPhone = "(847) 792-1710";
                                     upDatedDurationTotal = "45 Minutes";
@@ -4394,6 +4572,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4410,6 +4589,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-new-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4426,6 +4606,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-mens-led-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4442,6 +4623,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4458,6 +4640,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-turkey-neck-tightening-treatment-promo ";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4474,6 +4657,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-gurnee-promo-page";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4490,6 +4674,7 @@
                                     upDatedSpaName = "Vivorelle";
                                     upDatedSpaAddress = "Gurnee Mills Mall,"+"<br>"+"6170 W Grand Ave Gurnee IL, 60031"+"<br>"+"(BEST ENTRANCE - Entry E, First Floor, across from Bass Pro Shops)";
                                     upDatedSpaLINK = "https://forms.gle/aPZNTsG6Sf4z2Ry49";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QC3f574tU2zxmV7t6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/vivorelle-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(224) 955-2828";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4554,6 +4739,7 @@
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
                                     upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4570,6 +4756,7 @@
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
                                     upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4586,6 +4773,7 @@
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4602,6 +4790,7 @@
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(406) 545-3587";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4614,10 +4803,28 @@
                                     insteadOfSpa = "$399";
                                     break;
 
+                                    case "Tesoro Mio Skin Tightening Treatment $79.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
+                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/D3yReWf2D6XabvhXA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon";
                                     upDatedSpaPhone = "(571) 695-2525";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4634,6 +4841,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/D3yReWf2D6XabvhXA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-pentagon-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(571) 695-2525";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4650,6 +4858,7 @@
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/FAS5vjGwbH7hWuJq5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/D3yReWf2D6XabvhXA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/greenbiotics-pentagon-natural-facelift-79-95";
                                     upDatedSpaPhone = "(571) 695-2525";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4970,6 +5179,7 @@
                                     upDatedSpaName = "Rilassare Spa";
                                     upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
                                     upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/nu3yKQAzNnk4D8yX8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-spa-promo-page";
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
@@ -4986,6 +5196,7 @@
                                     upDatedSpaName = "Rilassare Spa";
                                     upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
                                     upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/nu3yKQAzNnk4D8yX8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/rilassare-led-promo";
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5002,6 +5213,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-promo-page";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5018,6 +5230,7 @@
                                     upDatedSpaName = "Rilassare Spa";
                                     upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
                                     upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-natural-facelift-79-95";
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5034,6 +5247,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-esthetix-st-augustine-promo-page";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5050,6 +5264,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-mens-led-promo-page";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5066,6 +5281,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-neck-and-jawline-treatment-page";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5082,6 +5298,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-reverse-turkey-neck-promo";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5098,6 +5315,7 @@
                                         upDatedSpaName = "Esthetix Spa";
                                         upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                         upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-staugustine-led-promo";
                                         upDatedSpaPhone = "(904) 368-6923";
                                         upDatedDurationTotal = "60 Minutes";
@@ -5114,6 +5332,7 @@
                                             upDatedSpaName = "Esthetix Spa";
                                             upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                             upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-esthetix-st-augustine-natural-facelift-69-95";
                                             upDatedSpaPhone = "(904) 368-6923";
                                             upDatedDurationTotal = "60 Minutes";
@@ -5130,6 +5349,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-st-augustine-collagen-enhancement-69-95";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5146,6 +5366,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-skin-tightening-69-95";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5162,6 +5383,7 @@
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                     upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-skin-tightening-59-95";
                                     upDatedSpaPhone = "(904) 368-6923";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5178,6 +5400,7 @@
                                             upDatedSpaName = "Esthetix Spa";
                                             upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                             upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-face-amp-neck-tightening-facial-69-95";
                                             upDatedSpaPhone = "(904) 368-6923";
                                             upDatedDurationTotal = "60 Minutes";
@@ -5194,6 +5417,7 @@
                                             upDatedSpaName = "Esthetix Spa";
                                             upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                             upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-body-contouring-79-95";
                                             upDatedSpaPhone = "(904) 368-6923";
                                             upDatedDurationTotal = "60 Minutes";
@@ -5210,6 +5434,7 @@
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
                                     upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/joli-visage-spa-led-promo";
                                     upDatedSpaPhone = "(239) 963-4469";
                                     upDatedDurationTotal = "45 Minutes";
@@ -5226,6 +5451,7 @@
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
                                     upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-new-promo-page";
                                     upDatedSpaPhone = "(239) 963-4469";
                                     upDatedDurationTotal = "45 Minutes";
@@ -5242,6 +5468,7 @@
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
                                     upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-natural-skin-tightening-promo";
                                     upDatedSpaPhone = "(239) 799-4212";
                                     upDatedDurationTotal = "45 Minutes";
@@ -5258,6 +5485,7 @@
                                     upDatedSpaName = "Adore";
                                     upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5274,6 +5502,7 @@
                                     upDatedSpaName = "Adore";
                                     upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5290,6 +5519,7 @@
                                     upDatedSpaName = "Adore";
                                     upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-skin-tightening-promo-page";
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5306,6 +5536,7 @@
                                     upDatedSpaName = "Adore";
                                     upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-face-lift-promo-79-95";
                                     upDatedSpaPhone = "(587) 442-4900";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5434,6 +5665,7 @@
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
                                     upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/GfHAAH2aksfP4uJB9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-promo-page";
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5450,6 +5682,7 @@
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
                                     upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/GfHAAH2aksfP4uJB9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-introstem-spokane-led-promo-page";
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5466,6 +5699,7 @@
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
                                     upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/GfHAAH2aksfP4uJB9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-spokane-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5482,6 +5716,7 @@
                                     upDatedSpaName = "Introstem Spa";
                                     upDatedSpaAddress = "NorthTown Mall"+"<br>"+"4750 N Division St, Spokane, WA. 99207"+"<br>"+"(First Floor, in front of Torrid)";
                                     upDatedSpaLINK = "https://forms.gle/Szqy67sxVYiWX3sQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/GfHAAH2aksfP4uJB9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-spokane-natural-facelift-79-95";
                                     upDatedSpaPhone = "(509) 606-6110";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5498,6 +5733,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
                                     upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AaJE2QjENvPuZ6p46";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-promo-page";
                                     upDatedSpaPhone = "(509) 508-4214";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5514,6 +5750,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
                                     upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AaJE2QjENvPuZ6p46";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/lavelier-spokane-led-promo";
                                     upDatedSpaPhone = "(509) 508-4214";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5530,6 +5767,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Spokane Valley Mall,"+"<br>"+"14700 E Indiana Ave, Spokane, WA. 99216"+"<br>"+"(Unit 1150, First Floor, next to Victoria Secret)";
                                     upDatedSpaLINK = "https://forms.gle/4g8M9UygaSjWZVkd9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AaJE2QjENvPuZ6p46";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-spokane-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(509) 508-4214";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5930,6 +6168,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
                                     upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NraJMdEWhV2oxN1t8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-promo-page";
                                     upDatedSpaPhone = "(430) 288-5519";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5946,6 +6185,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
                                     upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NraJMdEWhV2oxN1t8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(430) 288-5519";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5962,6 +6202,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Longview Mall,"+"<br>"+"3500 McCann Rd, Longview, TX 75605"+"<br>"+"(STE F01, First floor next to JCPenney)";
                                     upDatedSpaLINK = "https://forms.gle/R9fcAUEfE5MJciwz5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NraJMdEWhV2oxN1t8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-longview-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(430) 288-5519";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5978,6 +6219,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5994,6 +6236,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-reverse-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6010,6 +6253,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6026,6 +6270,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6042,6 +6287,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-89-95";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6058,6 +6304,7 @@
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-natural-skin-tightening-treatment-99-95";
                                     upDatedSpaPhone = "(916) 249-8700";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6378,6 +6625,7 @@
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
                                         upDatedSpaPhone = "(567) 298-4583";
                                         upDatedDurationTotal = "45 Minutes";
@@ -6394,6 +6642,7 @@
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-prestige-led-promo";
                                         upDatedSpaPhone = "(567) 298-4583";
                                         upDatedDurationTotal = "45 Minutes";
@@ -6410,6 +6659,7 @@
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-facelift-treatment-69-95";
                                         upDatedSpaPhone = "(567) 298-4583";
                                         upDatedDurationTotal = "45 Minutes";
@@ -6426,6 +6676,7 @@
                                         upDatedSpaName = "D'or24k Prestige Spa";
                                         upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
                                         upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-skin-tightening-69-95";
                                         upDatedSpaPhone = "(567) 666-4053";
                                         upDatedDurationTotal = "45 Minutes";
@@ -6442,6 +6693,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6458,6 +6710,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6474,6 +6727,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6490,6 +6744,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6506,6 +6761,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6522,6 +6778,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-body-lipo-cavitation-promo";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6538,6 +6795,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-turkey-neck-tightening-treatment-promo";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6554,6 +6812,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo-page";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6570,6 +6829,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-treatment";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6586,6 +6846,7 @@
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-natural-facelift-69";
                                         upDatedSpaPhone = "(619) 983-0069";
                                         upDatedDurationTotal = "60 Minutes";
@@ -6602,6 +6863,7 @@
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
                                     upDatedSpaLINK = "https://forms.gle/REouLcpGxFGhpsQC9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/9E3SqVv3fZeoiDaH9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-tyler-promo-page";
                                     upDatedSpaPhone = "(430) 562-9946";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6618,6 +6880,7 @@
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "Broad Way Square,"+"<br>"+"4601 S Broadway Ave. Tyler, TX 75703"+"<br>"+"(Unit C12, In front of Victoria's Secret)";
                                     upDatedSpaLINK = "https://forms.gle/REouLcpGxFGhpsQC9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/9E3SqVv3fZeoiDaH9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/introstem-tyler-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(430) 562-9946";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6634,6 +6897,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-promo-page";
                                     upDatedSpaPhone = "(512) 600-9666";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6650,6 +6914,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-anti-aging-promo-79-95";
                                     upDatedSpaPhone = "(512) 617-0084";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6666,6 +6931,7 @@
                                     upDatedSpaName = "Lavelier";
                                     upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-skin-tightening-59-95";
                                     upDatedSpaPhone = "(512) 617-0084";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6682,6 +6948,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6698,6 +6965,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6714,6 +6982,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-sagging-neck-rescue-treatment-promo";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6730,6 +6999,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-new-promo-page";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6746,6 +7016,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6762,6 +7033,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-treatment-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6778,6 +7050,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6794,6 +7067,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-promo-79-95";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6810,6 +7084,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-iridescent-med-spa-natural-facelift-79";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -6826,6 +7101,7 @@
                                     upDatedSpaName = "Iridescent Wellness and Medical Spa";
                                     upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-jawline-lifting-treatment";
                                     upDatedSpaPhone = "(586) 981-1850";
                                     upDatedDurationTotal = "60 Minutes";
@@ -7242,6 +7518,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7258,6 +7535,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7274,6 +7552,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-skin-tightening-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7290,6 +7569,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7306,6 +7586,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-collagen-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7322,6 +7603,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-medspa-mens-led-promo-page";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7338,6 +7620,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-sagging-neck-rescue-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7354,6 +7637,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-hifu-amp-led-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7370,6 +7654,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-promo";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7386,6 +7671,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-59-95";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7402,6 +7688,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-malka-med-spa-natural-facelift-treatment-59";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7418,6 +7705,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-natural-facelift-treatment-69-95";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7434,6 +7722,7 @@
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-3-in-1-skin-tightening-treatment-79-95";
                                         upDatedSpaPhone = "(469) 487-7573";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7514,6 +7803,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-promo-page";
                                         upDatedSpaPhone = "(204) 977-1545";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7530,6 +7820,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oxygen-treatment-oasis-med-spa";
                                         upDatedSpaPhone = "(204) 977-1545";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7546,6 +7837,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-natural-face-lift-promo-69-95";
                                         upDatedSpaPhone = "(204) 977-1545";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7562,6 +7854,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-mens-skin-tightening-promo-89-95";
                                         upDatedSpaPhone = "(204) 977-1545";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7578,6 +7871,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-skin-tightening-69-95";
                                         upDatedSpaPhone = "(204) 975-7971";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7594,6 +7888,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-mens-skin-tightening-promo-89-95";
                                         upDatedSpaPhone = "(204) 975-7971";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7610,6 +7905,7 @@
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-oxygen-treatment";
                                         upDatedSpaPhone = "(204) 975-7971";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7626,6 +7922,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-promo-page";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7642,6 +7939,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-new-promo-page";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7658,6 +7956,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7674,6 +7973,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-cryo-body-contouring";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7690,6 +7990,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-natural-facelift-treatment-promo";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7706,6 +8007,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-lavan-natural-face-lift-promo-59-95";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7722,6 +8024,7 @@
                                         upDatedSpaName = "Lavan Med Spa";
                                         upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-skin-tightening-59-95";
                                         upDatedSpaPhone = "(480) 863-3599";
                                         upDatedDurationTotal = "60 Minutes";
@@ -7738,6 +8041,7 @@
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -7754,6 +8058,7 @@
                                             upDatedSpaName = "Be You";
                                             upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                             upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
                                             upDatedSpaPhone = "(289) 667-1380";
                                             upDatedDurationTotal = "45 Minutes";
@@ -7770,6 +8075,7 @@
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-natural-facelift-treatment";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -7786,6 +8092,7 @@
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -7802,6 +8109,7 @@
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-skin-tightening-treatment";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -7818,6 +8126,7 @@
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
@@ -7834,6 +8143,7 @@
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo";
                                             upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
@@ -7850,6 +8160,7 @@
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-new-led-promo-page";
                                             upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
@@ -7866,6 +8177,7 @@
                                             upDatedSpaName = "Sinfulicious";
                                             upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                             upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sinfulicious-led-promo-page";
                                             upDatedSpaPhone = "(760) 406-4407";
                                             upDatedDurationTotal = "45 Minutes";
@@ -7979,6 +8291,7 @@
                                             upDatedSpaName = "Predire Paris";
                                             upDatedSpaAddress = "Freehold Raceway Mall,"+"<br>"+"3710 US-9 Space #C116 Freehold, NJ 07728"+"<br>"+"(First Floor in front of Victoria's Secret)"+"<br>"+"Park Near the Main Entrance";
                                             upDatedSpaLINK = "https://forms.gle/BVyHXmrRBWiYzUGq7";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/Kc7XWfHot6rjLcMEA";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-paris-promo-page";
                                             upDatedSpaPhone = "(732) 790-5966";
                                             upDatedDurationTotal = "60 Minutes";
@@ -7995,6 +8308,7 @@
                                             upDatedSpaName = "Predire Paris";
                                             upDatedSpaAddress = "Freehold Raceway Mall,"+"<br>"+"3710 US-9 Space #C116 Freehold, NJ 07728"+"<br>"+"(First Floor in front of Victoria's Secret)"+"<br>"+"Park Near the Main Entrance";
                                             upDatedSpaLINK = "https://forms.gle/BVyHXmrRBWiYzUGq7";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/Kc7XWfHot6rjLcMEA";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/predire-paris-natural-facelift-treatment-79-95";
                                             upDatedSpaPhone = "(732) 790-5966";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8011,6 +8325,7 @@
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8027,6 +8342,7 @@
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-mens-natural-face-lift-promo-89-95";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8043,6 +8359,7 @@
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-79";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8059,6 +8376,7 @@
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8075,6 +8393,7 @@
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-alabama-med-spa-natural-facelift-treatment-69";
                                             upDatedSpaPhone = "(713) 574-6718";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8139,6 +8458,7 @@
                                             upDatedSpaName = "GreenBiotics";
                                             upDatedSpaAddress = "Ross Park Mall,"+"<br>"+"1000 Ross Park Mall Dr. Pittsburgh PA 15237"+"<br>"+"(Unit K14, Second floor next Macy’s)";
                                             upDatedSpaLINK = " ";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/PA56BDhD9Kogmfk77";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
                                             upDatedSpaPhone = "(412) 420-6848";
                                             upDatedDurationTotal = "45 Minutes";
@@ -8155,6 +8475,7 @@
                                             upDatedSpaName = "Beyond The Soap";
                                             upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
                                             upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-natural-facelift";
                                             upDatedSpaPhone = "(954) 908-7637";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8171,6 +8492,7 @@
                                             upDatedSpaName = "Beyond The Soap";
                                             upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
                                             upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-las-olas-3-in-1-skin-tightening-promo";
                                             upDatedSpaPhone = "(954) 908-7637";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8187,6 +8509,7 @@
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
                                             upDatedSpaPhone = "(714) 617-1806";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8203,6 +8526,7 @@
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
                                             upDatedSpaPhone = "(714) 617-1806";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8219,6 +8543,7 @@
                                                 upDatedSpaName = "Skin So Sweet";
                                                 upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
                                                 upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-skin-so-sweet-natural-facelift-page-59-95";
                                                 upDatedSpaPhone = "(714) 617-1806";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8235,6 +8560,7 @@
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mens-led-anti-aging-promo-79-95";
                                             upDatedSpaPhone = "(714) 617-1806";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8251,6 +8577,7 @@
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-3-in-1-lifting-facial-treatment";
                                             upDatedSpaPhone = "(714) 617-1806";
                                             upDatedDurationTotal = "60 Minutes";
@@ -8267,6 +8594,7 @@
                                                 upDatedSpaName = "Lift and Revive Med Spa";
                                                 upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
                                                 upDatedSpaLINK = "https://forms.gle/5N6x5tGFyvQJ6TNe7";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1FwGATeREUUWLXUJ8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lift-n-revive-med-spa-natural-facelift-79-95";
                                                 upDatedSpaPhone = "(210) 512-4944";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8283,6 +8611,7 @@
                                                 upDatedSpaName = "Senslife Boutique";
                                                 upDatedSpaAddress = "1 SE Ocean Ave & Monteverde St., Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Meuse Gallery By SIMON BULL)";
                                                 upDatedSpaLINK = "https://forms.gle/QZ8RwTcdks9qZTJu8";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/nsM8FrnrDFHjbbhx8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-89-95";
                                                 upDatedSpaPhone = "(831) 330-8002";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8299,6 +8628,7 @@
                                                 upDatedSpaName = "Senslife Boutique";
                                                 upDatedSpaAddress = "1 SE Ocean Ave & Monteverde St., Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Meuse Gallery By SIMON BULL)";
                                                 upDatedSpaLINK = "https://forms.gle/QZ8RwTcdks9qZTJu8";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/nsM8FrnrDFHjbbhx8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-99-95";
                                                 upDatedSpaPhone = "(831) 330-8002";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8313,8 +8643,9 @@
 
                                                 case "SKT Med Spa Korean 3 in 1 Skin Tightening 79.95":
                                                 upDatedSpaName = "SKT Med Spa";
-                                                upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaAddress = "542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
                                                 upDatedSpaPhone = "(949) 200-8470";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8331,6 +8662,7 @@
                                                 upDatedSpaName = "SKT Med Spa";
                                                 upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-skin-tightening-3-in-1-79-95";
                                                 upDatedSpaPhone = "(949) 200-8470";
                                                 upDatedDurationTotal = "60 Minutes";
@@ -8347,6 +8679,7 @@
                                     upDatedSpaName = "Elevatione Spa Davie";
                                     upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-skin-tightening-59-95" ;
                                     upDatedSpaPhone = "(754) 315-5567";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8363,6 +8696,7 @@
                                     upDatedSpaName = "Elevatione Spa Davie";
                                     upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-69-95" ;
                                     upDatedSpaPhone = "(754) 315-5567";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8379,6 +8713,7 @@
                                     upDatedSpaName = "Soap Tree";
                                     upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)";
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-promo-79" ;
                                     upDatedSpaPhone = "(817) 768-9858";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8395,6 +8730,7 @@
                                     upDatedSpaName = "Soap Tree";
                                     upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)";
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-skin-tightening-promo" ;
                                     upDatedSpaPhone = "(817) 768-9858";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8411,6 +8747,7 @@
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
                                     upDatedSpaPhone = "(702) 673-1911";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8427,9 +8764,10 @@
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
                                     upDatedSpaPhone = "(702) 673-1911";
-                                    upDatedDurationTotal = "30 Minutes";
+                                    upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
                                     promoPrice = "89.95";
@@ -8439,26 +8777,11 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Tesoro Mio Skin Tightening Treatment $79.95":
-                                    upDatedSpaName = "Tesoro Mio Spa";
-                                    upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
-                                    upDatedSpaLINK = "https://forms.gle/UAnwX8kZKKePA1QW7";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
-                                    upDatedSpaPhone = "(406) 545-3587";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
-                                    treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(406) 885-1321";
-                                    insteadOfSpa = "$377"
-                                    break;
-
                                     case "Oasis Boutique Skin Tightening $79.95":
                                     upDatedSpaName = "Oasis Boutique";
                                     upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)"+"<br>"+"(Parking is free on the street anywhere on Park Ave.)";
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening-treatment";
                                     upDatedSpaPhone = "(689) 303-3162";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8475,6 +8798,7 @@
                                     upDatedSpaName = "Oasis Boutique";
                                     upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)"+"<br>"+"(Parking is free on the street anywhere on Park Ave.)";
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-natural-facelift-promo";
                                     upDatedSpaPhone = "(689) 303-3162";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8491,6 +8815,7 @@
                                     upDatedSpaName = "Oasis Boutique";
                                     upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)"+"<br>"+"(Parking is free on the street anywhere on Park Ave.)";
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening";
                                     upDatedSpaPhone = "(689) 303-3162";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8507,6 +8832,7 @@
                                     upDatedSpaName = "Moana Crystals";
                                     upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                     upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-promo";
                                     upDatedSpaPhone = "(808) 427-8404";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8523,6 +8849,7 @@
                                     upDatedSpaName = "Liv Med Spa";
                                     upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-promo-page";
                                     upDatedSpaPhone = "(346) 771-1001";
                                     upDatedDurationTotal = "60 Minutes";
@@ -8598,6 +8925,12 @@
         let aptTime = document.getElementById("aptTime").value;
         let aptTimeAmPm = document.getElementById("aptTimeAmPm").value;
         //  let treatmentSelected = document.getElementById("chooseTreatment").value;
+      
+        //GOOGLE MAP LINK
+        let mapLinkArray = document.getElementsByClassName("varLocationMapLink");
+        for (var i = 0; i < mapLinkArray.length; i++) {
+        mapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
+}
 
         // CUSTOMER NAME LOOP
         for(var i = 0; i < custNameArray.length; i++){
