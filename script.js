@@ -2403,6 +2403,23 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "Stem Spa Medford Natural Facelift 79.95":
+                                        upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/i31mW8VGjLkNJm5v5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-medford-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(541) 512-7170";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes of Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift treatment & 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 401-4148";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(971) 401-4148";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Stem Spa Medford Natural Facelift 99.95":
                                         upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1600 N Riverside Ave , Medford, OR , 97501"+"<br>"+"(Rogue Valley Mall, 1st floor, in front of American Eagle)";
