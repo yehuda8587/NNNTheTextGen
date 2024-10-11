@@ -5230,7 +5230,7 @@
                                     upDatedSpaName = "Rilassare Spa";
                                     upDatedSpaAddress = "Galleria at Sunset Mall,"+"<br>"+"1300 W Sunset Rd, Unit 1237, Henderson, NV 89014"+"<br>"+"(First floor next to Forever 21)";
                                     upDatedSpaLINK = "https://forms.gle/hcJkZsBfyxRL7Brg6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/nu3yKQAzNnk4D8yX8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/rilassare-natural-facelift-79-95";
                                     upDatedSpaPhone = "(725) 710-2050";
                                     upDatedDurationTotal = "60 Minutes";
