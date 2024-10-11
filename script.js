@@ -2057,7 +2057,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2074,7 +2074,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2091,7 +2091,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2108,7 +2108,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2125,7 +2125,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-79-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2142,7 +2142,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2159,7 +2159,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2176,7 +2176,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-sagging-neck-rescue-treatment-promo ";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2193,7 +2193,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2210,7 +2210,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2227,7 +2227,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2244,7 +2244,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2261,7 +2261,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2278,7 +2278,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2295,7 +2295,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-skin-tightening";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
@@ -2312,7 +2312,7 @@
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5zbd3Q54o5FBC5Dg7";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-skin-tightening-tg";
                                     upDatedSpaPhone = "(778) 262-1606";
                                     upDatedDurationTotal = "60 Minutes";
