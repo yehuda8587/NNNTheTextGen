@@ -2702,6 +2702,7 @@
                 <label for="empName"></label>
                 <select name="empName" id="empName">
                   <option value="Account Manager">Account Manager</option>
+                                    <option value="Account Manager">Account Manager</option>
                   <option value="Aby">Aby</option>
                   <option value="Christina">Christina</option>
                   <option value="Matthew">MATT</option>
@@ -3172,27 +3173,27 @@
 
                   <!--  -->
                   <div class="accordion-item">
-                    <h2 class="accordion-header" id="flush-headingLink">
-                      <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseLink" aria-expanded="false" aria-controls="flush-collapseLink">
-                        Text with Google Form Link
-                    </button>
-                    </h2>
-                    <div id="flush-collapseLink" class="accordion-collapse collapse" aria-labelledby="flush-headingLink" data-bs-parent="#confirmationAccordion">
-                      <div class="accordion-body">
-                        <p id="AnswerLink">
-                        Please click the link below to access our new client form. This will provide us with a better understanding of your skin type, its condition, and your goals:<br>
-                        <span class="varLocationFormLink"></span><br><br>
-    
-                        
-                        Reply STOP to opt out
-    
-                        </p>
-                        <div class="d-flex justify-content-end">
-                          <button type="button" class="copy-udi" onclick="copyEvent('AnswerLink')"><i class=" text-right far fa-copy"></i></button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+    <h2 class="accordion-header" id="flush-headingLink">
+        <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseLink" aria-expanded="false" aria-controls="flush-collapseLink">
+            Text with Google Form Link
+        </button>
+    </h2>
+    <div id="flush-collapseLink" class="accordion-collapse collapse" aria-labelledby="flush-headingLink" data-bs-parent="#confirmationAccordion">
+        <div class="accordion-body">
+            <p id="AnswerLink">
+                New clients - please MAKE SURE to plan your trip accordingly by clicking the link below for directions to our spa:
+                <br><br>
+                Google Map Link: <span class="varLocationMapLink"></span>
+                <br><br>
+                 Reply STOP to OPT OUT
+            </p>
+
+            <div class="d-flex justify-content-end">
+                <button type="button" class="copy-udi" onclick="copyEvent('AnswerLink')"><i class="text-right far fa-copy"></i></button>
+            </div>
+        </div>
+    </div>
+</div>
                   <!--  -->
 
                   <div class="accordion-item">
@@ -3337,7 +3338,25 @@ Unfortunately, if we do not receive your confirmation by 7:00PM tonight, this ap
                           </div>
                         </div>
                   </div>
+<div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingNine">
+        <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNine" aria-expanded="false" aria-controls="flush-collapseNine">
+            Text with Google Map Link
+        </button>
+    </h2>
+    <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#confirmationAccordion">
+        <div class="accordion-body">
+            <p id="AnswerNine">
+                New clients - please MAKE SURE to plan your trip accordingly by clicking the link below for directions to our spa:<br><br>
 
+              Google Map Link: <span class='varLocationMapLink'></span>
+            </p>
+            <div class="d-flex justify-content-end">
+                <button type="button" class="copy-udi" onclick="copyEvent('AnswerNine')"><i class="text-right far fa-copy"></i></button>
+            </div>
+        </div>
+    </div>
+</div>
                 </div>
               </div>
             </div>
@@ -3451,7 +3470,7 @@ Unfortunately, if we do not receive your confirmation by 7:00PM tonight, this ap
 
               Hi <span class="varCustName"></span>, we'd like to notify you that your appointment at <span class="varLocationName"></span> on <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span> has been canceled.</br></br>
               
-              If you would like to schedule another appointment in the future, you can do so by calling/texting this phone number <span class="varLocationPhone"></span> or visiting us at<br>
+              If you would like to schedule another appointment in the future, you can do so by calling/texting this phone number <span class="varLocationMapLink"></span></p><span class="varLocationPhone"></span> or visiting us at<br>
               <span class="varWebLink"></span><br><br>
               
               *If this change wasn’t made by you please reply “KEEP APT” to this message*<br><br>
@@ -3481,7 +3500,7 @@ Unfortunately, if we do not receive your confirmation by 7:00PM tonight, this ap
               Feel free to contact us via text/call at this number to book your appointment or with any questions and concerns you may have.<br> <br> 
               
               Have a great day,<br> 
-              <span class="varRepName"></span>, <span class="varLocationName"></span> <br><br>
+              <span class="varRepName"></span>, <span class="varLocationName"></span><p> <br><br>
               Reply STOP to opt out
             </p>
               <div class="d-flex justify-content-end">
@@ -3587,6 +3606,7 @@ Unfortunately, if we do not receive your confirmation by 7:00PM tonight, this ap
             <p>Location Address: <span class="varLocationAddress"></span></p>
             <p>Location Form Link: <span class="varLocationFormLink"></span></p>
             <p>Location LP Link: <span class="varWebLink"></span></p>
+            <p>Spa Google Map Link: <span class="varLocationMapLink"></span></p>
             <p>Appoitment Date: <span class="varAptDate"></span></p>
             <p>Location Phone: <span class="varLocationPhone"></span></p>
             <p>Treatment Duration total: <span class="varDurationTotal"></span></p>
