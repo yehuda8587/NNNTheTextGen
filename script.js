@@ -8777,6 +8777,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "DTB Parie Med Spa Laser Hair Removal $89.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-parie-lv-laser-hair-removal-3areas-at-89-95-two" ;
+                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Laser Hair Removal";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$320"
+                                    break;
+
                                     case "Oasis Boutique Skin Tightening $79.95":
                                     upDatedSpaName = "Oasis Boutique";
                                     upDatedSpaAddress = "236 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(First floor on Park Avenue opposite side of the park with orange double doors)"+"<br>"+"(Parking is free on the street anywhere on Park Ave.)";
