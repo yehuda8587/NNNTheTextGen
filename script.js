@@ -6317,6 +6317,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "TKO Beauty Tech Natural Facelift FTB 99.95":
+                                    upDatedSpaName = "TKO Beauty Tech";
+                                    upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
+                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
+                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(916) 781-0167";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Bee and Co Olympia LED":
                                     upDatedSpaName = "Bee and Co";
                                     upDatedSpaAddress = "Capital Mall,"+"<br>"+"625 Black Lake Blvd SW. Olympia, WA 98502"+"<br>"+"(Unit 233, in front of Victoria's Secret)";
@@ -8631,7 +8648,7 @@
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/nsM8FrnrDFHjbbhx8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/senslife-boutique-skin-tightening-99-95";
                                                 upDatedSpaPhone = "(831) 330-8002";
-                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Post Care and Consultation"
                                                 promoPrice = "99.95";
@@ -8648,7 +8665,7 @@
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
                                                 upDatedSpaPhone = "(949) 200-8470";
-                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                                 promoPrice = "79.95";
