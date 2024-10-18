@@ -8649,7 +8649,7 @@
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
                                                 upDatedSpaPhone = "(949) 200-8470";
                                                 upDatedDurationTotal = "60 Minutes";
-                                                upDatedDurationOne = "- 45 minutes KrX V-Tox application and Red Light Therapy";
+                                                upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
@@ -8665,8 +8665,8 @@
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-skin-tightening-3-in-1-79-95";
                                                 upDatedSpaPhone = "(949) 200-8470";
-                                                upDatedDurationTotal = "60 Minutes";
-                                                upDatedDurationOne = "- 45 minutes KrX V-Tox application and Red Light Therapy";
+                                                upDatedDurationTotal = "75 Minutes";
+                                                upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                                 promoPrice = "79.95";
                                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
