@@ -6348,7 +6348,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(916) 781-0167";
-                                    insteadOfSpa = "$377";
+                                    insteadOfSpa = "$398";
                                     break;
 
                                     case "Bee and Co Olympia LED":
