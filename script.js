@@ -4425,6 +4425,22 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Good Life Spa Skin Tightening 79.95":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(386) 310-0780";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of Consultation";
+                                    upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 888-0765";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "NeoLumo Florence":
                                     upDatedSpaName = "NeoLumo Florence";
                                     upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
