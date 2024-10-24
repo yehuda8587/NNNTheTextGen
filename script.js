@@ -4429,6 +4429,7 @@
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
                                     upDatedSpaPhone = "(386) 310-0780";
                                     upDatedDurationTotal = "60 Minutes";
