@@ -2762,7 +2762,7 @@
                                     insteadOfSpa = "$350";
                                     break; 
 
-                                    case "Premier Pensacola Natural Facelift":
+                                    case "Premier Pensacola Natural Facelift $79.95":
                                         upDatedSpaName = "Premier Spa";
                                     upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
                                     upDatedSpaLINK = "https://forms.gle/egLGFsf1jdBvVqpz5";
@@ -2772,7 +2772,7 @@
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Consultation";
                                     upDatedDurationTwo = "- 45 Natural Facelift Treatment";
-                                    promoPrice = "80";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 637-7637";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(850) 637-7637";
