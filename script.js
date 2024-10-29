@@ -7035,14 +7035,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-promo-page";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$299";
                                     break;
 
@@ -7052,14 +7052,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-hydrofacial-promo-page";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10-minute Cleansing and Steam";
                                     upDatedDurationTwo = "- 20-minutes HydroFacial Cleansing and 15-minutes of infrared and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Hydrafacial Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$299";
                                     break;
 
@@ -7069,14 +7069,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-sagging-neck-rescue-treatment-promo";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Sagging Neck Recue Treatment"
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Sagging Neck Recue Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7086,14 +7086,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-new-promo-page";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7103,14 +7103,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-79-95";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
                                     upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7120,14 +7120,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-treatment-79-95";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7137,14 +7137,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-79-95";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7154,14 +7154,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-promo-79-95";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
                                     upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7171,14 +7171,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-iridescent-med-spa-natural-facelift-79";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -7188,14 +7188,14 @@
                                     upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-jawline-lifting-treatment";
-                                    upDatedSpaPhone = "(586) 981-1850";
+                                    upDatedSpaPhone = "(586) 248-4419";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Jawline Lifting Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 981-1850";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Jawline Lifting Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 981-1850";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8817,7 +8817,7 @@
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-promo-79" ;
-                                    upDatedSpaPhone = "(817) 768-9858";
+                                    upDatedSpaPhone = "(214) 831-9397";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -8834,7 +8834,7 @@
                                     upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-skin-tightening-promo" ;
-                                    upDatedSpaPhone = "(817) 768-9858";
+                                    upDatedSpaPhone = "(214) 831-9397";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
