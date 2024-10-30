@@ -3117,6 +3117,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Tierra Med Skin Cryo Body Sculpting 79.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-cryo-body-sculpting";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cryo Body Sculpting Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "Cryo Body Sculpting Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
@@ -7950,6 +7967,40 @@
                                         treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(204) 306-7627";
                                         insteadOfSpa = "$299";
+                                        break;
+
+                                        case "Oasis Aesthetics Collagen Enhancing 59.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-collagen-enhancing-promo";
+                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Collagen Enhancing Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$350";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Collagen Enhancing 59.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-collagen-enhancing-promo";
+                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Collagen Enhancing Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$350";
                                         break;
 
                                         case "Oasis Aesthetics Henderson Skin Tightening 69.95":
