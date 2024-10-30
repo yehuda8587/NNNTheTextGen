@@ -8862,6 +8862,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo" ;
+                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Soap Tree Grapevine Natural Facelift $79.95":
                                     upDatedSpaName = "Soap Tree";
                                     upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
