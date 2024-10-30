@@ -8232,8 +8232,8 @@
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-rf-body-contouring-promo";
                                         upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
-                                        upDatedDurationTwo = "- 30 minutes Body Contouring Treatment and Consultation"
+                                        upDatedDurationOne = "- 30 minutes Body Contouring Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                         treatmentSelected = "Body Contouring Treatment";
