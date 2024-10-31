@@ -3644,7 +3644,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
@@ -3661,7 +3661,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "20 minute Cleansing ";
                                     upDatedDurationTwo = "40 minutes of Collagen Enhancing Faccial and Consultation";
@@ -3678,7 +3678,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation ";
                                     upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Treatment";
@@ -3695,7 +3695,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "20 minute Cleansing";
                                     upDatedDurationTwo = "40 minutes of Collagen Enhancing Treatment with LED and Consultation";
@@ -3712,7 +3712,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
@@ -3729,7 +3729,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-neck-jawline-tightening" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation";
                                     upDatedDurationTwo = "45 minutes of Neck and Jawline Treatment";
@@ -3746,7 +3746,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation";
                                     upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
@@ -3763,7 +3763,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation";
                                     upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
@@ -3780,7 +3780,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation";
                                     upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
@@ -3797,7 +3797,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Consultation";
                                     upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
@@ -3814,7 +3814,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-new-mens-led-treatment-promo-page" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45 minutes Cleansing and the Men's LED Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -3831,7 +3831,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-treatment-59-95" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -3848,7 +3848,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-facelift-two-ftb" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -3865,7 +3865,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-led-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "30 minutes of LED Treatment and 15 minutes Consultation";
@@ -3882,7 +3882,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-skin-tightening-promo" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing ";
                                     upDatedDurationTwo = "30 minutes of LED Treatment and 15 minutes Consultation";
@@ -3899,7 +3899,7 @@
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-treatment" ;
-                                    upDatedSpaPhone = "(626) 381-9054";
+                                    upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45 minutes 3 in 1 Skin Lifting Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -3916,7 +3916,7 @@
                                         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-promo" ;
-                                        upDatedSpaPhone = "(626) 381-9054";
+                                        upDatedSpaPhone = "(626) 225-0556";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "45 minutes 3 in 1 Skin Lifting Treatment";
                                         upDatedDurationTwo = "15 minutes Consultation";
@@ -3933,7 +3933,7 @@
                                         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-hydraglow-treatment" ;
-                                        upDatedSpaPhone = "(626) 381-9054";
+                                        upDatedSpaPhone = "(626) 225-0556";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes Consultation";
@@ -8953,7 +8953,7 @@
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
-                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedSpaPhone = "(702) 637-2259";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -8970,7 +8970,7 @@
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
-                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedSpaPhone = "(702) 637-2259";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -8987,7 +8987,7 @@
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/parie-lhr-3areas" ;
-                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedSpaPhone = "(702) 637-2259";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -9004,7 +9004,7 @@
                                     upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-parie-lv-laser-hair-removal-3areas-at-89-95-two" ;
-                                    upDatedSpaPhone = "(702) 673-1911";
+                                    upDatedSpaPhone = "(702) 637-2259";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
