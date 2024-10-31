@@ -6814,7 +6814,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -6831,7 +6831,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minutes of Consultation";
                                         upDatedDurationTwo = "- 45-minutes of the Body Sculpting Treatment"
@@ -6848,7 +6848,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -6865,7 +6865,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes Neck and Jawline Treatment and 15 minutes Consultation"
@@ -6882,7 +6882,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minutes of Consultation";
                                         upDatedDurationTwo = "- 45-minutes of the Body Lipo Cavitation Treatment"
@@ -6899,7 +6899,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-body-lipo-cavitation-promo";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minutes of Consultation";
                                         upDatedDurationTwo = "- 45-minutes of the Body Lipo Cavitation Treatment"
@@ -6916,7 +6916,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-turkey-neck-tightening-treatment-promo";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minute Consultation";
                                         upDatedDurationTwo = "- 45-minutes Turkey Neck Tightening Treatment"
@@ -6933,7 +6933,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo-page";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -6950,7 +6950,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-treatment";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -6967,7 +6967,7 @@
                                         upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-natural-facelift-69";
-                                        upDatedSpaPhone = "(619) 983-0069";
+                                        upDatedSpaPhone = "(619) 377-8385";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 10-minute Light Cleansing";
                                         upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15 minutes Consultation"
