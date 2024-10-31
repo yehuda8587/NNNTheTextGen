@@ -1064,7 +1064,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-skin-tightening-promo-page" ;
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1081,7 +1081,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-collagen-lifting-experience-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1098,7 +1098,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-non-surgical-face-lift-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1115,7 +1115,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-beauty-anti-aging-led-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1132,7 +1132,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1149,7 +1149,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevetione-bodysculpting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1166,7 +1166,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-amp-non-surgical-face-lift-experience-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1183,7 +1183,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-microdermabrasion-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1200,7 +1200,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-rf-facial-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1217,7 +1217,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-antiaging-mesotherapy-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1234,7 +1234,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevationespa-hydraglow-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1251,7 +1251,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-boosting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45 minutes of Cleansing and Collagen Boosting Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -1268,7 +1268,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45 minutes of Cleansing and Collagen Boosting Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -1285,7 +1285,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-gold-collagen-facial-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minutes of Cleansing and 30 minutes of Gold Collagen Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -1302,7 +1302,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-microneedling-treatment-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45 minutes of Microneedling Treatment";
                                     upDatedDurationTwo = "15 minutes Consultation";
@@ -1319,7 +1319,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-body-sculpting";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1336,7 +1336,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1353,7 +1353,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-h2o-oxygen-facial-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45-minutes of Cleansing and H2O Oxygen Treatment";
                                     upDatedDurationTwo = "15-minutes of Consultation";
@@ -1370,7 +1370,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-mesotherapy-facial-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "45-minutes of Cleansing and Collagen Mesotherapy Treatment";
                                     upDatedDurationTwo = "15-minutes Consultation ";
@@ -1387,7 +1387,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/new-elevatione-spa-led-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15-minutes of Cleansing";
                                     upDatedDurationTwo = "30-minutes LED Treatment and 15 minutes consultation";
@@ -1404,7 +1404,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15-minutes of Cleansing";
                                     upDatedDurationTwo = "45-minutes LED Treatment and Consultation";
@@ -1421,7 +1421,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-spa-mens-led-treatment-new-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15-minutes of Cleansing";
                                     upDatedDurationTwo = "45-minutes LED Treatment and Consultation";
@@ -1438,7 +1438,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-mens-body-sculpting-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
@@ -1455,7 +1455,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Neck & Jawline Treatment";
@@ -1472,7 +1472,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-turkey-neck-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Turkey Neck Tightening Treatment";
@@ -1489,7 +1489,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-sagging-neck-rescue-treatment-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Sagging Neck Rescue Treatment";
@@ -1506,7 +1506,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-pumpkin-mask-treatment";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Cleansing";
                                     upDatedDurationTwo = "- 45 minutes of Pumpkin Mask Treatment and Consultation";
@@ -1523,7 +1523,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-promo";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
@@ -1540,7 +1540,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-natural-facelift-69-95";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
@@ -1557,7 +1557,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-natural-facelift-treatment-59-95";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of Natural Facelift Treatment";
@@ -1574,7 +1574,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-collagen-restoration-promo-page";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of Collagen Restoration Treatment";
                                     upDatedDurationTwo = "- 15 minutes of Consultation";
@@ -1591,7 +1591,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-skin-tightening-treatment-69-95";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes of Consultation";
@@ -1608,7 +1608,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes of Consultation";
@@ -1625,7 +1625,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-3in1-skin-lifting-59";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of 3 in 1 Skin Lifting Treatment";
                                     upDatedDurationTwo = "- 15 minutes of Consultation";
@@ -1642,7 +1642,7 @@
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-3-in-1-skin-lifting-treatment-69-95";
-                                    upDatedSpaPhone = "(561) 337-1669";
+                                    upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes of 3 in 1 Skin Lifting Treatment";
                                     upDatedDurationTwo = "- 15 minutes of Consultation";
@@ -3923,6 +3923,23 @@
                                         promoPrice = "89.95"
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                         treatmentSelected = "3 In 1 Skin Lifting Treatment";
+                                        newSpaPhoneNumberSelected = "(626) 298-6456";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "FTB Ben's Beauty Spa Hydraglow 79.95":
+                                        upDatedSpaName = "Ben's Beauty Spa";
+                                        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-hydraglow-treatment" ;
+                                        upDatedSpaPhone = "(626) 381-9054";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes Consultation";
+                                        promoPrice = "79.95"
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                        treatmentSelected = "Hydraglow Treatment";
                                         newSpaPhoneNumberSelected = "(626) 298-6456";
                                         insteadOfSpa = "$377";
                                         break;
@@ -8875,6 +8892,23 @@
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
                                     treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elevatione Spa Davie Hydraglow $79.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-hydraglow-treatment" ;
+                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "Hydraglow Treatment";
                                     newSpaPhoneNumberSelected = "(954) 765-6091";
                                     insteadOfSpa = "$377"
                                     break;
