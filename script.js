@@ -8664,7 +8664,7 @@
                                             upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-natural-facelift";
-                                            upDatedSpaPhone = "(954) 908-7637";
+                                            upDatedSpaPhone = "(954) 526-8934";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Post Care and Consultation"
@@ -8681,7 +8681,7 @@
                                             upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-las-olas-3-in-1-skin-tightening-promo";
-                                            upDatedSpaPhone = "(954) 908-7637";
+                                            upDatedSpaPhone = "(954) 526-8934";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Post Care and Consultation"
