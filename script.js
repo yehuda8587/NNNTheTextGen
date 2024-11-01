@@ -4092,6 +4092,23 @@
                                     newSpaPhoneNumberSelected = "(614) 592-9909";
                                     insteadOfSpa = "$299";
                                     break;
+
+                                    case "GreenBiotics Woodfield TG Natural Facelift $79.95":
+                                    upDatedSpaName = "GreenBiotics";
+                                    upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Park near the Cheesecake Factory Entrance/Parking lot, Spa is in front of Akira)";
+                                    upDatedSpaLINK = "https://forms.gle/vMMqiYYrMBjwzimp6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/EhwsKvD8TFwiYvUT7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-woodfield-skin-tightening-tg";
+                                    upDatedSpaPhone = "(847) 792-1710";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes light cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (614) 592-9909";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(614) 592-9909";
+                                    insteadOfSpa = "$377";
+                                    break;
                                     
                                     case "Infinity Pompano Beach":
                                         upDatedSpaName = "Infinity Pompano Beach";
@@ -9111,6 +9128,40 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 395-8095";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Liv Med Spa Skin Tightening $69.95":
+                                    upDatedSpaName = "Liv Med Spa";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-skin-tightening-promo";
+                                    upDatedSpaPhone = "(346) 771-1001";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 395-8095";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Liv Med Spa Men's Skin Tightening $89.95":
+                                    upDatedSpaName = "Liv Med Spa";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-mens-skin-tightening-promo";
+                                    upDatedSpaPhone = "(346) 771-1001";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(346) 395-8095";
