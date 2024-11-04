@@ -9123,7 +9123,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-promo-page";
-                                    upDatedSpaPhone = "(346) 771-1001";
+                                    upDatedSpaPhone = "(346) 552-8199";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9140,7 +9140,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-skin-tightening-promo";
-                                    upDatedSpaPhone = "(346) 771-1001";
+                                    upDatedSpaPhone = "(346) 552-8199";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9157,7 +9157,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-mens-skin-tightening-promo";
-                                    upDatedSpaPhone = "(346) 771-1001";
+                                    upDatedSpaPhone = "(346) 552-8199";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
