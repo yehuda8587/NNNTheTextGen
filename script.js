@@ -2631,7 +2631,7 @@
 
                                     case "Pearl De Flore Augusta":
                                         upDatedSpaName = "Pearl De Flore Spa";
-                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penny, near the elevator)";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penney, near the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
@@ -2648,7 +2648,7 @@
 
                                     case "Pearl De Flore Augusta Natural Facelift":
                                         upDatedSpaName = "Pearl De Flore Spa";
-                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penny, near the elevator)";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penney, near the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearl-de-flore-natural-facelift-treatment-79-95";
@@ -2665,7 +2665,7 @@
 
                                     case "Pearl De Flore Augusta Natural Skin Tightening $79.95":
                                         upDatedSpaName = "Pearl De Flore Spa";
-                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penny, near the elevator)";
+                                    upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor in front of JC Penney, near the elevator)";
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95";
