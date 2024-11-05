@@ -8760,6 +8760,23 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Skin So Sweet Cryo Body Sculpting $69.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-cryo-body-sculpting-promo";
+                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Cryo Body Sculpting";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Cryo Body Sculpting Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Skin So Sweet 3 in 1 Lifting Facial $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
