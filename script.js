@@ -9052,7 +9052,7 @@
                                     case "Parie Med Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
                                     upDatedSpaPhone = "(702) 637-2259";
@@ -9069,7 +9069,7 @@
                                     case "Parie Med Spa Laser Hair Removal $89.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
                                     upDatedSpaPhone = "(702) 637-2259";
@@ -9086,7 +9086,7 @@
                                     case "FTB Parie Med Spa Laser Hair Removal $89.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/parie-lhr-3areas" ;
                                     upDatedSpaPhone = "(702) 637-2259";
@@ -9103,7 +9103,7 @@
                                     case "DTB Parie Med Spa Laser Hair Removal $89.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                    upDatedSpaLINK = "https://forms.gle/5ogbZcH48Bnq4XVq9";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-parie-lv-laser-hair-removal-3areas-at-89-95-two" ;
                                     upDatedSpaPhone = "(702) 637-2259";
