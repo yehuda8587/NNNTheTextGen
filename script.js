@@ -6978,6 +6978,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Sthetics Med Spa Natural Facelift 59.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-promo";
+                                        upDatedSpaPhone = "(619) 377-8385";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 10-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "DTB - Sthetics Med Spa Natural Facelift 69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Saturday: paid meter parking in front of the spa (refunded). Sunday: free street parking.";
@@ -9179,6 +9196,23 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
                                     promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Moana Crystals Skin Tightening $79.95":
+                                    upDatedSpaName = "Moana Crystals";
+                                    upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                    upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-treatment-promo";
+                                    upDatedSpaPhone = "(808) 427-8404";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(808) 779-8279";
