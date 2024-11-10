@@ -4961,7 +4961,7 @@
                                         upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-promo";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-3-in-1-skin-tightening-promo";
                                         upDatedSpaPhone = "(406) 545-3587";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
