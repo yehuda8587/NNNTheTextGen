@@ -1659,7 +1659,7 @@
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-estero-ledpromo";
-                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing & Steam ";
                                     upDatedDurationTwo = "- 35 Minutes LED Tightening Treatment and Consultation";
@@ -1675,7 +1675,7 @@
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-anti-aging-promo-page";
-                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing & Steam ";
                                     upDatedDurationTwo = "- 35 Minutes LED Tightening Treatment and Consultation";
@@ -1691,7 +1691,7 @@
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
-                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes light cleansing ";
                                     upDatedDurationTwo = "- 35 Minutes LED Skin Tightening Treatment and Consultation";
@@ -1707,7 +1707,7 @@
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-neck-and-jawline-treatment-page";
-                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes light cleansing ";
                                     upDatedDurationTwo = "- 35 Minutes Neck & Jawline Treatment and Consultation";
@@ -1723,13 +1723,29 @@
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adoreestero-naturalfacelift-79-95";
-                                    upDatedSpaPhone = "(239) 444-8790";
+                                    upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Light Cleansing ";
                                     upDatedDurationTwo = "- 35 Minutes Natural Facelift Treatment and Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$377"
+                                    break; 
+
+                                    case "Adore Estero 3 in 1 Skin Lifting $79.95":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-3-in-1-skin-lifting-treatment";
+                                    upDatedSpaPhone = "(239) 748-0390";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 35 Minutes 3 in 1 Skin Lifting Treatment";
+                                    upDatedDurationTwo = "- 10 Minutes Post care and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "3 in 1 Skin Lifting Treatment";
                                     newSpaPhoneNumberSelected = "(239) 301-4943";
                                     insteadOfSpa = "$377"
                                     break; 
