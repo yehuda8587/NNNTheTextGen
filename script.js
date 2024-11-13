@@ -5545,7 +5545,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
                                     treatmentSelected = "Skin Tightening";
                                     newSpaPhoneNumberSelected = "(904) 342-2780";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Esthetix St. Augustine Skin Tightening 59.95":
