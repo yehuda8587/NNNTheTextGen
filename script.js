@@ -8824,7 +8824,7 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
                                             treatmentSelected = "LED Treatment";
                                             newSpaPhoneNumberSelected = "(714) 203-3527";
-                                            insteadOfSpa = "$377";
+                                            insteadOfSpa = "$299";
                                             break;
 
                                             case "Skin So Sweet Cryo Body Sculpting $69.95":
