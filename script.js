@@ -8598,7 +8598,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedSpaPhone = "(713) 322-9122";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -8615,7 +8615,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-mens-natural-face-lift-promo-89-95";
-                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedSpaPhone = "(713) 322-9122";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -8632,7 +8632,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-79";
-                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedSpaPhone = "(713) 322-9122";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -8649,7 +8649,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
-                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedSpaPhone = "(713) 322-9122";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -8666,7 +8666,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-alabama-med-spa-natural-facelift-treatment-69";
-                                            upDatedSpaPhone = "(713) 574-6718";
+                                            upDatedSpaPhone = "(713) 322-9122";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
