@@ -8104,6 +8104,23 @@
                                         insteadOfSpa = "$350";
                                         break;
 
+                                        case "Oasis Aesthetics 3 in 1 Skin Lifting 59.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-3-in-1-skin-lifting-treatment-59-95";
+                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$350";
+                                        break;
+
                                         case "Oasis Aesthetics Henderson Collagen Enhancing 59.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -8287,6 +8304,23 @@
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
                                         treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(480) 408-4170";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Lavan Med Spa 3 in 1 Skin Lifting 59.95":
+                                        upDatedSpaName = "Lavan Med Spa";
+                                        upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                        upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-3-in-1-skin-lifting-treatment-59-95";
+                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                        treatmentSelected = "3 in 1 Skin Lifting Treatment";
                                         newSpaPhoneNumberSelected = "(480) 408-4170";
                                         insteadOfSpa = "$377";
                                         break;
@@ -9110,6 +9144,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 713-8689";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Soap Tree Grapevine Skin Tightening $59.95":
+                                    upDatedSpaName = "Soap Tree";
+                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                    upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-skin-tightening-treatment" ;
+                                    upDatedSpaPhone = "(214) 831-9397";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(214) 713-8689";
