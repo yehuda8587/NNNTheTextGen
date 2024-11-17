@@ -1738,6 +1738,7 @@
                                         upDatedSpaName = "Adore Spa";
                                     upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                     upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QkV3oeGQaa1SWStc8";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-3-in-1-skin-lifting-treatment";
                                     upDatedSpaPhone = "(239) 748-0390";
                                     upDatedDurationTotal = "45 Minutes";
