@@ -5007,6 +5007,23 @@
                                         insteadOfSpa = "$377"
                                         break;
 
+                                        case "Tesoro Mio 3 in 1 Skin Tightening Treatment $79.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-3-in-1-skin-tightening-79-95";
+                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
