@@ -959,7 +959,7 @@
                                                                     
                                                                 case "Supreme Brea":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
@@ -976,7 +976,7 @@
 
                                                                     case "Supreme Brea FTB LED 79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
@@ -993,7 +993,7 @@
 
                                                                     case "Supreme Brea Natural Facelift $79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
@@ -1361,7 +1361,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Oxygen Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$200"
+                                    insteadOfSpa = "$250"
                                     break;
 
                                     case "Elevatione Spa Beauty Collagen Mesotherapy Treatment":
@@ -1756,7 +1756,7 @@
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
                                     upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawlessbeauty-wayne-led-promo";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
+                                    upDatedSpaPhone = "(973) 250-3530 ";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation"
@@ -1772,7 +1772,7 @@
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
                                     upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-led-promo-99";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
+                                    upDatedSpaPhone = "(973) 250-3530 ";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation";
@@ -1788,7 +1788,7 @@
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
                                     upDatedSpaLINK = "https://forms.gle/YoeMzRUD9YLtpxjs9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/flawless-beauty-wayne-spa-promo";
-                                    upDatedSpaPhone = "(973) 200-3530 ";
+                                    upDatedSpaPhone = "(973) 250-3530 ";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 50 Minutes LED Treatment";
                                     upDatedDurationTwo = "- 25 Minutes of Consultation";
@@ -3674,7 +3674,7 @@
 
                                     case "Ben's Beauty Spa 89.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
@@ -3691,7 +3691,7 @@
 
                                     case "Ben's Beauty Spa Collagen Enhancing Treatment 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
@@ -3708,7 +3708,7 @@
 
                                     case "Ben's Beauty Spa Hydraglow Treatment 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
@@ -3725,7 +3725,7 @@
 
                                     case "Ben's Beauty Spa Collagen Enhancing Treatment with LED 69.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
@@ -3742,7 +3742,7 @@
 
                                     case "Ben's Beauty Men LED 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
@@ -3759,7 +3759,7 @@
 
                                     case "Ben's Beauty Neck and Jawline Tightening 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-neck-jawline-tightening" ;
@@ -3776,7 +3776,7 @@
 
                                     case "Ben's Beauty Skin Tightening 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
@@ -3793,7 +3793,7 @@
 
                                     case "Ben's Beauty Skin Tightening 69.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
@@ -3810,7 +3810,7 @@
 
                                     case "Ben's Beauty Skin Tightening 59.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening-promo-page" ;
@@ -3827,7 +3827,7 @@
 
                                     case "Ben's Beauty Skin Tightening 59.95 with DP":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening" ;
@@ -3844,7 +3844,7 @@
 
                                     case "Ben's Beauty Men LED 99.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-new-mens-led-treatment-promo-page" ;
@@ -3861,7 +3861,7 @@
 
                                     case "Ben's Beauty DTB Natural Facelift $59.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-treatment-59-95" ;
@@ -3878,7 +3878,7 @@
 
                                     case "Ben's Beauty DTB FTB Natural Facelift $59.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-facelift-two-ftb" ;
@@ -3895,7 +3895,7 @@
 
                                     case "FTB Ben's Beauty Spa 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-led-promo" ;
@@ -3912,7 +3912,7 @@
 
                                     case "FTB Ben's Beauty Spa Skin Tightening 59.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-skin-tightening-promo" ;
@@ -3929,7 +3929,7 @@
 
                                     case "FTB Ben's Beauty Spa 3 in 1 Skin Lifting 69.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
-                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-treatment" ;
@@ -3946,7 +3946,7 @@
 
                                     case "FTB Ben's Beauty Spa 3 in 1 Skin Lifting 89.95":
                                         upDatedSpaName = "Ben's Beauty Spa";
-                                        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-promo" ;
@@ -3963,7 +3963,7 @@
 
                                         case "FTB Ben's Beauty Spa Hydraglow 79.95":
                                         upDatedSpaName = "Ben's Beauty Spa";
-                                        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 200)"+"<br>"+"Door Code: 200"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-hydraglow-treatment" ;
@@ -8345,7 +8345,7 @@
 
                                         case "Be You Wellness LED 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
@@ -8362,7 +8362,7 @@
 
                                         case "Be You Wellness Reverse Turkey Neck 79.95":
                                             upDatedSpaName = "Be You";
-                                            upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                            upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                             upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
@@ -8379,7 +8379,7 @@
 
                                             case "Be You Wellness Natural Facelift 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-natural-facelift-treatment";
@@ -8396,7 +8396,7 @@
 
                                         case "Be You Wellness Men's Non-Surgical Facelift 89.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
@@ -8413,7 +8413,7 @@
 
                                         case "Be You Wellness Skin Tightening 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-skin-tightening-treatment";
@@ -8430,7 +8430,7 @@
 
                                         case "Be You Wellness Neck and Jawline 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
@@ -8447,7 +8447,7 @@
 
                                         case "Be You Wellness Body Contouring 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-rf-body-contouring-promo";
@@ -8987,7 +8987,7 @@
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
-                                                upDatedSpaPhone = "(949) 200-8470";
+                                                upDatedSpaPhone = "(949) 250-8470";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -9004,7 +9004,7 @@
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-skin-tightening-3-in-1-79-95";
-                                                upDatedSpaPhone = "(949) 200-8470";
+                                                upDatedSpaPhone = "(949) 250-8470";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
