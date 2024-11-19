@@ -8834,7 +8834,7 @@
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
-                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedSpaPhone = "(714) 886-6067";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8851,7 +8851,7 @@
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
-                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedSpaPhone = "(714) 886-6067";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Skin Tightening Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8868,7 +8868,7 @@
                                                 upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-skin-so-sweet-natural-facelift-page-59-95";
-                                                upDatedSpaPhone = "(714) 617-1806";
+                                                upDatedSpaPhone = "(714) 886-6067";
                                                 upDatedDurationTotal = "60 Minutes";
                                                 upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8885,7 +8885,7 @@
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mens-led-anti-aging-promo-79-95";
-                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedSpaPhone = "(714) 886-6067";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and LED Anti-Aging Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8902,7 +8902,7 @@
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-cryo-body-sculpting-promo";
-                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedSpaPhone = "(714) 886-6067";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Cryo Body Sculpting";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8919,7 +8919,7 @@
                                             upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-3-in-1-lifting-facial-treatment";
-                                            upDatedSpaPhone = "(714) 617-1806";
+                                            upDatedSpaPhone = "(714) 886-6067";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
