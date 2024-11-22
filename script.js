@@ -9440,6 +9440,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Allure Med Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Allure Med Spa";
+                                    upDatedSpaAddress = "18 Doctor's Lane, King City, ON, CA L7B 1G2"+"<br>"+"(Inside the Building, Unit 4)";
+                                    upDatedSpaLINK = "https://forms.gle/usWxTeE2MQ8B3xZN7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VfCsi5A3jiHz6AMY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/allure-natural-facelift-promo";
+                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(416) 551-4338";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                             
 
                                         
