@@ -1751,6 +1751,23 @@
                                     insteadOfSpa = "$377"
                                     break; 
 
+                                    case "Adore Estero Skin Tightening $79.95":
+                                        upDatedSpaName = "Adore Spa";
+                                    upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                    upDatedSpaLINK = "https://form.jotform.com/220505197859060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/QkV3oeGQaa1SWStc8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-skin-tightening-treatment-79-95 ";
+                                    upDatedSpaPhone = "(239) 748-0390";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 35 Minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 10 Minutes Post care and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(239) 301-4943";
+                                    insteadOfSpa = "$377"
+                                    break; 
+
                                     case "Flawless Wayne":
                                         upDatedSpaName = "Flawless Beauty";
                                     upDatedSpaAddress = "Willowbrook Mall,"+"<br>"+"1355 Willowbrook Mall, Wayne NJ 07470"+"<br>"+"(Outside Willowbrook Mall, Near LensCrafters)";
