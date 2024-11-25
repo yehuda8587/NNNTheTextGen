@@ -9451,9 +9451,26 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 551-4338";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(416) 551-4338";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Ora Med Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/allure-natural-facelift-promo";
+                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
                                     insteadOfSpa = "$377"
                                     break;
 
