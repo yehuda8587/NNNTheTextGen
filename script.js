@@ -963,7 +963,7 @@
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
-                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedSpaPhone = "(714) 988-2959";
                                                                     upDatedDurationTotal = "90 Minutes";
                                                                     upDatedDurationOne = "- 30 Minutes Cleaning";
                                                                     upDatedDurationTwo = "- 60 Minutes LED Light Experience & Consultation";
@@ -980,7 +980,7 @@
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
-                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedSpaPhone = "(714) 988-2959";
                                                                     upDatedDurationTotal = "90 Minutes";
                                                                     upDatedDurationOne = "- 30 Minutes Cleaning";
                                                                     upDatedDurationTwo = "- 60 Minutes LED Light Experience & Consultation";
@@ -997,7 +997,7 @@
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
-                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedSpaPhone = "(714) 988-2959";
                                                                     upDatedDurationTotal = "90 Minutes";
                                                                     upDatedDurationOne = "- 30 Minutes Cleaning";
                                                                     upDatedDurationTwo = "- 60 Minutes Natural Facelift Treatment & Consultation";
