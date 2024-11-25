@@ -959,7 +959,7 @@
                                                                     
                                                                 case "Supreme Brea":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
@@ -976,7 +976,7 @@
 
                                                                     case "Supreme Brea FTB LED 79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
@@ -993,7 +993,7 @@
 
                                                                     case "Supreme Brea Natural Facelift $79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
@@ -9479,7 +9479,7 @@
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
                                     upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/allure-natural-facelift-promo";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-promo";
                                     upDatedSpaPhone = "(346) 552-8199";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
