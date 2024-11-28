@@ -9542,6 +9542,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Glameria Natural Facelift $79.95":
+                                    upDatedSpaName = "Glameria";
+                                    upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/glameria-natural-facelift-promo";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Consultation and 15 minutes of cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 597-8986";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(587) 597-8986";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                             
 
                                         
