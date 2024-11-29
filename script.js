@@ -8513,6 +8513,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Be You Wellness 3 in 1 Skin Tightening 79.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-3-in-1-skin-tightening-treatment";
+                                        upDatedSpaPhone = "(289) 667-1380";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
+                                        treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Be You Wellness Neck and Jawline 79.95":
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
