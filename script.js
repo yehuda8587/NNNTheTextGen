@@ -9547,7 +9547,7 @@
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
                                     upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/allure-natural-facelift-promo";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-promo";
                                     upDatedSpaPhone = "(850) 988-9735";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
