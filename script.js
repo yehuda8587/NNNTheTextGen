@@ -1888,7 +1888,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
@@ -1905,7 +1905,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-neck-and-jaw-line-tightening-treatment-promo ";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute cleansing and the Neck and Jawline treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
@@ -1922,7 +1922,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minute cleansing and 20 Minutes Collagen Enhancing treatment";
                                     upDatedDurationTwo = "- 20-minute consultation ";
@@ -1939,7 +1939,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
@@ -1956,7 +1956,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-mens-led-promo-page";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
@@ -1973,7 +1973,7 @@
                                     upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
-                                    upDatedSpaPhone = "(250) 410-3324";
+                                    upDatedSpaPhone = "(250) 800-9949";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
@@ -1990,7 +1990,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
@@ -2007,7 +2007,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-collagen-enhancing-new-promo";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
@@ -2024,7 +2024,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-neck-and-jaw-line-tightening-treatment-promo ";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment and consultation";
@@ -2041,7 +2041,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
@@ -2058,7 +2058,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-mens-led-promo-page";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
@@ -2075,7 +2075,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-sagging-neck-rescue-treatment-promo";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
@@ -2092,7 +2092,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-natural-facelift-treatment-promo";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
@@ -2109,7 +2109,7 @@
                                     upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(250) 384-2980";
+                                    upDatedSpaPhone = "(250) 999-0095";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
@@ -2127,7 +2127,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
@@ -2144,7 +2144,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
@@ -2161,7 +2161,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
@@ -2178,7 +2178,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
@@ -2195,7 +2195,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-79-95";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
@@ -2212,7 +2212,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
@@ -2229,7 +2229,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
@@ -2246,7 +2246,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-sagging-neck-rescue-treatment-promo ";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
@@ -2263,7 +2263,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Men's LED Anti-Aging Treatment and Consultation";
@@ -2280,7 +2280,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and the Oxygen and LED Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -2297,7 +2297,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
@@ -2314,7 +2314,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
@@ -2331,7 +2331,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Body Analysis";
                                     upDatedDurationTwo = "- 40 Minutes Body Treatment and 10 minutes post-care consultation";
@@ -2348,7 +2348,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
@@ -2365,7 +2365,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-skin-tightening";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
@@ -2382,7 +2382,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-skin-tightening-tg";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
@@ -2399,7 +2399,7 @@
                                     upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
                                     upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-3-in-1-skin-tightening-promo";
-                                    upDatedSpaPhone = "(778) 262-1606";
+                                    upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes 3 in 1 Skin Tightening Treatment";
