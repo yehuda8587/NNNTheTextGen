@@ -3219,6 +3219,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Tierra Med Skin 3 in 1 Skin Tightening 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-3-in-1-skin-tightening-69-95";
+                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
