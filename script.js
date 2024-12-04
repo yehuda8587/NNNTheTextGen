@@ -8333,7 +8333,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-promo-page";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -8350,7 +8350,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-new-promo-page";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -8367,7 +8367,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and 15 minutes Consultation"
@@ -8384,7 +8384,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-cryo-body-contouring";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
                                         upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
@@ -8401,7 +8401,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-natural-facelift-treatment-promo";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8418,7 +8418,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-lavan-natural-face-lift-promo-59-95";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8435,7 +8435,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-skin-tightening-59-95";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8452,7 +8452,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-3-in-1-skin-lifting-treatment-59-95";
-                                        upDatedSpaPhone = "(480) 863-3599";
+                                        upDatedSpaPhone = "(928) 233-6711";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
