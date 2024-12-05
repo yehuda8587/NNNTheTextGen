@@ -4555,7 +4555,7 @@
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
-                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
                                     upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
@@ -4571,7 +4571,7 @@
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-new-led-promo";
-                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
                                     upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
@@ -4587,7 +4587,7 @@
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-led-promo";
-                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 45 minutes of the LED Anti-aging Experience & Consultation"
@@ -4603,7 +4603,7 @@
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-collagen-enhancing-promo";
-                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Cleansing";
                                     upDatedDurationTwo = "- 30 minutes of the Collagen Enhancing Treatment & 15 minutes Consultation"
@@ -4619,7 +4619,7 @@
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-neck-and-jawline-treatment-page";
-                                    upDatedSpaPhone = "(386) 267-6296";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 45 minutes of the Neck & Jawline Treatment"
@@ -4636,7 +4636,7 @@
                                     upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
-                                    upDatedSpaPhone = "(386) 310-0780";
+                                    upDatedSpaPhone = "(386) 319-1236";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of light cleansing";
                                     upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
@@ -5123,6 +5123,23 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                         treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
+                                        case "Tesoro Mio Neck and Jawline Tightening Treatment $79.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-neck-and-jawline-promo-79-95";
+                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Neck and Jawline Tightening Treatment and post-care and consultation";
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(406) 885-1321";
                                         insteadOfSpa = "$377"
                                         break;
@@ -8937,7 +8954,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/PA56BDhD9Kogmfk77";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(412) 420-6848";
+                                            upDatedSpaPhone = "(412) 212-3520";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -9413,7 +9430,7 @@
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening-treatment";
-                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedSpaPhone = "(407) 990-1553";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9430,7 +9447,7 @@
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-natural-facelift-promo";
-                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedSpaPhone = "(407) 990-1553";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -9447,7 +9464,7 @@
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-skin-tightening";
-                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedSpaPhone = "(407) 990-1553";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9464,7 +9481,7 @@
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-3-in-1-natural-facelift";
-                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedSpaPhone = "(407) 990-1553";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes 3 in 1 Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -9481,7 +9498,7 @@
                                     upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/5T4XkNM6Ev3MMAcw9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-boutique-3-in-1-natural-facelift";
-                                    upDatedSpaPhone = "(689) 303-3162";
+                                    upDatedSpaPhone = "(407) 990-1553";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
