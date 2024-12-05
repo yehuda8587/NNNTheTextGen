@@ -8937,7 +8937,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/PA56BDhD9Kogmfk77";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/greenbiotics-ross-park-mall-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(412) 420-6848";
+                                            upDatedSpaPhone = "(412) 212-3520";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
