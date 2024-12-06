@@ -9664,7 +9664,7 @@
 
                                     case "Essence Glow Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Essence Glow Spa";
-                                    upDatedSpaAddress = "1592 NE 162nd St, North Miami Beach, FL 33162"+"<br>"+"(At the Plaza, Suite #700)";
+                                    upDatedSpaAddress = "1590 NE 162nd St, North Miami Beach, FL 33162"+"<br>"+"(At the Plaza, Suite #700)";
                                     upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-skin-tightening-promo";
