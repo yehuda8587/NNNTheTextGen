@@ -375,7 +375,7 @@
                         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                         upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
-                        upDatedSpaPhone = "(352) 431-2111";
+                        upDatedSpaPhone = "(352) 577-9216";
                         upDatedDurationTotal = "60 Minutes";
                         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                         upDatedDurationTwo = "- 30 Minutes LED Anti-Aging Treatment & 15 minutes Consultation";
@@ -392,7 +392,7 @@
                         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                         upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
-                        upDatedSpaPhone = "(352) 431-2111";
+                        upDatedSpaPhone = "(352) 577-9216";
                         upDatedDurationTotal = "60 Minutes";
                         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
@@ -5811,7 +5811,7 @@
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
-                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedSpaPhone = "(780) 900-4210";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
@@ -5828,7 +5828,7 @@
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedSpaPhone = "(780) 900-4210";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultaion";
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
@@ -5845,7 +5845,7 @@
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-skin-tightening-promo-page";
-                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedSpaPhone = "(780) 900-4210";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultaion";
                                     upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment"
@@ -5862,7 +5862,7 @@
                                     upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-face-lift-promo-79-95";
-                                    upDatedSpaPhone = "(587) 442-4900";
+                                    upDatedSpaPhone = "(780) 900-4210";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment Consultation"
