@@ -2920,7 +2920,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-hydration-aquapure-promo";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Treatment & Consultation";
@@ -2937,7 +2937,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-tierramed-aquapure-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes AquaPure Hydration Treatment & Consultation";
@@ -2954,7 +2954,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierramed-ledpromo";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes LED Experience & Consultation";
@@ -2971,7 +2971,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-gold-collagen-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & 15-minute Consultation";
@@ -2988,7 +2988,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-red-carpet-collagen-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 50 Minutes Red Carpet Collagen Treatment & Consultation";
@@ -3005,7 +3005,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hydraglow-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Hydraglow Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3022,7 +3022,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-non-surgical-lifting-facial-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 50 Minutes Non-Surgical Lifting Treatment & Consultation";
@@ -3039,7 +3039,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-collagen-enhancing-facial-with-led-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Cleansing";
                                     upDatedDurationTwo = "- 50 Minutes Collagen Enhancing Treatment with LED & Consultation";
@@ -3056,7 +3056,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-medspa-mens-led-promo-page";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment & Consultation";
@@ -3073,7 +3073,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
@@ -3090,7 +3090,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-neck-and-jaw-line-treatment";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
@@ -3107,7 +3107,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-turkey-neck-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
@@ -3124,7 +3124,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
@@ -3141,7 +3141,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-oxygen-anti-aging-treatment";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and the Oxygen & LED Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3158,7 +3158,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-79-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3175,7 +3175,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-69-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3192,7 +3192,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-mens-skin-tightening-promo-89-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3209,7 +3209,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-skin-tightening-tg-79-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3226,7 +3226,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-cryo-body-sculpting";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes Cryo Body Sculpting Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
@@ -3243,7 +3243,7 @@
                                     upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-3-in-1-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(647) 476-2808";
+                                    upDatedSpaPhone = "(647) 848-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
