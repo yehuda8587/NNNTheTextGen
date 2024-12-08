@@ -713,7 +713,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -730,7 +730,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute Consultation";
@@ -747,7 +747,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
@@ -764,7 +764,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
@@ -781,7 +781,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes Natural Facelift Treatment & Consultation";
@@ -798,7 +798,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
-                                    upDatedSpaPhone = "(705) 408-0758";
+                                    upDatedSpaPhone = "(705) 400-2039";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
