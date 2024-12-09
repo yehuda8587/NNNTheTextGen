@@ -5015,7 +5015,7 @@
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-led";
-                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedSpaPhone = "(406) 919-7560";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minutes of Cleansing";
                                     upDatedDurationTwo = "- 20-minutes LED Anti-Aging Treatment & 20-minutes Consultation"
@@ -5032,7 +5032,7 @@
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
-                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedSpaPhone = "(406) 919-7560";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20-minutes of Cleansing";
                                     upDatedDurationTwo = "- 20-minutes Collagen Enhancing Treatment & 20-minutes Consultation"
@@ -5049,7 +5049,7 @@
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedSpaPhone = "(406) 919-7560";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
@@ -5066,7 +5066,7 @@
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-natural-facelift-treatment-promo";
-                                    upDatedSpaPhone = "(406) 545-3587";
+                                    upDatedSpaPhone = "(406) 919-7560";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
@@ -5083,7 +5083,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-treatment";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
@@ -5100,7 +5100,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-promo";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
@@ -5117,7 +5117,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-skin-tightening-promo-59-95";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
@@ -5134,7 +5134,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-3-in-1-skin-tightening-promo";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
@@ -5151,7 +5151,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-3-in-1-skin-tightening-79-95";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
@@ -5168,7 +5168,7 @@
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-neck-and-jawline-promo-79-95";
-                                        upDatedSpaPhone = "(406) 545-3587";
+                                        upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Neck and Jawline Tightening Treatment and post-care and consultation";
@@ -6580,7 +6580,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
@@ -6597,7 +6597,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-reverse-turkey-neck-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
@@ -6614,7 +6614,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
@@ -6631,7 +6631,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -6648,7 +6648,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-89-95";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
                                     upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15 minutes Consultation"
@@ -6665,7 +6665,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-natural-skin-tightening-treatment-99-95";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Skin Tightening Treatment and 15 minutes Consultation"
@@ -6682,7 +6682,7 @@
                                     upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
-                                    upDatedSpaPhone = "(916) 249-8700";
+                                    upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -9193,7 +9193,7 @@
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
-                                                upDatedSpaPhone = "(949) 250-8470";
+                                                upDatedSpaPhone = "(949) 629-4609";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -9210,7 +9210,7 @@
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-skin-tightening-3-in-1-79-95";
-                                                upDatedSpaPhone = "(949) 250-8470";
+                                                upDatedSpaPhone = "(949) 629-4609";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
