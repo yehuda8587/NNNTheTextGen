@@ -713,7 +713,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -730,7 +730,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute Consultation";
@@ -747,7 +747,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
@@ -764,7 +764,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
@@ -781,7 +781,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes Natural Facelift Treatment & Consultation";
@@ -798,7 +798,7 @@
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
-                                    upDatedSpaPhone = "(705) 400-2039";
+                                    upDatedSpaPhone = "(705) 400-8900";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                     upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
@@ -8538,7 +8538,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and Consultation"
@@ -8555,7 +8555,7 @@
                                             upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
-                                            upDatedSpaPhone = "(289) 278-5985";
+                                            upDatedSpaPhone = "(289) 667-1380";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes consultation";
                                             upDatedDurationTwo = "- 30 minutes Reverse Turkey Neck Treatment"
@@ -8572,7 +8572,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-natural-facelift-treatment";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation"
@@ -8589,7 +8589,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and Consultation"
@@ -8606,7 +8606,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-skin-tightening-treatment";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Consultation"
@@ -8623,7 +8623,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-3-in-1-skin-tightening-treatment";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and Consultation"
@@ -8640,7 +8640,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
@@ -8657,7 +8657,7 @@
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-rf-body-contouring-promo";
-                                        upDatedSpaPhone = "(289) 278-5985";
+                                        upDatedSpaPhone = "(289) 667-1380";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 30 minutes Body Contouring Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
