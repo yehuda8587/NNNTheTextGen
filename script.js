@@ -9748,6 +9748,24 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Essence Glow Spa Skin Tightening $59.95":
+                                    upDatedSpaName = "Essence Glow Spa";
+                                    upDatedSpaAddress = "1590 NE 162nd St, North Miami Beach, FL 33162"+"<br>"+"(At the Plaza, Suite #700)";
+                                    upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-skin-tightening-promo-59-95";
+                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 974-5252";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(305) 974-5252";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+
                                             
 
                                         
