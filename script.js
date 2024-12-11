@@ -9550,7 +9550,7 @@
                                     upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-promo";
-                                    upDatedSpaPhone = "(808) 427-8404";
+                                    upDatedSpaPhone = "(808) 764-3367";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
@@ -9567,7 +9567,7 @@
                                     upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-69-95";
-                                    upDatedSpaPhone = "(808) 427-8404";
+                                    upDatedSpaPhone = "(808) 764-3367";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
@@ -9584,7 +9584,7 @@
                                     upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(808) 427-8404";
+                                    upDatedSpaPhone = "(808) 764-3367";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
