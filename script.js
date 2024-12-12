@@ -1489,7 +1489,7 @@
                                     upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                     upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-neck-and-jawline-treatment-69-95";
                                     upDatedSpaPhone = "(561) 406-4933";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes of Consultation";
@@ -1498,7 +1498,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 469-6135 ";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 469-6135";
-                                    insteadOfSpa = "$299"
+                                    insteadOfSpa = "$377"
                                     break;
 
                                     case "Elevatione Turkey Neck Tightening $79.95":
@@ -5167,7 +5167,7 @@
                                         upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-spa-neck-and-jawline-promo-79-95";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-neck-and-jawline-promo";
                                         upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
