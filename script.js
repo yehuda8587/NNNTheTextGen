@@ -485,6 +485,23 @@
                     insteadOfSpa = "$377"
                     break;
 
+                    case "Bee and Co FTB 3 in 1 Skin Tightening 69.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-3-in-1-skin-tightening-treatment" ;
+                    upDatedSpaPhone = "(747) 261-9969";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
+                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                    promoPrice = "69.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$377"
+                    break;
+
 
                         case "Kristals Burlington LED":
                             upDatedSpaName = "Kristals Burlington Spa";
@@ -3494,6 +3511,23 @@
                                             promoPrice = "59.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
                                             treatmentSelected = "Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$377";
+                                            break; 
+
+                                            case "Orogold Valencia FTB 3 in 1 Skin Tightening 69.95":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-treatment";
+                                            upDatedSpaPhone = "(661) 863-9656";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes 3 in 1 Skin Tightening Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(661) 383-9238";
                                             insteadOfSpa = "$377";
                                             break; 
@@ -9219,6 +9253,23 @@
                                                 treatmentSelected = "3 in 1 Natural Skin Tightening Treatment";
                                                 newSpaPhoneNumberSelected = "(949) 545-7129";
                                                 insteadOfSpa = "$299";
+                                                break;
+
+                                                case "SKT Med Spa Men Skin Tightening 79.95":
+                                                upDatedSpaName = "SKT Med Spa";
+                                                upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-mens-skin-tightening-promo";
+                                                upDatedSpaPhone = "(949) 629-4609";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 10 min intake and 30 minutes Skin Tightening Treatment";
+                                                upDatedDurationTwo = "- 20 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
+                                                treatmentSelected = "Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(949) 545-7129";
+                                                insteadOfSpa = "$377";
                                                 break;
 
                                     case "Elevatione Spa Davie Natural Skin Tightening $59.95":
