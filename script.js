@@ -2738,7 +2738,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
-                                    upDatedSpaPhone = "(706) 434-8750";
+                                    upDatedSpaPhone = "(706) 524-8251";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -2755,7 +2755,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearl-de-flore-natural-facelift-treatment-79-95";
-                                    upDatedSpaPhone = "(706) 434-8750";
+                                    upDatedSpaPhone = "(706) 524-8251";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -2772,7 +2772,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95";
-                                    upDatedSpaPhone = "(706) 434-8750";
+                                    upDatedSpaPhone = "(706) 524-8251";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -8436,7 +8436,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-promo-page";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -8453,7 +8453,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-new-promo-page";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -8470,7 +8470,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and 15 minutes Consultation"
@@ -8487,7 +8487,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-cryo-body-contouring";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
                                         upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
@@ -8504,7 +8504,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-natural-facelift-treatment-promo";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8521,7 +8521,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-lavan-natural-face-lift-promo-59-95";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8538,7 +8538,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-skin-tightening-59-95";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
@@ -8555,7 +8555,7 @@
                                         upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-3-in-1-skin-lifting-treatment-59-95";
-                                        upDatedSpaPhone = "(928) 233-6711";
+                                        upDatedSpaPhone = "(480) 535-1117";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -9812,6 +9812,40 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 974-5252";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(305) 974-5252";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Essence Glow Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Essence Glow Spa";
+                                    upDatedSpaAddress = "1590 NE 162nd St, North Miami Beach, FL 33162"+"<br>"+"(At the Plaza, Suite #700)";
+                                    upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-natural-facelift-promo";
+                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 974-5252";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(305) 974-5252";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Essence Glow Spa 3 in 1 Skin Tightening $59.95":
+                                    upDatedSpaName = "Essence Glow Spa";
+                                    upDatedSpaAddress = "1590 NE 162nd St, North Miami Beach, FL 33162"+"<br>"+"(At the Plaza, Suite #700)";
+                                    upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-3-in-1-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 974-5252";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(305) 974-5252";
                                     insteadOfSpa = "$377"
                                     break;
