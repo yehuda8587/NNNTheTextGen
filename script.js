@@ -9842,7 +9842,7 @@
                                     upDatedSpaPhone = "(786) 632-1710";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Consultation";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Post Care and Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 974-5252";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
