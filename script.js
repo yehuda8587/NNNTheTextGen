@@ -9493,6 +9493,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Parie Med Spa Laser Hair Removal Full Body $159.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-laser-hair-removal-full-body-promo" ;
+                                    upDatedSpaPhone = "(702) 637-2259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "159.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Laser Hair Removal";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$995"
+                                    break;
+
                                     case "FTB Parie Med Spa Laser Hair Removal $89.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
