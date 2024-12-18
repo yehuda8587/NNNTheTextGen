@@ -8249,7 +8249,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-promo-page";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes Consultation"
@@ -8266,7 +8266,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oxygen-treatment-oasis-med-spa";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Oxygen and LED Treatment and 15 minutes Consultation"
@@ -8283,7 +8283,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-natural-face-lift-promo-69-95";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation"
@@ -8300,7 +8300,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-mens-skin-tightening-promo-89-95";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Men's Skin Tightening and 15 minutes Consultation"
@@ -8317,7 +8317,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-collagen-enhancing-promo";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
@@ -8334,7 +8334,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-3-in-1-skin-lifting-treatment-59-95";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes 3 in 1 Skin Lifting Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8351,7 +8351,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-mommy-tummy-79-95";
-                                        upDatedSpaPhone = "(204) 977-1545";
+                                        upDatedSpaPhone = "(204) 819-4554";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8368,7 +8368,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-mommy-tummy-79-95";
-                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedSpaPhone = "(204) 819-4507";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8385,7 +8385,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-collagen-enhancing-promo";
-                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedSpaPhone = "(204) 819-4507";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
@@ -8402,7 +8402,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-skin-tightening-69-95";
-                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedSpaPhone = "(204) 819-4507";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
@@ -8419,7 +8419,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-mens-skin-tightening-promo-89-95";
-                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedSpaPhone = "(204) 819-4507";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
@@ -8436,7 +8436,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-oxygen-treatment";
-                                        upDatedSpaPhone = "(204) 975-7971";
+                                        upDatedSpaPhone = "(204) 819-4507";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Oxygen Treatment and 15 minutes Consultation"
@@ -8585,7 +8585,7 @@
 
                                         case "Be You Wellness LED 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-ontario-promo-page";
@@ -8602,7 +8602,7 @@
 
                                         case "Be You Wellness Reverse Turkey Neck 79.95":
                                             upDatedSpaName = "Be You";
-                                            upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                            upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                             upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-reverse-turkey-neck-treatment-promo";
@@ -8619,7 +8619,7 @@
 
                                             case "Be You Wellness Natural Facelift 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-natural-facelift-treatment";
@@ -8636,7 +8636,7 @@
 
                                         case "Be You Wellness Men's Non-Surgical Facelift 89.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
@@ -8653,7 +8653,7 @@
 
                                         case "Be You Wellness Skin Tightening 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-skin-tightening-treatment";
@@ -8670,7 +8670,7 @@
 
                                         case "Be You Wellness 3 in 1 Skin Tightening 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-3-in-1-skin-tightening-treatment";
@@ -8687,7 +8687,7 @@
 
                                         case "Be You Wellness Neck and Jawline 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
@@ -8704,7 +8704,7 @@
 
                                         case "Be You Wellness Body Contouring 79.95":
                                         upDatedSpaName = "Be You";
-                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 250, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-rf-body-contouring-promo";
