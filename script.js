@@ -139,7 +139,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-spa-led-promo"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes LED Light Session & a 15 minutes Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -156,7 +156,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -173,7 +173,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-collagen-enhancing-facial-promo-page"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -190,7 +190,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-skin-tightening-treatment-with-hifu-led-page"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -207,7 +207,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-mens-non-surgical-facelift-promo-page"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Non-Surgical Face Lift & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -224,7 +224,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-naturalfacelift-treatment-79"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -241,7 +241,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-69-95"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -258,7 +258,7 @@
                 upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-skin-tightening-69-95"
-                upDatedSpaPhone = "(919) 321-1008";
+                upDatedSpaPhone = "(919) 695-9376";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Cleaning";
                 upDatedDurationTwo = "- 30 Minutes Skin Tightening Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
@@ -509,7 +509,7 @@
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
-                            upDatedSpaPhone = "(647) 749-7406 ";
+                            upDatedSpaPhone = "(647) 749-7406";
                             upDatedDurationTotal = "50 Minutes";
                             upDatedDurationOne = "- 10 Minutes Light Cleansing";
                             upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -526,7 +526,7 @@
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-quapure-promo" ;
-                                upDatedSpaPhone = "(647) 749-7406 ";
+                                upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = " 50 Minutes Aquapure Treatment & Consultation";
                                 upDatedDurationTwo = " ";
@@ -543,7 +543,7 @@
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
-                            upDatedSpaPhone = "(647) 749-7406 ";
+                            upDatedSpaPhone = "(647) 749-7406";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Light Cleansing";
                             upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
@@ -560,7 +560,7 @@
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95";
-                                upDatedSpaPhone = "(647) 749-7406 ";
+                                upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
@@ -577,7 +577,7 @@
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-69-95" ;
-                                upDatedSpaPhone = "(647) 749-7406 ";
+                                upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
@@ -594,7 +594,7 @@
                                 upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95";
-                                upDatedSpaPhone = "(647) 749-7406 ";
+                                upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
                                 upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
@@ -832,7 +832,7 @@
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erinmills-spa-led-promo-page" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 Minutes Light Cleansing";
                                     upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -849,7 +849,7 @@
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-anti-aging-aquapure-experience-promo-page" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 60 Minutes AquaPure Experience & Consultation";
                                     upDatedDurationTwo = " ";
@@ -866,7 +866,7 @@
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-neck-and-jaw-line-tightening-treatment-promo" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
@@ -883,7 +883,7 @@
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-turkey-neck-tightening-treatment-promo" ;
-                                    upDatedSpaPhone = "(437) 253-8259";
+                                    upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
@@ -900,7 +900,7 @@
                                         upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-page-79-95" ;
-                                        upDatedSpaPhone = "(437) 253-8259";
+                                        upDatedSpaPhone = "(647) 846-9838";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
                                         upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
@@ -917,7 +917,7 @@
                                         upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-69-95" ;
-                                        upDatedSpaPhone = "(437) 253-8259";
+                                        upDatedSpaPhone = "(647) 846-9838";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
                                         upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
@@ -9253,6 +9253,23 @@
                                                 treatmentSelected = "Korean 3 in 1 Skin Tightening Treatment";
                                                 newSpaPhoneNumberSelected = "(949) 545-7129";
                                                 insteadOfSpa = "$299";
+                                                break;
+
+                                                case "SKT Med Spa Ultrasonic Facelift $79.95":
+                                                upDatedSpaName = "SKT Med Spa";
+                                                upDatedSpaAddress = "542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-ultrasonic-facelift-treament";
+                                                upDatedSpaPhone = "(949) 629-4609";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 10 minuntes Cleansing and 30 minutes Ultrasonic Facelift";
+                                                upDatedDurationTwo = "- 20 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
+                                                treatmentSelected = "Ultrasonic Facelift";
+                                                newSpaPhoneNumberSelected = "(949) 545-7129";
+                                                insteadOfSpa = "$350";
                                                 break;
 
                                                 case "SKT Med Spa 3 in 1 Natural Skin Tightening 79.95":
