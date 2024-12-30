@@ -9873,7 +9873,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-skin-tightening-promo";
-                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedSpaPhone = "(786) 530-4776";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
@@ -9890,7 +9890,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-skin-tightening-promo-59-95";
-                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedSpaPhone = "(786) 530-4776";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
@@ -9907,7 +9907,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-spa-natural-facelift-promo";
-                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedSpaPhone = "(786) 530-4776";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
@@ -9924,7 +9924,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ZdeY2TgpZU6KSQBP7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/izqni1j56RgbVhQZ9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/essence-glow-3-in-1-skin-tightening-treatment";
-                                    upDatedSpaPhone = "(786) 632-1710";
+                                    upDatedSpaPhone = "(786) 530-4776";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes Post Care and Consultation";
