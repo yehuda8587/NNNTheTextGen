@@ -408,7 +408,7 @@
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bee-co-spa-led" ;
-                    upDatedSpaPhone = "(301)887-5495";
+                    upDatedSpaPhone = "(747) 261-9969";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 30 Minutes Light Cleaning";
                     upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
@@ -424,7 +424,7 @@
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-bee-amp-co-spa-led-promo" ;
-                    upDatedSpaPhone = "(301)887-5495";
+                    upDatedSpaPhone = "(747) 261-9969";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 30 Minutes Light Cleaning";
                     upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
@@ -440,7 +440,7 @@
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-spa-led-promo" ;
-                    upDatedSpaPhone = "(301)887-5495";
+                    upDatedSpaPhone = "(747) 261-9969";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 30 Minutes Light Cleaning";
                     upDatedDurationTwo = "- 30 Minutes LED Light Experience & Consultation";
@@ -464,6 +464,23 @@
                     promoPrice = "79.95"
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
                     treatmentSelected = "Skin Tightening Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$377"
+                    break;
+
+                    case "Bee and Co FTB Natural Facelift 79.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-skin-tightening-promo" ;
+                    upDatedSpaPhone = "(747) 261-9969";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 45 Minutes Natural Facelift Treatment";
+                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                    promoPrice = "79.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "Natural Facelift Treatment";
                     newSpaPhoneNumberSelected = "(747) 247-2204";
                     insteadOfSpa = "$377"
                     break;
@@ -3494,6 +3511,23 @@
                                             promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
                                             treatmentSelected = "Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$377";
+                                            break; 
+
+                                            case "Orogold Valencia FTB Natural Facelift 79.95":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-natural-facelift-promo";
+                                            upDatedSpaPhone = "(661) 863-9656";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "Natural Facelift Treatment";
                                             newSpaPhoneNumberSelected = "(661) 383-9238";
                                             insteadOfSpa = "$377";
                                             break; 
