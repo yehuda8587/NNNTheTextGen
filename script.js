@@ -7377,7 +7377,7 @@
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-promo-page";
-                                    upDatedSpaPhone = "(512) 600-9666";
+                                    upDatedSpaPhone = "(512) 298-6566";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 15 minutes Cleansing and 30-minutes LED Anti-aging Treatment"
