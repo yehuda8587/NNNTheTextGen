@@ -7390,7 +7390,7 @@
 
                                     case "Lavelier Round Rock Men's LED $79.95":
                                     upDatedSpaName = "Lavelier";
-                                    upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Unit 764, next to Michael Kors)";
+                                    upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 N Interstate Hwy 35, Round Rock, TX 78664"+"<br>"+"(Inside the Shopping Center, Unit 764, next to Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-mens-led-anti-aging-promo-79-95";
