@@ -8702,6 +8702,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Be You Wellness DTB Skin Tightening 79.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-be-you-wellness-skin-tightening-two";
+                                        upDatedSpaPhone = "(289) 667-1380";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Be You Wellness 3 in 1 Skin Tightening 79.95":
                                         upDatedSpaName = "Be You";
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
@@ -9697,6 +9714,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Moana Crystals 3 in 1 Skin Tightening $69.95":
+                                    upDatedSpaName = "Moana Crystals";
+                                    upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                    upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystals-3-in-1-skin-tightening-promo";
+                                    upDatedSpaPhone = "(808) 764-3367";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Moana Crystals Skin Tightening $69.95":
                                     upDatedSpaName = "Moana Crystals";
                                     upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
@@ -9895,6 +9929,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (707) 889-1472";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(707) 889-1472";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Introstem Santa Rosa Skin Tightening $99.95":
+                                    upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1071 Santa Rosa Plaza, Santa Rosa, CA 95401"+"<br>"+"(First floor, in front of Lids, Space Number 1011)";
+                                    upDatedSpaLINK = "https://forms.gle/wcLEBrB6K1hpduNB6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-santa-rosa-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(707) 387-4443";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (707) 889-1472";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(707) 889-1472";
