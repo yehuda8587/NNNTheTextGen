@@ -3288,6 +3288,57 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "FTB Tierra Med 3 in 1 Skin Tightening 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tierra-med-spa-3-in-1-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(647) 848-2039";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "FTB Tierra Med Skin Tightening 69.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tierra-med-spa-skin-tightening-promo";
+                                    upDatedSpaPhone = "(647) 848-2039";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "FTB Tierra Med Skin Cryo EMS Body Sculpting 79.95":
+                                        upDatedSpaName = "Tierra Med Spa";
+                                    upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                    upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tierra-med-spa-cryo-ems-body-sculpting-promo";
+                                    upDatedSpaPhone = "(647) 848-2039";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 Minutes Cryo + EMS Body Sculpting Treatment";
+                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                    treatmentSelected = "Cryo Body Sculpting Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 277-5122";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Boutique 770":
                                         upDatedSpaName = " Boutique 770 Spa";
                                     upDatedSpaAddress = "1320 Pearl St. Boulder Colorado 80302," + "<br>" + "(STE #100 between the 1320 building and the Falafel shop)";
@@ -5258,6 +5309,23 @@
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Natural Skin Tightening Treatment and post-care and consultation";
                                         promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Natural Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
+                                        case "Tesoro Mio Natural Skin Tightening Treatment $69.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-natural-skin-tightening-treatment";
+                                        upDatedSpaPhone = "(406) 919-7560";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Natural Skin Tightening Treatment and post-care and consultation";
+                                        promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                         treatmentSelected = "Natural Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(406) 885-1321";
@@ -9946,6 +10014,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
                                     promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (707) 889-1472";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(707) 889-1472";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Introstem Santa Rosa Skin Tightening $129.95":
+                                    upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1071 Santa Rosa Plaza, Santa Rosa, CA 95401"+"<br>"+"(First floor, in front of Lids, Space Number 1011)";
+                                    upDatedSpaLINK = "https://forms.gle/wcLEBrB6K1hpduNB6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-santa-rosa-skin-tightening";
+                                    upDatedSpaPhone = "(707) 387-4443";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "129.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (707) 889-1472";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(707) 889-1472";
