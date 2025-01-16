@@ -401,7 +401,42 @@
                         treatmentSelected = "Natural Facelift Treatment";
                         newSpaPhoneNumberSelected = "(352) 216-4557";
                         insteadOfSpa = "$377"
+                        break;  
+                        
+                        case "Beauty Frizz Ocala Hydraglow + LED Treatment 89.95":
+                        upDatedSpaName = "BeautyFrizz Spa";
+                        upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-hydraglow-led-promo";
+                        upDatedSpaPhone = "(352) 577-9216";
+                        upDatedDurationTotal = "60 Minutes";
+                        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+                        upDatedDurationTwo = "- 30 Minutes Hydraglow + LED Treatment & 15 minutes Consultation";
+                        promoPrice = "89.95"
+                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                        treatmentSelected = "Hydraglow + LED Treatment";
+                        newSpaPhoneNumberSelected = "(352) 216-4557";
+                        insteadOfSpa = "$377"
+                        break;
+
+                        case "Beauty Frizz Ocala 3 in 1 Skin Tightening 79.95":
+                        upDatedSpaName = "BeautyFrizz Spa";
+                        upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-3-in-1-skin-tightening-promo";
+                        upDatedSpaPhone = "(352) 577-9216";
+                        upDatedDurationTotal = "60 Minutes";
+                        upDatedDurationOne = "- 15 Minutes Cleansing";
+                        upDatedDurationTwo = "- 45 Minutes 3 in 1 Skin Tightening Treatment & Consultation";
+                        promoPrice = "79.95"
+                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                        treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                        newSpaPhoneNumberSelected = "(352) 216-4557";
+                        insteadOfSpa = "$377"
                         break;   
+
 
                 case "Bee and Co":
                     upDatedSpaName = "Bee and Co";
@@ -4797,6 +4832,40 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 888-0765";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Good Life Spa Men Skin Tightening 99.95":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-skin-tightening-promo";
+                                    upDatedSpaPhone = "(386) 319-1236";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of light cleansing";
+                                    upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 888-0765";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Good Life Spa 3 in 1 Skin Tightening 79.95":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(386) 319-1236";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of light cleansing";
+                                    upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(386) 888-0765";
                                     insteadOfSpa = "$377";
                                     break;
