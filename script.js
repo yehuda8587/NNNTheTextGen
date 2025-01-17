@@ -3555,7 +3555,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
                                             upDatedSpaPhone = "(661) 206-1303";
                                             upDatedDurationTotal = "60 Minutes";
@@ -3572,6 +3572,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-led-promo";
                                             upDatedSpaPhone = "(661) 206-1303";
                                             upDatedDurationTotal = "60 Minutes";
@@ -3588,7 +3589,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-skin-tightening-treatment-79-95";
                                             upDatedSpaPhone = "(661) 863-9656";
                                             upDatedDurationTotal = "60 Minutes";
@@ -3605,7 +3606,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-natural-facelift-promo";
                                             upDatedSpaPhone = "(661) 863-9656";
                                             upDatedDurationTotal = "60 Minutes";
@@ -3622,7 +3623,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-skin-tightening-treatment-59-95";
                                             upDatedSpaPhone = "(661) 863-9656";
                                             upDatedDurationTotal = "60 Minutes";
@@ -3639,7 +3640,7 @@
                                             upDatedSpaName = "OROGOLD Spa";
                                             upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
-                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-treatment";
                                             upDatedSpaPhone = "(661) 863-9656";
                                             upDatedDurationTotal = "60 Minutes";
