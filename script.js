@@ -4168,6 +4168,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Ben's Beauty DTB FTB Natural Skin Tightening $59.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-skin-tightening-ftb-two" ;
+                                    upDatedSpaPhone = "(626) 225-0556";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Skin Tightening Treatment";
+                                    upDatedDurationTwo = "15 minutes Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "FTB Ben's Beauty Spa 79.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -4836,6 +4853,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Good Life Spa Hydraglow 79.95":
+                                    upDatedSpaName = "Good Life Spa";
+                                    upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                    upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-hydraglow-promo";
+                                    upDatedSpaPhone = "(386) 319-1236";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minutes of light cleansing";
+                                    upDatedDurationTwo = "- 30 minutes of the Hydraglow Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(386) 888-0765";
+                                    insteadOfSpa = "$399";
+                                    break;
+
                                     case "Good Life Spa Men Skin Tightening 99.95":
                                     upDatedSpaName = "Good Life Spa";
                                     upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
@@ -5321,7 +5355,7 @@
                                         upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                         upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tesoro-mio-3-in-1-skin-tightening-promo";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-3-in-1-skin-tightening-promo";
                                         upDatedSpaPhone = "(406) 919-7560";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing";
@@ -5397,6 +5431,23 @@
                                         promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                         treatmentSelected = "Natural Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
+                                        case "Tesoro Mio Men Skin Tightening Treatment $89.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-men-skin-tightening-promo";
+                                        upDatedSpaPhone = "(406) 919-7560";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Skin Tightening Treatment and post-care and consultation";
+                                        promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(406) 885-1321";
                                         insteadOfSpa = "$377"
                                         break;
