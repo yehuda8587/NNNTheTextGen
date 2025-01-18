@@ -9478,6 +9478,23 @@
                                                 insteadOfSpa = "$377";
                                                 break;
 
+                                                case "Lift and Revive Med Men Skin Tightening $89.95":
+                                                upDatedSpaName = "Lift and Revive Med Spa";
+                                                upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
+                                                upDatedSpaLINK = "https://forms.gle/5N6x5tGFyvQJ6TNe7";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1FwGATeREUUWLXUJ8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lift-amp-revive-med-spa-men-skin-tightening-promo";
+                                                upDatedSpaPhone = "(210) 740-0738";
+                                                upDatedDurationTotal = "60 Minutes";
+                                                upDatedDurationOne = "- 10 minutes light cleansing and 35 minutes of the Skin Tightening Treatment";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                                promoPrice = "89.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (210) 951-5045";
+                                                treatmentSelected = "Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(210) 951-5045";
+                                                insteadOfSpa = "$377";
+                                                break;
+
                                                 case "Senslife Boutique Skin Tightening 89.95":
                                                 upDatedSpaName = "Senslife Boutique";
                                                 upDatedSpaAddress = "1 SE Ocean Ave & Monteverde St., Carmel-By-The-Sea, CA 93921"+"<br>"+"(Next to Meuse Gallery By SIMON BULL)";
@@ -10276,6 +10293,25 @@
                                     newSpaPhoneNumberSelected = "(305) 974-5252";
                                     insteadOfSpa = "$377"
                                     break;
+
+                                    case "Hempire Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Hempire Spa";
+                                    upDatedSpaAddress = "8888 SW 136th St. Miami, FL 33176"+"<br>"+"(The Falls Shopping Center, Near 'Brooks Brothers' between 'One Piece At A Time' and 'Madison Reed Hair Salon')";
+                                    upDatedSpaLINK = "https://forms.gle/859EEwg6pKw98fp99";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iDDT9THFmCx6T5Tg9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hempire-naturalfacelift-79";
+                                    upDatedSpaPhone = "(786) 310-1273";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 393-1149";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(786) 393-1149";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    
 
 
                                             
