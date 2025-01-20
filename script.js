@@ -5266,12 +5266,12 @@
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Tesoro Mio Spa Neck and Jawline":
+                                    case "Tesoro Mio Spa Neck and Jawline $69.95":
                                     upDatedSpaName = "Tesoro Mio Spa";
                                     upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                     upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-neck-and-jaw-line-tightening-treatment-promo";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-neck-and-jawline-treatment";
                                     upDatedSpaPhone = "(406) 919-7560";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
@@ -9478,7 +9478,7 @@
                                                 insteadOfSpa = "$377";
                                                 break;
 
-                                                case "Lift and Revive Med Men Skin Tightening $89.95":
+                                                case "Lift and Revive Med Spa Men Skin Tightening $89.95":
                                                 upDatedSpaName = "Lift and Revive Med Spa";
                                                 upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
                                                 upDatedSpaLINK = "https://forms.gle/5N6x5tGFyvQJ6TNe7";
