@@ -10362,6 +10362,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Ola Aesthetics and Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Hempire Spa";
+                                    upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ola-aesthetics-natural-facelift-promo";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 933-5371";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     
 
 
