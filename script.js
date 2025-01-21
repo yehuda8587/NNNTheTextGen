@@ -10363,7 +10363,7 @@
                                     break;
 
                                     case "Ola Aesthetics and Spa Natural Facelift $79.95":
-                                    upDatedSpaName = "Hempire Spa";
+                                    upDatedSpaName = "Ola Aesthetics and Spa";
                                     upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
@@ -10376,6 +10376,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(713) 933-5371";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elev8 Med Spa Skin Tightening $79.95":
+                                    upDatedSpaName = "Elev8 Med Spa";
+                                    upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
+                                    upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/S7tsf6fGYkL5Eu5dA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-skin-tightening-promo";
+                                    upDatedSpaPhone = "(480) 808-4602";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 878-2860";
                                     insteadOfSpa = "$377"
                                     break;
 
