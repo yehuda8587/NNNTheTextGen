@@ -9733,6 +9733,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo-89" ;
+                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Elevatione Spa Davie Hydraglow $79.95":
                                     upDatedSpaName = "Elevatione Spa Davie";
                                     upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
@@ -9746,6 +9763,23 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
                                     treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elevatione Spa Davie Natural Facelift $69.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-facelift-69-95" ;
+                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(954) 765-6091";
                                     insteadOfSpa = "$377"
                                     break;
