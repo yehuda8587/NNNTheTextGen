@@ -8585,6 +8585,23 @@
                                         insteadOfSpa = "$350";
                                         break;
 
+                                        case "Oasis Aesthetics Collagen Enhancing 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-collagen-enhancing";
+                                        upDatedSpaPhone = "(204) 819-4554";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Collagen Enhancing Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$350";
+                                        break;
+
                                         case "Oasis Aesthetics 3 in 1 Skin Lifting 59.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -8647,6 +8664,23 @@
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
                                         promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Collagen Enhancing Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$350";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Collagen Enhancing 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-collagen-enhancing";
+                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
                                         treatmentSelected = "Collagen Enhancing Treatment";
                                         newSpaPhoneNumberSelected = "(204) 691-1922";
@@ -9763,6 +9797,23 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 713-8689";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Soap Tree Grapevine 3 in 1 Skin Tightening $89.95":
+                                    upDatedSpaName = "Soap Tree";
+                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                    upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-3-in-1-skin-tightening-promo" ;
+                                    upDatedSpaPhone = "(214) 831-9397";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(214) 713-8689";
                                     insteadOfSpa = "$377"
                                     break;
