@@ -337,6 +337,23 @@
                 insteadOfSpa = "$377"
                 break;
 
+                case "Esthetix Raleigh Skin Tightening $69.95":
+                upDatedSpaName = "Esthetix Spa";
+                upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+                upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-skin-tightening-promo";
+                upDatedSpaPhone = "(919) 670-0716";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Light Cleaning";
+                upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "69.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 900-8271";
+                treatmentSelected = "Skin Tightening Treatment";
+                newSpaPhoneNumberSelected = "(919) 900-8271";
+                insteadOfSpa = "$377"
+                break;
+
                 case "Beauty Frizz MD":
                 upDatedSpaName = "BeautyFrizz Spa";
                 upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
@@ -5453,6 +5470,23 @@
                                         insteadOfSpa = "$377"
                                         break;
 
+                                        case "Tesoro Mio Natural Facelift Treatment $69.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-natural-facelift-treatment";
+                                        upDatedSpaPhone = "(406) 919-7560";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and post-care and consultation";
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
                                     case "GreenBiotics Pentagon":
                                     upDatedSpaName = "GreenBiotics";
                                     upDatedSpaAddress = "Pentagon Mall,"+"<br>"+"1100 S Hayes St. Arlington, VA 22202"+"<br>"+"(In front of the Apple Store, Between Armani & Pandora)";
@@ -10407,6 +10441,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 933-5371";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Ola Aesthetics and Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Ola Aesthetics and Spa";
+                                    upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ola-aesthetics-natural-facelift-promo-59-95";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(713) 933-5371";
