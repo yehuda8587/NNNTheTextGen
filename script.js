@@ -6097,6 +6097,23 @@
                                             insteadOfSpa = "$399";
                                             break;
 
+                                    case "Esthetix St. Augustine 3 in 1 Skin Tightening 69.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-3-in-1-skin-tightening-promo";
+                                    upDatedSpaPhone = "(904) 799-2965";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes 3 in 1 Skin Tightening Treatment and 15-minutes Consultation"   
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "3 in 1 Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Joli Visage Spa LED":
                                     upDatedSpaName = "Joli Visage Spa";
                                     upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
