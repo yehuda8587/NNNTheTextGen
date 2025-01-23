@@ -571,6 +571,23 @@
                     insteadOfSpa = "$377"
                     break;
 
+                    case "Bee and Co FTB 3 in 1 Skin Tightening 79.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-3-in-1-skin-tightening-treatment-79-95" ;
+                    upDatedSpaPhone = "(747) 261-9969";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
+                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                    promoPrice = "79.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$377"
+                    break;
+
 
                         case "Kristals Burlington LED":
                             upDatedSpaName = "Kristals Burlington Spa";
@@ -3664,6 +3681,23 @@
                                             upDatedDurationOne = "- 45 minutes 3 in 1 Skin Tightening Treatment";
                                             upDatedDurationTwo = "- 15 minutes Consultation";
                                             promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$377";
+                                            break; 
+
+                                            case "Orogold Valencia FTB 3 in 1 Skin Tightening 79.95":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-79-95";
+                                            upDatedSpaPhone = "(661) 863-9656";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes 3 in 1 Skin Tightening Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                            promoPrice = "79.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
                                             treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(661) 383-9238";
@@ -10492,6 +10526,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 878-2860";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elev8 Med Spa Skin Tightening $59.95":
+                                    upDatedSpaName = "Elev8 Med Spa";
+                                    upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
+                                    upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/S7tsf6fGYkL5Eu5dA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-skin-tightening-promo-59-95";
+                                    upDatedSpaPhone = "(480) 808-4602";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(480) 878-2860";
