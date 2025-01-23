@@ -9942,7 +9942,7 @@
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                     upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                    upDatedSpaWebLINK = " " ;
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinny-shots-parie-med-97" ;
                                     upDatedSpaPhone = "(702) 637-2259";
                                     upDatedDurationTotal = "50 Minutes";
                                     upDatedDurationOne = "- 10 minutes Lipo Injection";
@@ -9951,7 +9951,7 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                     treatmentSelected = "Skinny Shot Treatment";
                                     newSpaPhoneNumberSelected = "(702) 930-6221";
-                                    insteadOfSpa = " "
+                                    insteadOfSpa = "$500"
                                     break;
 
                                     case "Parie Med Spa Skin Tightening $79.95":
