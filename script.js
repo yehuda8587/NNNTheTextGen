@@ -3937,7 +3937,7 @@
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-promo-page" ;
-                                    upDatedSpaPhone = "(941) 280-4672";
+                                    upDatedSpaPhone = "(941) 280-0407";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "30 minute Cleansing";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
@@ -3954,7 +3954,7 @@
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-new-promo-page" ;
-                                    upDatedSpaPhone = "(941) 280-4672";
+                                    upDatedSpaPhone = "(941) 280-0407";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "30 minute Cleansing";
                                     upDatedDurationTwo = "30 minute LED Experience and Consultation";
@@ -3971,7 +3971,7 @@
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-promo" ;
-                                    upDatedSpaPhone = "(941) 280-4672";
+                                    upDatedSpaPhone = "(941) 280-0407";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing";
                                     upDatedDurationTwo = "45 minute Natural Facelift Treatment";
@@ -3988,7 +3988,7 @@
                                     upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-99-95" ;
-                                    upDatedSpaPhone = "(941) 280-4672";
+                                    upDatedSpaPhone = "(941) 280-0407";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "15 minute Cleansing";
                                     upDatedDurationTwo = "45 minute Natural Facelift Treatment";
@@ -5447,6 +5447,23 @@
                                         upDatedDurationOne = "- 15 minutes Cleansing";
                                         upDatedDurationTwo = "- 45 minutes Neck and Jawline Tightening Treatment and post-care and consultation";
                                         promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(406) 885-1321";
+                                        insteadOfSpa = "$377"
+                                        break;
+
+                                        case "Tesoro Mio Neck and Jawline Tightening Treatment $69.95":
+                                        upDatedSpaName = "Tesoro Mio Spa";
+                                        upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                        upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-neck-and-jawline-treatment";
+                                        upDatedSpaPhone = "(406) 919-7560";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Neck and Jawline Tightening Treatment and post-care and consultation";
+                                        promoPrice = "69.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                         treatmentSelected = "Neck and Jawline Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(406) 885-1321";
@@ -9300,7 +9317,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(713) 322-9122";
+                                            upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -9317,7 +9334,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-mens-natural-face-lift-promo-89-95";
-                                            upDatedSpaPhone = "(713) 322-9122";
+                                            upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -9334,7 +9351,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-79";
-                                            upDatedSpaPhone = "(713) 322-9122";
+                                            upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -9351,7 +9368,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-med-spa-natural-facelift-treatment-69-95";
-                                            upDatedSpaPhone = "(713) 322-9122";
+                                            upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
@@ -9368,7 +9385,7 @@
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-alabama-med-spa-natural-facelift-treatment-69";
-                                            upDatedSpaPhone = "(713) 322-9122";
+                                            upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
