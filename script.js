@@ -10351,7 +10351,7 @@
                                     upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/glameria-natural-facelift-promo";
-                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedSpaPhone = "(587) 200-7971";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Consultation and 15 minutes of cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
