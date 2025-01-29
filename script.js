@@ -9400,8 +9400,9 @@
                                             upDatedSpaName = "The Beauty Lab";
                                             upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
                                             upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/ndwdtmNsqH8FKRNf9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-beauty-lab-natural-facelift-treatment";
-                                            upDatedSpaPhone = "(587) 442-6910";
+                                            upDatedSpaPhone = "(587) 208-3432";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
                                             upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Post Care and Consultation"
