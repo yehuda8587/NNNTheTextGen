@@ -9740,7 +9740,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-skin-tightening-59-95" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9757,7 +9757,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-69-95" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9774,7 +9774,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-mens-skin-tightening-promo" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -9791,7 +9791,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-body-sculpting-promo" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes Body Sculpting Treatment";
                                     upDatedDurationTwo = "- 15 minutes post-care and consultation";
@@ -9808,7 +9808,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and 15 minutes post-care and consultation";
@@ -9825,7 +9825,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-treatment" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and 15 minutes post-care and consultation";
@@ -9842,7 +9842,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo-89" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and 15 minutes post-care and consultation";
@@ -9859,7 +9859,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-hydraglow-treatment" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
@@ -9876,7 +9876,7 @@
                                     upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-facelift-69-95" ;
-                                    upDatedSpaPhone = "(754) 315-5567";
+                                    upDatedSpaPhone = "(954) 694-6452";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
