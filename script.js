@@ -10153,9 +10153,9 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
                                     promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    newSpaPhoneNumberSelected = "(808) 201-0060";
                                     insteadOfSpa = "$377"
                                     break;
 
@@ -10170,9 +10170,9 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    newSpaPhoneNumberSelected = "(808) 201-0060";
                                     insteadOfSpa = "$377"
                                     break;
 
@@ -10187,9 +10187,9 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    newSpaPhoneNumberSelected = "(808) 201-0060";
                                     insteadOfSpa = "$377"
                                     break;
 
@@ -10204,9 +10204,9 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(808) 779-8279";
+                                    newSpaPhoneNumberSelected = "(808) 201-0060";
                                     insteadOfSpa = "$377"
                                     break;
 
