@@ -9499,7 +9499,7 @@
                                             case "Skin So Sweet Natural Facelift $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
                                             upDatedSpaPhone = "(714) 886-6067";
@@ -9516,7 +9516,7 @@
                                             case "Skin So Sweet Skin Tightening $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
                                             upDatedSpaPhone = "(714) 886-6067";
@@ -9533,7 +9533,7 @@
                                             case "DTB Skin So Sweet Natural Facelift $59.95":
                                                 upDatedSpaName = "Skin So Sweet";
                                                 upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                                upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                                upDatedSpaLINK = " ";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-skin-so-sweet-natural-facelift-page-59-95";
                                                 upDatedSpaPhone = "(714) 886-6067";
@@ -9550,7 +9550,7 @@
                                                 case "Skin So Sweet Mens LED $79.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mens-led-anti-aging-promo-79-95";
                                             upDatedSpaPhone = "(714) 886-6067";
@@ -9567,7 +9567,7 @@
                                             case "Skin So Sweet Cryo Body Sculpting $69.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-cryo-body-sculpting-promo";
                                             upDatedSpaPhone = "(714) 886-6067";
@@ -9584,7 +9584,7 @@
                                             case "Skin So Sweet 3 in 1 Lifting Facial $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-                                            upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+                                            upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-3-in-1-lifting-facial-treatment";
                                             upDatedSpaPhone = "(714) 886-6067";
