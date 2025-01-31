@@ -10176,6 +10176,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "DTB Moana Crystals Skin Tightening $69.95":
+                                    upDatedSpaName = "Moana Crystals";
+                                    upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                    upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-moana-crystals-skin-tightening-69-95-two";
+                                    upDatedSpaPhone = "(808) 764-3367";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(808) 201-0060";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Moana Crystals Skin Tightening $69.95":
                                     upDatedSpaName = "Moana Crystals";
                                     upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
