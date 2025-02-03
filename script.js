@@ -10534,7 +10534,7 @@
                                     break;
 
                                     case "Ola Aesthetics and Spa Natural Facelift $59.95":
-                                    upDatedSpaName = "Ola Aesthetics and Spa";
+                                    upDatedSpaName = "Ola Aesthetic and Spa";
                                     upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
