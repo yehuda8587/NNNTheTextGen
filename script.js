@@ -10414,6 +10414,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Introstem Santa Rosa LED Non-Surgical Facelift $99.95":
+                                    upDatedSpaName = "Introstem";
+                                    upDatedSpaAddress = "1071 Santa Rosa Plaza, Santa Rosa, CA 95401"+"<br>"+"(First floor, in front of Lids, Space Number 1011)";
+                                    upDatedSpaLINK = "https://forms.gle/wcLEBrB6K1hpduNB6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/aws7jSaiqWcz4bbp6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/introstem-santa-rosa-led-non-surgical-facelift";
+                                    upDatedSpaPhone = "(707) 387-4443";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED Non-Surgical Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (707) 889-1472";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(707) 889-1472";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Introstem Santa Rosa Skin Tightening $129.95":
                                     upDatedSpaName = "Introstem";
                                     upDatedSpaAddress = "1071 Santa Rosa Plaza, Santa Rosa, CA 95401"+"<br>"+"(First floor, in front of Lids, Space Number 1011)";
