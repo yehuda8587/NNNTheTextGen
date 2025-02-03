@@ -10533,7 +10533,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Ola Aesthetics and Spa Natural Facelift $59.95":
+                                    case "Ola Aesthetic and Spa Natural Facelift $59.95":
                                     upDatedSpaName = "Ola Aesthetic and Spa";
                                     upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
