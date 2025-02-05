@@ -454,6 +454,23 @@
                         insteadOfSpa = "$377"
                         break;   
 
+                        case "Beauty Frizz Ocala Neck and Jawline 79.95":
+                        upDatedSpaName = "BeautyFrizz Spa";
+                        upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                        upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-neck-amp-jawline-promo";
+                        upDatedSpaPhone = "(352) 577-9216";
+                        upDatedDurationTotal = "60 Minutes";
+                        upDatedDurationOne = "- 15 Minutes Cleansing";
+                        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
+                        promoPrice = "79.95"
+                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                        treatmentSelected = "Neck and Jawline Tightening Treatment";
+                        newSpaPhoneNumberSelected = "(352) 216-4557";
+                        insteadOfSpa = "$377"
+                        break;   
+
 
                 case "Bee and Co":
                     upDatedSpaName = "Bee and Co";
@@ -1144,6 +1161,23 @@
                                                                     treatmentSelected = "Natural Facelift Treatment";
                                                                     newSpaPhoneNumberSelected = "(714) 784-6884";
                                                                     insteadOfSpa = "$350"
+                                                                    break;  
+
+                                                                    case "Supreme Brea Natural Facelift $59.95":
+                                                                    upDatedSpaName = "Supreme Spa";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-facelift-promo" ;
+                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedDurationTotal = "90 Minutes";
+                                                                    upDatedDurationOne = "- 30 Minutes Cleaning";
+                                                                    upDatedDurationTwo = "- 60 Minutes Natural Facelift Treatment & Consultation";
+                                                                    promoPrice = "59.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
+                                                                    treatmentSelected = "Natural Facelift Treatment";
+                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$377"
                                                                     break;  
 
 
@@ -10575,7 +10609,7 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-skin-tightening-promo";
                                     upDatedSpaPhone = "(480) 808-4602";
                                     upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
@@ -10592,13 +10626,30 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-skin-tightening-promo-59-95";
                                     upDatedSpaPhone = "(480) 808-4602";
                                     upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(480) 878-2860";
                                     insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elev8 Med Spa Collagen Enhancing $49.95":
+                                    upDatedSpaName = "Elev8 Med Spa";
+                                    upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
+                                    upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/m6vxPwaf3VBEbRZP6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-collagen-enhancing-promo";
+                                    upDatedSpaPhone = "(480) 808-4602";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and Collagen Enhancing Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "49.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 878-2860";
+                                    insteadOfSpa = "$299"
                                     break;
 
                                     case "Elev8 Med Spa 3 in 1 Skin Tightening $69.95":
@@ -10609,7 +10660,7 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-3-in-1-skin-tightening-promo";
                                     upDatedSpaPhone = "(480) 808-4602";
                                     upDatedDurationTotal = "45 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
