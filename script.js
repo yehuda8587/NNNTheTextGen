@@ -8368,6 +8368,40 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Malka Med Spa LED Non-Surgical Facelift 79.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-led-non-surgical-facelift-promo";
+                                        upDatedSpaPhone = "(469) 884-0553";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes light cleansing and the Non-Surgical Facelift treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Malka Med Spa Men LED Non-Surgical Facelift 79.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-men-led-non-surgical-facelift-promo";
+                                        upDatedSpaPhone = "(469) 884-0553";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes light cleansing and the Non-Surgical Facelift treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Malka Med Spa Skin Tightening 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -9072,6 +9106,23 @@
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
                                         upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and Consultation"
                                         promoPrice = "89.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
+                                        treatmentSelected = "Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(289) 279-0388";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Be You Wellness Men's Non-Surgical Facelift 79.95":
+                                        upDatedSpaName = "Be You";
+                                        upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
+                                        upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-men-led-non-surgical-facelift-promo";
+                                        upDatedSpaPhone = "(289) 919-9899";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing and facial massage";
+                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and Consultation"
+                                        promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 279-0388";
                                         treatmentSelected = "Non-Surgical Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(289) 279-0388";
