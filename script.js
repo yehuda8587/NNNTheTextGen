@@ -8385,7 +8385,7 @@
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Malka Med Spa Men LED Non-Surgical Facelift 79.95":
+                                        case "Malka Med Spa Men LED Non-Surgical Facelift 89.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
                                         upDatedSpaLINK = " ";
@@ -8395,7 +8395,7 @@
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes light cleansing and the Non-Surgical Facelift treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation"
-                                        promoPrice = "79.95";
+                                        promoPrice = "89.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
                                         treatmentSelected = "Non-Surgical Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(469) 888-6616";
