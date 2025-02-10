@@ -8687,6 +8687,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Oasis Aesthetics LED Non-Surgical Facelift 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-led-non-surgical-facelift-promo";
+                                        upDatedSpaPhone = "(204) 819-4554";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "LED Non-Surgical Facelift";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Oasis Aesthetics Oxygen and LED 69.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -10720,7 +10737,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Below Zero Spa Natural Facelift $79.95":
+                                    case "Below Zero Natural Facelift $79.95":
                                     upDatedSpaName = "Below Zero Spa";
                                     upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor next to Pandora)";
                                     upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
@@ -10732,7 +10749,7 @@
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
-                                    treatmentSelected = "Natura Facelift Treatment";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(301) 201-6735";
                                     insteadOfSpa = "$377"
                                     break;
