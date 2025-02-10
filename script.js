@@ -10431,6 +10431,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Below Zero Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Below Zero Spa";
+                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor next to Pandora)";
+                                    upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo";
+                                    upDatedSpaPhone = "(443) 545-3015";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Ora Med Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Ora Medical Spa";
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -10737,22 +10754,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Below Zero Natural Facelift $79.95":
-                                    upDatedSpaName = "Below Zero Spa";
-                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor next to Pandora)";
-                                    upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo";
-                                    upDatedSpaPhone = "(443) 545-3015";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-                                    upDatedDurationTwo = "- 15 minutes Consultation";
-                                    promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
-                                    treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(301) 201-6735";
-                                    insteadOfSpa = "$377"
-                                    break;
+                                    
 
                                     
 
