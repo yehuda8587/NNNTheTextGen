@@ -9598,6 +9598,40 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Beyond The Soap LED Non-Surgical Facelift $69.95":
+                                            upDatedSpaName = "Beyond The Soap";
+                                            upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
+                                            upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-led-non-surgical-facelift-promo";
+                                            upDatedSpaPhone = "(954) 526-8934";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes LED Non-Surgical Facelift Treatment and 15 minutes Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
+                                            treatmentSelected = "LED Non-Surgical Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(786) 317-6182";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Beyond The Soap Neck and Jawline $69.95":
+                                            upDatedSpaName = "Beyond The Soap";
+                                            upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
+                                            upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-neck-amp-jawline-promo";
+                                            upDatedSpaPhone = "(954) 526-8934";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Neck and Jawline Tightening Treatment and 15 minutes Post Care and Consultation"
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
+                                            treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(786) 317-6182";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Skin So Sweet Natural Facelift $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
@@ -10087,6 +10121,23 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Parie Med Spa LED Non-Surgical Facelift $59.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-led-non-surgical-facelift-promo" ;
+                                    upDatedSpaPhone = "(702) 637-2259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "LED Non-Surgical Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(702) 930-6221";
                                     insteadOfSpa = "$377"
                                     break;
