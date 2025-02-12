@@ -10142,6 +10142,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Parie Med Spa Natural Facelift $69.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-natural-facelift-promo" ;
+                                    upDatedSpaPhone = "(702) 637-2259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Parie Med Spa Laser Hair Removal $89.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
@@ -10700,6 +10717,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 393-1149";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(786) 393-1149";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Meital Studios Beauty LED Anti-Aging $79.95":
+                                    upDatedSpaName = "Meital Studios Beauty";
+                                    upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                    upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-led-promo";
+                                    upDatedSpaPhone = "(437) 317-0143";
+                                    upDatedDurationTotal = "90 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                    treatmentSelected = "LED Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
                                     break;
 
