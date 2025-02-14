@@ -3625,7 +3625,7 @@
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
-                                            upDatedSpaPhone = "(661) 206-1303";
+                                            upDatedSpaPhone = "(661) 214-7151";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
                                             upDatedDurationTwo = " ";
@@ -3642,7 +3642,7 @@
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-led-promo";
-                                            upDatedSpaPhone = "(661) 206-1303";
+                                            upDatedSpaPhone = "(661) 214-7151";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 60 Minutes LED Experience & Consultation";
                                             upDatedDurationTwo = " ";
