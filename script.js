@@ -10533,6 +10533,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Ora Med Spa Natural Skin Tightening $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-skin-tightening-promo";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Ora Med Spa Men Skin Tightening $89.95":
                                     upDatedSpaName = "Ora Medical Spa";
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -10733,6 +10750,23 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "LED Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 243-4780";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Meital Studios Beauty 3 in 1 Skin Tightening $79.95":
+                                    upDatedSpaName = "Meital Studios Beauty";
+                                    upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                    upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-3-in-1-skin-tightening-promo";
+                                    upDatedSpaPhone = "(437) 317-0143";
+                                    upDatedDurationTotal = "90 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
                                     break;
