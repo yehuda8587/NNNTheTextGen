@@ -1114,7 +1114,7 @@
                                                                     
                                                                 case "Supreme Brea":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-spa-brea-led-promo-page" ;
@@ -1131,7 +1131,7 @@
 
                                                                     case "Supreme Brea FTB LED 79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/supreme-spa-brea-led-promo" ;
@@ -1148,7 +1148,7 @@
 
                                                                     case "Supreme Brea Natural Facelift $79.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-face-lift-promo-79-95" ;
@@ -1165,7 +1165,7 @@
 
                                                                     case "Supreme Brea Natural Facelift $59.95":
                                                                     upDatedSpaName = "Supreme Spa";
-                                                                    upDatedSpaAddress = "910 E birch st. suite #250, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
                                                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-facelift-promo" ;
