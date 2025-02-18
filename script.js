@@ -9430,6 +9430,23 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Alabama Med Spa Natural Facelift 99.95":
+                                            upDatedSpaName = "Alabama Med Spa";
+                                            upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
+                                            upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
+                                            upDatedSpaPhone = "(713) 322-9558";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing";
+                                            upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Post Care and Consultation"
+                                            promoPrice = "99.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 504-0575";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(832) 504-0575";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Alabama Med Spa Men's Natural Facelift 89.95":
                                             upDatedSpaName = "Alabama Med Spa";
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
@@ -9645,6 +9662,23 @@
                                             promoPrice = "59.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
                                             treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$377";
+                                            break;
+
+                                            case "Skin So Sweet Hydraglow $59.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
+                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and Hydraglow Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Hydraglow Treatment";
                                             newSpaPhoneNumberSelected = "(714) 203-3527";
                                             insteadOfSpa = "$377";
                                             break;
