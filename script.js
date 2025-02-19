@@ -10778,8 +10778,8 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-led-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
-                                    upDatedDurationTotal = "90 Minutes";
-                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 30 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
@@ -10795,8 +10795,8 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-3-in-1-skin-tightening-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
-                                    upDatedDurationTotal = "90 Minutes";
-                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 30 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
@@ -10837,6 +10837,23 @@
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(713) 933-5371";
                                     insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spiderveinpromo";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (732) 651-1300";
+                                    treatmentSelected = "Spider Vein Treatment";
+                                    newSpaPhoneNumberSelected = "(732) 651-1300";
+                                    insteadOfSpa = "$775"
                                     break;
 
                                     case "Elev8 Med Spa Skin Tightening $79.95":
