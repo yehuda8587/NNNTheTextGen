@@ -10159,6 +10159,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Parie Med Spa Skin Tightening Facial $69.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-facial-promo" ;
+                                    upDatedSpaPhone = "(702) 637-2259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Facial and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Parie Med Spa LED Non-Surgical Facelift $59.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
@@ -10189,6 +10206,23 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(702) 930-6221";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Parie Med Spa Anti-Aging Facial $69.95":
+                                    upDatedSpaName = "Parie Med Spa";
+                                    upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-anti-aging-facial-promo" ;
+                                    upDatedSpaPhone = "(702) 637-2259";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Anti-Aging Facial and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                    treatmentSelected = "LED Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(702) 930-6221";
                                     insteadOfSpa = "$377"
                                     break;
@@ -10854,6 +10888,40 @@
                                     treatmentSelected = "Spider Vein Treatment";
                                     newSpaPhoneNumberSelected = "(732) 651-1300";
                                     insteadOfSpa = "$775"
+                                    break;
+
+                                    case "Renova Skin Med Spa Anti-Aging Facial $59.95":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/renova-skin-med-spa-anti-aging-facial-promo";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Anti-Aging Facial";
+                                    upDatedDurationTwo = " -15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+                                    treatmentSelected = "LED Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(609) 422-9463";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Renova Skin Med Spa LED Non-Surgical Facelift $59.95":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
+                                    upDatedDurationTwo = " -15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(609) 422-9463";
+                                    insteadOfSpa = "$377"
                                     break;
 
                                     case "Elev8 Med Spa Skin Tightening $79.95":
