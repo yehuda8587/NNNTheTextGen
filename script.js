@@ -8829,7 +8829,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-mommy-tummy-79-95";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -8846,7 +8846,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-collagen-enhancing-promo";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
@@ -8863,7 +8863,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-collagen-enhancing";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Collagen Enhancing Treatment and 15 minutes Consultation"
@@ -8880,7 +8880,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-skin-tightening-69-95";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
@@ -8897,7 +8897,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-mens-skin-tightening-promo-89-95";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Skin Tightening and 15 minutes Consultation"
@@ -8914,7 +8914,7 @@
                                         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-oxygen-treatment";
-                                        upDatedSpaPhone = "(204) 819-4507";
+                                        upDatedSpaPhone = "(204) 800-4409";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing";
                                         upDatedDurationTwo = "- 30 minutes Oxygen Treatment and 15 minutes Consultation"
