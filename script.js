@@ -9435,7 +9435,7 @@
                                             upDatedSpaAddress = "3701 W Alabama St. Houston, TX 77027"+"<br>"+"(Suite 388, W Alabama Plaza right after Mane Hair Salon and Flower Studio)"+"<br>"+"Park infront of the store";
                                             upDatedSpaLINK = "https://forms.gle/bRpgQjcYzxuigeKg6";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/WUJhbFa7L7PtyXLo6";
-                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-treatment";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/alabama-spa-natural-facelift-promo";
                                             upDatedSpaPhone = "(713) 322-9558";
                                             upDatedDurationTotal = "45 Minutes";
                                             upDatedDurationOne = "- 15 minutes light cleansing";
