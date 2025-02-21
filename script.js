@@ -542,7 +542,7 @@
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
-                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-skin-tightening-promo" ;
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-natural-facelift-promo" ;
                     upDatedSpaPhone = "(747) 261-9969";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 45 Minutes Natural Facelift Treatment";
