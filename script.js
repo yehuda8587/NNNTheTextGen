@@ -10569,7 +10569,7 @@
 
                                     case "Below Zero Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Below Zero Spa";
-                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor next to Pandora)";
+                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
                                     upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo";
