@@ -8687,6 +8687,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Oasis Aesthetics Anti-Aging 59.99":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-ness-anti-aging-facial";
+                                        upDatedSpaPhone = "(204) 819-4554";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.99";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Anti-Aging Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Oasis Aesthetics LED Non-Surgical Facelift 69.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -8823,6 +8840,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Oasis Aesthetics Body Contouring 69.99":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-ness-body-contouring-promo";
+                                        upDatedSpaPhone = "(204) 819-4554";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "69.99";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                        treatmentSelected = "Body Contouring Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 306-7627";
+                                        insteadOfSpa = "$350";
+                                        break;
+
                                         case "Oasis Aesthetics Henderson Body Contouring 79.95":
                                         upDatedSpaName = "Oasis Aesthetics";
                                         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -8836,6 +8870,40 @@
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
                                         treatmentSelected = "Body Contouring Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Body Contouring 69.99":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-body-contouring-promo";
+                                        upDatedSpaPhone = "(204) 800-4409";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "69.99";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Body Contouring Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson Anti-Aging 59.99":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-anti-aging-facial";
+                                        upDatedSpaPhone = "(204) 800-4409";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Anti-Aging Treatment and 15 minutes Consultation"
+                                        promoPrice = "59.99";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "Anti-Aging Treatment";
                                         newSpaPhoneNumberSelected = "(204) 691-1922";
                                         insteadOfSpa = "$377";
                                         break;
@@ -8872,6 +8940,23 @@
                                         treatmentSelected = "Collagen Enhancing Treatment";
                                         newSpaPhoneNumberSelected = "(204) 691-1922";
                                         insteadOfSpa = "$350";
+                                        break;
+
+                                        case "Oasis Aesthetics Henderson LED Non-Surgical Facelift 69.95":
+                                        upDatedSpaName = "Oasis Aesthetics";
+                                        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-led-non-surgical-facelift";
+                                        upDatedSpaPhone = "(204) 800-4409";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes cleansing";
+                                        upDatedDurationTwo = "- 30 minutes LED Non-Surgical Facelift Treatment and 15 minutes Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                        treatmentSelected = "LED Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(204) 691-1922";
+                                        insteadOfSpa = "$377";
                                         break;
 
                                         case "Oasis Aesthetics Henderson Skin Tightening 69.95":
