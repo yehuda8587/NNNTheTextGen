@@ -10962,7 +10962,7 @@
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/wnj9vaL1WiLnfF9n6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
                                     upDatedSpaPhone = "(832) 389-2267";
                                     upDatedDurationTotal = "60 Minutes";
@@ -10979,7 +10979,7 @@
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/wnj9vaL1WiLnfF9n6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
                                     upDatedSpaPhone = "(832) 389-2267";
                                     upDatedDurationTotal = "60 Minutes";
@@ -10989,6 +10989,40 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                     treatmentSelected = "Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tranquil Wellness and Spa Skin Tightening Facial $69.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-skin-tightening-promo";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tranquil Wellness and Spa Anti-Aging Facial $69.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-anti-aging-promo";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
                                     insteadOfSpa = "$377"
                                     break;
 
