@@ -4186,6 +4186,23 @@
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "FTB Ben's Beauty Spa Natural Facelift 59.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                    upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-natural-facelift-page-59-95" ;
+                                    upDatedSpaPhone = "(626) 225-0556";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Consultation";
+                                    upDatedDurationTwo = "45 minutes of Natural Facelift Treatment";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                    treatmentSelected = "Natural Facelift";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Ben's Beauty Skin Tightening 59.95 with DP":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -10964,7 +10981,7 @@
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
-                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedSpaPhone = "(972) 866-4612";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
@@ -10981,7 +10998,7 @@
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
-                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedSpaPhone = "(972) 866-4612";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
