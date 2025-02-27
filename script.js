@@ -10958,6 +10958,40 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Equanimity Anti-Aging Facial $59.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/wnj9vaL1WiLnfF9n6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Equanimity Skin Tightening Facial $59.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/wnj9vaL1WiLnfF9n6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
+                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
                                     upDatedSpaName = "Vein Vascular Clinic";
                                     upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
