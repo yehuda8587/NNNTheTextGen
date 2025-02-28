@@ -10901,9 +10901,9 @@
                                     upDatedDurationOne = "- 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 393-1149";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443) 969-5704";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(786) 393-1149";
+                                    newSpaPhoneNumberSelected = "(443) 969-5704";
                                     insteadOfSpa = "$377"
                                     break;
 
