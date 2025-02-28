@@ -10941,6 +10941,57 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Meital Studios Beauty Skin Tightening $79.95":
+                                    upDatedSpaName = "Meital Studios Beauty";
+                                    upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                    upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-skin-tightening-promo";
+                                    upDatedSpaPhone = "(437) 317-0143";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 243-4780";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Meital Studios Beauty Men Skin Tightening $79.95":
+                                    upDatedSpaName = "Meital Studios Beauty";
+                                    upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                    upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-mens-skin-tightening-promo";
+                                    upDatedSpaPhone = "(437) 317-0143";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 243-4780";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Meital Studios Beauty Hydraglow $79.95":
+                                    upDatedSpaName = "Meital Studios Beauty";
+                                    upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                    upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-hydraglow-promo";
+                                    upDatedSpaPhone = "(437) 317-0143";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
+                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(647) 243-4780";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Ola Aesthetic and Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Ola Aesthetic and Spa";
                                     upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
@@ -11015,7 +11066,7 @@
                                     upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-skin-tightening-promo";
-                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedSpaPhone = "(904) 339-5671";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
@@ -11032,7 +11083,7 @@
                                     upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-anti-aging-promo";
-                                    upDatedSpaPhone = "(832) 389-2267";
+                                    upDatedSpaPhone = "(904) 339-5671";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
