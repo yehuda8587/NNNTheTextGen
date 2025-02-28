@@ -4194,13 +4194,13 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-natural-facelift-page-59-95" ;
                                     upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "15 minute Consultation";
-                                    upDatedDurationTwo = "45 minutes of Natural Facelift Treatment";
+                                    upDatedDurationOne = "15 minute Cleansing";
+                                    upDatedDurationTwo = "30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
                                     promoPrice = "59.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
                                     treatmentSelected = "Natural Facelift";
                                     newSpaPhoneNumberSelected = "(626) 298-6456";
-                                    insteadOfSpa = "$299";
+                                    insteadOfSpa = "$377";
                                     break;
 
                                     case "Ben's Beauty Skin Tightening 59.95 with DP":
