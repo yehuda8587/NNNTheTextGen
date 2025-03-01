@@ -714,7 +714,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-spa-led-promo-page" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
@@ -731,7 +731,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-non-surgical-facelift" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
                                 upDatedDurationTwo = "- 15-minute Consultation";
@@ -765,7 +765,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-neck-and-jaw-line-tightening-treatment-promo" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
@@ -782,7 +782,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-skin-tightening-promo-page" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
@@ -799,7 +799,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/barrie-natural-face-lift-promo-79-95" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 40 Minutes Natural Facelift Treatment & Consultation";
@@ -816,7 +816,7 @@
                                 upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-mens-skin-tightening-promo-89-95" ;
-                                upDatedSpaPhone = "(705) 408-2815";
+                                upDatedSpaPhone = "(705) 413-3910";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 20 Minutes Light Cleaning";
                                 upDatedDurationTwo = "- 40 Minutes Skin Tightening Treatment & Consultation";
