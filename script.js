@@ -11147,7 +11147,7 @@
 
                                     case "Wow Laser Spa Skin Tightening $59.95":
                                     upDatedSpaName = "Wow Laser Spa";
-                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaAddress = "1011 W Hallandale Beach Blvd FL 33009"+"<br>"+"(#101 Plaza and on Hallandale, where Zaatar restaurant see the big sign that says 'Wow laser spa')";
                                     upDatedSpaLINK = "https://forms.gle/RbmGnxhAJtsEjjUo7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1fwPD1qgwGRtH1vD86";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/wow-laser-spa-skin-tightening-facial-promo";
