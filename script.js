@@ -11149,7 +11149,7 @@
                                     upDatedSpaName = "Wow Laser Spa";
                                     upDatedSpaAddress = "1011 W Hallandale Beach Blvd FL 33009"+"<br>"+"(#101 Plaza and on Hallandale, where Zaatar restaurant see the big sign that says 'Wow laser spa')";
                                     upDatedSpaLINK = "https://forms.gle/RbmGnxhAJtsEjjUo7";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/1fwPD1qgwGRtH1vD86";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/ibahoZXf98sryot49";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/wow-laser-spa-skin-tightening-facial-promo";
                                     upDatedSpaPhone = "(754) 217-6492";
                                     upDatedDurationTotal = "50 Minutes";
