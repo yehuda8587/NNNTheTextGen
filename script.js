@@ -10703,6 +10703,57 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Ora Med Spa Hydraglow $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-hydraglow-promo";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$399"
+                                    break;
+
+                                    case "Ora Med Spa Skin Tightening $69.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-skin-tightening";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$377"
+                                    break;
+                                    
+                                    case "Ora Med Spa 3 in 1 Skin Tightening $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-3-in-1-skin-tightening";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$399"
+                                    break;
+
                                     case "Ora Med Spa Natural Skin Tightening $79.95":
                                     upDatedSpaName = "Ora Medical Spa";
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -11073,6 +11124,40 @@
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tranquil Wellness and Spa Skin Tightening Facial $59.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-skin-tightening-treatment";
+                                    upDatedSpaPhone = "(904) 339-5671";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tranquil Wellness and Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-natural-facelift-treatment";
+                                    upDatedSpaPhone = "(904) 339-5671";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(904) 619-6064";
                                     insteadOfSpa = "$377"
                                     break;
