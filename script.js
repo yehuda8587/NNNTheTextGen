@@ -235,6 +235,23 @@
                 insteadOfSpa = "$377"
                 break;
 
+                case "Skin Analytics Natural Facelift 89.95":
+                upDatedSpaName = "Skin Analytics Spa";
+                upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
+                upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
+                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-treatment"
+                upDatedSpaPhone = "(919) 695-9376";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleaning";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+                promoPrice = "89.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "(919) 405-2586";
+                insteadOfSpa = "$377"
+                break;
+
                 case "Skin Analytics Natural Facelift $69.95":
                 upDatedSpaName = "Skin Analytics Spa";
                 upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
@@ -11244,6 +11261,40 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 334-1679";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(786) 334-1679";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Blowout Spa Men Skin Tightening $89.95":
+                                    upDatedSpaName = "Blowout Spa";
+                                    upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
+                                    upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-men-skin-tightening-promo";
+                                    upDatedSpaPhone = "(404) 301-3539";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(979) 324-5845";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Blowout Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Blowout Spa";
+                                    upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
+                                    upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo";
+                                    upDatedSpaPhone = "(404) 301-3539";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(979) 324-5845";
                                     insteadOfSpa = "$377"
                                     break;
 
