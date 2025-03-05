@@ -11281,7 +11281,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Blowout Spa Skin Tightening $79.95":
+                                    case "Blowout Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Blowout Spa";
                                     upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
                                     upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
