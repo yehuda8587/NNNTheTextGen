@@ -11213,6 +11213,23 @@
                                     insteadOfSpa = "$775"
                                     break;
 
+                                    case "Vein Vascular Clinic Free Vein Screening":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/free-vein-screening";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "0";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (732) 651-1300";
+                                    treatmentSelected = "Spider Vein Treatment";
+                                    newSpaPhoneNumberSelected = "(732) 651-1300";
+                                    insteadOfSpa = "$375"
+                                    break;
+
                                     case "Renova Skin Med Spa Anti-Aging Facial $59.95":
                                     upDatedSpaName = "Renova Skin Med Spa";
                                     upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
@@ -11295,6 +11312,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(979) 324-5845";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Salo Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Salo Spa";
+                                    upDatedSpaAddress = "25 SW Osceola St, Stuart, FL 34994"+"<br>"+"(Stuart Shopping Center next to Argento Jewelry)";
+                                    upDatedSpaLINK = "https://forms.gle/JYGLkByUiafrnTcG7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/aBQPiZoojTU6wrCv7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/salo-spa-natural-facelift-treatment";
+                                    upDatedSpaPhone = "(772) 210-4257";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 205-5411";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 205-5411";
                                     insteadOfSpa = "$377"
                                     break;
 
