@@ -11096,7 +11096,7 @@
 
                                     case "Equanimity Anti-Aging Facial $59.95":
                                     upDatedSpaName = "Equanimity Wellness";
-                                    upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
@@ -11113,7 +11113,7 @@
 
                                     case "Equanimity Skin Tightening Facial $59.95":
                                     upDatedSpaName = "Equanimity Wellness";
-                                    upDatedSpaAddress = "11661 Preston Rd. Dallas, TX 75230"+"<br>"+"(#170, on the 2nd floor above Renny's Restaurant in the shopping plaza)";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
@@ -11314,6 +11314,22 @@
                                     newSpaPhoneNumberSelected = "(979) 324-5845";
                                     insteadOfSpa = "$377"
                                     break;
+
+                                    case "Hermetise Fayetteville Natural Facelift $79.95":
+                                            upDatedSpaName = "Hermetise Spa";
+                                            upDatedSpaAddress = "Cross Creek Mall, 419 cross creek mall, Fayetteville, NC 28303" + "<br>" + "(Center of the mall, Across from Aldo)";
+                                            upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-natural-facelift-promo";
+                                            upDatedSpaPhone = "(910) 321-8797";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (910) 867-4100";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(910) 867-4100";
+                                            insteadOfSpa = "$377";
+                                            break; 
 
                                     case "Salo Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Salo Spa";
