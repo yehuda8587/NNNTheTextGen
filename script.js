@@ -9853,6 +9853,23 @@
                                             insteadOfSpa = "$299";
                                             break;
 
+                                            case "Skin So Sweet Neck and Jawline $59.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-neck-amp-jawline-promo";
+                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and Neck and Jawline Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Neck and Jawline Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$299";
+                                            break;
+
                                             case "Skin So Sweet Cryo Body Sculpting $69.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
