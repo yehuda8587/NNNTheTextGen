@@ -11319,6 +11319,7 @@
                                             upDatedSpaName = "Hermetise Spa";
                                             upDatedSpaAddress = "Cross Creek Mall, 419 Cross Creek Mall, Fayetteville, NC 28303" + "<br>" + "(Center of the Mall , Across Aldo, Next to Zales)";
                                             upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5YarDpsVL7XxrrNL9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-natural-facelift-promo";
                                             upDatedSpaPhone = "(910) 321-8797";
                                             upDatedDurationTotal = "60 Minutes";
