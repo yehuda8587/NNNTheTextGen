@@ -11098,7 +11098,7 @@
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
                                     upDatedSpaPhone = "(972) 866-4612";
                                     upDatedDurationTotal = "60 Minutes";
@@ -11115,7 +11115,7 @@
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VR4se22xCnrUxtwo6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
                                     upDatedSpaPhone = "(972) 866-4612";
                                     upDatedDurationTotal = "60 Minutes";
@@ -11317,7 +11317,7 @@
 
                                     case "Hermetise Fayetteville Natural Facelift $79.95":
                                             upDatedSpaName = "Hermetise Spa";
-                                            upDatedSpaAddress = "Cross Creek Mall, 419 cross creek mall, Fayetteville, NC 28303" + "<br>" + "(Center of the mall, Across from Aldo)";
+                                            upDatedSpaAddress = "Cross Creek Mall, 419 Cross Creek Mall, Fayetteville, NC 28303" + "<br>" + "(Center of the Mall , Across Aldo, Next to Zales)";
                                             upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-natural-facelift-promo";
                                             upDatedSpaPhone = "(910) 321-8797";
