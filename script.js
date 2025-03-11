@@ -1197,6 +1197,23 @@
                                                                     insteadOfSpa = "$377"
                                                                     break;  
 
+                                                                    case "Supreme Brea Natural Facelift $69.95":
+                                                                    upDatedSpaName = "Supreme Spa";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/supreme-brea-natural-facelift-promo-69-95" ;
+                                                                    upDatedSpaPhone = "(714) 592-0373";
+                                                                    upDatedDurationTotal = "90 Minutes";
+                                                                    upDatedDurationOne = "- 30 Minutes Cleaning";
+                                                                    upDatedDurationTwo = "- 60 Minutes Natural Facelift Treatment & Consultation";
+                                                                    promoPrice = "69.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
+                                                                    treatmentSelected = "Natural Facelift Treatment";
+                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$377"
+                                                                    break;  
+
 
                                     case "Tresor Rare Las Olas":
                                         upDatedSpaName = "Tresor Rare Spa";
