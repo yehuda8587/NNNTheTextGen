@@ -9867,7 +9867,7 @@
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
                                             treatmentSelected = "Neck and Jawline Treatment";
                                             newSpaPhoneNumberSelected = "(714) 203-3527";
-                                            insteadOfSpa = "$299";
+                                            insteadOfSpa = "$377";
                                             break;
 
                                             case "Skin So Sweet Cryo Body Sculpting $69.95":
