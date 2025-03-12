@@ -10040,6 +10040,23 @@
                                                 insteadOfSpa = "$299";
                                                 break;
 
+                                                case "SKT Med Spa Natural Facelift $79.95":
+                                                upDatedSpaName = "SKT Med Spa";
+                                                upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
+                                                upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
+                                                upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
+                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-facelift-facial-promo";
+                                                upDatedSpaPhone = "(949) 629-4609";
+                                                upDatedDurationTotal = "75 Minutes";
+                                                upDatedDurationOne = "- 15 min intake and 45 minutes Natural Facelift";
+                                                upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                                promoPrice = "79.95";
+                                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
+                                                treatmentSelected = "3 in 1 Natural Skin Tightening Treatment";
+                                                newSpaPhoneNumberSelected = "(949) 545-7129";
+                                                insteadOfSpa = "$377";
+                                                break;
+
                                                 case "SKT Med Spa Men Skin Tightening 79.95":
                                                 upDatedSpaName = "SKT Med Spa";
                                                 upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
