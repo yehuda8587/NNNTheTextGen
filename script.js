@@ -9802,6 +9802,23 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Skin So Sweet Mommy Tummy Rescue $59.95":
+                                            upDatedSpaName = "Skin So Sweet";
+                                            upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mommy-tummy-rescue";
+                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Mommy Tummy Rescue";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                            treatmentSelected = "Mommy Tummy Rescue";
+                                            newSpaPhoneNumberSelected = "(714) 203-3527";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Skin So Sweet Hydraglow $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
@@ -11355,6 +11372,23 @@
                                     upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/free-vein-screening";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "0";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (732) 651-1300";
+                                    treatmentSelected = "Spider Vein Treatment";
+                                    newSpaPhoneNumberSelected = "(732) 651-1300";
+                                    insteadOfSpa = "$375"
+                                    break;
+
+                                    case "Vein Vascular Clinic Free Vein Consultation":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/free-spider-vein-consultation";
                                     upDatedSpaPhone = "(732) 523-2168";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " ";
