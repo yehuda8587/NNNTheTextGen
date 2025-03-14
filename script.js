@@ -11587,6 +11587,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Elev8 Med Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Elev8 Med Spa";
+                                    upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
+                                    upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/m6vxPwaf3VBEbRZP6";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/elev8-med-spa-natural-skin-tightening";
+                                    upDatedSpaPhone = "(480) 808-4602";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 878-2860";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Elev8 Med Spa Collagen Enhancing $49.95":
                                     upDatedSpaName = "Elev8 Med Spa";
                                     upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
