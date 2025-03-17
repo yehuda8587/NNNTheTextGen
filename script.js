@@ -10720,13 +10720,64 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Miliv Med Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-natural-facelift-promo";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Miliv Med Spa 3 in 1 Skin Tightening $79.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-3-in-1-skin-tightening";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Miliv Med Spa Men Skin Tightening $89.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-men-skin-tightening-promo";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Liv Med Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Liv Med Spa";
                                     upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-promo-page";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -10743,7 +10794,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-skin-tightening-promo-89-95 ";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -10760,7 +10811,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-natural-facelift-promo";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -10777,7 +10828,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-skin-tightening-promo";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -10794,7 +10845,7 @@
                                     upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-mens-skin-tightening-promo";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -10811,7 +10862,7 @@
                                     upDatedSpaLINK = "https://forms.gle/usWxTeE2MQ8B3xZN7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VfCsi5A3jiHz6AMY9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/allure-natural-facelift-promo";
-                                    upDatedSpaPhone = "(346) 552-8199";
+                                    upDatedSpaPhone = "(281) 410-2798";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -10828,7 +10879,7 @@
                                     upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo";
-                                    upDatedSpaPhone = "(443) 545-3015";
+                                    upDatedSpaPhone = "(410) 261-6428";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
