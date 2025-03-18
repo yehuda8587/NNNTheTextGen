@@ -11587,6 +11587,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Renova Skin Med Spa Non-Surgical Facelift $79.95":
+                                    upDatedSpaName = "Renova Skin Med Spa";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
+                                    upDatedDurationTwo = " -15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(609) 422-9463";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Wow Laser Spa Skin Tightening $59.95":
                                     upDatedSpaName = "Wow Laser Spa";
                                     upDatedSpaAddress = "1011 W Hallandale Beach Blvd FL 33009"+"<br>"+"(#101 Plaza and on Hallandale, where Zaatar restaurant see the big sign that says 'Wow laser spa')";
