@@ -2514,6 +2514,57 @@
                                     insteadOfSpa = "$377";
                                     break; 
 
+                                    case "AVOLOGI Eneo Metrotown Natural Facelift $79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-facelift-promo";
+                                    upDatedSpaPhone = "(778) 910-1179";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "AVOLOGI Eneo Metrotown Natural Skin Tightening $79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-skin-tightening-promo";
+                                    upDatedSpaPhone = "(778) 910-1179";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
+                                    case "TG - AVOLOGI Eneo Metrotown Natural Facelift $79.95":
+                                        upDatedSpaName = "Avologi Eneo";
+                                    upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
+                                    upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
+                                    upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tg-avologi-metrotown-natural-facelift-promo";
+                                    upDatedSpaPhone = "(778) 910-1179";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 Minutes Consultation";
+                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "AVOLOGI Eneo Metrotown Body Treatment $79.95":
                                         upDatedSpaName = "Avologi Eneo";
                                     upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
@@ -10884,6 +10935,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Below Zero Spa Natural Facelift $99.95":
+                                    upDatedSpaName = "Below Zero Spa";
+                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
+                                    upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo-99-95";
+                                    upDatedSpaPhone = "(410) 261-6428";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(301) 201-6735";
