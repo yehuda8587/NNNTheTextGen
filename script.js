@@ -11723,6 +11723,40 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Dermagen Med Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Dermagen Med Spa";
+                                    upDatedSpaAddress = "222 Yamato Rd. Boca Raton, FL. 33431"+"<br>"+"(Yamato Crossing Plaza, Next to UPS Store)";
+                                    upDatedSpaLINK = "https://forms.gle/z1MS5ULugz1o4hdh7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/7Bscp28UkenkgCXy9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermagen-med-spa-natural-facelift-promo";
+                                    upDatedSpaPhone = "(561) 320-8635";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Dermagen Med Spa Men Skin Tightening $79.95":
+                                    upDatedSpaName = "Dermagen Med Spa";
+                                    upDatedSpaAddress = "222 Yamato Rd. Boca Raton, FL. 33431"+"<br>"+"(Yamato Crossing Plaza, Next to UPS Store)";
+                                    upDatedSpaLINK = "https://forms.gle/z1MS5ULugz1o4hdh7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/7Bscp28UkenkgCXy9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermagen-med-spa-men-skin-tightening-promo";
+                                    upDatedSpaPhone = "(561) 320-8635";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Elev8 Med Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Elev8 Med Spa";
                                     upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
