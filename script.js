@@ -11502,6 +11502,40 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Tranquil Wellness and Spa DTB - Natural Facelift $59.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-natural-facelift-dtb-two";
+                                    upDatedSpaPhone = "(904) 339-5671";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tranquil Wellness and Spa 3 in 1 Skin Lifting $59.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-3-in-1-lifting-facial-promo";
+                                    upDatedSpaPhone = "(904) 339-5671";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Lifting Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
                                     upDatedSpaName = "Vein Vascular Clinic";
                                     upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
