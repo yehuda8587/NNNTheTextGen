@@ -11366,6 +11366,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Equanimity Men Skin Tightening $89.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-men-skin-tightening-promo";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Equanimity Skin Tightening Facial $59.95":
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
@@ -11754,6 +11771,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Elev8 Med Spa Hydraglow Treatment $59.95":
+                                    upDatedSpaName = "Elev8 Med Spa";
+                                    upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
+                                    upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/m6vxPwaf3VBEbRZP6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elev8-med-spa-hydraglow-promo";
+                                    upDatedSpaPhone = "(480) 808-4602";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and Hydraglow Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 878-2860";
                                     insteadOfSpa = "$377"
                                     break;
 
