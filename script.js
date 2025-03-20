@@ -10794,7 +10794,7 @@
                                     upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-natural-facelift-promo";
-                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedSpaPhone = "(713) 347-2676";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
