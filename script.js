@@ -10113,7 +10113,7 @@
                                                 upDatedSpaAddress = "542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
-                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3in1-skin-tight-79";
+                                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skt-3in1-skintight";
                                                 upDatedSpaPhone = "(949) 629-4609";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes KrX V-Tox application and Red Light Therapy";
@@ -10130,7 +10130,7 @@
                                                 upDatedSpaAddress = "542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
-                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-ultrasonic-facelift-treament";
+                                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skt-ultrasonic-facelift-79";
                                                 upDatedSpaPhone = "(949) 629-4609";
                                                 upDatedDurationTotal = "60 Minutes";
                                                 upDatedDurationOne = "- 10 minuntes Cleansing and 30 minutes Ultrasonic Facelift";
@@ -10164,7 +10164,7 @@
                                                 upDatedSpaAddress = " 542 N El Camino Real, San Clemente, CA. 92672"+"<br>"+"(Right next to Pedro's Tacos.)";
                                                 upDatedSpaLINK = "https://forms.gle/3JJAoYwPkEP4H5z57";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/n87RmEbqQApgLm5v8";
-                                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-natural-facelift-facial-promo";
+                                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-skt-natural-facelift-79-95-377";
                                                 upDatedSpaPhone = "(949) 629-4609";
                                                 upDatedDurationTotal = "75 Minutes";
                                                 upDatedDurationOne = "- 15 min intake and 45 minutes Natural Facelift";
