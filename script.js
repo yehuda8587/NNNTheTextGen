@@ -10805,6 +10805,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Miliv Med Spa Natural Facelift $69.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-natural-facelift-promo-69-95";
+                                    upDatedSpaPhone = "(713) 347-2676";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Miliv Med Spa 3 in 1 Skin Tightening $79.95":
                                     upDatedSpaName = "Miliv Med Spa";
                                     upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
