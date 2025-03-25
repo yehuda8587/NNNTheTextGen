@@ -10873,6 +10873,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Liv Med Spa Natural Facelift $79.95":
+                                    upDatedSpaName = "Liv Med Spa";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-natural-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 395-8095";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Liv Med Spa Skin Tightening $89.95":
                                     upDatedSpaName = "Liv Med Spa";
                                     upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
