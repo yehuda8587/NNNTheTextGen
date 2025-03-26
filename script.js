@@ -571,6 +571,23 @@
                     insteadOfSpa = "$377"
                     break;
 
+                    case "Bee and Co FTB Natural Facelift 69.95":
+                    upDatedSpaName = "Bee and Co";
+                    upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                    upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-natural-facelift-promo-69-95" ;
+                    upDatedSpaPhone = "(747) 261-9969";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 45 Minutes Natural Facelift Treatment";
+                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                    promoPrice = "69.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                    treatmentSelected = "Natural Facelift Treatment";
+                    newSpaPhoneNumberSelected = "(747) 247-2204";
+                    insteadOfSpa = "$377"
+                    break;
+
                     case "Bee and Co FTB Skin Tightening 59.95":
                     upDatedSpaName = "Bee and Co";
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
@@ -593,7 +610,7 @@
                     upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
                     upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/Eh3qPLPmrkh2tPPH8";
-                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-3-in-1-skin-tightening-treatment" ;
+                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-3-in-1-skin-tightening-promo-69-95" ;
                     upDatedSpaPhone = "(747) 261-9969";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
@@ -3706,7 +3723,7 @@
 
                                         case "Orogold Valencia":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orogold-spa-valencia-led-promo";
@@ -3723,7 +3740,7 @@
 
                                             case "Orogold Valencia FTB LED 79.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-led-promo";
@@ -3740,7 +3757,7 @@
 
                                             case "Orogold Valencia FTB Skin Tightening 79.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-skin-tightening-treatment-79-95";
@@ -3757,7 +3774,7 @@
 
                                             case "Orogold Valencia FTB Natural Facelift 79.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-natural-facelift-promo";
@@ -3772,9 +3789,26 @@
                                             insteadOfSpa = "$377";
                                             break; 
 
+                                            case "Orogold Valencia FTB Natural Facelift 69.95":
+                                            upDatedSpaName = "OROGOLD Spa";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-natural-facelift-promo-69-95";
+                                            upDatedSpaPhone = "(661) 863-9656";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Consultation";
+                                            promoPrice = "69.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(661) 383-9238";
+                                            insteadOfSpa = "$377";
+                                            break; 
+
                                             case "Orogold Valencia FTB Skin Tightening 59.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-skin-tightening-treatment-59-95";
@@ -3791,10 +3825,10 @@
 
                                             case "Orogold Valencia FTB 3 in 1 Skin Tightening 69.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
-                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-treatment";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-promo-69-95";
                                             upDatedSpaPhone = "(661) 863-9656";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes 3 in 1 Skin Tightening Treatment";
@@ -3808,7 +3842,7 @@
 
                                             case "Orogold Valencia FTB 3 in 1 Skin Tightening 79.95":
                                             upDatedSpaName = "OROGOLD Spa";
-                                            upDatedSpaAddress = "Westfield Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                            upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
                                             upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-3-in-1-skin-tightening-79-95";
@@ -11003,6 +11037,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Below Zero Spa Natural Facelift $129.95":
+                                    upDatedSpaName = "Below Zero Spa";
+                                    upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
+                                    upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo-129-95";
+                                    upDatedSpaPhone = "(410) 261-6428";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "129.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(301) 201-6735";
