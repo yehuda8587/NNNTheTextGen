@@ -6454,6 +6454,23 @@
                                     insteadOfSpa = "$350";
                                     break;
 
+                                    case "Adore Edmonton Natural Facelift $69.95":
+                                    upDatedSpaName = "Adore";
+                                    upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                    upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-facelift-promo-69-95";
+                                    upDatedSpaPhone = "(780) 900-4210";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(780) 890-0008";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Beauty Essentials LED":
                                     upDatedSpaName = "Beauty Essentials";
                                     upDatedSpaAddress = "Briarwood Mall,"+"<br>"+"480 Briarwood Cir. Ann Arbor, MI 48108"+"<br>"+"(Main floor, next to Pandora)";
@@ -11502,6 +11519,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Equanimity Men Skin Tightening $149.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-men-skin-tightening-promo-149-95";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "149.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Equanimity Skin Tightening Facial $59.95":
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
@@ -11819,6 +11853,23 @@
                                     upDatedDurationOne = " - 15 minutes Cleansing";
                                     upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(979) 324-5845";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Blowout Spa Natural Facelift $69.95":
+                                    upDatedSpaName = "Blowout Spa";
+                                    upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
+                                    upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo-69-95";
+                                    upDatedSpaPhone = "(404) 301-3539";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
+                                    promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(979) 324-5845";
