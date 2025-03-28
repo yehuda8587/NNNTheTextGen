@@ -8538,6 +8538,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Malka Med Spa LED Non-Surgical Facelift 99.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-non-surgical-facelift-promo-99-95";
+                                        upDatedSpaPhone = "(469) 884-0553";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes light cleansing and the Non-Surgical Facelift treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Non-Surgical Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Malka Med Spa Men LED Non-Surgical Facelift 89.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -11356,9 +11373,9 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-led-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
-                                    upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationTotal = "70 Minutes";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "LED Anti-Aging Treatment";
@@ -11374,8 +11391,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-facelift-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -11391,8 +11408,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-3-in-1-skin-tightening-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
@@ -11408,8 +11425,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-skin-tightening-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Skin Tightening Treatment";
@@ -11425,8 +11442,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-mens-skin-tightening-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Skin Tightening Treatment";
@@ -11442,8 +11459,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-hydraglow-promo";
                                     upDatedSpaPhone = "(437) 317-0143";
                                     upDatedDurationTotal = "75 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
-                                    upDatedDurationTwo = "- 30 minutes Consultation";
+                                    upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Hydraglow Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Hydraglow Treatment";
