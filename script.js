@@ -6267,6 +6267,24 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Esthetix St. Augustine Men Skin Tightening 99.95":
+                                    upDatedSpaName = "Esthetix Spa";
+                                    upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                    upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-men-skin-tightening-promo-99-95";
+                                    upDatedSpaPhone = "(904) 799-2965";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    treatmentSelected = "Skin Tightening";
+                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+
                                     case "Esthetix St. Augustine Skin Tightening 59.95":
                                     upDatedSpaName = "Esthetix Spa";
                                     upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
@@ -11958,6 +11976,23 @@
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "BioLed Beauty Natural Facelift $79.95":
+                                    upDatedSpaName = "BioLed Beauty";
+                                    upDatedSpaAddress = "Twelve Oaks Mall, 27500 Novi Rd. Novi, MI. 48377"+"<br>"+"(STE E205, 2nd floor next to Coach)";
+                                    upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-bioled-natural-facelift-79-95-377";
+                                    upDatedSpaPhone = "(248) 266-5243";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 5 minutes Cleansing";
+                                    upDatedDurationTwo = " - 25 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 291-2085";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(734) 291-2085";
                                     insteadOfSpa = "$377"
                                     break;
 
