@@ -10449,6 +10449,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Soap Tree Grapevine Natural Facelift $59.95":
+                                    upDatedSpaName = "Soap Tree";
+                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
+                                    upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/grapevine-naturalfacelift-59" ;
+                                    upDatedSpaPhone = "(214) 831-9397";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 713-8689";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Soap Tree Grapevine Skin Tightening $69.95":
                                     upDatedSpaName = "Soap Tree";
                                     upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
