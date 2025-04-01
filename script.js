@@ -6204,7 +6204,7 @@
                                         upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                         upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/esthetix-staugustine-led-promo";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-natural-facelift-promo-69-95";
                                         upDatedSpaPhone = "(904) 799-2965";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minute Consultation";
@@ -8118,6 +8118,23 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
                                     treatmentSelected = "Jawline Lifting Treatment";
+                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Iridescent Wellness and Medical Spa Neck and Jawline $79.95":
+                                    upDatedSpaName = "Iridescent Wellness and Medical Spa";
+                                    upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
+                                    upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-neck-amp-jawline-promo-79-95 ";
+                                    upDatedSpaPhone = "(586) 248-4419";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Neck and Jawline Treatment and 15-minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    treatmentSelected = "Neck and JawlineTreatment";
                                     newSpaPhoneNumberSelected = "(586) 248-4419";
                                     insteadOfSpa = "$377";
                                     break;
