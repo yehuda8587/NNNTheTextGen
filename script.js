@@ -10942,6 +10942,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Miliv Med Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-natural-facelift-promo-59-95";
+                                    upDatedSpaPhone = "(713) 347-2676";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 997-4438";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(561) 997-4438";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Miliv Med Spa 3 in 1 Skin Tightening $79.95":
                                     upDatedSpaName = "Miliv Med Spa";
                                     upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
@@ -11652,6 +11669,23 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Equanimity 3 in 1 Skin Tightening Treatment $59.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-3-in-1-skin-tightening-promo-59-95";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(214) 238-6896";
                                     insteadOfSpa = "$377"
                                     break;
