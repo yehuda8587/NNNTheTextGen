@@ -7175,7 +7175,7 @@
                                     case "TKO Beauty Tech LED":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7192,7 +7192,7 @@
                                     case "TKO Beauty Tech Reverse Turkey Neck Treatment 79.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-reverse-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7209,7 +7209,7 @@
                                     case "TKO Beauty Tech LED FTB 79.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7226,7 +7226,7 @@
                                     case "TKO Beauty Tech Natural Facelift FTB 79.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7243,7 +7243,7 @@
                                     case "TKO Beauty Tech Men's Skin Tightening 89.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-89-95";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7260,7 +7260,7 @@
                                     case "TKO Beauty Tech Natural Skin Tightening 99.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-natural-skin-tightening-treatment-99-95";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -7277,7 +7277,7 @@
                                     case "TKO Beauty Tech Natural Facelift FTB 99.95":
                                     upDatedSpaName = "TKO Beauty Tech";
                                     upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-                                    upDatedSpaLINK = "https://forms.gle/1Xyfqm9shmPhU9i28";
+                                    upDatedSpaLINK = " ";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
@@ -11884,7 +11884,7 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spiderveinpromo";
                                     upDatedSpaPhone = "(732) 523-2168";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "30 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
                                     promoPrice = "99.95";
@@ -11901,7 +11901,7 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/free-vein-screening";
                                     upDatedSpaPhone = "(732) 523-2168";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "30 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
                                     promoPrice = "0";
@@ -11918,7 +11918,7 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/free-spider-vein-consultation";
                                     upDatedSpaPhone = "(732) 523-2168";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "30 Minutes";
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
                                     promoPrice = "0";
