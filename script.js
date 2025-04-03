@@ -2116,9 +2116,9 @@
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2133,9 +2133,9 @@
                                     upDatedDurationOne = "- 45-minute cleansing and the Neck and Jawline treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2150,9 +2150,9 @@
                                     upDatedDurationOne = "- 20-minute cleansing and 20 Minutes Collagen Enhancing treatment";
                                     upDatedDurationTwo = "- 20-minute consultation ";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Collagen Enhancing";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2167,9 +2167,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2184,9 +2184,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -2201,9 +2201,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2218,9 +2218,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2235,9 +2235,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Collagen Enhancing";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2252,9 +2252,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment and consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2269,9 +2269,9 @@
                                     upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
                                     upDatedDurationTwo = "- 15-minute consultation ";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Non-Surgical Face Lift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2286,9 +2286,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2303,9 +2303,9 @@
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Sagging Neck Rescue Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2320,9 +2320,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2337,9 +2337,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2355,9 +2355,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2372,9 +2372,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Collagen Enhancing";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2389,9 +2389,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2406,9 +2406,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2423,9 +2423,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2440,9 +2440,9 @@
                                     upDatedDurationOne = "- 20 Minutes Cleansing";
                                     upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "EMS Anti-aging Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$350";
                                     break; 
 
@@ -2457,9 +2457,9 @@
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Turkey Neck Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2474,9 +2474,9 @@
                                     upDatedDurationOne = "- 15 Minutes Consultation";
                                     upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Sagging Neck Rescue Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -2491,9 +2491,9 @@
                                     upDatedDurationOne = "- 15 Minutes Cleansing";
                                     upDatedDurationTwo = "- 45 Minutes Men's LED Anti-Aging Treatment and Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2508,9 +2508,9 @@
                                     upDatedDurationOne = "- 45 Minutes Cleansing and the Oxygen and LED Treatment";
                                     upDatedDurationTwo = "- 15 Minutes Consultation";
                                     promoPrice = "89.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Oxygen and LED Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$299";
                                     break; 
 
@@ -2525,9 +2525,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "80";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$399";
                                     break; 
 
@@ -2542,9 +2542,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2559,9 +2559,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2576,9 +2576,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2593,9 +2593,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2610,9 +2610,9 @@
                                     upDatedDurationOne = "- 10 Minutes Body Analysis";
                                     upDatedDurationTwo = "- 40 Minutes Body Treatment and 10 minutes post-care consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Body Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$399";
                                     break; 
 
@@ -2627,9 +2627,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2644,9 +2644,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
                                     promoPrice = "89.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -2661,9 +2661,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break; 
 
@@ -2678,9 +2678,9 @@
                                     upDatedDurationOne = "- 10 Minutes Consultation";
                                     upDatedDurationTwo = "- 50 Minutes 3 in 1 Skin Tightening Treatment";
                                     promoPrice = "89.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(236) 258-6757";
+                                    newSpaPhoneNumberSelected = "(778) 910-1179";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -11038,6 +11038,23 @@
                                     upDatedDurationOne = "- 10 minutes Cleansing";
                                     upDatedDurationTwo = "- 35 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 395-8095";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Liv Med Spa Natural Facelift $59.95":
+                                    upDatedSpaName = "Liv Med Spa";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-natural-facelift-promo-59-95";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(346) 395-8095";
