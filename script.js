@@ -11792,6 +11792,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Tranquil Wellness and Spa Men Skin Tightening $89.95":
+                                    upDatedSpaName = "Tranquil Wellness and Spa";
+                                    upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
+                                    upDatedSpaLINK = "https://forms.gle/d2zTiJTh54MQPNfM7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/JAJ758GAAgvDiqmY9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tranquil-wellness-and-spa-men-skin-tightening-promo-89-95";
+                                    upDatedSpaPhone = "(904) 339-5671";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 619-6064";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 619-6064";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Tranquil Wellness and Spa Natural Facelift $59.95":
                                     upDatedSpaName = "Tranquil Wellness and Spa";
                                     upDatedSpaAddress = "9633 Old St. Augustine Rd. Jacksonville FL. 32257"+"<br>"+"(Across from Starbucks)";
