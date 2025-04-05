@@ -12132,6 +12132,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Tresor Rare Tallahassee Natural Facelift $79.95":
+                                    upDatedSpaName = "Tresor Rare";
+                                    upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301";
+                                    upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-rare-natural-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(850) 738-0328";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 325-9317";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(571) 325-9317";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Elev8 Med Spa Hydraglow Treatment $59.95":
                                     upDatedSpaName = "Elev8 Med Spa";
                                     upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
