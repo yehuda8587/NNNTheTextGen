@@ -8348,6 +8348,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Truffoire Natural Facelift 79.95":
+                                        upDatedSpaName = "Truffoire";
+                                        upDatedSpaAddress = "Parkway Place, 2801 Memorial Pkwy SW, Huntsville, AL 35801"+"<br>"+"(Unit R-146, First floor next to GNC)"+"<br>"+"(Best spot is to park near Dillards)";
+                                        upDatedSpaLINK = "https://forms.gle/gPtr7z3YNX75bJwZ7";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/R4AqySbJszqJCDWd7";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/truffoire-natural-facelift-promo-79-95";
+                                        upDatedSpaPhone = "(938) 867-6022";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Natural Facelift Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (256) 517-8740";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(256) 517-8740";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Laconico Spa LED":
                                         upDatedSpaName = "Laconico";
                                         upDatedSpaAddress = "15805 Biscayne Blvd. North Miami Beach, FL 33160"+"<br>"+"(First Floor, Unit 102 of 15805 Building)";
@@ -9526,7 +9543,7 @@
                                         upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                         upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-neck-amp-jawline-treatment";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-neck-amp-jawline-promo-79-95";
                                         upDatedSpaPhone = "(289) 919-9899";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 15 minutes cleansing and facial massage";
@@ -11057,6 +11074,23 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
                                     treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(346) 395-8095";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Liv Med Spa Neck and Jawline $59.95":
+                                    upDatedSpaName = "Liv Med Spa";
+                                    upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                    upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-neck-amp-jawline-promo-59-95";
+                                    upDatedSpaPhone = "(281) 410-2798";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 10 minutes Cleansing";
+                                    upDatedDurationTwo = "- 35 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                    treatmentSelected = "Neck and Jawline Treatment";
                                     newSpaPhoneNumberSelected = "(346) 395-8095";
                                     insteadOfSpa = "$377"
                                     break;
