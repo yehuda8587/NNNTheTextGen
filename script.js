@@ -10993,6 +10993,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Miliv Med Spa Neck and Jawline $59.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-neck-amp-jawline-promo-59-95";
+                                    upDatedSpaPhone = "(713) 347-2676";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Neck & Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Miliv Med Spa 3 in 1 Skin Tightening $79.95":
                                     upDatedSpaName = "Miliv Med Spa";
                                     upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
@@ -11244,6 +11261,23 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Ora Med Spa Neck and Jawline $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-neck-amp-jawline-promo-79-95";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Neck and Jawline Treatment";
                                     newSpaPhoneNumberSelected = "(850) 501-3350";
                                     insteadOfSpa = "$377"
                                     break;
@@ -12128,6 +12162,23 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Dermagen Med Spa Neck and Jawline $59.95":
+                                    upDatedSpaName = "Dermagen Med Spa";
+                                    upDatedSpaAddress = "222 Yamato Rd. Boca Raton, FL. 33431"+"<br>"+"(Yamato Crossing Plaza, Next to UPS Store)";
+                                    upDatedSpaLINK = "https://forms.gle/z1MS5ULugz1o4hdh7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/7Bscp28UkenkgCXy9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermagen-med-spa-neck-amp-jawline-promo-59-95";
+                                    upDatedSpaPhone = "(561) 320-8635";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Neck & Jawline Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Neck & Jawline Treatment";
                                     newSpaPhoneNumberSelected = "(713) 585-0715";
                                     insteadOfSpa = "$377"
                                     break;
