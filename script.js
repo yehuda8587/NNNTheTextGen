@@ -11299,6 +11299,23 @@
                                     insteadOfSpa = "$399"
                                     break;
 
+                                    case "Ora Med Spa Hydraglow $69.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-hydraglow-promo-69-95";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$399"
+                                    break;
+
                                     case "Ora Med Spa Skin Tightening $69.95":
                                     upDatedSpaName = "Ora Medical Spa";
                                     upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -11361,6 +11378,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "89.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(850) 501-3350";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Ora Med Spa Men Skin Tightening $79.95":
+                                    upDatedSpaName = "Ora Medical Spa";
+                                    upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                    upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-men-skin-tightening-promo-79-95";
+                                    upDatedSpaPhone = "(850) 988-9735";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(850) 501-3350";
@@ -11705,6 +11739,23 @@
                                     treatmentSelected = "Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(214) 238-6896";
                                     insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Equanimity Hydraglow $69.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equaminity-hydraglow-pro69";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Hydraglow Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$99"
                                     break;
 
                                     case "Equanimity Men Skin Tightening $89.95":
