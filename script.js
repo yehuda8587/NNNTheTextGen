@@ -10145,7 +10145,7 @@
 
                                            case "Skin Totale MEN Skin Tightening $59.95":
                                             upDatedSpaName = "Skin Totale";
-                                            upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Near 'Train with Dave')";
+                                            upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-men-skin-tightening-promo";
@@ -10162,7 +10162,7 @@
 
                                             case "Skin Totale Natural Facelift $59.95":
                                             upDatedSpaName = "Skin Totale";
-                                            upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Near 'Train with Dave')";
+                                            upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                             upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-natural-facelift-promo";
