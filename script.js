@@ -12353,6 +12353,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Salo Spa Neck & Jawline $79.95":
+                                    upDatedSpaName = "Salo Spa";
+                                    upDatedSpaAddress = "25 SW Osceola St, Stuart, FL 34994"+"<br>"+"(Stuart Shopping Center next to Argento Jewelry)";
+                                    upDatedSpaLINK = "https://forms.gle/JYGLkByUiafrnTcG7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/aBQPiZoojTU6wrCv7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/salo-spa-neck-amp-jawline-promo-79-95";
+                                    upDatedSpaPhone = "(772) 210-4257";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Neck & Jawline Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 205-5411";
+                                    treatmentSelected = "Neck & Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 205-5411";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Dermagen Med Spa Natural Facelift $59.95":
                                     upDatedSpaName = "Dermagen Med Spa";
                                     upDatedSpaAddress = "222 Yamato Rd. Boca Raton, FL. 33431"+"<br>"+"(Yamato Crossing Plaza, Next to UPS Store)";
