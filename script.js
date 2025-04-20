@@ -10687,7 +10687,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Parie Med Spa Neck & Jawline $79.95":
+                                    case "Parie Med Spa Neck and Jawline $79.95":
                                     upDatedSpaName = "Parie Med Spa";
                                     upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                     upDatedSpaLINK = " ";
