@@ -11984,7 +11984,7 @@
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                     upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-neckjawline-pro59";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-neckjawline-pro69";
                                     upDatedSpaPhone = "(972) 866-4612";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
