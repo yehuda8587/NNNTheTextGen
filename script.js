@@ -12404,7 +12404,7 @@
                                     insteadOfSpa = "$377"
                                     break;
 
-                                    case "Salo Spa Neck & Jawline $79.95":
+                                    case "Salo Spa Neck and Jawline $79.95":
                                     upDatedSpaName = "Salo Spa";
                                     upDatedSpaAddress = "25 SW Osceola St, Stuart, FL 34994"+"<br>"+"(Stuart Shopping Center next to Argento Jewelry)";
                                     upDatedSpaLINK = "https://forms.gle/JYGLkByUiafrnTcG7";
