@@ -4536,6 +4536,27 @@
                 <div class="accordion-body">
                   <div class="accordion accordion-flush textsAccordion" id="cancelAccordion">
                     <div class="accordion-item">
+                      <h2 class="accordion-header" id="flush-headingRR">
+                        <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseRR" aria-expanded="false" aria-controls="flush-collapseRR">
+                          Reschedule Request
+                      </button>
+                      </h2>
+                      <div id="flush-collapseRR" class="accordion-collapse collapse" aria-labelledby="flush-headingRR" data-bs-parent="#cancelAccordion">
+                        <div class="accordion-body">
+                          <p id="AnswerRR">
+                            APPOINTMENT UPDATE: Due to an unexpected emergency with one of our specialists, we’ll need to reschedule your appointment originally set for <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span>.<br><br>
+                            So sorry for the inconvenience! We still have availability on [Option 1], [Option 2], or [Option 3]. Please let me know what option might work best—we’ll make sure to take great care of you!<br><br>
+                            
+                          Reply STOP to opt out
+                        </p>
+                          <div class="d-flex justify-content-end">
+                            <button type="button" class="copy-udi" onclick="copyEvent('AnswerRR')"><i class=" text-right far fa-copy"></i></button>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+
+                    <div class="accordion-item">
                       <h2 class="accordion-header" id="flush-headingSchedConfirm">
                         <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSchedConfirm" aria-expanded="false" aria-controls="flush-collapseSix">
                           Reschedule Confirmation
@@ -4585,26 +4606,7 @@
                   </div>
             </div>
 
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="flush-headingRR">
-                <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseRR" aria-expanded="false" aria-controls="flush-collapseRR">
-                  Reschedule Request
-              </button>
-              </h2>
-              <div id="flush-collapseRR" class="accordion-collapse collapse" aria-labelledby="flush-headingRR" data-bs-parent="#cancelAccordion">
-                <div class="accordion-body">
-                  <p id="AnswerRR">
-                    APPOINTMENT UPDATE: Due to an unexpected emergency with one of our specialists, we’ll need to reschedule your appointment originally set for <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span>.<br><br>
-                    So sorry for the inconvenience! We still have availability on [Option 1], [Option 2], or [Option 3]. Please let me know what option might work best—we’ll make sure to take great care of you!<br><br>
-                    
-                  Reply STOP to opt out
-                </p>
-                  <div class="d-flex justify-content-end">
-                    <button type="button" class="copy-udi" onclick="copyEvent('AnswerRR')"><i class=" text-right far fa-copy"></i></button>
-                  </div>
-                </div>
-              </div>
-        </div>
+            
             <!--
           <div class="accordion-item">
               <h2 class="accordion-header" id="flush-headingEleven">
@@ -4684,7 +4686,7 @@
                               <p id="AnswerFourteen">
                                 
                                 Hi <span class="varCustName"></span>,<br>
-                                Thanks for inquiring about our <span class="varTreatmentSelected"></span> We tried calling the number you provided [Client Number], but it seems to be invalid.
+                                Thanks for inquiring about our <span class="varTreatmentSelected"></span>! We tried calling the number you provided [Client Number], but it seems to be invalid.
                                 <br>
                                 Please send an updated number, or call/text us at <span class="varLocationPhone"></span>, so we can help book your appointment.<br><br>
 
