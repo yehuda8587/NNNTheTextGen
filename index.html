@@ -4151,16 +4151,34 @@
                 </div>
 
                 <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingVMFollow">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseVMFollow" aria-expanded="false" aria-controls="flush-collapseVMFollow">
+                      Voicemail - Follow Up
+                    </button>
+                  </h2>
+                  <div id="flush-collapseVMFollow" class="accordion-collapse collapse" aria-labelledby="flush-headingVMFollow" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                      <p id="AnswerDay1Call3">
+                        Hi <span class="varCustName"></span>! This is <span class="varRepName"></span>,<br> 
+                        I left you a voicemail earlier, and I haven’t heard anything back, please get back to me just as soon as you can, you can call me at this number anytime before 5:00 PM.
+                      </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerVMFollow')" aria-label="Copy text"><i class="text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingDay1Call3">
                     <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseDay1Call3" aria-expanded="false" aria-controls="flush-collapseDay1Call3">
-                      Voicemail Follow Up Text
+                      Day 1 Call 3 - Follow Up
                     </button>
                   </h2>
                   <div id="flush-collapseDay1Call3" class="accordion-collapse collapse" aria-labelledby="flush-headingDay1Call3" data-bs-parent="#LeadsFunnelAccordion">
                     <div class="accordion-body">
                       <p id="AnswerDay1Call3">
-                        Hi <span class="varCustName"></span>! This is <span class="varRepName"></span>,<br> 
-                        I left you a voicemail earlier, and I haven’t heard anything back, please get back to me just as soon as you can, you can call me at this number anytime before 5:00 PM
+                        I was just following up on your inquiry. If you’re too busy for a call, feel free to respond via text. I’m a real person 😎
                       </p>
                       <div class="d-flex justify-content-end">
                         <button type="button" class="copy-udi" onclick="copyEvent('AnswerDay1Call3')" aria-label="Copy text"><i class="text-right far fa-copy"></i></button>
@@ -4193,7 +4211,7 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingThirteen">
                     <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThirteen" aria-expanded="false" aria-controls="flush-collapseThirteen">
-                      More Information Text
+                      More Information
                   </button>
                   </h2>
                   <div id="flush-collapseThirteen" class="accordion-collapse collapse" aria-labelledby="flush-headingThirteen" data-bs-parent="#cancelAccordion">
@@ -4215,7 +4233,7 @@
               <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingThree">
         <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-          Campaigns (1 Month + Older)
+          Campaigns - 1 Month & Older
         </button>
     </h2>
     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#LeadsFunnelAccordion">
@@ -4479,32 +4497,21 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingEight">
                           <button class="accordion-button collapsed bg-success" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseEight">
-                            Reminder Text (Sent On The Day Of The Appointment)
+                            Same Day Confirmation Request - As Needed Only
                         </button>
                         </h2>
                         <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#confirmationAccordion">
                           <div class="accordion-body">
                             <p id="AnswerEight">
-                            * Appointment REMINDER *<br><br>
-                            Here are the details for your upcoming <span class="varTreatmentSelected"></span> TODAY; <br>
-                            Date: <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span><br>
-                            Time: <span class="varAptTime"></span><span class="varMinutesOfTime"></span> <span class="varAptTimeAmPm"></span></span><br>
+                            ACTION REQUIRED: Your <span class="varTreatmentSelected"></span> Appointment is Today, <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span></span><br>
                             Promo Price: $<span class="varPromoPrice"></span><br>
-                            You Added: <span class="varAddons"></span><br>
                            <span id="hideThree">Duration: <span class="varDurationTotal"></span></span> <br>
                           <span id="hideOne" class="varDurationOne"></span><br>
                           <span id="hideTwo" class="varDurationTwo"></span><br><br>
-                            
-                            Our Location:<br>
-                            <span class="varLocationName"></span><br>
-                            <span class="varLocationAddress"></span><br><br><span class="varLocationActualPhone"></span><br><br>
-                            
-                            Kindly arrive 15 minutes prior to the scheduled time so you’ll get the full experience.<br><br>
                                                           
                             <!-- <span class="varLocationFormLink"></span><br><br> -->
                             
-                            See you soon! :)<br><br>
-                            Reply STOP to opt out
+                            Reply Y to confirm, N to cancel, STOP to opt out.
                           </p>
                             <div class="d-flex justify-content-end">
                               <button type="button" class="copy-udi" onclick="copyEvent('AnswerEight')"><i class=" text-right far fa-copy"></i></button>
@@ -4577,6 +4584,27 @@
                     </div>
                   </div>
             </div>
+
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingRR">
+                <button class="accordion-button collapsed bg-danger" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseRR" aria-expanded="false" aria-controls="flush-collapseRR">
+                  Reschedule Request
+              </button>
+              </h2>
+              <div id="flush-collapseRR" class="accordion-collapse collapse" aria-labelledby="flush-headingRR" data-bs-parent="#cancelAccordion">
+                <div class="accordion-body">
+                  <p id="AnswerRR">
+                    APPOINTMENT UPDATE: Due to an unexpected emergency with one of our specialists, we’ll need to reschedule your appointment originally set for <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span>.<br><br>
+                    So sorry for the inconvenience! We still have availability on [Option 1], [Option 2], or [Option 3]. Please let me know what option might work best—we’ll make sure to take great care of you!<br><br>
+                    
+                  Reply STOP to opt out
+                </p>
+                  <div class="d-flex justify-content-end">
+                    <button type="button" class="copy-udi" onclick="copyEvent('AnswerRR')"><i class=" text-right far fa-copy"></i></button>
+                  </div>
+                </div>
+              </div>
+        </div>
             <!--
           <div class="accordion-item">
               <h2 class="accordion-header" id="flush-headingEleven">
@@ -4635,7 +4663,7 @@
                 </div>
               </div>
               </div>    
-<!--
+
               <div class="accordion-item">
                 <h2 class="accordion-header" id="wrapperHeaderFour">
                   <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#headerCollapseFour" aria-expanded="false" aria-controls="headerCollapseFour">
@@ -4648,18 +4676,21 @@
                       <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingFourteen">
                           <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFourteen" aria-expanded="false" aria-controls="flush-collapseFourteen">
-                            EMAIL: WHEN PHONE IS INCORRECT
+                            Lead Created - Welcome
                           </button>
                         </h2>
                         <div id="flush-collapseFourteen" class="accordion-collapse collapse " aria-labelledby="flush-headingFourteen" data-bs-parent="#emailsAccordion">
                           <div class="accordion-body">
                               <p id="AnswerFourteen">
-                                Subject: ACTION REQUIRED [Your <span class="varTreatmentSelected"></span>]<br>
+                                
                                 Hi <span class="varCustName"></span>,<br>
-                                I'm contacting you regarding the inquiry you left us on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
-                                The phone number you left on the form is not correct  (Customer's PHONE NUMBER) please let me know your correct contact information so that I'll be able to call you and answer all your questions about our spa or treatment.<br>
-                                If you prefer just to get more information via email that is fine as well.<br><br>
-                    
+                                Thanks for inquiring about our <span class="varTreatmentSelected"></span> We tried calling the number you provided [Client Number], but it seems to be invalid.
+                                <br>
+                                Please send an updated number, or call/text us at <span class="varLocationPhone"></span>, so we can help book your appointment.<br><br>
+
+                                You can also book online here: <span class="varWebLink"></span><br><br>
+
+                                Hope to hear from you soon!<br><br>
                                 Have a great day,<br>
                                 <span class="varRepName"></span>, <span class="varLocationName"></span>
                     
@@ -4673,20 +4704,21 @@
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingFifteen">
                           <button class="accordion-button collapsed bg-dark" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFifteen" aria-expanded="false" aria-controls="flush-collapseFifteen">
-                            EMAIL: WHEN PHONE IS INCORRECT - Confirm booking
+                            Verbal Confirmation Request
                         </button>
                         </h2>
                         <div id="flush-collapseFifteen" class="accordion-collapse collapse" aria-labelledby="flush-headingFifteen" data-bs-parent="#emailsAccordion">
                           <div class="accordion-body">
                               <p id="AnswerFifteen">
-                                Subject: ACTION REQUIRED [Your <span class="varTreatmentSelected"></span>]<br>
-                                Hi <span class="varCustName"></span>,<br>
-                                I'm contacting you regarding the inquiry you left us on Facebook regarding our <span class="varTreatmentSelected"></span>.<br>
-                                The phone number you left on the form is not correct (Customer's PHONE NUMBER) please let me know your correct contact information so that I'll be able to call you and answer all your questions about our spa or treatment.<br>
-                                If you prefer just to get more information via email that is fine as well.<br>
-                                Unfortunately, We cannot approve an appointment that wasn’t confirmed verbally, so please reply to this email with your contact information or, you can just call/text our phone number which is <span class="varLocationPhone"></span><br><br>
                                 
-                                Have a great day,<br>
+                                Hi <span class="varCustName"></span>,<br>
+                                Your <span class="varTreatmentSelected"></span> appointment is booked for <span class="varAptDateMonth"></span>/<span class="varAptDateDay"></span> at <span class="varAptTime"></span><span class="varMinutesOfTime"></span><span class="varAptTimeAmPm"></span>.<br><br>
+                                You must speak to a representative to finalize your booking. We tried calling the number you provided (Customer's PHONE NUMBER) but it seems to be invalid.<br>
+                                
+                                Please send an updated number, or call/text us at <span class="varLocationPhone"></span> to secure your spot.<br><br>
+                                
+                                If we cannot reach you by 6:00PM tomorrow, your slot may be forfeited due to high demand.<br><br>
+                                Hope to hear from you soon!<br>
                                 <span class="varRepName"></span>, <span class="varLocationName"></span>           
                               </p>
                               <div class="d-flex justify-content-end">
@@ -4700,7 +4732,7 @@
                   </div>
                 </div>
                 </div>    
-        </div>-->
+        </div>
 
     
 
