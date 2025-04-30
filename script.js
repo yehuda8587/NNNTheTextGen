@@ -7748,6 +7748,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Sthetics Med Spa Neck and Jawline $59.95":
+                                        upDatedSpaName = "Sthetics Med Spa";
+                                        upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
+                                        upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
+                                        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-sthetics-neck-and-jawline-59-95-377";
+                                        upDatedSpaPhone = "(619) 377-8385";
+                                        upDatedDurationTotal = "75 Minutes";
+                                        upDatedDurationOne = "- 20-minute Light Cleansing";
+                                        upDatedDurationTwo = "- 35-minutes Neck and Jawline Treatment and 20 minutes Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                        treatmentSelected = "Neck and Jawline Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(619) 379-7301";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Sthetics Med Spa Body Lipo $69.95":
                                         upDatedSpaName = "Sthetics Med Spa";
                                         upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
@@ -12532,11 +12549,45 @@
                                     upDatedSpaPhone = "(850) 738-0328";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = " - 15 minutes Cleansing";
-                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and minutes Consultation";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 325-9317";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(571) 325-9317";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Bee and Co Fernandina Beach Skin Tightening $79.95":
+                                    upDatedSpaName = "Bee and Co";
+                                    upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+                                    upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-skin-tightening-promo-79-95";
+                                    upDatedSpaPhone = "(904) 452-8539";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Post Care and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 432-7364";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Bee and Co Fernandina Beach Non-Surgical Facelift $79.95":
+                                    upDatedSpaName = "Bee and Co";
+                                    upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+                                    upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-fernandina-non-surgical-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(904) 452-8539";
+                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Non-Surgical Facelift Treatment and Post Care and Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(904) 432-7364";
                                     insteadOfSpa = "$377"
                                     break;
 
