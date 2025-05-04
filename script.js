@@ -11282,6 +11282,40 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Treasure Rare Annapolis Skin Tightening $99.95":
+                                    upDatedSpaName = "Treasure Rare";
+                                    upDatedSpaAddress = "2002 Annapolis Mall Rd. Annapolis, MD 21401"+"<br>"+"(Annapolis Mall, near Michael Kors)";
+                                    upDatedSpaLINK = "https://forms.gle/iuzeodyYmKX14uuE6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/jTx9N7BExPWcjodu5";
+                                    upDatedSpaWebLINK = "hhttps://www.firstouchbeauty.com/pages/treasure-rare-md-skin-tightening-promo-99-95";
+                                    upDatedSpaPhone = "(410) 934-0469";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 551-4338";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Treasure Rare Annapolis Non-Surgical Facelift $99.95":
+                                    upDatedSpaName = "Treasure Rare";
+                                    upDatedSpaAddress = "2002 Annapolis Mall Rd. Annapolis, MD 21401"+"<br>"+"(Annapolis Mall, near Michael Kors)";
+                                    upDatedSpaLINK = "https://forms.gle/iuzeodyYmKX14uuE6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/jTx9N7BExPWcjodu5";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/treasure-rare-md-non-surgical-facelift-promo-99-95";
+                                    upDatedSpaPhone = "(410) 934-0469";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 551-4338";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Below Zero Spa Natural Facelift $79.95":
                                     upDatedSpaName = "Below Zero Spa";
                                     upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
