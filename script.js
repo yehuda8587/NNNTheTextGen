@@ -863,7 +863,7 @@
 
                                 case "Adore Cookstown":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
@@ -880,7 +880,7 @@
 
                                     case "Adore Cookstown Non Surgical Facelift":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
@@ -897,7 +897,7 @@
 
                                     case "Adore Cookstown Neck and Jawline 69.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
@@ -914,7 +914,7 @@
 
                                     case "Adore Cookstown Neck and Jawline 79.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-amp-jawline-promo-79-95" ;
@@ -931,7 +931,7 @@
 
                                     case "Adore Cookstown Skin Tightening 69.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
@@ -948,7 +948,7 @@
 
                                     case "Adore Cookstown Natural Facelift":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
@@ -965,7 +965,7 @@
 
                                     case "Adore Cookstown Men's Skin Tightening $89.95":
                                     upDatedSpaName = "Adore Spa";
-                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Entrance #3, next to Skechers)";
+                                    upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
                                     upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
@@ -11321,7 +11321,7 @@
                                     upDatedSpaAddress = "2002 Annapolis Mall Rd. Annapolis, MD 21401"+"<br>"+"(Annapolis Mall, near Michael Kors)";
                                     upDatedSpaLINK = "https://forms.gle/iuzeodyYmKX14uuE6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/jTx9N7BExPWcjodu5";
-                                    upDatedSpaWebLINK = "hhttps://www.firstouchbeauty.com/pages/treasure-rare-md-skin-tightening-promo-99-95";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/treasure-rare-md-skin-tightening-promo-99-95";
                                     upDatedSpaPhone = "(410) 934-0469";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
