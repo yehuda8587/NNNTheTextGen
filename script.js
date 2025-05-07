@@ -3060,7 +3060,7 @@
                                     upDatedSpaAddress = "La Palmera Mall," + "<br>" + "5488 S Padre island, Corpus Christi, TX 78411"+"<br>"+"(Second floor, next to H&M)";
                                     upDatedSpaLINK = "https://forms.gle/Yaa4AmATGwwPAAVW7";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/doj9iskm211iZyjT8";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/luminous-skin-tech-non-surgical-facelift-promo-79-95";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/luminous-skin-tech-skin-tightening-promo-79-95";
                                     upDatedSpaPhone = "(361) 371-0530";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -8709,6 +8709,23 @@
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Malka Med Spa Men Natural Facelift 99.95":
+                                        upDatedSpaName = "Malka Med Spa";
+                                        upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-mens-natural-facelift-promo-99-95";
+                                        upDatedSpaPhone = "(469) 884-0553";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes light cleansing and the Natural Facelift treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation"
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(469) 888-6616";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Malka Med Spa Skin Tightening 59.95":
                                         upDatedSpaName = "Malka Med Spa";
                                         upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -12349,6 +12366,40 @@
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
                                     treatmentSelected = "LED Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(609) 422-9463";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Renova Skin Med Spa Anti-Aging Facial $99.95":
+                                    upDatedSpaName = "Renova Skin Med Spa";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-anti-aging-facial-promo-99-95";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Anti-Aging Facial";
+                                    upDatedDurationTwo = " -15 minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+                                    treatmentSelected = "LED Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(609) 422-9463";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Renova Skin Med Spa LED Non-Surgical Facelift $99.95":
+                                    upDatedSpaName = "Renova Skin Med Spa";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+                                    upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo-99-95";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
+                                    upDatedDurationTwo = " -15 minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+                                    treatmentSelected = "Non-Surgical Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(609) 422-9463";
                                     insteadOfSpa = "$377"
                                     break;
