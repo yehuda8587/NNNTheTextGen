@@ -12302,6 +12302,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "The Soap Tree Omaha Skin Tightening $79.95":
+                                    upDatedSpaName = "The Soap Tree";
+                                    upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
+                                    upDatedSpaLINK = "https://forms.gle/yXFkQsA4PmN61qxT8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/ptdDexcxmHAWC65Y6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-soap-tree-omaha-skin-tightening-promo-79-95";
+                                    upDatedSpaPhone = "(402) 252-3842";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(928) 399-9242";
+                                    insteadOfSpa = "$377";
+                                    break; 
+
                                     case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
                                     upDatedSpaName = "Vein Vascular Clinic";
                                     upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
@@ -12313,6 +12330,23 @@
                                     upDatedDurationOne = " ";
                                     upDatedDurationTwo = " ";
                                     promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (732) 651-1300";
+                                    treatmentSelected = "Spider Vein Treatment";
+                                    newSpaPhoneNumberSelected = "(732) 651-1300";
+                                    insteadOfSpa = "$775"
+                                    break;
+
+                                    case "Vein Vascular Clinic Goodbye Spider Vein $199.95":
+                                    upDatedSpaName = "Vein Vascular Clinic";
+                                    upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(On Cranbury road look for red sign medical arts and surgery center)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yXx12Q8knGdvLgoK9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spider-vein-promo-199";
+                                    upDatedSpaPhone = "(732) 523-2168";
+                                    upDatedDurationTotal = "30 Minutes";
+                                    upDatedDurationOne = " ";
+                                    upDatedDurationTwo = " ";
+                                    promoPrice = "199.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (732) 651-1300";
                                     treatmentSelected = "Spider Vein Treatment";
                                     newSpaPhoneNumberSelected = "(732) 651-1300";
