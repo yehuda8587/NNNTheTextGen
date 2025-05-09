@@ -12098,6 +12098,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Equanimity Collagen Enhancing $69.95":
+                                    upDatedSpaName = "Equanimity Wellness";
+                                    upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                    upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-collagen-enhancing-promo-69-95";
+                                    upDatedSpaPhone = "(972) 866-4612";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 238-6896";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Equanimity EMS Body $79.95":
                                     upDatedSpaName = "Equanimity Wellness";
                                     upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
