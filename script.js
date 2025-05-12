@@ -12717,9 +12717,9 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-rare-natural-facelift-promo-79-95";
                                     upDatedSpaPhone = "(850) 738-0328";
-                                    upDatedDurationTotal = "45 Minutes";
+                                    upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " - 15 minutes Cleansing";
-                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 325-9317";
                                     treatmentSelected = "Natural Facelift Treatment";
