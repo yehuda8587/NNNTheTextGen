@@ -1081,6 +1081,23 @@
                                         newSpaPhoneNumberSelected = "(647) 277-5122";
                                         insteadOfSpa = "$377"
                                         break;
+
+                                        case "Kristals Erin Mills Men Skin Tightening $89.95":
+                                        upDatedSpaName = "Kristals Erin Mills spa";
+                                        upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
+                                        upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-mens-skin-tightening-promo-89-95" ;
+                                        upDatedSpaPhone = "(647) 846-9838";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 Minutes Consultation";
+                                        upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
+                                        promoPrice = "89.95"
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                        treatmentSelected = "Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(647) 277-5122";
+                                        insteadOfSpa = "$377"
+                                        break;
         
                                         case "GreenBiotics Sherway Gardens":
                                             upDatedSpaName = "GreenBiotics";
@@ -10613,6 +10630,23 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(214) 713-8689";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Soap Tree Grapevine Natural Facelift $49.95":
+                                    upDatedSpaName = "Soap Tree";
+                                    upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
+                                    upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-treatment-49-95 " ;
+                                    upDatedSpaPhone = "(214) 831-9397";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "49.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 713-8689";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(214) 713-8689";
