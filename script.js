@@ -2369,8 +2369,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 20 Minutes LED Treatment" + "<br>" + "- 20 Minutes Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and LED Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
@@ -2386,8 +2386,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Collagen Enhancing Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Collagen Enhancing";
@@ -2403,8 +2403,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Neck & Jawline Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
@@ -2420,8 +2420,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment & Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Neck & Jawline Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
@@ -2437,8 +2437,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-79-95";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening";
@@ -2454,8 +2454,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 20 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 20 Minutes EMS Treatment" + "<br>" + "- 20 Minutes Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and EMS Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation";
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "EMS Anti-aging Treatment";
@@ -2471,8 +2471,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Turkey Neck Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Turkey Neck Tightening Treatment";
@@ -2488,8 +2488,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-sagging-neck-rescue-treatment-promo ";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Sagging Neck Rescue Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Sagging Neck Rescue Treatment";
@@ -2505,8 +2505,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 Minutes Cleansing";
-                                    upDatedDurationTwo = "- 45 Minutes Men's LED Anti-Aging Treatment and Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and LED Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "LED Treatment";
@@ -2522,8 +2522,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 45 Minutes Cleansing and the Oxygen and LED Treatment";
-                                    upDatedDurationTwo = "- 15 Minutes Consultation";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and the Oxygen and LED Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Oxygen and LED Treatment";
@@ -2539,8 +2539,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "80";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -2556,8 +2556,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -2573,8 +2573,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-facelift-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -2590,8 +2590,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-skin-tightening-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Natural Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
@@ -2607,8 +2607,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tg-avologi-metrotown-natural-facelift-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -2624,8 +2624,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Body Analysis";
-                                    upDatedDurationTwo = "- 40 Minutes Body Treatment and 10 minutes post-care consultation";
+                                    upDatedDurationOne = "- 10 Minutes Body Analysis and 30 minutes Body Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes post-care consultation";
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Body Treatment";
@@ -2641,8 +2641,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening Treatment";
@@ -2658,8 +2658,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-skin-tightening";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Natural Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Natural Skin Tightening Treatment";
@@ -2675,8 +2675,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-skin-tightening-tg";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "Skin Tightening Treatment";
@@ -2692,8 +2692,8 @@
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-3-in-1-skin-tightening-promo";
                                     upDatedSpaPhone = "(778) 910-1179";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 10 Minutes Consultation";
-                                    upDatedDurationTwo = "- 50 Minutes 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationOne = "- 40 Minutes Cleansing and 3 in 1 Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
@@ -8065,9 +8065,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$299";
                                     break;
 
@@ -8082,9 +8082,9 @@
                                     upDatedDurationOne = "- 10-minute Cleansing and Steam";
                                     upDatedDurationTwo = "- 20-minutes HydroFacial Cleansing and 15-minutes of infrared and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Hydrafacial Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$299";
                                     break;
 
@@ -8099,9 +8099,9 @@
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Sagging Neck Recue Treatment"
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Sagging Neck Recue Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8116,9 +8116,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "LED Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8133,9 +8133,9 @@
                                     upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
                                     upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8150,9 +8150,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8167,9 +8167,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8184,9 +8184,9 @@
                                     upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
                                     upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Cryo Body Contouring Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8201,9 +8201,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8218,9 +8218,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Jawline Lifting Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Jawline Lifting Treatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -8235,9 +8235,9 @@
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Neck and Jawline Treatment and 15-minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586) 248-4419";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
                                     treatmentSelected = "Neck and JawlineTreatment";
-                                    newSpaPhoneNumberSelected = "(586) 248-4419";
+                                    newSpaPhoneNumberSelected = "(586)690-8693";
                                     insteadOfSpa = "$377";
                                     break;
 
