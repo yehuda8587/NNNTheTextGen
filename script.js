@@ -683,7 +683,7 @@
                             upDatedSpaPhone = "(647) 749-7406";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
+                            upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment and Consultation";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                             treatmentSelected = "Neck and Jawline Tightening Treatment";
@@ -700,7 +700,7 @@
                                 upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
                                 promoPrice = "79.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -717,7 +717,7 @@
                                 upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
                                 promoPrice = "69.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -734,7 +734,7 @@
                                 upDatedSpaPhone = "(647) 749-7406";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                                upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment and Consultation";
                                 promoPrice = "89.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                 treatmentSelected = "Skin Tightening Treatment";
@@ -785,7 +785,7 @@
                             upDatedSpaPhone = "(647) 749-7406 ";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Consultation";
-                            upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                            upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment and Consultation";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                             treatmentSelected = "Turkey Neck Tightening Treatment";
@@ -1023,7 +1023,7 @@
                                     upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment";
+                                    upDatedDurationTwo = "- 45 Minutes Neck & Jawline Treatment and Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                     treatmentSelected = "Neck and Jawline Tightening Treatment";
@@ -1040,7 +1040,7 @@
                                     upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
-                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
+                                    upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment and Consultation";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                     treatmentSelected = "Turkey Neck Tightening Treatment";
@@ -1057,7 +1057,7 @@
                                         upDatedSpaPhone = "(647) 846-9838";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
-                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
                                         promoPrice = "79.95"
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                         treatmentSelected = "Natural Facelift Treatment";
@@ -1074,7 +1074,7 @@
                                         upDatedSpaPhone = "(647) 846-9838";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
-                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+                                        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
                                         promoPrice = "69.95"
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                         treatmentSelected = "Natural Facelift Treatment";
@@ -1091,7 +1091,7 @@
                                         upDatedSpaPhone = "(647) 846-9838";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 Minutes Consultation";
-                                        upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment";
+                                        upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment and Consultation";
                                         promoPrice = "89.95"
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                         treatmentSelected = "Skin Tightening Treatment";
