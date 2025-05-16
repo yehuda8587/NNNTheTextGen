@@ -4220,6 +4220,23 @@
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Gentle Touch Beauty Neck and Jawline Treatment $79.95":
+                                    upDatedSpaName = "Gentle Touch Beauty";
+                                    upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                    upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-neck-amp-jawline-treatment-79-95" ;
+                                    upDatedSpaPhone = "(941) 280-0407";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "15 minute Cleansing";
+                                    upDatedDurationTwo = "45 minute Neck and Jawline Treatment";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(941) 244-0044";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Ben's Beauty Spa 89.95":
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -12750,6 +12767,23 @@
                                     upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-rare-natural-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(850) 738-0328";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (571) 325-9317";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(571) 325-9317";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                                    case "Tresor Beauty Tallahassee Natural Facelift $79.95":
+                                    upDatedSpaName = "Tresor Beauty";
+                                    upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(2nd floor, right above the Food Court, near Helzberg Jewelers and across Bath & Body Works)";
+                                    upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-beauty-natural-facelift-promo-79-95";
                                     upDatedSpaPhone = "(850) 738-0328";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = " - 15 minutes Cleansing";
