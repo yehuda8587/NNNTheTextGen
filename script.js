@@ -12676,6 +12676,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Nova Med Spa Skin Tightening $99.95":
+                                    upDatedSpaName = "Nova Med Spa";
+                                    upDatedSpaAddress = "1451 Old Country Rd, Plainview, NY 11803"+"<br>"+"(Country Pointe Shops, Store front has a sign)";
+                                    upDatedSpaLINK = "https://forms.gle/mqGV6S7jFqKnDLaV8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/z5JXm4ohmr8gAgwE8";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-med-spa-skin-tightening-promo-99-95";
+                                    upDatedSpaPhone = "(772) 210-4257";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                    promoPrice = "99.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (516) 543-3940";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(516) 543-3940";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Nova Med Spa Non-Surgical Facelift $79.95":
                                     upDatedSpaName = "Nova Med Spa";
                                     upDatedSpaAddress = "1451 Old Country Rd, Plainview, NY 11803"+"<br>"+"(Country Pointe Shops, Store front has a sign)";
