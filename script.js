@@ -1266,7 +1266,7 @@
                                                                     break;  
 
                                                                     case "Tresure By Embassy Suites Natural Facelift $69.95":
-                                                                    upDatedSpaName = "Supreme Spa";
+                                                                    upDatedSpaName = "Tresure By Embassy";
                                                                     upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                     upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
                                                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
@@ -1278,6 +1278,23 @@
                                                                     promoPrice = "69.95"
                                                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
                                                                     treatmentSelected = "Natural Facelift Treatment";
+                                                                    newSpaPhoneNumberSelected = "(714) 784-6884";
+                                                                    insteadOfSpa = "$377"
+                                                                    break; 
+
+                                                                    case "Tresure By Embassy Suites Natural Facelift $79.95":
+                                                                    upDatedSpaName = "Tresure By Embassy";
+                                                                    upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
+                                                                    upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
+                                                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/UN6PLvikjEUKiJEV6";
+                                                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tresure-by-embassy-suites-brea-skin-tightening-promo-79-95" ;
+                                                                    upDatedSpaPhone = "(714) 988-2959";
+                                                                    upDatedDurationTotal = "90 Minutes";
+                                                                    upDatedDurationOne = "- 30 Minutes Cleaning";
+                                                                    upDatedDurationTwo = "- 60 Minutes Skin Tightening Treatment & Consultation";
+                                                                    promoPrice = "79.95"
+                                                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
+                                                                    treatmentSelected = "Skin Tightening Treatment";
                                                                     newSpaPhoneNumberSelected = "(714) 784-6884";
                                                                     insteadOfSpa = "$377"
                                                                     break; 
