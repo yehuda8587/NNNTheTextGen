@@ -12608,6 +12608,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Nova Aesthetic Natural Facelift $79.95":
+                                    upDatedSpaName = "Nova Aesthetic";
+                                    upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                    upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-natural-facelift-promo-79-95";
+                                    upDatedSpaPhone = "(437) 290-4174";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(437) 410-9788";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "Blowout Spa Men Skin Tightening $89.95":
                                     upDatedSpaName = "Blowout Spa";
                                     upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
