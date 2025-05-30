@@ -11499,7 +11499,7 @@
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
                                     break;
 
@@ -11516,7 +11516,7 @@
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
                                     break;
 
@@ -11533,7 +11533,7 @@
                                     promoPrice = "129.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(301) 201-6735";
+                                    newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
                                     break;
 
