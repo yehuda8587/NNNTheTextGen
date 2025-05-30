@@ -1,4 +1,4 @@
-    // status of spa selected
+// status of spa selected
     let spaNameStatus = document.querySelector(".selected");
     let addOnsStatus = document.getElementById("chooseAddons");
 
