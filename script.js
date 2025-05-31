@@ -7298,7 +7298,7 @@
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
                                     upDatedSpaPhone = "(916) 790-3599";
-                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
                                     promoPrice = "79.95";
@@ -7350,8 +7350,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
+                                    upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
                                     promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -7401,8 +7401,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
                                     upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
+                                    upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
                                     promoPrice = "99.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "Natural Facelift Treatment";
@@ -7418,8 +7418,8 @@
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-natural-facelift-promo-89-95";
                                     upDatedSpaPhone = "(916) 790-3599";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
-                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate.";
+                                    upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment."
                                     promoPrice = "89.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                     treatmentSelected = "Natural Facelift Treatment";
