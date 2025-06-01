@@ -11497,7 +11497,7 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
@@ -11514,7 +11514,7 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "99.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
@@ -11531,7 +11531,7 @@
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "129.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 201-6735";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(227) 254-9289";
                                     insteadOfSpa = "$377"
