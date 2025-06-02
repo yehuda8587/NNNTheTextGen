@@ -10381,7 +10381,7 @@
                                             insteadOfSpa = "$377";
                                             break;
 
-                                            case "Skin Totale Below Zero $59.95":
+                                            case "Skin Totale Below Zero Facelift $59.95":
                                             upDatedSpaName = "Skin Totale";
                                             upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                             upDatedSpaLINK = " ";
