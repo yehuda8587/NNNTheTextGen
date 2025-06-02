@@ -10381,6 +10381,23 @@
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Skin Totale Below Zero $59.95":
+                                            upDatedSpaName = "Skin Totale";
+                                            upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                            upDatedSpaLINK = " ";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-below-zero-facelift-promo-59-00";
+                                            upDatedSpaPhone = "(714) 450-6547";
+                                            upDatedDurationTotal = "60 Minutes";
+                                            upDatedDurationOne = "- 45 minutes Skin Analysis and Below Zero Facelift Treatment";
+                                            upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                            promoPrice = "59.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
+                                            treatmentSelected = "Below Zero Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(714) 852-5300";
+                                            insteadOfSpa = "$377";
+                                            break;
+                
                                                 case "Lift and Revive Med Spa Natural Facelift $79.95":
                                                 upDatedSpaName = "Lift and Revive Med Spa";
                                                 upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
