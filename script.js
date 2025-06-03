@@ -10183,7 +10183,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-59-95";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10200,7 +10200,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mommy-tummy-rescue";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Mommy Tummy Rescue";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10217,7 +10217,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-hydraglow-promo";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Hydraglow Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10234,7 +10234,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Skin Tightening Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10251,7 +10251,7 @@
                                                 upDatedSpaLINK = " ";
                                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-skin-so-sweet-natural-facelift-page-59-95";
-                                                upDatedSpaPhone = "(714) 886-6067";
+                                                upDatedSpaPhone = "(714) 882-1003";
                                                 upDatedDurationTotal = "60 Minutes";
                                                 upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
                                                 upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10268,7 +10268,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-mens-led-anti-aging-promo-79-95";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and LED Anti-Aging Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10285,7 +10285,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-neck-amp-jawline-promo";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Neck and Jawline Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10302,7 +10302,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-cryo-body-sculpting-promo";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Cryo Body Sculpting";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -10319,7 +10319,7 @@
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-3-in-1-lifting-facial-treatment";
-                                            upDatedSpaPhone = "(714) 886-6067";
+                                            upDatedSpaPhone = "(714) 882-1003";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
                                             upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -11888,7 +11888,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "LED Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -11905,7 +11905,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Mommy Tummy Rescue Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Mommy Tummy Rescue Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$399"
@@ -11922,7 +11922,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -11939,7 +11939,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -11956,7 +11956,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Gold Collagen Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Gold Collagen Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -11973,7 +11973,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -11990,7 +11990,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -12007,7 +12007,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
@@ -12024,7 +12024,7 @@
                                     upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Hydraglow Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation";
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 291-2104";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                     treatmentSelected = "Hydraglow Treatment";
                                     newSpaPhoneNumberSelected = "(647) 243-4780";
                                     insteadOfSpa = "$377"
