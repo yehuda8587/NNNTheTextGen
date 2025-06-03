@@ -12661,7 +12661,7 @@
 
                                     case "Nova Aesthetic Natural Facelift $79.95":
                                     upDatedSpaName = "Nova Aesthetic";
-                                    upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                    upDatedSpaAddress = "225 McRae Dr. North York ON M4G1T5"+"<br>"+"(Next to the fire station)";
                                     upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-natural-facelift-promo-79-95";
