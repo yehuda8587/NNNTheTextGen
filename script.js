@@ -10584,6 +10584,23 @@
                                     newSpaPhoneNumberSelected = "(954) 765-6091";
                                     insteadOfSpa = "$377"
                                     break;
+                
+                                    case "Elevatione Spa Davie Skin Tightening $79.95":
+                                    upDatedSpaName = "Elevatione Spa Davie";
+                                    upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                    upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-79-95" ;
+                                    upDatedSpaPhone = "(954) 694-6452";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(954) 765-6091";
+                                    insteadOfSpa = "$377"
+                                    break;
 
                                     case "Elevatione Spa Davie Men's Skin Tightening $79.95":
                                     upDatedSpaName = "Elevatione Spa Davie";
