@@ -10386,7 +10386,7 @@
                                             upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                             upDatedSpaLINK = " ";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-below-zero-facelift-promo-59-00";
+                                            upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-below-zero-facelift-promo-59-95";
                                             upDatedSpaPhone = "(714) 450-6547";
                                             upDatedDurationTotal = "60 Minutes";
                                             upDatedDurationOne = "- 45 minutes Skin Analysis and Below Zero Facelift Treatment";
