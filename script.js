@@ -11351,19 +11351,19 @@
                                     break;
 
 
-                                    case "Miliv Med Spa Men Bye Bye Baggy Eyes $69.95":
+                                    case "Miliv Med Spa Men Bye Bye Saggy Eyes $69.95":
                                     upDatedSpaName = "Miliv Med Spa";
                                     upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
                                     upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
-                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-bye-bye-baggy-eyes-69-95";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-bye-bye-saggy-eyes-69-95";
                                     upDatedSpaPhone = "(713) 347-2676";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes LED & Hyaluronic Acid Treatment and 15 minutes post-care and consultation";
                                     promoPrice = "69.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
-                                    treatmentSelected = "Bye Bye Baggy Eyes Treatment";
+                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                     newSpaPhoneNumberSelected = "(713) 585-0715";
                                     insteadOfSpa = "$377"
                                     break;
