@@ -12968,6 +12968,23 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+                                    case "Dermagen Med Spa Below Zero Facelift $59.95":
+                                    upDatedSpaName = "Dermagen Med Spa";
+                                    upDatedSpaAddress = "222 Yamato Rd. Boca Raton, FL. 33431"+"<br>"+"(Yamato Crossing Plaza, Next to UPS Store)";
+                                    upDatedSpaLINK = "https://forms.gle/z1MS5ULugz1o4hdh7";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/7Bscp28UkenkgCXy9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermagen-med-spa-below-zero-facelift-59-95";
+                                    upDatedSpaPhone = "(561) 320-8635";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = " - 15 minutes Cleansing";
+                                    upDatedDurationTwo = " - 30 minutes of the Below Zero Facelift Treatment and 15 minutes Consultation";
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Below Zero Facelift";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
                                     case "BioLed Beauty Natural Facelift $79.95":
                                     upDatedSpaName = "BioLed Beauty";
                                     upDatedSpaAddress = "Twelve Oaks Mall, 27500 Novi Rd. Novi, MI. 48377"+"<br>"+"(STE E205, 2nd floor next to Coach)";
