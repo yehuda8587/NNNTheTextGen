@@ -11350,6 +11350,25 @@
                                     insteadOfSpa = "$377"
                                     break;
 
+
+                                    case "Miliv Med Spa Men Bye Bye Baggy Eyes $69.95":
+                                    upDatedSpaName = "Miliv Med Spa";
+                                    upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
+                                    upDatedSpaLINK = "https://forms.gle/qdqKRqaEMCmfn8md9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/NoWqwHuFVHnmEsMW9";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/miliv-med-spa-bye-bye-baggy-eyes-69-95";
+                                    upDatedSpaPhone = "(713) 347-2676";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes LED & Hyaluronic Acid Treatment and 15 minutes post-care and consultation";
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
+                                    treatmentSelected = "Bye Bye Baggy Eyes Treatment";
+                                    newSpaPhoneNumberSelected = "(713) 585-0715";
+                                    insteadOfSpa = "$377"
+                                    break;
+
+                
                                     case "Liv Med Spa Skin Tightening $79.95":
                                     upDatedSpaName = "Liv Med Spa";
                                     upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
