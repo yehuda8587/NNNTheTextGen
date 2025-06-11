@@ -12649,7 +12649,7 @@ function updateForm(){
                                 upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
                                 upDatedSpaLINK = "https://forms.gle/yXFkQsA4PmN61qxT8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/ptdDexcxmHAWC65Y6";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/the-soap-tree-omaha-skin-tightening-promo-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/the-soap-tree-omaha-skin-tightening-treatment-79-95";
                                 upDatedSpaPhone = "(402) 252-3842";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
