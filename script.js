@@ -12695,6 +12695,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break; 
 
+            case "The Soap Tree Omaha Collagen Enhancing Treatment $69.95":
+                                upDatedSpaName = "The Soap Tree";
+                                upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
+                                upDatedSpaLINK = "https://forms.gle/yXFkQsA4PmN61qxT8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/ptdDexcxmHAWC65Y6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/the-soap-tree-omaha-collagen-enhancing-treatment-69-95";
+                                upDatedSpaPhone = "(402) 252-3842";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(928) 399-9242";
+                                insteadOfSpa = "$377";
+                                break; 
+
 
                                 case "Vein Vascular Clinic Goodbye Spider Vein $99.95":
                                 upDatedSpaName = "Vein Vascular Clinic";
