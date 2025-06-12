@@ -13223,6 +13223,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Bee and Co Fernandina Beach Natural Facelift $99.95":
+                                upDatedSpaName = "Bee and Co";
+                                upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+                                upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bee-amp-co-fl-natural-facelift-treatment-99-95";
+                                upDatedSpaPhone = "(904) 452-8539";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Post Care and Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(904) 432-7364";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Elev8 Med Spa Hydraglow Treatment $59.95":
                                 upDatedSpaName = "Elev8 Med Spa";
                                 upDatedSpaAddress = "10752 N. 89th Place, Scottsdale AZ 85260"+"<br>"+"(STE C227, Inside the medical building second floor if you use elevator you take a left and it’s on your right side)";
