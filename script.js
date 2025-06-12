@@ -503,7 +503,24 @@ function updateForm(){
                     treatmentSelected = "Neck and Jawline Tightening Treatment";
                     newSpaPhoneNumberSelected = "(352) 216-4557";
                     insteadOfSpa = "$377"
-                    break;   
+                    break;  
+
+                    case "Beauty Frizz Ocala Bye Bye Saggy Eyes 79.95":
+                    upDatedSpaName = "BeautyFrizz Spa";
+                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-bye-bye-saggy-eyes-79-95";
+                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                    upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
+                    promoPrice = "79.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    treatmentSelected = "Bye Bye Saggy Eyesg Treatment";
+                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    insteadOfSpa = "$377"
+                    break;  
 
 
             case "Bee and Co":
