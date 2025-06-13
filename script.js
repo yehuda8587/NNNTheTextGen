@@ -4696,6 +4696,24 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+
+                                    case "Ben's Beauty Spa Irvine Natural Facelift 79.95":
+                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-natural-facelift-79-95-377" ;
+                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                 case "Resveratrol":
                                 upDatedSpaName = "Resveratrol Spa";
                                 upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
