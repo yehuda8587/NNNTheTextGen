@@ -11748,7 +11748,7 @@ function updateForm(){
                                 upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near H&M or Von Maur)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
                                 upDatedSpaPhone = "(706) 901-8979";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
