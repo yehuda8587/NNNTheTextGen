@@ -13229,7 +13229,7 @@ function updateForm(){
                                 upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(2nd floor, right above the Food Court, near Helzberg Jewelers and across Bath & Body Works)";
                                 upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-beauty-natural-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tresor-beauty-natural-facelift-79-95-377";
                                 upDatedSpaPhone = "(850) 738-0328";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
