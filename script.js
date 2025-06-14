@@ -11641,6 +11641,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Liv Med Spa Turkey Neck Rescue $59.95":
+                                upDatedSpaName = "Liv Med Spa";
+                                upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
+                                upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-turkey-neck-rescue-59-95";
+                                upDatedSpaPhone = "(281) 410-2798";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 35 minutes of Turkey Neck Rescue Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 395-8095";
+                                treatmentSelected = "Liv Med Spa Turkey Neck Rescue $59.95";
+                                newSpaPhoneNumberSelected = "(346) 395-8095";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Allure Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Allure Med Spa";
                                 upDatedSpaAddress = "18 Doctor's Lane, King City, ON, CA L7B 1G2"+"<br>"+"(Inside the Building, Unit 4)";
