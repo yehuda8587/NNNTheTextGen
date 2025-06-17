@@ -11699,7 +11699,7 @@ function updateForm(){
                                 upDatedSpaAddress = "16742 Champion Forest Dr. Spring TX, 77379"+"<br>"+"(Champion Forest Shopping Center, next to Marco’s Pizza)";
                                 upDatedSpaLINK = "https://forms.gle/efHYwBrU4fm9QC2c9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/J7jaRoWTUmvcGJxR7";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-turkey-neck-rescue-59-95";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/liv-med-spa-turkey-neck-rescue-promo-59-95";
                                 upDatedSpaPhone = "(281) 410-2798";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
