@@ -13314,6 +13314,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "BioLed Beauty Collagen Enhancing $99.95":
+                                upDatedSpaName = "BioLed Beauty";
+                                upDatedSpaAddress = "Twelve Oaks Mall, 27500 Novi Rd. Novi, MI. 48377"+"<br>"+"(STE E205, 2nd floor next to Coach)";
+                                upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bioled-collagen-enhancing-99-95-377";
+                                upDatedSpaPhone = "(248) 266-5243";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 5 minutes Cleansing";
+                                upDatedDurationTwo = " - 25 minutes Collagen Enhancing Treatment and 15 minutes Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (734) 291-2085";
+                                treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(734) 291-2085";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Tresor Rare Tallahassee Natural Facelift $79.95":
                                 upDatedSpaName = "Tresor Rare";
                                 upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(2nd floor, right above the Food Court, near Helzberg Jewelers and across Bath & Body Works)";
