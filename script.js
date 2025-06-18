@@ -4710,7 +4710,7 @@ function updateForm(){
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -4728,9 +4728,11 @@ function updateForm(){
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(626) 298-6456";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
                                     insteadOfSpa = "$377";
                                     break;
+
+            
                                 case "Resveratrol":
                                 upDatedSpaName = "Resveratrol Spa";
                                 upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
@@ -13564,6 +13566,23 @@ function updateForm(){
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 878-2860";
                                 treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(480) 878-2860";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Forest Hill Cosmetic Clinic Natural Facelift $79.95":
+                                upDatedSpaName = "Elev8 Med Spa";
+                                upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+                                upDatedSpaLINK = "https://forms.gle/7VQvAN71bjosiwAy5";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-natural-facelift-promo-79-95";
+                                upDatedSpaPhone = "(437) 290-1194";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(416) 595-9788";
                                 insteadOfSpa = "$377"
                                 break;
 
