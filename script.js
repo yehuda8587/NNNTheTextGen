@@ -13041,6 +13041,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Nova Aesthetic Collagen Enhancing $79.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-collagen-enhancing-79-95";
+                                upDatedSpaPhone = "(437) 290-4155";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Collagen Enhancing and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Blowout Spa Men Skin Tightening $89.95":
                                 upDatedSpaName = "Blowout Spa";
