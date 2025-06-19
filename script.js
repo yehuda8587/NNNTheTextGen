@@ -4703,7 +4703,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-natural-facelift-79-95-377" ;
-                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
@@ -4721,7 +4721,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-collagen-enhancing-79-95-377" ;
-                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
