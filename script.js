@@ -10385,6 +10385,23 @@ function updateForm(){
                                         newSpaPhoneNumberSelected = "(714) 203-3527";
                                         insteadOfSpa = "$377";
                                         break;
+            
+                                        case "Skin So Sweet Collagen Enhancing $59.95":
+                                        upDatedSpaName = "Skin So Sweet";
+                                        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-collagen-enhancing-59-95";
+                                        upDatedSpaPhone = "(714) 886 6067";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis and Collagen Enhancing Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                        treatmentSelected = "Collagen Enhancing Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 203-3527";
+                                        insteadOfSpa = "$377";
+                                        break;
 
                                         case "DTB Skin So Sweet Natural Facelift $59.95":
                                             upDatedSpaName = "Skin So Sweet";
