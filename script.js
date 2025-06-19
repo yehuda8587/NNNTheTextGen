@@ -10403,6 +10403,23 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Skin So Sweet Bye Bye Saggy Eyes $59.95":
+                                        upDatedSpaName = "Skin So Sweet";
+                                        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-bye-bye-saggy-eyes-59-95";
+                                        upDatedSpaPhone = "(714) 886 6067";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Skin Analysis";
+                                        upDatedDurationTwo = "- 30 minutes LED & Hyaluronic Acid Treatment and 15 minutes post-care and consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 203-3527";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "DTB Skin So Sweet Natural Facelift $59.95":
                                             upDatedSpaName = "Skin So Sweet";
                                             upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
