@@ -11066,6 +11066,23 @@ function updateForm(){
                                 insteadOfSpa = "$500"
                                 break;
 
+                                case "Parie Med Spa Bye Bye Saggy Eyes $79.95":
+                                upDatedSpaName = "Parie Med Spa";
+                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                upDatedSpaLINK = " ";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-bye-bye-saggy-eyes-79-95" ;
+                                upDatedSpaPhone = "(702) 673-1911";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 10 minutes Lipo Injection";
+                                upDatedDurationTwo = " 30 minutes LED & Hyaluronic Acid Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(702) 930-6221";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Parie Med Spa Skin Tightening $79.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
