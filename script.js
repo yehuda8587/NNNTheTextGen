@@ -13263,6 +13263,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Velora Med Spa DTB Natural Facelift $79.95":
+                                upDatedSpaName = "Velora Med Spa";
+                                upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
+                                upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-velora-med-spa-79-95-3777";
+                                upDatedSpaPhone = "(312) 625-1275";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(331) 600-2304";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Nova Med Spa Skin Tightening $79.95":
                                 upDatedSpaName = "Nova Med Spa";
                                 upDatedSpaAddress = "1451 Old Country Rd, Plainview, NY 11803"+"<br>"+"(Country Pointe Shops, Store front has a sign)";
