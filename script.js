@@ -12648,6 +12648,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Equanimity DTB Bye Bye Saggy Eyes $59.95":
+                                upDatedSpaName = "Equanimity Wellness";
+                                upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-equanimity-bye-bye-saggy-eyes-59-95-377";
+                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes of the LED & Hyaluronic Acid Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                treatmentSelected = "Bye Bye Saggy Eye";
+                                newSpaPhoneNumberSelected = "(214) 238-6896";
+                                insteadOfSpa = "$377"
+                                break;
+
             
                                 case "Tranquil Wellness and Spa Skin Tightening Facial $79.95":
                                 upDatedSpaName = "Tranquil Wellness and Spa";
