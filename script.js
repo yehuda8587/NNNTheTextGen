@@ -13706,7 +13706,7 @@ function updateForm(){
                                 break;
 
                                 case "Forest Hill Cosmetic Clinic Natural Facelift $79.95":
-                                upDatedSpaName = "Elev8 Med Spa";
+                                upDatedSpaName = "Forest Hill Cosmetic Clinic";
                                 upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
                                 upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
