@@ -6349,9 +6349,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$350";
                                 break;
 
@@ -6383,9 +6383,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"   
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$299";
                                 break;
 
@@ -6400,9 +6400,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$299";
                                 break;
 
@@ -6417,9 +6417,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Consultation";
                                 upDatedDurationTwo = "- 45-minutes Neck & Jawline Treatment"
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Neck and Jawline Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
@@ -6434,9 +6434,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Consultation";
                                 upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Reverse Turkey Neck Treatment";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
@@ -6451,9 +6451,9 @@ function updateForm(){
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(904) 342-2780";
+                                    newSpaPhoneNumberSelected = "(904) 342-2870";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -6468,9 +6468,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 15-minute Consultation";
                                         upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                         treatmentSelected = "Natural Facelift Treatment";
-                                        newSpaPhoneNumberSelected = "(904) 342-2780";
+                                        newSpaPhoneNumberSelected = "(904) 342-2870";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -6485,9 +6485,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes Collagen Enhancing Treatment and 15-minutes Consultation"   
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Collagen Enhancing";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$299";
                                 break;
 
@@ -6502,9 +6502,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Skin Tightening";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
@@ -6519,9 +6519,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
                                 promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Skin Tightening";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
@@ -6537,9 +6537,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15-minutes Consultation"   
                                 promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "Skin Tightening";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
@@ -6554,9 +6554,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 15-minute Cleansing";
                                         upDatedDurationTwo = "- 45-minutes Face & Neck Tightening Treatment and Consultation"
                                         promoPrice = "69.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                         treatmentSelected = "Face & Neck Tightening Treatment";
-                                        newSpaPhoneNumberSelected = "(904) 342-2780";
+                                        newSpaPhoneNumberSelected = "(904) 342-2870";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -6571,9 +6571,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 15-minute Body Analysis";
                                         upDatedDurationTwo = "- 45-minutes Body Contouring Treatment and 15 minutes post-care and consultation"
                                         promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                         treatmentSelected = "Body Contouring Treatment";
-                                        newSpaPhoneNumberSelected = "(904) 342-2780";
+                                        newSpaPhoneNumberSelected = "(904) 342-2870";
                                         insteadOfSpa = "$399";
                                         break;
 
@@ -6588,9 +6588,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minute Cleansing";
                                 upDatedDurationTwo = "- 30-minutes 3 in 1 Skin Tightening Treatment and 15-minutes Consultation"   
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2780";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
                                 treatmentSelected = "3 in 1 Skin Tightening";
-                                newSpaPhoneNumberSelected = "(904) 342-2780";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
                                 insteadOfSpa = "$377";
                                 break;
 
