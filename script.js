@@ -776,6 +776,23 @@ function updateForm(){
                             insteadOfSpa = "$377"
                             break; 
 
+            case "Kristals Burlington Men's Skin Tightening $89.95/399":
+                            upDatedSpaName = "Kristals Burlington Spa";
+                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
+                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95-399";
+                            upDatedSpaPhone = "(647) 749-7406";
+                            upDatedDurationTotal = "60 Minutes";
+                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
+                            upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment and Consultation";
+                            promoPrice = "89.95"
+                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                            treatmentSelected = "Men's Skin Tightening Treatment";
+                            newSpaPhoneNumberSelected = "(647) 277-5122";
+                            insteadOfSpa = "$399"
+                            break; 
+
                         case "Kristals Barrie":
                             upDatedSpaName = "Kristals Barrie Spa";
                             upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
