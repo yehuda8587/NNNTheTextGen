@@ -4731,12 +4731,12 @@ function updateForm(){
                                     break;
 
 
-                                    case "Ben's Beauty Spa Irvine Natural Facelift 79.95":
-                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    case "Triple N Natural Facelift 79.95":
+                                    upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-natural-facelift-79-95-377" ;
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-natural-facelift-79-95-377" ;
                                     upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -4749,19 +4749,19 @@ function updateForm(){
                                     break;
 
 
-                                    case "Ben's Beauty Spa Irvine Collagen Enhancing 79.95":
-                                    upDatedSpaName = "Ben's Beauty Spa";
+                                    case "Triple N Non Invasive Pain Management Therapy 79.95":
+                                    upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-collagen-enhancing-79-95-377" ;
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-painless-light-therapy-79-95-377" ;
                                     upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
+                                    upDatedDurationTwo = "- 35 minutes of LED therapy applied directly to the treatment area";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
-                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    treatmentSelected = "Non Invasive Pain Management Therapy";
                                     newSpaPhoneNumberSelected = "(714) 430-3899";
                                     insteadOfSpa = "$377";
                                     break;
