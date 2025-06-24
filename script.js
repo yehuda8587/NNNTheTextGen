@@ -742,7 +742,7 @@ function updateForm(){
                             insteadOfSpa = "$377"
                             break; 
 
-            case "Kristals Burlington Natural Facelift $79.95/ 399":
+            case "Kristals Burlington Natural Facelift $79.95-399":
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
@@ -793,7 +793,7 @@ function updateForm(){
                             insteadOfSpa = "$377"
                             break; 
 
-            case "Kristals Burlington Men's Skin Tightening $89.95/399":
+            case "Kristals Burlington Men's Skin Tightening $89.95-399":
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
@@ -1133,7 +1133,7 @@ function updateForm(){
                                     insteadOfSpa = "$377"
                                     break; 
 
-            case "Kristals Erin Mills Natural Facelift $79.95/399":
+            case "Kristals Erin Mills Natural Facelift $79.95-399":
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
@@ -1184,7 +1184,7 @@ function updateForm(){
                                     insteadOfSpa = "$399"
                                     break;
 
-              case "Kristals Erin Mills Men Skin Tightening $89.95/399":
+              case "Kristals Erin Mills Men Skin Tightening $89.95-399":
                                     upDatedSpaName = "Kristals Erin Mills spa";
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
