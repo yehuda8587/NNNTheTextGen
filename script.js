@@ -13790,6 +13790,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Forest Hill Cosmetic Clinic Bye Bye Saggy Eyes $79.95":
+                                upDatedSpaName = "Forest Hill Cosmetic Clinic";
+                                upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+                                upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-bye-bye-saggy-eyes-79-95";
+                                upDatedSpaPhone = "(437) 290-1194";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes of Cleansing, LED & Hyaluronic Acid Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 
 
                                 
