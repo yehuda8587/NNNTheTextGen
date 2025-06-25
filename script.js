@@ -1367,7 +1367,7 @@ function updateForm(){
                                                                 insteadOfSpa = "$377"
                                                                 break;  
 
-                                                                case "Tresure By Embassy Suites Natural Facelift $69.95":
+                                                                case "Trésure Rare Brea Natural Facelift $69.95":
                                                                 upDatedSpaName = "Tresure By Embassy";
                                                                 upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                 upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
@@ -1384,7 +1384,7 @@ function updateForm(){
                                                                 insteadOfSpa = "$377"
                                                                 break; 
 
-                                                                case "Tresure By Embassy Suites Skin Tightening $79.95":
+                                                                case "Trésure Rare Brea Skin Tightening $79.95":
                                                                 upDatedSpaName = "Tresure By Embassy";
                                                                 upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                 upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
@@ -1401,7 +1401,7 @@ function updateForm(){
                                                                 insteadOfSpa = "$377"
                                                                 break; 
 
-                                                                case "Tresure By Embassy Suites Body Sculpting $79.95":
+                                                                case "Trésure Rare Brea Body Sculpting $79.95":
                                                                 upDatedSpaName = "Tresure By Embassy";
                                                                 upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                 upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
