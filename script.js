@@ -13808,6 +13808,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+             case "Forest Hill Cosmetic Clinic 3 in 1 Skin Tightening $79.95":
+                                upDatedSpaName = "Forest Hill Cosmetic Clinic";
+                                upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+                                upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-3-in-1-skin-tightening-promo-79-95";
+                                upDatedSpaPhone = "(437) 290-1194";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 
 
                                 
