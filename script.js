@@ -8951,6 +8951,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Malka Med Spa Bye Bye Saggy Eyes 69.95":
+                                    upDatedSpaName = "Malka Med Spa";
+                                    upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-bye-bye-saggy-eyes-69-95";
+                                    upDatedSpaPhone = "(469) 884-0553";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes light cleansing and the Bye Bye Saggy Eyes treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                    newSpaPhoneNumberSelected = "(469) 888-6616";
+                                    insteadOfSpa = "$299";
+                                    break;
+
                                     case "Malka Med Spa Skin Tightening 79.95":
                                     upDatedSpaName = "Malka Med Spa";
                                     upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -9538,7 +9555,7 @@ function updateForm(){
                                     upDatedDurationTwo = "- 15 minutes post-care and consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
-                                    treatmentSelected = "Body Contouring Treatment";
+                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                     newSpaPhoneNumberSelected = "(204) 306-7627";
                                     insteadOfSpa = "$377";
                                     break;
