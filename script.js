@@ -3663,6 +3663,24 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Tierra Med Spa Facelift Treatment 69.95-399":
+                                    upDatedSpaName = "Tierra Med Spa";
+                                upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-natural-facelift-69-95-399";
+                                upDatedSpaPhone = "(647) 956-1334";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Cleansing and Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 Minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(647) 277-5122";
+                                insteadOfSpa = "$399";
+                                break;
+
+
                                 case "Tierra Med Natural Men's Skin Tightening Treatment 89.95":
                                     upDatedSpaName = "Tierra Med Spa";
                                 upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
@@ -3678,6 +3696,23 @@ function updateForm(){
                                 treatmentSelected = "Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(647) 277-5122";
                                 insteadOfSpa = "$377";
+                                break;
+
+                                 case "Tierra Med Spa Men's Skin Tightening Treatment 89.95-399":
+                                    upDatedSpaName = "Tierra Med Spa";
+                                upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-mens-skin-tightening-89-95-399";
+                                upDatedSpaPhone = "(647) 956-1334";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Cleansing and Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 Minutes Consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(647) 277-5122";
+                                insteadOfSpa = "$399";
                                 break;
 
                                 case "Tierra Med TG Skin Tightening Treatment 79.95":
@@ -3729,6 +3764,23 @@ function updateForm(){
                                 treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(647) 277-5122";
                                 insteadOfSpa = "$377";
+                                break;
+
+                                case "Tierra Med Spa 3 in 1 Skin Tightening 69.95-399":
+                                    upDatedSpaName = "Tierra Med Spa";
+                                upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-3-in-1-skin-tightening-69-95-399";
+                                upDatedSpaPhone = "(647) 956-1334";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes 3 in 1 Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 Minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(647) 277-5122";
+                                insteadOfSpa = "$399";
                                 break;
 
                                 case "FTB Tierra Med 3 in 1 Skin Tightening 69.95":
