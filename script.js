@@ -4877,8 +4877,8 @@ function updateForm(){
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-painless-light-therapy-79-95-377" ;
                                     upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 35 minutes of LED therapy applied directly to the treatment area";
+                                    upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
+                                    upDatedDurationTwo = "- 15 minutes Post Care";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
