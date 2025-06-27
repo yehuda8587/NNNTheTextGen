@@ -555,6 +555,22 @@ function updateForm(){
                 insteadOfSpa = "$350"
                 break;
 
+                case "Bee and Co Bye Bye Saggy Eyes 79.95":
+                upDatedSpaName = "Bee and Co";
+                upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
+                upDatedSpaLINK = "https://forms.gle/KZ9C1f4gNPuLVKLEA";
+                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-sherman-oaks-bye-bye-saggy-eyes-79-95" ;
+                upDatedSpaPhone = "(747) 261-9969";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleansing";
+                upDatedDurationTwo = "- 35 Minutes Bye bye Saggy Eyes Treatment & 10 Minutes of Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (747) 247-2204";
+                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                newSpaPhoneNumberSelected = "(747) 247-2204";
+                insteadOfSpa = "$377"
+                break;
+
                 case "Bee and Co FTB LED 69.95":
                 upDatedSpaName = "Bee and Co";
                 upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
