@@ -6543,6 +6543,24 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Esthetix St. Augustine Bye Bye Saggy Eyes $69.95":
+                                upDatedSpaName = "Esthetix Spa";
+                                upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-bye-bye-saggy-eyes-69-95";
+                                upDatedSpaPhone = "(904) 799-2965";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minute Cleansing";
+                                upDatedDurationTwo = "- 30-minutes Bye Bye Saggy Eyes and 15-minutes Consultation"
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
+                                insteadOfSpa = "$350";
+                                break;
+
+
                                 case "Esthetix St. Augustine LED 69.95":
                                 upDatedSpaName = "Esthetix Spa";
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
