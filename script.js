@@ -4493,6 +4493,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Gentle Touch Beauty Bye Bye Saggy Eyes $79.95":
+                                upDatedSpaName = "Gentle Touch Beauty";
+                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-bye-bye-saggy-eyes-79-95" ;
+                                upDatedSpaPhone = "(941) 280-0407";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "15 minute Cleansing";
+                                upDatedDurationTwo = "45 minute Beauty Bye Bye Saggy Eyes and Consultation";
+                                promoPrice = "79.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                treatmentSelected = "Beauty Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(941) 244-0044";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Ben's Beauty Spa 89.95":
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
