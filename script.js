@@ -4011,6 +4011,24 @@ function updateForm(){
                                         break; 
 
 
+                                        case "Orogold Valencia Bye Bye Saggy Eyes $69.95":
+                                        upDatedSpaName = "OROGOLD Spa";
+                                        upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
+                                        upDatedSpaLINK = "https://forms.gle/sjLWKCSRm8531esHA";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/9xQWpT55f9ot3AkP9";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/orogold-valencia-bye-bye-saggy-eyes-69-95";
+                                        upDatedSpaPhone = "(661) 214-7151";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes light cleansing and the Bye Bye Saggy Eyes treatment";
+                                        upDatedDurationTwo = "- 15 minutes Consultation ";
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (661) 383-9238";
+                                        treatmentSelected = "Bye Bye Saggy Eyes";
+                                        newSpaPhoneNumberSelected = "(661) 383-9238";
+                                        insteadOfSpa = "$377";
+                                        break; 
+            
+
                                     case "Orogold Valencia":
                                         upDatedSpaName = "OROGOLD Spa";
                                         upDatedSpaAddress = "Valencia Town Center, 24201 Valencia Blvd, Valencia, CA 91355" + "<br>" + "(2nd floor near 'Kevin Jewelers')";
