@@ -4867,6 +4867,22 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Triple N Collagen Enhancing 79.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-collagen-enhancing-79-95-377" ;
+                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Collagen Enhancing and 15 minutes Consultation";
+                                    promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    treatmentSelected = "Collagen Enhancing Treatment";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    insteadOfSpa = "$377";
+                                    break;
 
                                     case "Triple N Natural Facelift 79.95":
                                     upDatedSpaName = "Triple N";
@@ -4885,7 +4901,6 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-
                                     case "Triple N Non Invasive Pain Management Therapy 79.95":
                                     upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
@@ -4895,14 +4910,13 @@ function updateForm(){
                                     upDatedSpaPhone = "(949) 490-7726";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
-                                    upDatedDurationTwo = "- 15 minutes Post Care";
+                                    upDatedDurationTwo = "- 10 minutes Post Care";
                                     promoPrice = "79.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
                                     newSpaPhoneNumberSelected = "(714) 430-3899";
                                     insteadOfSpa = "$377";
                                     break;
-
             
                                 case "Resveratrol":
                                 upDatedSpaName = "Resveratrol Spa";
