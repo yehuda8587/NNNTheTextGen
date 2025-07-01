@@ -4901,6 +4901,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Triple N Natural Facelift 59.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-natural-facelift-59-95-377" ;
+                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Triple N Non Invasive Pain Management Therapy 79.95":
                                     upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
@@ -4912,6 +4929,23 @@ function updateForm(){
                                     upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
                                     upDatedDurationTwo = "- 10 minutes Post Care";
                                     promoPrice = "79.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    treatmentSelected = "Non Invasive Pain Management Therapy";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Triple N Non Invasive Pain Management Therapy 59.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-non-invasive-pain-management-therapy-59-95-377" ;
+                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
+                                    upDatedDurationTwo = "- 10 minutes Post Care";
+                                    promoPrice = "59.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
                                     newSpaPhoneNumberSelected = "(714) 430-3899";
@@ -13396,6 +13430,23 @@ function updateForm(){
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
                                 treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Nova Aesthetic Bye Bye Saggy Eyes $79.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-bye-bye-saggy-eyes-79-95";
+                                upDatedSpaPhone = "(437) 290-4155";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                 newSpaPhoneNumberSelected = "(437) 410-9788";
                                 insteadOfSpa = "$377"
                                 break;
