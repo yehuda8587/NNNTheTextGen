@@ -4873,14 +4873,14 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-collagen-enhancing-79-95-377" ;
-                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Collagen Enhancing and 15 minutes Consultation";
                                     promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Collagen Enhancing Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -4890,14 +4890,14 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-natural-facelift-79-95-377" ;
-                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
                                     promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -4907,14 +4907,14 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-natural-facelift-59-95-377" ;
-                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
                                     upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
                                     promoPrice = "59.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -4924,14 +4924,14 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-painless-light-therapy-79-95-377" ;
-                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
                                     upDatedDurationTwo = "- 10 minutes Post Care";
                                     promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -4941,14 +4941,14 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-non-invasive-pain-management-therapy-59-95-377" ;
-                                    upDatedSpaPhone = "(949) 490-7726";
+                                    upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
                                     upDatedDurationTwo = "- 10 minutes Post Care";
                                     promoPrice = "59.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
             
