@@ -10572,6 +10572,23 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+                                         case "Beyond The Soap Bye Bye Saggy Eyes $59.95":
+                                        upDatedSpaName = "Beyond The Soap";
+                                        upDatedSpaAddress = "702 E Las Olas Blvd. Fort Lauderdale, FL 33301"+"<br>"+"(Next to riverside hotel)";
+                                        upDatedSpaLINK = "https://forms.gle/t4o7uxcTFUZ6vqY79";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/8p1iKXkDdWEKwZDn7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyond-the-soap-bye-bye-saggy-eyes-59-95";
+                                        upDatedSpaPhone = "(954) 526-8934";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes light cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Bye Bye Saggy Eyes Treatment and 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 317-6182";
+                                        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                        newSpaPhoneNumberSelected = "(786) 317-6182";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Skin So Sweet Natural Facelift $59.95":
                                         upDatedSpaName = "Skin So Sweet";
                                         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
