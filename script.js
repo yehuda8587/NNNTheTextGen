@@ -10641,6 +10641,23 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+                                        case "Skin So Sweet Natural Facelift $69.95":
+                                        upDatedSpaName = "Skin So Sweet";
+                                        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-natural-facelift-69-95";
+                                        upDatedSpaPhone = "(714) 886 6067";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "69.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 203-3527";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                         case "Skin So Sweet Mommy Tummy Rescue $59.95":
                                         upDatedSpaName = "Skin So Sweet";
                                         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
@@ -11432,7 +11449,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-bye-bye-saggy-eyes-79-95" ;
-                                upDatedSpaPhone = "(702) 673-1911";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Lipo Injection";
                                 upDatedDurationTwo = " 30 minutes LED & Hyaluronic Acid Treatment and 10 minutes post-care and consultation";
