@@ -13921,10 +13921,27 @@ function updateForm(){
                                 upDatedSpaPhone = "(443)-972-0601";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443)-972-0601";
                                 treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(571) 325-9317";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Tresor Beauty Tallahassee Natural Skin Tightening $79.95":
+                                upDatedSpaName = "Tresor Beauty";
+                                upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(2nd floor, right above the Food Court, near Helzberg Jewelers and across Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tresor-beauty-natural-skin-tightening-79-95-377";
+                                upDatedSpaPhone = "(443)-972-0601";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Natural Skin Tightening Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443)-972-0601";
+                                treatmentSelected = "Natural Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(571) 325-9317";
                                 insteadOfSpa = "$377"
                                 break;
