@@ -11822,7 +11822,7 @@ function updateForm(){
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/moana-crystals-skin-tightening-promo-69-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-skin-tightening-69-95-377";
                                 upDatedSpaPhone = "(808) 764-3367";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
