@@ -12312,6 +12312,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Below Zero Alpharetta Spa Natural Facelift $89.95":
+                                upDatedSpaName = "Below Zero Alpharetta";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
+                                upDatedSpaPhone = "(706) 901-8979";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and post-care and consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(227) 254-9289";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 case "Ora Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Ora Medical Spa";
                                 upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
