@@ -9154,6 +9154,24 @@ function updateForm(){
                                     insteadOfSpa = "$299";
                                     break;
 
+                                    case "Malka Med Spa Turkey Neck Rescue $79.95":
+                                    upDatedSpaName = "Malka Med Spa";
+                                    upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = " ";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/Nv4x7HUjHc6g38Jq6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/malka-med-spa-turkey-neck-rescue-promo-79-95";
+                                    upDatedSpaPhone = "(469) 884-0553";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes light cleansing and Turkey Neck Rescue treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (469) 888-6616";
+                                    treatmentSelected = "Turkey Neck Rescue Treatment";
+                                    newSpaPhoneNumberSelected = "(469) 888-6616";
+                                    insteadOfSpa = "$299";
+                                    break;
+
+
                                     case "Malka Med Spa Skin Tightening 79.95":
                                     upDatedSpaName = "Malka Med Spa";
                                     upDatedSpaAddress = "2601 Little Elm Parkway, Little Elm, TX, 75068"+"<br>"+"(Unit 1801, Building 18)"+"<br>"+"(Parking is available just in front of the spa)";
