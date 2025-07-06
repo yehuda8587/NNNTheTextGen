@@ -517,7 +517,7 @@ function updateForm(){
                     upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
                     promoPrice = "79.95"
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
-                    treatmentSelected = "Bye Bye Saggy Eyesg Treatment";
+                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                     newSpaPhoneNumberSelected = "(352) 216-4557";
                     insteadOfSpa = "$377"
                     break;  
