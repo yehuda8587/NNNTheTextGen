@@ -12319,14 +12319,14 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
-                                upDatedSpaPhone = "(706) 901-8979";
+                                upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and post-care and consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(227) 254-9289";
+                                newSpaPhoneNumberSelected = "(706) 901-8979";
                                 insteadOfSpa = "$377"
                                 break;
 
@@ -12336,14 +12336,14 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
-                                upDatedSpaPhone = "(706) 901-8979";
+                                upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and post-care and consultation";
                                 promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(227) 254-9289";
+                                newSpaPhoneNumberSelected = "(706) 901-8979";
                                 insteadOfSpa = "$377"
                                 break;
 
