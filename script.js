@@ -3225,6 +3225,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break; 
 
+                                case "Pearl De Flore Augusta DTB Natural Skin Tightening $99.95":
+                                    upDatedSpaName = "Pearl De Flore Spa";
+                                upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
+                                upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-pearl-de-flore-skin-tightening-99-95";
+                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 383-5302";
+                                treatmentSelected = "Natural Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(762) 383-5302";
+                                insteadOfSpa = "$377";
+                                break; 
+
                                 case "Pearl De Flore Augusta Natural Skin Tightening $99.95":
                                 upDatedSpaName = "Pearl De Flore Spa";
                                 upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
