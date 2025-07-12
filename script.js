@@ -13813,6 +13813,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Velora Med Spa Natural Facelift $99.95":
+                                upDatedSpaName = "Velora Med Spa";
+                                upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
+                                upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-natural-facelift-99-95-377";
+                                upDatedSpaPhone = "(312) 625-1275";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(331) 600-2304";
+                                insteadOfSpa = "$377"
+                                break;
+
                                  case "Velora Med Spa Bye Bye Saggy Eyes $89.95":
                                 upDatedSpaName = "Velora Med Spa";
                                 upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
