@@ -4957,7 +4957,7 @@ function updateForm(){
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-natural-facelift-79-95-377" ;
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-facelift-79-95" ;
                                     upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -4982,6 +4982,40 @@ function updateForm(){
                                     promoPrice = "59.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
                                     treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Triple N Neck and Jawline 59.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-neck-amp-jawline-tightening-59-95" ;
+                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Neck and Jawline Tightening and 15 minutes Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(949) 490-7726";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Triple N Bye Bye Saggy Eyes 59.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-spa-bye-bye-saggy-eyes-59-95" ;
+                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing";
+                                    upDatedDurationTwo = "- 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
+                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                     newSpaPhoneNumberSelected = "(949) 490-7726";
                                     insteadOfSpa = "$377";
                                     break;
