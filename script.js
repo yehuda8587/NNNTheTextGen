@@ -11036,7 +11036,7 @@ function updateForm(){
 
                                             case "Lift and Revive Med Aesthetics and Wellness Natural Facelift $79.95":
                                             upDatedSpaName = "Lift and Revive Aesthetics and Wellness";
-                                            upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
+                                            upDatedSpaAddress = "Ventura Plaza"+"<br>"+"434 N Loop 1604 W, San Antonio, TX 78232"+"<br>"+"(STE 3104, Ventura Plaza right next to P Terry's)";
                                             upDatedSpaLINK = "https://forms.gle/6F7V4dubgPSVeim98";
                                             upDatedSpaMapLINK = "https://maps.app.goo.gl/1RbRjkzSNoj6voJBA";
                                             upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lift-amp-revive-natural-facelift-79-95-377";
