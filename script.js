@@ -3213,7 +3213,7 @@ function updateForm(){
                                 upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95-377";
                                 upDatedSpaPhone = "(706) 524-8251";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
