@@ -14512,6 +14512,23 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(416) 595-9788";
                                 insteadOfSpa = "$377"
                                 break;
+            
+             case "Prime Clinic Natural Facelift $79.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-natural-facelift-79-95-377";
+                                upDatedSpaPhone = "";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                insteadOfSpa = "$377"
+                                break;
 
                                 
 
