@@ -11034,6 +11034,23 @@ function updateForm(){
                                             insteadOfSpa = "$377";
                                             break;
 
+                                            case "Lift and Revive Med Aesthetics and Wellness Natural Facelift $79.95":
+                                            upDatedSpaName = "Lift and Revive Aesthetics and Wellness";
+                                            upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
+                                            upDatedSpaLINK = "https://forms.gle/6F7V4dubgPSVeim98";
+                                            upDatedSpaMapLINK = "https://maps.app.goo.gl/1RbRjkzSNoj6voJBA";
+                                            upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lift-amp-revive-natural-facelift-79-95-377";
+                                            upDatedSpaPhone = "(210) 998-8931";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 minutes light cleansing and 20 minutes of the Natural Facelift Treatment";
+                                            upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (210) 239-2270";
+                                            treatmentSelected = "Natural Facelift Treatment";
+                                            newSpaPhoneNumberSelected = "(210) 239-2270";
+                                            insteadOfSpa = "$377";
+                                            break;
+
                                             case "Lift and Revive Med Spa Men Skin Tightening $89.95":
                                             upDatedSpaName = "Lift and Revive Med Spa";
                                             upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
