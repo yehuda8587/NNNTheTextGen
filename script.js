@@ -945,6 +945,23 @@ function updateForm(){
                             insteadOfSpa = "$299"
                             break;
 
+                            case "Kristals Barrie Bye Bye Saggy Eyes $69.95":
+                            upDatedSpaName = "Kristals Barrie Spa";
+                            upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
+                            upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
+                            upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
+                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-bye-bye-saggy-eyes" ;
+                            upDatedSpaPhone = "(705) 413-3910";
+                            upDatedDurationTotal = "60 Minutes";
+                            upDatedDurationOne = "- 45-minute Cleansing and the Bye Bye Saggy Eyes treatment";
+                            upDatedDurationTwo = "- 15-minute Consultation";
+                            promoPrice = "69.95"
+                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
+                            treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                            newSpaPhoneNumberSelected = "(647) 787-7105";
+                            insteadOfSpa = "$350"
+                            break; 
+
                             case "Adore Cookstown":
                                 upDatedSpaName = "Adore Spa";
                                 upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
