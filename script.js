@@ -11972,6 +11972,24 @@ function updateForm(){
                                 break;
 
 
+                                case "Moana Crystals Men's Skin Tightening $79.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-mens-skin-tightening-79-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Men's Skin Tightening";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 case "Miliv Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Miliv Med Spa";
                                 upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
