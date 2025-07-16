@@ -7069,6 +7069,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Adore Edmonton Neck and Jawline 69.95":
+                                upDatedSpaName = "Adore";
+                                upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
+                                upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-69-95";
+                                upDatedSpaPhone = "(780) 900-4210";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minute Consultaion";
+                                upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
+                                treatmentSelected = "Neck and Jawline Tightening";
+                                newSpaPhoneNumberSelected = "(780) 890-0008";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Adore Edmonton Skin Tightening 99.95":
                                 upDatedSpaName = "Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
@@ -14605,12 +14622,12 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-natural-facelift-79-95-377";
-                                upDatedSpaPhone = "";
+                                upDatedSpaPhone = "(863) 777-0764";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
                                 treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(416) 595-9788";
                                 insteadOfSpa = "$377"
