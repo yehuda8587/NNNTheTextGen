@@ -11989,6 +11989,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Moana Crystals Neck and Jawline $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-neck-and-jawline-69-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Miliv Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Miliv Med Spa";
