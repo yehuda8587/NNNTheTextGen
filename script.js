@@ -14650,6 +14650,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Her Hair Story Natural Skin Tightening $79.95":
+                                upDatedSpaName = "Her Hair Story";
+                                upDatedSpaAddress = "5422 Factory Shops Blvd, Ellenton, FL 34222 USA"+"<br>"+"(Ellenton Premium Outlets Main Entrance after bath and body in front of Starbucks)";
+                                upDatedSpaLINK = "https://forms.gle/8ZHpHABsTNEYKcRt5";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/PnTqPnFWEdkAaR4v9";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/her-hair-story-natural-skin-tightening-79-95";
+                                upDatedSpaPhone = "(941) 280-5852";
+                                upDatedDurationTotal = "90 Minutes";
+                                upDatedDurationOne = "- 30 minutes Cleansing and 45 minutes of Natural Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 723-2402";
+                                treatmentSelected = "Natural Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(941) 723-2402";
+                                insteadOfSpa = "$377"
+                                break;
                                 
 
                                 
