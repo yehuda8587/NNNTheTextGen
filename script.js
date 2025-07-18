@@ -14669,7 +14669,7 @@ function updateForm(){
                                 break;
 
 
-                                case "Her Hair Story Natural 3 in 1 Skin Tightening $89.95":
+                                case "Her Hair Story 3 in 1 Skin Tightening $89.95":
                                 upDatedSpaName = "Her Hair Story";
                                 upDatedSpaAddress = "5422 Factory Shops Blvd, Ellenton, FL 34222 USA"+"<br>"+"(Ellenton Premium Outlets Main Entrance after bath and body in front of Starbucks)";
                                 upDatedSpaLINK = "https://forms.gle/8ZHpHABsTNEYKcRt5";
