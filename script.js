@@ -5607,6 +5607,23 @@ function updateForm(){
                                 insteadOfSpa = "$350";
                                 break;
 
+
+                                case "Good Life Spa LED Anti-Aging 79.95":
+                                upDatedSpaName = "Good Life Spa";
+                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
+                                upDatedSpaPhone = "(386) 319-1236";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
+                                upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
+                                treatmentSelected = "LED Anti-Aging Treatment";
+                                newSpaPhoneNumberSelected = "(386) 267-5157";
+                                insteadOfSpa = "$350";
+                                break;
+
                                 case "Good Life Spa LED 59.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
