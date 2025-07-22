@@ -7095,7 +7095,7 @@ function updateForm(){
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-promo";
                                 upDatedSpaPhone = "(780) 900-4210";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minute Consultaion";
+                                upDatedDurationOne = "- 15-minute Consultation";
                                 upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
                                 promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
