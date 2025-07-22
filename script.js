@@ -959,7 +959,7 @@ function updateForm(){
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 787-7105";
                             treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                             newSpaPhoneNumberSelected = "(647) 787-7105";
-                            insteadOfSpa = "$350"
+                            insteadOfSpa = "$299"
                             break; 
 
                             case "Adore Cookstown":
