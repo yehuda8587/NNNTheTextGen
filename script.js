@@ -13909,7 +13909,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Men Skin Tightening and 15 minutes Consultation";
-                                promoPrice = "89.95";
+                                promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
                                 treatmentSelected = "Men Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(437) 410-9788";
