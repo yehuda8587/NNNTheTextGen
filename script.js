@@ -14765,7 +14765,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of 3 in 1 Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 723-2402";
                                 treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(941) 723-2402";
