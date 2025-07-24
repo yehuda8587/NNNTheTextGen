@@ -14726,8 +14726,8 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/PnTqPnFWEdkAaR4v9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/her-hair-story-natural-facelift-promo-79-95";
                                 upDatedSpaPhone = "(941) 280-5852";
-                                upDatedDurationTotal = "90 Minutes";
-                                upDatedDurationOne = "- 30 minutes Cleansing and 45 minutes of Natural Facelift Treatment";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 723-2402";
@@ -14744,8 +14744,8 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/PnTqPnFWEdkAaR4v9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/her-hair-story-natural-skin-tightening-79-95";
                                 upDatedSpaPhone = "(941) 280-5852";
-                                upDatedDurationTotal = "90 Minutes";
-                                upDatedDurationOne = "- 30 minutes Cleansing and 45 minutes of Natural Skin Tightening Treatment";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 723-2402";
@@ -14762,8 +14762,8 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/PnTqPnFWEdkAaR4v9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/her-hair-story-3-in-1-skin-tightening-89-95";
                                 upDatedSpaPhone = "(941) 280-5852";
-                                upDatedDurationTotal = "90 Minutes";
-                                upDatedDurationOne = "- 30 minutes Cleansing and 45 minutes of 3 in 1 Skin Tightening Treatment";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of 3 in 1 Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 723-2402";
