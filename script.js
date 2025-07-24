@@ -12911,6 +12911,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Meital Studios Beauty Collagen Enhancing $79.95":
+                                upDatedSpaName = "Meital Studios Beauty";
+                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-collagen-enhancing-79-95";
+                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedDurationTotal = "75 Minutes";
+                                upDatedDurationOne = "- 30 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(647) 243-4780";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Meital Studios Beauty Mommy Tummy Rescue $79.95":
                                 upDatedSpaName = "Meital Studios Beauty";
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
