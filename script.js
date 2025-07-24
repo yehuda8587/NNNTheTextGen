@@ -1188,7 +1188,7 @@ function updateForm(){
                                     upDatedSpaAddress = "Erin Mills Centre,"+"<br>"+"5100 Erin Mills Pkwy, Mississauga, ON L5M 4Z5" +"<br>"+"(Get in through Entrance A (near 'Turtle Jack restaurant'), Once you arrive to the center’s intersection make a “U-turn” to the LEFT side (left side aisle)";
                                     upDatedSpaLINK = "https://forms.gle/WYLHZFb4fk3s3J4e9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/1PfEpQdQRpzTr8g18";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-page-99-95-377" ;
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-erin-mills-natural-facelift-page-99-95-399" ;
                                     upDatedSpaPhone = "(647) 846-9838";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 Minutes Consultation";
@@ -1197,7 +1197,7 @@ function updateForm(){
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                     treatmentSelected = "Natural Facelift Treatment";
                                     newSpaPhoneNumberSelected = "(647) 277-5122";
-                                    insteadOfSpa = "$377"
+                                    insteadOfSpa = "$399"
                                     break; 
 
                                     case "Kristals Erin Mills Natural Facelift $69.95":
