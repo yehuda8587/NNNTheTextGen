@@ -11768,6 +11768,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Parie Med Spa Men Skin Tightening $69.95":
+                                upDatedSpaName = "Parie Med Spa";
+                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                upDatedSpaLINK = " ";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-mens-skin-tightening-69-95-377" ;
+                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(702) 930-6221";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Parie Med Spa Neck and Jawline $79.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
