@@ -14875,7 +14875,23 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(941) 723-2402";
                                 insteadOfSpa = "$377"
                                 break;
-                                
+
+                                case "Skin Technology Natural Facelift $79.95":
+                                upDatedSpaName = "Skin Technology";
+                                upDatedSpaAddress = "1465 Salisbury Ave. Port Coquitlam, BC V3B 6J3"+"<br>"+"(Unit 125, First Floor inside the Medical Centre)";
+                                upDatedSpaLINK = "https://forms.gle/JUptjPtsmEtkHNqj6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/kibEm4uyvm2V3r6o6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skin-technology-natural-facelift-79-95-377";
+                                upDatedSpaPhone = "(672) 202-1808";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(236) 258-6757";
+                                insteadOfSpa = "$377"
+                                break;
 
                                 
 
