@@ -1434,7 +1434,7 @@ function updateForm(){
                                                                 insteadOfSpa = "$377"
                                                                 break; 
 
-                                                                case "Trésure Rare Brea Non-Surgical Face Lift $69.9":
+                                                                case "Trésure Rare Brea Non-Surgical Face Lift $69.95":
                                                                 upDatedSpaName = "Trésure Rare Brea";
                                                                 upDatedSpaAddress = "910 E birch st. suite #200, Brea, CA 92821"+"<br>"+"[Embassy court near embassy hotel Ground floor (#2 in the elevator)] Please use underground parking of the Embassy Hotel";
                                                                 upDatedSpaLINK = "https://forms.gle/4x1BvF7zdW75rkCg8";
