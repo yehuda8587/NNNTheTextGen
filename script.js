@@ -14548,6 +14548,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Spa and Co Fernandina Beach Skin Tightening $79.95":
+                                upDatedSpaName = "Spa and Co";
+                                upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+                                upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spa-and-co-skin-tightening-79-95-377";
+                                upDatedSpaPhone = "(904) 452-8539";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Post Care and Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(904) 432-7364";
+                                insteadOfSpa = "$377"
+                                break;
+
+
 
                                 case "Bee and Co Fernandina Beach Non-Surgical Facelift $79.95":
                                 upDatedSpaName = "Bee and Co";
@@ -14577,6 +14595,23 @@ function updateForm(){
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Non-Surgical Facelift Treatment and Post Care and Consultation";
                                 promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+                                treatmentSelected = "Non-Surgical Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(904) 432-7364";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Spa and Co Fernandina Beach Non-Surgical Facelift $79.95":
+                                upDatedSpaName = "Spa and Co";
+                                upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+                                upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spa-and-co-non-surgical-facelift-79-95-377";
+                                upDatedSpaPhone = "(904) 452-8539";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Non-Surgical Facelift Treatment and Post Care and Consultation";
+                                promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
                                 treatmentSelected = "Non-Surgical Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(904) 432-7364";
