@@ -14532,7 +14532,7 @@ function updateForm(){
                                 break;
 
                                 case "Spa and Co Fernandina Beach Skin Tightening $99.95":
-                                upDatedSpaName = "Bee and Co";
+                                upDatedSpaName = "Spa and Co";
                                 upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
                                 upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
@@ -14567,7 +14567,7 @@ function updateForm(){
                                 break;
 
                                 case "Spa and Co Fernandina Beach Non-Surgical Facelift $99.95":
-                                upDatedSpaName = "Bee and Co";
+                                upDatedSpaName = "Spa and Co";
                                 upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
                                 upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
