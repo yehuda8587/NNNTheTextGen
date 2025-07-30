@@ -1,7 +1,6 @@
 // status of spa selected
 let spaNameStatus = document.querySelector(".selected");
 let addOnsStatus = document.getElementById("chooseAddons");
-
 // Location NAME variables in text
 let locationNameArray = document.getElementsByClassName("varLocationName");
 let upDatedSpaName = "SELECT SPA"
