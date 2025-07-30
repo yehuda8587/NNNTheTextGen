@@ -14945,7 +14945,7 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Skin Technology Natural Skin Tightening $79.955":
+                                case "Skin Technology Natural Skin Tightening $79.95":
                                 upDatedSpaName = "Skin Technology";
                                 upDatedSpaAddress = "1465 Salisbury Ave. Port Coquitlam, BC V3B 6J3"+"<br>"+"(Unit 125, First Floor inside the Medical Centre)";
                                 upDatedSpaLINK = "https://forms.gle/JUptjPtsmEtkHNqj6";
