@@ -14875,23 +14875,6 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-             case "Prime Clinic Neck and Jawline $79.95":
-                                upDatedSpaName = "Prime Clinic";
-                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-neck-and-jawline-79-95-377;
-                                upDatedSpaPhone = "(863) 777-0764";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 45 minutes Cleansing and Neck and Jawline Treatment";
-                                upDatedDurationTwo = "- 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-                                treatmentSelected = "Neck and Jawline Treatment";
-                                newSpaPhoneNumberSelected = "(416) 595-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
                                 case "Her Hair Story Natural Facelift $79.95":
                                 upDatedSpaName = "Her Hair Story";
                                 upDatedSpaAddress = "5422 Factory Shops Blvd, Ellenton, FL 34222 USA"+"<br>"+"(Ellenton Premium Outlets Main Entrance after bath and body in front of Starbucks)";
