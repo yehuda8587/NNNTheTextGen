@@ -1,6 +1,8 @@
+
 // status of spa selected
 let spaNameStatus = document.querySelector(".selected");
 let addOnsStatus = document.getElementById("chooseAddons");
+
 // Location NAME variables in text
 let locationNameArray = document.getElementsByClassName("varLocationName");
 let upDatedSpaName = "SELECT SPA"
@@ -2166,7 +2168,7 @@ function updateForm(){
 
                                 case "Adore Estero":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-estero-ledpromo";
                                 upDatedSpaPhone = "(239) 748-0390";
@@ -2182,7 +2184,7 @@ function updateForm(){
 
                                 case "Adore Estero LED 79.95 NEW":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-anti-aging-promo-page";
                                 upDatedSpaPhone = "(239) 748-0390";
@@ -2198,7 +2200,7 @@ function updateForm(){
 
                                 case "Adore Estero LED Skin Tightening":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-led-skin-tightening-promo";
                                 upDatedSpaPhone = "(239) 748-0390";
@@ -2214,7 +2216,7 @@ function updateForm(){
 
                                 case "Adore Estero Neck and Jawline":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-neck-and-jawline-treatment-page";
                                 upDatedSpaPhone = "(239) 748-0390";
@@ -2230,7 +2232,7 @@ function updateForm(){
 
                                 case "Adore Estero Natural Facelift":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adoreestero-naturalfacelift-79-95";
                                 upDatedSpaPhone = "(239) 748-0390";
@@ -2246,7 +2248,7 @@ function updateForm(){
 
                                 case "Adore Estero 3 in 1 Skin Lifting $79.95":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/QkV3oeGQaa1SWStc8";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-3-in-1-skin-lifting-treatment";
@@ -2263,7 +2265,7 @@ function updateForm(){
 
                                 case "Adore Estero Skin Tightening $79.95":
                                     upDatedSpaName = "Adore Spa";
-                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
+                                upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
                                 upDatedSpaLINK = "https://form.jotform.com/220505197859060";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/QkV3oeGQaa1SWStc8";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-skin-tightening-treatment-79-95 ";
@@ -3361,7 +3363,7 @@ function updateForm(){
 
                                 case "Be YOU":
                                     upDatedSpaName = "Be YOU Spa";
-                                upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left" + "<br>" + "Major Intersections: Eglinton and Bayview Ave, near Laird Drive";
+                                upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left" + "<br>" + "Major Intersections: Eglinton and Bayview Ave, near Laird Drive";
                                 upDatedSpaLINK = "https://forms.gle/z9qJxCgcyner9a5h6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beyou-led-promo";
                                 upDatedSpaPhone = "(647) 255-2607";
@@ -6134,8 +6136,8 @@ function updateForm(){
                                 insteadOfSpa = "$300";
                                 break;
 
-                                case "Tesoro Mio Spa":
-                                upDatedSpaName = "Tesoro Mio Spa";
+                                case "Tesoro Mio Spa":
+                                upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
@@ -6151,8 +6153,8 @@ function updateForm(){
                                 insteadOfSpa = "$399";
                                 break;
 
-                                case "Tesoro Mio Spa Collagen Enhancing":
-                                upDatedSpaName = "Tesoro Mio Spa";
+                                case "Tesoro Mio Spa Collagen Enhancing":
+                                upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
@@ -6168,8 +6170,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Tesoro Mio Spa Neck and Jawline $69.95":
-                                upDatedSpaName = "Tesoro Mio Spa";
+                                case "Tesoro Mio Spa Neck and Jawline $69.95":
+                                upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
@@ -6185,8 +6187,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Tesoro Mio Spa Natural Facelift $80":
-                                upDatedSpaName = "Tesoro Mio Spa";
+                                case "Tesoro Mio Spa Natural Facelift $80":
+                                upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
@@ -7931,7 +7933,7 @@ function updateForm(){
                                 upDatedSpaPhone = "(916) 790-3599";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
-                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
+                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -7982,7 +7984,7 @@ function updateForm(){
                                 upDatedSpaPhone = "(916) 790-3599";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
-                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
+                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
                                 promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -7999,7 +8001,7 @@ function updateForm(){
                                 upDatedSpaPhone = "(916) 790-3599";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate.";
-                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment."
+                                upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment."
                                 promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -8957,7 +8959,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body LED":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -8973,7 +8975,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body Collagen Enhancing":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo-page";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -8989,7 +8991,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body Collagen Enhancing 59":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -9005,7 +9007,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body Neck and Jawline":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -9021,7 +9023,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body Men's LED":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-mens-led-promo-page";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -9037,7 +9039,7 @@ function updateForm(){
 
                                     case "Melle Soul Skin and Body Skin Tightening 69.95":
                                     upDatedSpaName = "Melle Soul Skin and Body";
-                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
+                                    upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
                                     upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-melle-soul-skin-amp-body-skin-tightening-treatment";
                                     upDatedSpaPhone = "(346) 646-5755";
@@ -11069,7 +11071,7 @@ function updateForm(){
 
                                        case "Skin Totale MEN Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-men-skin-tightening-promo";
@@ -11086,7 +11088,7 @@ function updateForm(){
 
                                         case "Skin Totale Natural Facelift $59.95":
                                         upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-natural-facelift-promo";
@@ -11103,7 +11105,7 @@ function updateForm(){
 
                                         case "Skin Totale Neck and Jawline Lifting $59.95":
                                         upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-neck-amp-jawline-promo-59-95";
@@ -11120,7 +11122,7 @@ function updateForm(){
 
                                         case "Skin Totale Below Zero Facelift $59.95":
                                         upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-below-zero-facelift-promo-59-95";
@@ -11137,7 +11139,7 @@ function updateForm(){
 
                                         case "Skin Totale Bye Bye Saggy Eyes $59.95":
                                         upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-bye-bye-saggy-eyes-59-95";
@@ -11653,7 +11655,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-inner-beauty-iv-treatment-79-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV";
                                 upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and wellness consultation";
@@ -11670,7 +11672,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-inner-beauty-iv-treatment-69-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV";
                                 upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and wellness consultation";
@@ -11687,7 +11689,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-79-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
                                 upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
@@ -11704,7 +11706,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-69-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
                                 upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
@@ -11722,7 +11724,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinny-shots-parie-med-97" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Lipo Injection";
                                 upDatedDurationTwo = " 30 minutes red light therapy and 10 minutes post care and consultation";
@@ -11739,7 +11741,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-bye-bye-saggy-eyes-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Lipo Injection";
                                 upDatedDurationTwo = " 30 minutes LED & Hyaluronic Acid Treatment and 10 minutes post-care and consultation";
@@ -11756,7 +11758,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -11773,7 +11775,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-skin-tightening-69-95-377" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -11790,7 +11792,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-men-skin-tightening-promo-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -11807,7 +11809,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-mens-skin-tightening-69-95-377" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -11824,7 +11826,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-neck-amp-jawline-promo-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and 15 minutes post-care and consultation";
@@ -11841,7 +11843,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-facial-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Facial and 15 minutes post-care and consultation";
@@ -11858,7 +11860,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-led-non-surgical-facelift-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and 15 minutes post-care and consultation";
@@ -11875,7 +11877,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-natural-facelift-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -11892,7 +11894,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-anti-aging-facial-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Anti-Aging Facial and 15 minutes post-care and consultation";
@@ -11909,7 +11911,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " ";
                                 upDatedDurationTwo = " ";
@@ -11926,7 +11928,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-laser-hair-removal-full-body-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " ";
                                 upDatedDurationTwo = " ";
@@ -11943,7 +11945,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/parie-lhr-3areas" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " ";
                                 upDatedDurationTwo = " ";
@@ -11960,7 +11962,7 @@ function updateForm(){
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-parie-lv-laser-hair-removal-3areas-at-89-95-two" ;
-                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " ";
                                 upDatedDurationTwo = " ";
@@ -14944,7 +14946,7 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Skin Technology Natural Skin Tightening $79.95":
+                                case "Skin Technology Natural Skin Tightening $79.955":
                                 upDatedSpaName = "Skin Technology";
                                 upDatedSpaAddress = "1465 Salisbury Ave. Port Coquitlam, BC V3B 6J3"+"<br>"+"(Unit 125, First Floor inside the Medical Centre)";
                                 upDatedSpaLINK = "https://forms.gle/JUptjPtsmEtkHNqj6";
