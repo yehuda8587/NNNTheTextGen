@@ -10174,6 +10174,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Lavan Med Spa Turkey Neck Rescue 59.95":
+                                    upDatedSpaName = "Lavan Med Spa";
+                                    upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
+                                    upDatedSpaLINK = "https://forms.gle/qmfihMGsNn9jrNyK8";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/bFE3dnaK8yzHdNcD7";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-turkey-neck-rescue-59-95-377";
+                                    upDatedSpaPhone = "(480) 535-1117";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes cleansing";
+                                    upDatedDurationTwo = "- 45 minutes Turkey Neck Rescue Treatment and 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
+                                    treatmentSelected = "Turkey Neck Rescue Treatment";
+                                    newSpaPhoneNumberSelected = "(480) 408-4170";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavan Med Spa Cryo Body Contouring 79.95":
                                     upDatedSpaName = "Lavan Med Spa";
                                     upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
