@@ -14035,6 +14035,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Nova Aesthetic Bye Bye Saggy Eyes $69.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-bye-bye-saggy-eyes-69-95";
+                                upDatedSpaPhone = "(437) 290-4155";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Nova Aesthetic Men Skin Tightening $89.95":
                                 upDatedSpaName = "Nova Aesthetic";
                                 upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
