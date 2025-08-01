@@ -15118,6 +15118,42 @@ function updateForm(){
                                 break;
 
 
+                                case "Remarkable Aesthetics Natural Facelift $79.95":
+                                upDatedSpaName = "Remarkable Aesthetics";
+                                upDatedSpaAddress = "43 S Stephanie St, Unit 150,Henderson, NV, 89012"+"<br>"+"(At Stephanie plaza )";
+                                upDatedSpaLINK = "https://forms.gle/33jHEToFW4MYMihNA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9s7kXJdYPJmMEPA57";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/remarkable-aesthetics-natural-facelift-79-95";
+                                upDatedSpaPhone = "(725) 217-5345";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 20 minutes Cleansing and 30 minutes of  Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 613-7529";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(702) 613-7529";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+                                case "Remarkable Aesthetics Collagen Enhancing $79.95":
+                                upDatedSpaName = "Remarkable Aesthetics";
+                                upDatedSpaAddress = "43 S Stephanie St, Unit 150,Henderson, NV, 89012"+"<br>"+"(At Stephanie plaza )";
+                                upDatedSpaLINK = "https://forms.gle/33jHEToFW4MYMihNA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9s7kXJdYPJmMEPA57";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/remarkable-aesthetics-collagen-enhancing-79-95";
+                                upDatedSpaPhone = "(725) 217-5345";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 20 minutes Cleansing and 30 minutes of Collagen Enhancing Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 613-7529";
+                                treatmentSelected = "Collagen Enhancing Treatment";
+                                newSpaPhoneNumberSelected = "(702) 613-7529";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 
 
 
