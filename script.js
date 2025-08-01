@@ -15082,6 +15082,25 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Minarelle Skin Tightening $79.95":
+                                upDatedSpaName = "Minarelle";
+                                upDatedSpaAddress = "1100 S Hayes St. f328, Arlington, VA 22202"+"<br>"+"(Pentagon Mall, Second floor next to Pandora)";
+                                upDatedSpaLINK = "https://forms.gle/srUntBXNVRsXVjkGA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/v4paSTKSuVYv1kqw5";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/minarelle-skin-tightening-treatment-79-95";
+                                upDatedSpaPhone = "(703) 570-5548";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing and 30 minutes of  Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 531-6574";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(914) 531-6574";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 
 
 
