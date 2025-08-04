@@ -14984,14 +14984,14 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-natural-facelift-79-95-377";
-                                upDatedSpaPhone = "(863) 777-0764";
+                                upDatedSpaPhone = "(863) 278-3069";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
                                 insteadOfSpa = "$377"
                                 break;
 
@@ -15001,14 +15001,14 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-neck-and-jawline-79-95-377";
-                                upDatedSpaPhone = "(863) 777-0764";
+                                upDatedSpaPhone = "(863) 278-3069";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes Cleansing and Neck and Jawline Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
                                 treatmentSelected = "Neck and Jawline Treatment";
-                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
                                 insteadOfSpa = "$377"
                                 break;
 
