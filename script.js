@@ -14778,12 +14778,12 @@ function updateForm(){
                                 upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
                                 upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bee-amp-co-fl-mens-skin-tightening-99-95-377";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spa-and-co-fl-mens-skin-tightening-99-95-377";
                                 upDatedSpaPhone = "(904) 452-8539";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Men's Skin Tightening Treatment and Post Care and Consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
                                 treatmentSelected = "Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(904) 432-7364";
@@ -14795,7 +14795,7 @@ function updateForm(){
                                 upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
                                 upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bee-and-co-fl-bye-bye-saggy-eyes-79-95-377";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spa-and-co-fl-bye-bye-saggy-eyes-79-95-377";
                                 upDatedSpaPhone = "(904) 452-8539";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
