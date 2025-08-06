@@ -2478,6 +2478,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break; 
 
+                                case "AVOLOGI Eneo Victoria Natural Facelift $99.95":
+                                    upDatedSpaName = "Avologi Eneo";
+                                upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
+                                upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-99-95";
+                                upDatedSpaPhone = "(250) 800-9949";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 Minutes Consultation";
+                                upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(778) 910-1179";
+                                insteadOfSpa = "$377";
+                                break; 
+
                                 case "AVOLOGI Eneo Woodgrove":
                                     upDatedSpaName = "Avologi Eneo";
                                 upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
