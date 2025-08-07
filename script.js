@@ -4595,6 +4595,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Gentle Touch Beauty 3 in 1 Skin Tightening Treatment $99.95":
+                                upDatedSpaName = "Gentle Touch Beauty";
+                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-3-in-1-skin-tightening-promo-99-95" ;
+                                upDatedSpaPhone = "(941) 280-0407";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "15 minute Cleansing";
+                                upDatedDurationTwo = "45 minute 3 in 1 Skin Tightening Treatment";
+                                promoPrice = "99.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment Treatment";
+                                newSpaPhoneNumberSelected = "(941) 244-0044";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Gentle Touch Beauty Neck and Jawline Treatment $79.95":
                                 upDatedSpaName = "Gentle Touch Beauty";
                                 upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
@@ -4623,6 +4640,23 @@ function updateForm(){
                                 upDatedDurationOne = "15 minute Cleansing";
                                 upDatedDurationTwo = "45 minute Turkey Neck Rescue Treatment";
                                 promoPrice = "99.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                treatmentSelected = "Turkey Neck Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(941) 244-0044";
+                                insteadOfSpa = "$377";
+                                break;
+
+                                case "Gentle Touch Beauty Turkey Neck Rescue Treatment $79.95":
+                                upDatedSpaName = "Gentle Touch Beauty";
+                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-turkey-neck-rescue-79-95" ;
+                                upDatedSpaPhone = "(941) 280-0407";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "15 minute Cleansing";
+                                upDatedDurationTwo = "45 minute Turkey Neck Rescue Treatment";
+                                promoPrice = "79.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
                                 treatmentSelected = "Turkey Neck Rescue Treatment";
                                 newSpaPhoneNumberSelected = "(941) 244-0044";
