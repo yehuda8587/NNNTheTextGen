@@ -14760,7 +14760,7 @@ function updateForm(){
                                 upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
                                 upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bee-amp-co-fernandina-non-surgical-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/spa-and-co-non-surgical-facelift-79-95-377";
                                 upDatedSpaPhone = "(904) 452-8539";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
