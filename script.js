@@ -4316,6 +4316,23 @@ function updateForm(){
                                             insteadOfSpa = "$350";
                                             break; 
 
+                                            case "Pura Vida AB Skin Tightening $79.95":
+                                            upDatedSpaName = "Pura Vida Spa";
+                                            upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
+                                            upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+                                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pura-vida-skin-tightening-treatment-79-95";
+                                            upDatedSpaPhone = "(587) 328-6478";
+                                            upDatedDurationTotal = "45 Minutes";
+                                            upDatedDurationOne = "- 15 Minutes Cleansing";
+                                            upDatedDurationTwo = "- 30 Minutes Skin Tightening & Consultation";
+                                            promoPrice = "79.95";
+                                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+                                            treatmentSelected = "Skin Tightening Treatment";
+                                            newSpaPhoneNumberSelected = "(587) 800-1699";
+                                            insteadOfSpa = "$350";
+                                            break; 
+
+
                                             case "West County Spa Center":
                                                 upDatedSpaName = "West County Spa Center";
                                                 upDatedSpaAddress = "West County Center Mall," + "<br>" + "53 W County Center, Des Peres, MO 63131" + "<br>" + "(Ground Floor, Next to the Lego store)";
