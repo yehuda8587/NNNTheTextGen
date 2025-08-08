@@ -4834,6 +4834,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Ben's Beauty DTB Turkey Neck Rescue 59.95":
+                                upDatedSpaName = "Ben's Beauty Spa";
+                                upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-turkey-neck-rescue-59-95-2" ;
+                                upDatedSpaPhone = "(626) 225-0556";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "15 minute Consultation";
+                                upDatedDurationTwo = "45 minutes of Turkey Neck Rescue Treatment";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                treatmentSelected = "Turkey Neck Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(626) 298-6456";
+                                insteadOfSpa = "$377";
+                                break;
+
             case "Ben's Beauty Spa Neck and Jawline 59.95":
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -10746,6 +10763,23 @@ function updateForm(){
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 716-2510";
                                         treatmentSelected = "Non-Surgical Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(971) 716-2510";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Hydrasphere Toledo Natural Facelift 69.95":
+                                        upDatedSpaName = "Hydrasphere Cosmetics";
+                                        upDatedSpaAddress = "Franklin Park Mall, 5001 Monroe St, Toledo, OH 43623"+"<br>"+"(First floor, across Victoria's secret)";
+                                        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/EHegyvy6BTWwqdBDA";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-69-95";
+                                        upDatedSpaPhone = "(567) 666-4053";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes light cleansing";
+                                        upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(971) 380-9085";
                                         insteadOfSpa = "$377";
                                         break;
 
