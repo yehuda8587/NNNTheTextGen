@@ -11487,8 +11487,8 @@ function updateForm(){
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skt-med-spa-3-in-1-skin-tightening-69-95-199";
                                             upDatedSpaPhone = "(949) 629-4609";
                                             upDatedDurationTotal = "60 Minutes";
-                                            upDatedDurationOne = "- 15 minutes consultation and prep + collagen peptide application + LED red light + massage + finish 45min";
-                                            upDatedDurationTwo = " "
+                                            upDatedDurationOne = "15 minutes consultation and preparation.";
+                                            upDatedDurationTwo = "Radio frequency, LED therapy and Korean jelly mask, and a perfect finishing touch (45 minutes in total) "
                                             promoPrice = "69.95";
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
                                             treatmentSelected = "Korean 3 in 1 Skin Tightening Treatment";
