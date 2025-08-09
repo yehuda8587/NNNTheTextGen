@@ -15252,6 +15252,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
+                                upDatedSpaName = "Florentine Skincare and Cosmetics";
+                                upDatedSpaAddress = "25 The West Mall, Ottawa, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+                                upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RM7dzw4xCEMprsxo6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-amp-cosmetics-natural-facelift-79-95";
+                                upDatedSpaPhone = "(437) 291-3104";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 622-4464";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(416) 622-4464";
+                                insteadOfSpa = "$377"
+                                break;
+            
                                 case "Her Hair Story Natural Facelift $79.95":
                                 upDatedSpaName = "Her Hair Story";
                                 upDatedSpaAddress = "5422 Factory Shops Blvd, Ellenton, FL 34222 USA"+"<br>"+"(Ellenton Premium Outlets Main Entrance after bath and body in front of Starbucks)";
