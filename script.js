@@ -11325,6 +11325,23 @@ function updateForm(){
                                         insteadOfSpa = "$899";
                                         break;
 
+                                        case "Skin Totale Hyperpigmentation Treatment $79.95":
+                                        upDatedSpaName = "Skin Totale";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-hyperpigmentation-treatment-79-95";
+                                        upDatedSpaPhone = "(714) 450-6547";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes Cleansing and 30 miuntes of the Hyperpigmentation Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
+                                        treatmentSelected = "Hyperpigmentation Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 852-5300";
+                                        insteadOfSpa = "$395";
+                                        break;
+
                                         case "Skin Totale Neck and Jawline Lifting $59.95":
                                         upDatedSpaName = "Skin Totale";
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
