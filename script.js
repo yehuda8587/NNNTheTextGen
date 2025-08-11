@@ -950,7 +950,7 @@ function updateForm(){
                             upDatedSpaAddress = "Georgian Mall,"+"<br>"+"500 Bayfield St, Barrie, ON L4M 4Z8" +"<br>"+"(Main entrance lower level, next to Victoria's Secret)";
                             upDatedSpaLINK = "https://forms.gle/WyFD3HQApwUDL7hH6";
                             upDatedSpaMapLINK = "https://maps.app.goo.gl/k3qKy7ULKwgBkFA37";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-bye-bye-saggy-eyes" ;
+                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-barrie-bye-bye-saggy-eyes-69-95" ;
                             upDatedSpaPhone = "(705) 413-3910";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 45-minute Cleansing and the Bye Bye Saggy Eyes treatment";
@@ -10504,7 +10504,7 @@ function updateForm(){
                                     upDatedSpaAddress = "227 Eagle St, Newmarket, ON L3Y 1J8"+"<br>"+"(RM 200, 2nd Floor, Gray building next to Dentistry on Eagle Street)"+"<br>"+"(Public Parking around the area)";
                                     upDatedSpaLINK = "https://forms.gle/8cQjaWcNoEtQFJ6u9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ymWshVjEnXf3mtsx6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-natural-face-lift-promo-89-95";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/be-you-wellness-mens-non-surgical-89-95";
                                     upDatedSpaPhone = "(289) 919-9899";
                                     upDatedDurationTotal = "45 Minutes";
                                     upDatedDurationOne = "- 15 minutes cleansing and facial massage";
