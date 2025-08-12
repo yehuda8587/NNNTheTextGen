@@ -14367,7 +14367,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-men-skin-tightening-promo";
-                                upDatedSpaPhone = "(404) 301-3539";
+                                upDatedSpaPhone = "(678) 992-5095";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
@@ -14384,7 +14384,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo";
-                                upDatedSpaPhone = "(404) 301-3539";
+                                upDatedSpaPhone = "(678) 992-5095";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
@@ -14401,7 +14401,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo-69-95";
-                                upDatedSpaPhone = "(404) 301-3539";
+                                upDatedSpaPhone = "(678) 992-5095";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
