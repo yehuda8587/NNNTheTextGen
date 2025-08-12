@@ -3812,7 +3812,7 @@ function updateForm(){
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
                                 treatmentSelected = "Mommy Tummy Rescue Treatment";
                                 newSpaPhoneNumberSelected = "(647) 277-5122";
-                                insteadOfSpa = "$377";
+                                insteadOfSpa = "$350";
                                 break;
 
                                 case "Tierra Med Spa Hyperpigmentation Treatment $99.95":
