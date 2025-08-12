@@ -3798,7 +3798,7 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Tierra Med Mommy Tummy Rescue 79.95":
+                                case "Tierra Med Spa Mommy Tummy Rescue 79.95":
                                     upDatedSpaName = "Tierra Med Spa";
                                 upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                 upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
