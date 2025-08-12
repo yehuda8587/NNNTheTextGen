@@ -3781,6 +3781,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Tierra Med Mommy Tummy Rescue 79.95":
+                                    upDatedSpaName = "Tierra Med Spa";
+                                upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-mommy-tummy-rescue-79";
+                                upDatedSpaPhone = "(647) 956-1334";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Mommy Tummy Rescue Treatment";
+                                upDatedDurationTwo = "- 15 Minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                treatmentSelected = "Mommy Tummy Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(647) 277-5122";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Tierra Med Natural Facelift Treatment 69.95":
                                     upDatedSpaName = "Tierra Med Spa";
                                 upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
