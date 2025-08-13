@@ -3411,6 +3411,24 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break; 
 
+                                case "Luminous Skin-Tech Hyperpigmentation Treatment 99.95":
+                                    upDatedSpaName = "Luminous Skin-Tech Spa";
+                                upDatedSpaAddress = "La Palmera Mall," + "<br>" + "5488 S Padre island, Corpus Christi, TX 78411"+"<br>"+"(Second floor, next to H&M)";
+                                upDatedSpaLINK = "https://forms.gle/Yaa4AmATGwwPAAVW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/doj9iskm211iZyjT8";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/luminous-skin-tech-hyperpigmentation-treatment-99-95";
+                                upDatedSpaPhone = "(361) 371-0530";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Hyperpigmentation Treatment and 15 minutes post care and consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (361) 462-4319";
+                                treatmentSelected = "Hyperpigmentation Treatment Treatment";
+                                newSpaPhoneNumberSelected = "(361) 462-4319";
+                                insteadOfSpa = "$377";
+                                break; 
+
+
                                 case "Be YOU":
                                     upDatedSpaName = "Be YOU Spa";
                                 upDatedSpaAddress = "SmartCentres Leaside Plaza," + "<br>" + "45 Wicksteed Ave, Suite 280 Unit 4 East York, ON M4G4H9"+"<br>"+"Inside Sola Salon Studios, 2nd floor above RBC" + "<br>" + "Room 4 - 2nd door on the left" + "<br>" + "Major Intersections: Eglinton and Bayview Ave, near Laird Drive";
