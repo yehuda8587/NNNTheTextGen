@@ -5853,6 +5853,7 @@ function updateForm(){
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5870,6 +5871,7 @@ function updateForm(){
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5886,6 +5888,7 @@ function updateForm(){
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-new-led-promo";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5902,6 +5905,7 @@ function updateForm(){
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-led-promo";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5937,6 +5941,7 @@ function updateForm(){
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-neck-and-jawline-treatment-page";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
