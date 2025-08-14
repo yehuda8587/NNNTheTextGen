@@ -15659,6 +15659,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Skin Technology Lumin02 Hytdra-Lift $99.95":
+                                upDatedSpaName = "Skin Technology";
+                                upDatedSpaAddress = "1465 Salisbury Ave. Port Coquitlam, BC V3B 6J3"+"<br>"+"(Unit 125, First Floor inside the Medical Centre)";
+                                upDatedSpaLINK = "https://forms.gle/JUptjPtsmEtkHNqj6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/kibEm4uyvm2V3r6o6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skin-technology-lumino2-hydra-lift-99-95";
+                                upDatedSpaPhone = "(672) 202-1808";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Lumin02 Hytdra-Lift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 258-6757";
+                                treatmentSelected = "Lumin02 Hytdra-Lift Treatment";
+                                newSpaPhoneNumberSelected = "(236) 258-6757";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Minarelle Skin Tightening $79.95":
                                 upDatedSpaName = "Minarelle";
