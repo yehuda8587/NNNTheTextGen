@@ -7352,6 +7352,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Joli Visage Natural Facelift 69.95":
+                                upDatedSpaName = "Joli Visage";
+                                upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
+                                upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-natural-facelift-69-95";
+                                upDatedSpaPhone = "(239) 438-3252";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 10-minute Cleansing";
+                                upDatedDurationTwo = "- 20 minutes Natural Facelift with 15 minutes Consultation"
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(239) 234-6855";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Adore Edmonton LED":
                                 upDatedSpaName = "Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
