@@ -8648,7 +8648,7 @@ function updateForm(){
                                     case "Hydrasphere Toledo Natural Facelift 69.95":
                                     upDatedSpaName = "Hydrasphere";
                                     upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-                                    upDatedSpaLINK = " ";
+                                    upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-69-95";
                                     upDatedSpaPhone = "(567) 298-4583";
@@ -8661,7 +8661,25 @@ function updateForm(){
                                     newSpaPhoneNumberSelected = "(971) 380-9085";
                                     insteadOfSpa = "$377";
                                     break;
-                                
+
+
+                                    case "Hydrasphere Toledo Natural Facelift 79.95":
+                                    upDatedSpaName = "Hydrasphere";
+                                    upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
+                                    upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
+                                    upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-79-95";
+                                    upDatedSpaPhone = "(567) 298-4583";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15-minute Cleansing";
+                                    upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
+                                    promoPrice = "79.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(971) 380-9085";
+                                    insteadOfSpa = "$377";
+                                    break; 
+            
                                      case "Sthetics Med Spa Men's Skin Tightening $79.95":
                                     upDatedSpaName = "Sthetics Med Spa";
                                     upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
