@@ -15467,9 +15467,9 @@ function updateForm(){
 
 case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaName = "Florentine Skincare and Cosmetics";
-                                upDatedSpaAddress = "25 The West Mall, Ottawa, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+                                upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
                                 upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RM7dzw4xCEMprsxo6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-amp-cosmetics-natural-facelift-79-95";
                                 upDatedSpaPhone = "(437) 291-3104";
                                 upDatedDurationTotal = "60 Minutes";
