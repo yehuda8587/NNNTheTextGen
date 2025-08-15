@@ -15370,7 +15370,7 @@ function updateForm(){
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-natural-facelift-promo-79-95";
                                 upDatedSpaPhone = "(437) 290-1194";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
