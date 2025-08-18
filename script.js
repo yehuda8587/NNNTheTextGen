@@ -8651,7 +8651,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-69-95";
-                                    upDatedSpaPhone = "(567) 298-4583";
+                                    upDatedSpaPhone = "(567) 698-7589";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -8669,7 +8669,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-79-95";
-                                    upDatedSpaPhone = "(567) 298-4583";
+                                    upDatedSpaPhone = "(567) 698-7589";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
