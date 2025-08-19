@@ -13094,7 +13094,7 @@ function updateForm(){
 
                                 case "Below Zero Alpharetta Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Alpharetta";
-                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
@@ -13111,7 +13111,7 @@ function updateForm(){
 
                                 case "Below Zero Alpharetta Spa Natural Facelift $89.95":
                                 upDatedSpaName = "Below Zero Alpharetta";
-                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
@@ -13122,6 +13122,23 @@ function updateForm(){
                                 promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                 treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(706) 901-8979";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Below Zero Alpharetta Spa Freezing Skin Tightening $89.95":
+                                upDatedSpaName = "Below Zero Alpharetta";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-freezing-skin-tightening-89-95";
+                                upDatedSpaPhone = "(404) 618-4124";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Freezing Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                treatmentSelected = "Freezing Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(706) 901-8979";
                                 insteadOfSpa = "$377"
                                 break;
