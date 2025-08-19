@@ -15585,6 +15585,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+             case "Prime Clinic 3 in 1 Lifting  $79.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-79-95";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Lifting  Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "3 in 1 Lifting  Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
 case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaName = "Florentine Skincare and Cosmetics";
                                 upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
