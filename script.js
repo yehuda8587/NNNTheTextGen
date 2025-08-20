@@ -13659,7 +13659,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13676,7 +13676,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equaminity-hydraglow-pro69";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13693,7 +13693,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-hydraglow-promo-99-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13710,7 +13710,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-men-skin-tightening-promo";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13727,7 +13727,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-men-skin-tightening-promo-149-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13744,7 +13744,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-facial-promo";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13761,7 +13761,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-natural-facelift-book-99-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13778,7 +13778,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-skin-tightening-59-95-377";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13795,7 +13795,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-3-in-1-skin-tightening-promo-59-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13812,7 +13812,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-facelifting-treatment-69-95-survey";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Facelifting Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13829,7 +13829,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-neckjawline-pro69";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13846,7 +13846,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-neckjawline-pro59";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13863,7 +13863,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-freezing-facelift-69-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13880,7 +13880,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-collagen-enhancing-promo-69-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13897,7 +13897,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-equanimity-collagen-enhancing-69-95-377";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13914,7 +13914,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-ems-body-promo";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes EMS Body Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13931,7 +13931,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-bye-bye-saggy-eyes-59-95";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes of the LED & Hyaluronic Acid Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
@@ -13948,7 +13948,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-equanimity-bye-bye-saggy-eyes-59-95-377";
-                                upDatedSpaPhone = "(972) 866-4612";
+                                upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes of the LED & Hyaluronic Acid Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
