@@ -5295,24 +5295,6 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-
-                                     case "Triple N DTB Natural Facelift 79.95":
-                                    upDatedSpaName = "Triple N";
-                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-facelift-79-95-dtb-2" ;
-                                    upDatedSpaPhone = "(714) 430-3899";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
-                                    promoPrice = "79.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
-                                    treatmentSelected = "Natural Facelift Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
-                                    insteadOfSpa = "$377";
-                                    break;
-
                                     case "Triple N Neck and Jawline 59.95":
                                     upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
@@ -5330,46 +5312,12 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N DTB Neck and Jawline 59.95":
-                                    upDatedSpaName = "Triple N";
-                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-neck-andjawline-59-95-dtb-2" ;
-                                    upDatedSpaPhone = "(714) 430-3899";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Neck and Jawline Tightening and 15 minutes Consultation";
-                                    promoPrice = "59.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
-                                    treatmentSelected = "Neck and Jawline Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
-                                    insteadOfSpa = "$377";
-                                    break;
-
                                     case "Triple N Bye Bye Saggy Eyes 59.95":
                                     upDatedSpaName = "Triple N";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-bye-bye-saggy-eyes-59-95" ;
-                                    upDatedSpaPhone = "(714) 430-3899";
-                                    upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes Cleansing";
-                                    upDatedDurationTwo = "- 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
-                                    promoPrice = "59.95"
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
-                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                                    newSpaPhoneNumberSelected = "(714) 430-3899";
-                                    insteadOfSpa = "$377";
-                                    break;
-
-                                    case "Triple N DTB Bye Bye Saggy Eyes 59.95":
-                                    upDatedSpaName = "Triple N";
-                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-bye-bye-saggy-eyes-59-95-dtb-2" ;
                                     upDatedSpaPhone = "(714) 430-3899";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15 minutes Cleansing";
@@ -13128,7 +13076,7 @@ function updateForm(){
 
                                 case "Below Zero Alpharetta Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Alpharetta";
-                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
@@ -13145,7 +13093,7 @@ function updateForm(){
 
                                 case "Below Zero Alpharetta Spa Natural Facelift $89.95":
                                 upDatedSpaName = "Below Zero Alpharetta";
-                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
+                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
@@ -13156,23 +13104,6 @@ function updateForm(){
                                 promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(706) 901-8979";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Below Zero Alpharetta Spa Freezing Skin Tightening $89.95":
-                                upDatedSpaName = "Below Zero Alpharetta";
-                                upDatedSpaAddress = "1000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - Our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur)";
-                                upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-freezing-skin-tightening-89-95";
-                                upDatedSpaPhone = "(404) 618-4124";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Freezing Skin Tightening Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "89.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-                                treatmentSelected = "Freezing Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(706) 901-8979";
                                 insteadOfSpa = "$377"
                                 break;
@@ -15581,24 +15512,6 @@ function updateForm(){
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
                                 treatmentSelected = "Neck and Jawline Treatment";
-                                newSpaPhoneNumberSelected = "(863) 777-0764";
-                                insteadOfSpa = "$377"
-                                break;
-
-
-             case "Prime Clinic 3 in 1 Lifting $79.95":
-                                upDatedSpaName = "Prime Clinic";
-                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-79-95";
-                                upDatedSpaPhone = "(863) 278-3069";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Lifting  Treatment";
-                                upDatedDurationTwo = "- 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
-                                treatmentSelected = "3 in 1 Lifting  Treatment";
                                 newSpaPhoneNumberSelected = "(863) 777-0764";
                                 insteadOfSpa = "$377"
                                 break;
