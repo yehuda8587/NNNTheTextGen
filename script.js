@@ -11689,7 +11689,7 @@ function updateForm(){
                                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 545-7129";
                                             treatmentSelected = "Korean 3 in 1 Skin Tightening Treatment";
                                             newSpaPhoneNumberSelected = "(949) 545-7129";
-                                            insteadOfSpa = "$299";
+                                            insteadOfSpa = "$199";
                                             break;
 
                                             case "SKT Med Spa Korean 3 in 1 Skin Tightening 69.95":
