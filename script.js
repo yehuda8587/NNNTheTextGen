@@ -15464,6 +15464,23 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(416) 595-9788";
                                 insteadOfSpa = "$377"
                                 break;
+
+            case "Forest Hill Cosmetic Clinic Neck and Face Skin Tightening $79.95":
+                                upDatedSpaName = "Forest Hill Cosmetic Clinic";
+                                upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+                                upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-neck-and-face-skin-tightening-79-95";
+                                upDatedSpaPhone = "(437) 290-1194";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Neck and Face Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+                                treatmentSelected = "Neck and Face Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(416) 595-9788";
+                                insteadOfSpa = "$377"
+                                break;
             
              case "Prime Clinic Natural Facelift $79.95":
                                 upDatedSpaName = "Prime Clinic";
@@ -15515,6 +15532,24 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(863) 777-0764";
                                 insteadOfSpa = "$377"
                                 break;
+
+            case "Prime Clinic 3 in 1 Skin Lifting $79.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-79-95";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Lifting Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
 
 case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaName = "Florentine Skincare and Cosmetics";
