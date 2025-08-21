@@ -12152,6 +12152,23 @@ function updateForm(){
                                 insteadOfSpa = "$260"
                                 break;
 
+                                case "Parie Med Spa  Weight Loss IV Treatment $89.95":
+                                upDatedSpaName = "Parie Med Spa";
+                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                upDatedSpaLINK = " ";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-89-95-260" ;
+                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
+                                upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                treatmentSelected = "Weight Loss IV Treatment";
+                                newSpaPhoneNumberSelected = "(702) 930-6221";
+                                insteadOfSpa = "$260"
+                                break;
+
                                 case "Parie Med Spa  Weight Loss IV Treatment $79.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
