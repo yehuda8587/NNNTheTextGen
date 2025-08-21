@@ -13918,7 +13918,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
-                                promoPrice = "59.95";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                 treatmentSelected = "Freezing Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
