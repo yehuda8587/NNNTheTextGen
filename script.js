@@ -11555,6 +11555,23 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+                                         case "Skin So Sweet Bye Bye Saggy Arms $59.95":
+                                        upDatedSpaName = "Skin So Sweet";
+                                        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-bye-bye-saggy-arms-59-95";
+                                        upDatedSpaPhone = "(714) 886 6067";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Bye Bye Saggy Arms Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                        treatmentSelected = "Bye Bye Saggy Arms Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 203-3527";
+                                        insteadOfSpa = "$377";
+                                        break;
+
                                        case "Skin Totale MEN Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale";
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
