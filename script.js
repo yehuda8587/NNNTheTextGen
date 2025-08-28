@@ -15263,7 +15263,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-bioled-natural-facelift-79-95-377";
-                                upDatedSpaPhone = "(248) 266-5243";
+                                upDatedSpaPhone = "(248) 385-2105";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 5 minutes Cleansing";
                                 upDatedDurationTwo = " - 25 minutes Skin Tightening Treatment and 15 minutes Consultation";
@@ -15280,7 +15280,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bioled-collagen-enhancing-99-95-377";
-                                upDatedSpaPhone = "(248) 266-5243";
+                                upDatedSpaPhone = "(248) 385-2105";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 5 minutes Cleansing";
                                 upDatedDurationTwo = " - 25 minutes Collagen Enhancing Treatment and 15 minutes Consultation";
