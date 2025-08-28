@@ -13517,6 +13517,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Ora Med Spa Hyperpigmentation Treatment $79.95":
+                                upDatedSpaName = "Ora Medical Spa";
+                                upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/oral-medical-spa-hyperpigmentation-treatment-79-95";
+                                upDatedSpaPhone = "(850) 988-9735";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Hyperpigmentation Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                treatmentSelected = "Hyperpigmentation Treatment";
+                                newSpaPhoneNumberSelected = "(850) 501-3350";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Glameria Natural Facelift $79.95":
                                 upDatedSpaName = "Glameria";
                                 upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(Main Floor between Pandora and Nespresso. The best Entrance is the East Entrance)";
