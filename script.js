@@ -1619,6 +1619,57 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;   
 
+                                case "Skinetica Med Spa Skin Tightening 59.95":
+                                upDatedSpaName = "Skinetica Med Spa";
+                                upDatedSpaAddress = "4765 Carmel Mountain Rd. San Diego, CA 92130"+"<br>"+"(STE 201, Torry Hills Medical & Dental Plaza second floor)";
+                                upDatedSpaLINK = "https://forms.gle/MjzRnX4ezYiN6wSQ8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/Vx2NYUntJdPdf5b56";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinetica-med-spa-skin-tightening-59-95" ;
+                                upDatedSpaPhone = "(619) 853-2025";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Cleansing";
+                                upDatedDurationTwo = "- 30 Minutes Skin Tightening Treatment and 15 minutes Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (858) 261-0082";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(858) 261-0082";
+                                insteadOfSpa = "$377"
+                                break;   
+
+                                case "Skinetica Med Spa 3 in 1 Skin Tightening 59.95":
+                                upDatedSpaName = "Skinetica Med Spa";
+                                upDatedSpaAddress = "4765 Carmel Mountain Rd. San Diego, CA 92130"+"<br>"+"(STE 201, Torry Hills Medical & Dental Plaza second floor)";
+                                upDatedSpaLINK = "https://forms.gle/MjzRnX4ezYiN6wSQ8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/Vx2NYUntJdPdf5b56";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinetica-med-spa-3-in-1-skin-tightening-59-95" ;
+                                upDatedSpaPhone = "(619) 853-2025";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Cleansing";
+                                upDatedDurationTwo = "- 30 Minutes 3 in 1 Skin Tightening Treatment and 15 minutes Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (858) 261-0082";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(858) 261-0082";
+                                insteadOfSpa = "$377"
+                                break;   
+
+                                case "Skinetica Med Spa Neck and Jawline 59.95":
+                                upDatedSpaName = "Skinetica Med Spa";
+                                upDatedSpaAddress = "4765 Carmel Mountain Rd. San Diego, CA 92130"+"<br>"+"(STE 201, Torry Hills Medical & Dental Plaza second floor)";
+                                upDatedSpaLINK = "https://forms.gle/MjzRnX4ezYiN6wSQ8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/Vx2NYUntJdPdf5b56";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinetica-med-spa-neck-and-jawline-59-95" ;
+                                upDatedSpaPhone = "(619) 853-2025";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 Minutes Cleansing";
+                                upDatedDurationTwo = "- 30 Minutes Neck and Jawline Treatment and 15 minutes Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (858) 261-0082";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(858) 261-0082";
+                                insteadOfSpa = "$377"
+                                break;   
+
 
                                 case "Elevatione Spa Beauty Skin Tightening":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
