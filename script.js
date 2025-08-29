@@ -13560,8 +13560,8 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/glameria-natural-facelift-promo";
                                 upDatedSpaPhone = "(587) 200-7971";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Consultation and 15 minutes of cleansing";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 281-8810";
@@ -14161,6 +14161,23 @@ function updateForm(){
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                 treatmentSelected = "Freezing Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(214) 238-6896";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Equanimity Non Surgical Facelift $69.95":
+                                upDatedSpaName = "Equanimity Wellness";
+                                upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-non-surgical-facelift-69-95-377";
+                                upDatedSpaPhone = "(469) 436-2824";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Non Surgical Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                treatmentSelected = "Non Surgical Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
                                 insteadOfSpa = "$377"
                                 break;
