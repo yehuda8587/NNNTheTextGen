@@ -7523,8 +7523,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Adore Edmonton LED":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore LED":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
@@ -7540,8 +7540,8 @@ function updateForm(){
                                 insteadOfSpa = "$350";
                                 break;
 
-                                case "Adore Edmonton Neck and Jawline 99.95":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore Neck and Jawline 99.95":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
@@ -7557,8 +7557,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Adore Edmonton Neck and Jawline 69.95":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore Neck and Jawline 69.95":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
@@ -7574,8 +7574,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Adore Edmonton Skin Tightening 99.95":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore Skin Tightening 99.95":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
@@ -7591,8 +7591,8 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Adore Edmonton Natural Facelift $79.95":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore Natural Facelift $79.95":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
@@ -7608,8 +7608,8 @@ function updateForm(){
                                 insteadOfSpa = "$350";
                                 break;
 
-                                case "Adore Edmonton Natural Facelift $69.95":
-                                upDatedSpaName = "Adore";
+                                case "Natural Blossom by Adore Natural Facelift $69.95":
+                                upDatedSpaName = "Natural Blossom by Adore";
                                 upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
                                 upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
