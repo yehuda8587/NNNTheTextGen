@@ -1948,7 +1948,7 @@ function updateForm(){
                                 upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
                                 upDatedSpaLINK = "https://forms.gle/TcPjSkWja3QxSPWb7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/dEeZzuiPSDNhjzhs8";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-elevatione-body-sculpting-promo";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-body-sculpting-69-95";
                                 upDatedSpaPhone = "(561) 406-8045";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " ";
@@ -11705,6 +11705,23 @@ function updateForm(){
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
                                         treatmentSelected = "Skin Tightening";
+                                        newSpaPhoneNumberSelected = "(714) 852-5300";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Skin Totale 3 in 1 Skin Tightening $59.95":
+                                        upDatedSpaName = "Skin Totale";
+                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sin-totale-3-in-1-skin-tightening-59-95";
+                                        upDatedSpaPhone = "(714) 450-6547";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis and 3 in 1 Skin Tightening Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
+                                        treatmentSelected = "3 in 1 Skin Tightening";
                                         newSpaPhoneNumberSelected = "(714) 852-5300";
                                         insteadOfSpa = "$377";
                                         break;
