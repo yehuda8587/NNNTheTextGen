@@ -15327,6 +15327,59 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Dermalogy Med Spa Natural Facelift $79.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-natural-facelift-79-95";
+                                upDatedSpaPhone = "(281) 598-2983";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Dermalogy Med Spa Skin Tightening $79.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-skin-tightening-79-95";
+                                upDatedSpaPhone = "(281) 598-2983";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes of Skin Tightening Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+                                 case "Dermalogy Med Spa Neck and Jawline $79.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/pXZJ1Cev4GvcFLuh7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-neck-and-jawline-79-95";
+                                upDatedSpaPhone = "(281) 598-2983";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes of Neck and Jawline Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
+                                
+            
                                 case "BioLed Beauty Natural Facelift $79.95":
                                 upDatedSpaName = "BioLed Beauty";
                                 upDatedSpaAddress = "Twelve Oaks Mall, 27500 Novi Rd. Novi, MI. 48377"+"<br>"+"(STE E205, 2nd floor next to Coach)";
