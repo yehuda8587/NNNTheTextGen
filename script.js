@@ -16125,6 +16125,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Minarelle DTB Natural Facelift $79.95":
+                                upDatedSpaName = "Minarelle";
+                                upDatedSpaAddress = "1100 S Hayes St. f328, Arlington, VA 22202"+"<br>"+"(Pentagon Mall, Second floor next to Pandora)";
+                                upDatedSpaLINK = "https://forms.gle/srUntBXNVRsXVjkGA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/v4paSTKSuVYv1kqw5";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/minarelle-natural-facelift-79-95-dtb-2";
+                                upDatedSpaPhone = "(703) 570-5548";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing and 30 minutes of  Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 531-6574";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(914) 531-6574";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Remarkable Aesthetics Natural Facelift $79.95":
                                 upDatedSpaName = "Remarkable Aesthetics";
