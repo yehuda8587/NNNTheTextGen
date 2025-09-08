@@ -15912,7 +15912,7 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-             case "Prime Clinic Natural Facelift $79.95":
+                                case "Prime Clinic Natural Facelift $79.95":
                                 upDatedSpaName = "Prime Clinic";
                                 upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
@@ -15929,7 +15929,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-            case "Prime Clinic Skin Tightening $79.95":
+                                case "Prime Clinic Natural Facelift $69.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-natural-facelift-69-95-377";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Prime Clinic Skin Tightening $79.95":
                                 upDatedSpaName = "Prime Clinic";
                                 upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
@@ -15946,7 +15963,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-            case "Prime Clinic Neck and Jawline $79.95":
+                                case "Prime Clinic Skin Tightening $69.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-skin-tigtening-69-95";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Skin Tightening Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Prime Clinic Neck and Jawline $79.95":
                                 upDatedSpaName = "Prime Clinic";
                                 upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
@@ -15963,7 +15997,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-            case "Prime Clinic 3 in 1 Skin Lifting $79.95":
+                                case "Prime Clinic Neck and Jawline $69.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-neck-and-jawline-69-95-377";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and Neck and Jawline Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Prime Clinic 3 in 1 Skin Lifting $79.95":
                                 upDatedSpaName = "Prime Clinic";
                                 upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
                                 upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
@@ -15974,6 +16025,23 @@ function updateForm(){
                                 upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Lifting Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
+                                treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                newSpaPhoneNumberSelected = "(863) 777-0764";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Prime Clinic 3 in 1 Skin Lifting $69.95":
+                                upDatedSpaName = "Prime Clinic";
+                                upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+                                upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-69-95";
+                                upDatedSpaPhone = "(863) 278-3069";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Lifting Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (863) 777-0764";
                                 treatmentSelected = "3 in 1 Skin Lifting Treatment";
                                 newSpaPhoneNumberSelected = "(863) 777-0764";
