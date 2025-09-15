@@ -13781,7 +13781,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-led-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes LED Anti-Aging Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13798,7 +13798,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-collagen-enhancing-79-95";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Collagen Enhancing Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13815,7 +13815,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-mommy-tummy-rescue-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Mommy Tummy Rescue Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13832,7 +13832,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-facelift-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13849,7 +13849,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-facelift-promo-69-95";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13866,7 +13866,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-gold-collagen-promo-79-95";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Gold Collagen Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13883,7 +13883,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-3-in-1-skin-tightening-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes 3 in 1 Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13900,7 +13900,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-skin-tightening-treatment-79-95";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13917,7 +13917,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-mens-skin-tightening-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13934,7 +13934,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-hydraglow-promo";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hydraglow Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
@@ -13951,7 +13951,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-129-95";
-                                upDatedSpaPhone = "(437) 291-2104";
+                                upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
