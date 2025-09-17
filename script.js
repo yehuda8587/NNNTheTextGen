@@ -1685,7 +1685,24 @@ function updateForm(){
                                 treatmentSelected = "Bye Bye Saggy Arms Treatment";
                                 newSpaPhoneNumberSelected = "(858) 261-0082";
                                 insteadOfSpa = "$377"
-                                break;   
+                                break;  
+
+                                case "Skinetica Med Spa Mommy Tummy Rescue 59.95":
+                                upDatedSpaName = "Skinetica Med Spa";
+                                upDatedSpaAddress = "4765 Carmel Mountain Rd. San Diego, CA 92130"+"<br>"+"(STE 201, Torry Hills Medical & Dental Plaza second floor)";
+                                upDatedSpaLINK = "https://forms.gle/MjzRnX4ezYiN6wSQ8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/Vx2NYUntJdPdf5b56";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinetica-med-spa-bye-bye-saggy-arms-59-95" ;
+                                upDatedSpaPhone = "(619) 853-2025";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Mommy Tummy Rescue Treatment ";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (858) 261-0082";
+                                treatmentSelected = "Mommy Tummy Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(858) 261-0082";
+                                insteadOfSpa = "$377"
+                                break;
 
 
                                 case "Elevatione Spa Beauty Skin Tightening":
