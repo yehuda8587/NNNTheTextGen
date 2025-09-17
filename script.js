@@ -15534,7 +15534,7 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "ermalogy Med Spa Men Skin Tightening $69.95":
+                                case "Dermalogy Med Spa Men Skin Tightening $69.95":
                                 upDatedSpaName = "Dermalogy Med Spa";
                                 upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
