@@ -11762,6 +11762,23 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+                                         case "Skin So Sweet Bye Bye Muffin Top $120.95":
+                                        upDatedSpaName = "Skin So Sweet";
+                                        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+                                        upDatedSpaLINK = " ";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-bye-bye-muffin-top-120-95";
+                                        upDatedSpaPhone = "(714) 886 6067";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Bye Bye Muffin Top Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "120.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+                                        treatmentSelected = "Bye Bye Muffin Top Treatment";
+                                        newSpaPhoneNumberSelected = "(714) 203-3527";
+                                        insteadOfSpa = "$389";
+                                        break;
+
                                         case "Skin So Sweet 3 in 1 Lifting Facial $59.95":
                                         upDatedSpaName = "Skin So Sweet";
                                         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
