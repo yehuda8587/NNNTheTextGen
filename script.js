@@ -3453,7 +3453,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearldeflore-augusta-led-promo";
-                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedSpaPhone = "(762) 200-3183";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes LED Anti-aging treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -3470,7 +3470,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/pearl-de-flore-natural-facelift-treatment-79-95";
-                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedSpaPhone = "(762) 200-3183";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -3487,7 +3487,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-de-flore-natural-skin-tightening-79-95-377";
-                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedSpaPhone = "(762) 200-3183";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -3504,7 +3504,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-pearl-de-flore-skin-tightening-99-95";
-                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedSpaPhone = "(762) 200-3183";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -3521,7 +3521,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-of-flore-natural-skin-tightening-99-95-377";
-                                upDatedSpaPhone = "(706) 524-8251";
+                                upDatedSpaPhone = "(762) 200-3183";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
