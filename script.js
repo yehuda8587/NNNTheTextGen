@@ -1740,6 +1740,23 @@ function updateForm(){
                                 break;   
 
 
+                                case "Skinetica Med Spa Turkey Neck Rescue 59.95":
+                                upDatedSpaName = "Skinetica Med Spa";
+                                upDatedSpaAddress = "4765 Carmel Mountain Rd. San Diego, CA 92130"+"<br>"+"(STE 201, Torry Hills Medical & Dental Plaza second floor)";
+                                upDatedSpaLINK = "https://forms.gle/MjzRnX4ezYiN6wSQ8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/Vx2NYUntJdPdf5b56";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinetica-med-spa-turkey-neck-rescue-59-95" ;
+                                upDatedSpaPhone = "(619) 853-2025";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Turkey Neck Rescue Treatment ";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (858) 261-0082";
+                                treatmentSelected = "Turkey Neck Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(858) 261-0082";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Elevatione Spa Beauty Skin Tightening":
                                     upDatedSpaName = "Elevatione Spa & Beauty";
                                 upDatedSpaAddress = "Flagler Waterview building,"+"<br>"+"1515 North Flagler Drive, West Palm Beach, FL 33401"+"<br>"+"(First Floor, STE 100)";
