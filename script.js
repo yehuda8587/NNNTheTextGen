@@ -16678,6 +16678,24 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 break;
 
 
+                                case "Queen Bee Limited Natural Facelift $69.95":
+                                upDatedSpaName = "Queen Bee Limited";
+                                upDatedSpaAddress = "322 E Front St. Traverse City, MI 49684"+"<br>"+"(Right next to the parking garage on Front Street)";
+                                upDatedSpaLINK = "https://forms.gle/6oNLW2Xq7Ui3DeT19";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/6wovvSRSL7kSt24e8";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/queen-bee-limited-natural-facelift-69-95";
+                                upDatedSpaPhone = "(231) 222-5239";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 20 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (231) 444-4183";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(231) 444-4183";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 
 
 
