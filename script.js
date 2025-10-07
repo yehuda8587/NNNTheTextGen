@@ -12377,7 +12377,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Natural Facelift $79.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-promo-79" ;
@@ -12394,7 +12394,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Natural Facelift $59.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/grapevine-naturalfacelift-59" ;
@@ -12411,7 +12411,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Natural Facelift $49.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-natural-facelift-treatment-49-95 " ;
@@ -12428,7 +12428,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Skin Tightening $69.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";;
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-skin-tightening-promo" ;
@@ -12445,7 +12445,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Skin Tightening $59.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";;
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-skin-tightening-treatment" ;
@@ -12462,7 +12462,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine 3 in 1 Skin Tightening $89.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";;
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-3-in-1-skin-tightening-promo" ;
@@ -12479,7 +12479,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Men Anti-Aging Treatment $89.95":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";;
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-men-anti-aging-treatment" ;
@@ -12496,7 +12496,7 @@ function updateForm(){
 
                                 case "Soap Tree Grapevine Neck and Jawline Treatment $69.99":
                                 upDatedSpaName = "Soap Tree";
-                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)";;
+                                upDatedSpaAddress = "Grapevine Mills,"+"<br>"+"3000 Grapevine Mills Pkwy. Grapevine, TX 76051"+"<br>"+"(Unit 302B, Inside the mall, Located across from Meow Wolf, Next to Peppa Pig World of Play)"+"<br>"+"(Park near ENTRANCE 3, it's the closest entrance to the spa.)"+"<br>"+"(Alternatively from the parking lot, enter through Meow Wolf. Once you’re inside the mall, you’ll see the spa just across and a little to the right.)";;
                                 upDatedSpaLINK = "https://forms.gle/Q9TV432wjtbToHKW9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/5DnJ7a5f1ydRe5x49";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/soap-tree-grapevine-neck-amp-jawline-treatment-69-99" ;
