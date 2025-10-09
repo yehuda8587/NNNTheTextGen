@@ -4060,7 +4060,7 @@ function updateForm(){
                                 upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
                                 upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hyperpigmentation-99-95-377";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-brightening-amp-hyperpigmentation-69-95";
                                 upDatedSpaPhone = "(647) 799-6173";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 Minutes Brightening and Hyperpigmentation Protocol";
