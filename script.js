@@ -4055,6 +4055,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Tierra Med Spa Brightening and Hyperpigmentation Protocol $69.95":
+                                    upDatedSpaName = "Tierra Med Spa";
+                                upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+                                upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-hyperpigmentation-99-95-377";
+                                upDatedSpaPhone = "(647) 799-6173";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 Minutes Brightening and Hyperpigmentation Protocol";
+                                upDatedDurationTwo = "- 15 Minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+                                treatmentSelected = "Brightening and Hyperpigmentation Protocol";
+                                newSpaPhoneNumberSelected = "(647) 277-5122";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Tierra Med Spa Hydraglow Treatment $79.95":
                                     upDatedSpaName = "Tierra Med Spa";
                                 upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
