@@ -16565,9 +16565,9 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of  Skin Tightening Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 531-6574";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (845) 907-9158";
                                 treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(914) 531-6574";
+                                newSpaPhoneNumberSelected = "(845) 907-9158";
                                 insteadOfSpa = "$377"
                                 break;
 
@@ -16582,9 +16582,9 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of  Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (914) 531-6574";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (845) 907-9158";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(914) 531-6574";
+                                newSpaPhoneNumberSelected = "(845) 907-9158";
                                 insteadOfSpa = "$377"
                                 break;
 
