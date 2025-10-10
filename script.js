@@ -15224,6 +15224,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Blowout Spa Men Skin Tightening $99.95":
+                                upDatedSpaName = "Blowout Spa";
+                                upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
+                                upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-men-skin-tightening-99-95";
+                                upDatedSpaPhone = "(678) 992-5095";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(979) 324-5845";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Blowout Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Blowout Spa";
                                 upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
