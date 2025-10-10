@@ -5109,6 +5109,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Ben's Beauty Hyperpigmentation Treament $59.95":
+                                upDatedSpaName = "Ben's Beauty Spa";
+                                upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+                                upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hyperpigmentation-treatment-59-95" ;
+                                upDatedSpaPhone = "(626) 225-0556";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "20 minute Cleansing ";
+                                upDatedDurationTwo = "40 minutes of Hyperpigmentation Treament and Consultation";
+                                promoPrice = "59.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+                                treatmentSelected = "Hyperpigmentation Treament Treatment";
+                                newSpaPhoneNumberSelected = "(626) 298-6456";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Ben's Beauty Spa Hydraglow Treatment 79.95":
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -5633,6 +5650,23 @@ function updateForm(){
                                     promoPrice = "59.95"
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
                                     treatmentSelected = "Non Invasive Pain Management Therapy";
+                                    newSpaPhoneNumberSelected = "(714) 430-3899";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Triple N Hyperpigmentation Treatment 59.95":
+                                    upDatedSpaName = "Triple N";
+                                    upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+                                    upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-hyperpigmentation-treatment-59-95" ;
+                                    upDatedSpaPhone = "(714) 430-3899";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes Hyperpigmentation Treatment";
+                                    upDatedDurationTwo = "- 10 minutes Post Care and Consultation";
+                                    promoPrice = "59.95"
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 430-3899";
+                                    treatmentSelected = "Hyperpigmentation Treatment";
                                     newSpaPhoneNumberSelected = "(714) 430-3899";
                                     insteadOfSpa = "$377";
                                     break;
