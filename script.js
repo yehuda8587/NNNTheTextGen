@@ -16819,7 +16819,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaName = "Blesseli Spa ";
                                 upDatedSpaAddress = "53 W County Center, Des Peres, MO 63131"+"<br>"+"(We’re on the first floor of West County Mall, next to the Lego store. Enter through Nordstrom (West Entrance) and turn right.)";
                                 upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/6wovvSRSL7kSt24e8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/ijoWKX3Ur2iSKwBh7";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/blesseli-spa-natural-facelift-79-95";
                                 upDatedSpaPhone = "(314) 377-5991";
                                 upDatedDurationTotal = "45 Minutes";
