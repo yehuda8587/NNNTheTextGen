@@ -13889,9 +13889,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
                                 promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 281-8810";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(403) 281-8810";
+                                newSpaPhoneNumberSelected = "(587) 800-1699";
                                 insteadOfSpa = "$377"
                                 break;
 
