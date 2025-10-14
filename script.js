@@ -12017,7 +12017,7 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale San Jose Natural Facelift $59.95":
+                                        case "Skin Totale San Juan Natural Facelift $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
@@ -12034,7 +12034,7 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale San Jose Men Skin Tightening $59.95":
+                                        case "Skin Totale San Juan Men Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
