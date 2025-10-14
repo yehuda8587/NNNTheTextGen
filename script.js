@@ -5501,8 +5501,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Collagen Enhancing 79.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Collagen Enhancing 79.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5518,8 +5518,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Collagen Enhancing 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Collagen Enhancing 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5535,8 +5535,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Natural Skin Tightening 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Natural Skin Tightening 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5552,8 +5552,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Natural Facelift 79.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Natural Facelift 79.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5569,8 +5569,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Natural Facelift 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Natural Facelift 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5586,8 +5586,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Neck and Jawline 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Neck and Jawline 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5603,8 +5603,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Bye Bye Saggy Eyes 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Bye Bye Saggy Eyes 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5620,8 +5620,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Non Invasive Pain Management Therapy 79.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Non Invasive Pain Management Therapy 79.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5637,8 +5637,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Non Invasive Pain Management Therapy 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Non Invasive Pain Management Therapy 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
@@ -5654,8 +5654,8 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
-                                    case "Triple N Hyperpigmentation Treatment 59.95":
-                                    upDatedSpaName = "Triple N";
+                                    case "Ben's Beauty Irvine Hyperpigmentation Treatment 59.95":
+                                    upDatedSpaName = "Ben's Beauty Irvine";
                                     upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
                                     upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
