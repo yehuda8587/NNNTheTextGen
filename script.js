@@ -9211,6 +9211,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Sky Med Spa Natural Facelift 59.95":
+                                    upDatedSpaName = "Sky Med Spa";
+                                    upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
+                                    upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-natural-facelift-59-95-377";
+                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 20-minute Light Cleansing";
+                                    upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 379-7301";
+                                    treatmentSelected = "Natural Facelift Treatment";
+                                    newSpaPhoneNumberSelected = "(619) 379-7301";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "DTB - Sthetics Med Spa Natural Facelift 69.95":
                                     upDatedSpaName = "Sthetics Med Spa";
                                     upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
