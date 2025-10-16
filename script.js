@@ -16761,7 +16761,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 break;
 
 
-                                case "Below Zero Boca Raton Spa Natural Facelift $79.95":
+                                case "Below Zero Spa Boca Raton Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
@@ -16778,7 +16778,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Below Zero Boca Raton Spa Natural Facelift $69.95":
+                                case "Below Zero Spa Boca Raton Natural Facelift $69.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
@@ -16796,7 +16796,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 break;
 
 
-                                case "Below Zero Boca Raton Spa 3 in 1 Skin Lifting $79.95":
+                                case "Below Zero Spa Boca Raton 3 in 1 Skin Lifting $79.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
@@ -16813,7 +16813,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Below Zero Boca Raton Spa Neck and Jawline $79.95":
+                                case "Below Zero Spa Boca Raton Neck and Jawline $79.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
@@ -16827,6 +16827,28 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
                                 treatmentSelected = "Neck and Jawline Treatment";
                                 newSpaPhoneNumberSelected = "(305) 934-5054";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+
+
+
+
+                                case "Below Zero Spa Rochester Natural Facelift $79.95":
+                                upDatedSpaName = "Below Zero Rochester";
+                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)";
+                                upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-natural-facelift-promo-79-95";
+                                upDatedSpaPhone = "(585) 252-4003";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(585) 449-2100";
                                 insteadOfSpa = "$377"
                                 break;
 
