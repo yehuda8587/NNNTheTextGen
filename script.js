@@ -9233,7 +9233,7 @@ function updateForm(){
                                     upDatedSpaAddress = "450 A St. San Diego, CA 92101"+"<br>"+"(4th Floor, Ste 400, just next to the Paul Mitchell School)"+"<br>"+"Park at 501 A St Premium Parking - P1080 (Foley Parking Complex)"+"<br>"+"Sunday: free street parking.";
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
-                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-mens-skin-tightening-79-95-377";
+                                    upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-mens-skin-tightening-79-95-299";
                                     upDatedSpaPhone = "(619) 377-8385";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
