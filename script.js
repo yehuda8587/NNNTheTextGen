@@ -12058,8 +12058,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-natural-facelift-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Cleansing and Natural Facelift Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Lifting Facial Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
@@ -12075,8 +12075,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-men-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Cleansing and Men Skin Tightening Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
@@ -12109,8 +12109,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-promo-59-95-377";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes 3 in 1 Skin Tightening Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
