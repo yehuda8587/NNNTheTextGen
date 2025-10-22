@@ -12073,7 +12073,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-jose-men-skin-tightening-59-95";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-men-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "45 Minutes";
                                         upDatedDurationOne = "- 30 minutes Cleansing and Men Skin Tightening Treatment";
