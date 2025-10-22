@@ -12101,6 +12101,23 @@ function updateForm(){
                                         newSpaPhoneNumberSelected = "(310) 498-6228";
                                         insteadOfSpa = "$377";
                                         break;
+
+                                        case "Skin Totale San Juan 3 in 1 Skin Tightening $59.95":
+                                        upDatedSpaName = "Skin Totale Med Spa";
+                                        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
+                                        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
+                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-promo-59-95-377";
+                                        upDatedSpaPhone = "(949) 339-3541";
+                                        upDatedDurationTotal = "45 Minutes";
+                                        upDatedDurationOne = "- 30 minutes 3 in 1 Skin Tightening Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "59.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
+                                        treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                        newSpaPhoneNumberSelected = "(310) 498-6228";
+                                        insteadOfSpa = "$377";
+                                        break;
             
             
                                             case "Lift and Revive Med Spa Natural Facelift $79.95":
