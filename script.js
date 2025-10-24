@@ -16830,6 +16830,25 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 break;
 
 
+                                case "Below Zero Spa Boca Raton Natural Facelift $59.95":
+                                upDatedSpaName = "Below Zero Boca Raton";
+                                upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95-2";
+                                upDatedSpaPhone = "(561) 285-4849";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(305) 934-5054";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+
                                 case "Below Zero Spa Boca Raton 3 in 1 Skin Lifting $79.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
@@ -16841,6 +16860,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and Consultation";
                                 promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
+                                treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                newSpaPhoneNumberSelected = "(305) 934-5054";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Below Zero Spa Boca Raton 3 in 1 Skin Lifting $59.95":
+                                upDatedSpaName = "Below Zero Boca Raton";
+                                upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95-2";
+                                upDatedSpaPhone = "(561) 285-4849";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and Consultation";
+                                promoPrice = "59.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
                                 treatmentSelected = "3 in 1 Skin Lifting Treatment";
                                 newSpaPhoneNumberSelected = "(305) 934-5054";
