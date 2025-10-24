@@ -14661,6 +14661,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                 case "Equanimity Korean 3 in 1 Skin Tightening $69.95":
+                                upDatedSpaName = "Equanimity Wellness";
+                                upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-3-in-1-korean-beauty-technology-69-95";
+                                upDatedSpaPhone = "(469) 436-2824";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes of Korean 3 in 1 Skin Tightening";
+                                upDatedDurationTwo = "- 15 minutes Skin Assestment";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                treatmentSelected = "Bye Bye Saggy Eye";
+                                newSpaPhoneNumberSelected = "(214) 238-6896";
+                                insteadOfSpa = "$499"
+                                break;
+
             
                                 case "Tranquil Wellness and Spa Skin Tightening Facial $79.95":
                                 upDatedSpaName = "Tranquil Wellness and Spa";
