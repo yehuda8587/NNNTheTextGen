@@ -4646,6 +4646,7 @@ function updateForm(){
                                             upDatedSpaName = "Pura Vida Spa";
                                             upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
                                             upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+                                            DatedSpaMapLINK = "https://maps.app.goo.gl/jBNQdzDcNS4N5GkY7";
                                             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/puravida-antiaging-led-promo";
                                             upDatedSpaPhone = "(825) 258-5779";
                                             upDatedDurationTotal = "45 Minutes";
