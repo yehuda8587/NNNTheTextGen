@@ -16610,9 +16610,9 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at ";
                                 treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(585) 449-2100";
+                                newSpaPhoneNumberSelected = " ";
                                 insteadOfSpa = "$377"
                                 break;
 
