@@ -14673,7 +14673,7 @@ function updateForm(){
                                 upDatedDurationTwo = "- 15 minutes Skin Assestment";
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-                                treatmentSelected = "Bye Bye Saggy Eye";
+                                treatmentSelected = "Korean 3 in 1 Skin Tightening";
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
                                 insteadOfSpa = "$499"
                                 break;
