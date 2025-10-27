@@ -16621,7 +16621,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "1216 Stanley St, Montreal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
                                 upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95?";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95";
                                 upDatedSpaPhone = "(438) 230-4017";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
