@@ -16616,6 +16616,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Lumera Skin Clinics Natural Facelift $129.95":
+                                upDatedSpaName = "Lumera Skin Clinics";
+                                upDatedSpaAddress = "1216 Stanley St, Montreal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+                                upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95?";
+                                upDatedSpaPhone = "(438) 230-4017";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "129.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (438) 230-4017";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(438) 230-4017";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Skin Technology Natural Facelift $79.95":
                                 upDatedSpaName = "Skin Technology";
                                 upDatedSpaAddress = "1465 Salisbury Ave. Port Coquitlam, BC V3B 6J3"+"<br>"+"(Unit 125, First Floor inside the Medical Centre)";
