@@ -424,7 +424,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
@@ -441,7 +441,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
@@ -458,7 +458,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-hydraglow-led-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
@@ -475,7 +475,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-3-in-1-skin-tightening-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
@@ -492,7 +492,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-neck-amp-jawline-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
@@ -509,7 +509,7 @@ function updateForm(){
                     upDatedSpaName = "BeautyFrizz Spa";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-bye-bye-saggy-eyes-79-95";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
