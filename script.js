@@ -420,9 +420,9 @@ function updateForm(){
                 insteadOfSpa = "$500"
                 break; 
 
-                case "Beauty Frizz Ocala LED 79.95":
+                case "Beauty Frizz Spa LED 79.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
@@ -431,15 +431,15 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes LED Anti-Aging Treatment & 15 minutes Consultation";
                     promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;     
 
-                    case "Beauty Frizz Ocala Natural Facelift 79.95":
+                    case "Beauty Frizz Spa Natural Facelift 79.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
@@ -448,15 +448,15 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
                     promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "Natural Facelift Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;  
                     
-                    case "Beauty Frizz Ocala Hydraglow + LED Treatment 89.95":
+                    case "Beauty Frizz Spa Hydraglow + LED Treatment 89.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-hydraglow-led-promo";
@@ -465,15 +465,15 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes Hydraglow + LED Treatment & 15 minutes Consultation";
                     promoPrice = "89.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "Hydraglow + LED Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;
 
-                    case "Beauty Frizz Ocala 3 in 1 Skin Tightening 79.95":
+                    case "Beauty Frizz Spa 3 in 1 Skin Tightening 79.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-3-in-1-skin-tightening-promo";
@@ -482,15 +482,15 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 45 Minutes 3 in 1 Skin Tightening Treatment & Consultation";
                     promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;   
 
-                    case "Beauty Frizz Ocala Neck and Jawline 79.95":
+                    case "Beauty Frizz Spa Neck and Jawline 79.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-neck-amp-jawline-promo";
@@ -499,15 +499,15 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
                     promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "Neck and Jawline Tightening Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;  
 
-                    case "Beauty Frizz Ocala Bye Bye Saggy Eyes 79.95":
+                    case "Beauty Frizz Spa Bye Bye Saggy Eyes 79.95":
                     upDatedSpaName = "BeautyFrizz Spa";
-                    upDatedSpaAddress = "Paddock Mall,"+"<br>"+"3100 SW College Rd Ocala FL 34474"+"<br>"+"(Unit 402, next to Belk Store)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/hUhGocFRpELioqDh9";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-bye-bye-saggy-eyes-79-95";
@@ -516,9 +516,9 @@ function updateForm(){
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
                     promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 216-4557";
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                    newSpaPhoneNumberSelected = "(352) 216-4557";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;  
 
