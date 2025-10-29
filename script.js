@@ -16866,7 +16866,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Elixir Natural Facelift 69.95":
                                 upDatedSpaName = "Elixir";
-                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
+                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"(As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
                                 upDatedSpaLINK = "https://forms.gle/RvsBbUbNHLRkBjRg7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/qC5ptJ7YYRtrRgy39";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/elixir-natural-facelift-69-95-377";
@@ -16883,7 +16883,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Elixir Neck and Jawline Tigtening 69.95":
                                 upDatedSpaName = "Elixir";
-                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
+                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"(As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
                                 upDatedSpaLINK = "https://forms.gle/RvsBbUbNHLRkBjRg7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/qC5ptJ7YYRtrRgy39";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/elixir-neck-and-jawline-69-95-377";
