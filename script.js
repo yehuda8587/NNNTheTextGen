@@ -16864,6 +16864,40 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Elixir Natural Facelift 69.95":
+                                upDatedSpaName = "Elixir";
+                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
+                                upDatedSpaLINK = "https://forms.gle/RvsBbUbNHLRkBjRg7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/qC5ptJ7YYRtrRgy39";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/elixir-natural-facelift-69-95-377";
+                                upDatedSpaPhone = "(239) 299-0018";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 221-1707";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(239) 221-1707";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Elixir Neck and Jawline Tigtening 69.95":
+                                upDatedSpaName = "Elixir";
+                                upDatedSpaAddress = "Goodlette-Frank Professional Building, 2977 Goodlette-Frank Rd Unit 41, Naple, FL. 34103"+"<br>"+"As soon as you enter through the main door, our unit is right in the center — just look up and you’ll see our sign)";
+                                upDatedSpaLINK = "https://forms.gle/RvsBbUbNHLRkBjRg7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/qC5ptJ7YYRtrRgy39";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/elixir-neck-and-jawline-69-95-377";
+                                upDatedSpaPhone = "(239) 299-0018";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Neck and Jawline Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 221-1707";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(239) 221-1707";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Below Zero Spa Boca Raton Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Boca Raton";
