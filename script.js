@@ -15902,11 +15902,11 @@ function updateForm(){
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-body-treatment-69-95";
                                 upDatedSpaPhone = "(281) 675-2651";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 45 minutes Bye Bye Muffin Top Body Treatment";
+                                upDatedDurationOne = " - 45 minutes Body Treatment";
                                 upDatedDurationTwo = " - 15 minutes Consultation";
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
-                                treatmentSelected = "Bye Bye Muffin Top Body Treatment";
+                                treatmentSelected = "Body Treatment";
                                 newSpaPhoneNumberSelected = "(281) 818-2149";
                                 insteadOfSpa = "$377"
                                 break;
