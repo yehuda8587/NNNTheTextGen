@@ -15893,6 +15893,23 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(281) 818-2149";
                                 insteadOfSpa = "$377"
                                 break;
+
+                                case "Dermalogy Med Spa Body Treatment $69.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-body-treatment-69-95";
+                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 45 minutes Bye Bye Muffin Top Body Treatment";
+                                upDatedDurationTwo = " - 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Bye Bye Muffin Top Body Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
             
                                 case "BioLed Beauty Natural Facelift $79.95":
                                 upDatedSpaName = "BioLed Beauty";
