@@ -14729,34 +14729,34 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Equanimity Bye Bye Saggy Arms $69.95":
+                                case "Equanimity Bye Bye Saggy Arms $89.95":
                                 upDatedSpaName = "Equanimity Wellness";
                                 upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-saggy-arms-69-95";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-saggy-arms-89-95";
                                 upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes of Bye Bye Saggy Arms Treatment";
                                 upDatedDurationTwo = "- 15 minutes Skin Assestment";
-                                promoPrice = "59.95";
+                                promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                 treatmentSelected = "Bye Bye Saggy Arms";
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
                                 insteadOfSpa = "$499"
                                 break;
 
-                                 case "Equanimity Bye Bye Muffin Top $99.95":
+                                 case "Equanimity Bye Bye Muffin Top $89.95":
                                 upDatedSpaName = "Equanimity Wellness";
                                 upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-muffin-top-99-95";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-muffin-top-89-95";
                                 upDatedSpaPhone = "(469) 436-2824";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes of Bye Bye Muffin Top Treatment";
                                 upDatedDurationTwo = "- 15 minutes Skin Assestment";
-                                promoPrice = "99.95";
+                                promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
                                 treatmentSelected = "Bye Bye Muffin Top";
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
