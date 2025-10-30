@@ -442,7 +442,7 @@ function updateForm(){
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-facelift-treatment-79-95";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-facelift-treatment-79-95";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
@@ -476,7 +476,7 @@ function updateForm(){
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-3-in-1-skin-tightening-promo";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-3-in-1-skin-tightening-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -493,7 +493,7 @@ function updateForm(){
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-neck-amp-jawline-promo";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-neck-amp-jawline-treatment";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
