@@ -10612,6 +10612,40 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Oasis Aesthetics Body Contouring 59.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-body-contouring-59-95";
+                                    upDatedSpaPhone = "(204) 819-4554";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                    treatmentSelected = "Body Contouring Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 306-7627";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Oasis Aesthetics Mommy Tummy Rescue 59.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-ness-mommy-tummy-rescue-59-95";
+                                    upDatedSpaPhone = "(204) 819-4554";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes Mommy Tummy Rescue Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                    treatmentSelected = "Mommy Tummy Rescue Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 306-7627";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Oasis Aesthetics Body Contouring 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
