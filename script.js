@@ -12182,9 +12182,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Lifting Facial Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
                                         treatmentSelected = "Natural Facelift Treatment";
-                                        newSpaPhoneNumberSelected = "(310) 498-6228";
+                                        newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -12199,9 +12199,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
                                         treatmentSelected = "Men Skin Tightening Treatment";
-                                        newSpaPhoneNumberSelected = "(310) 498-6228";
+                                        newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -12216,9 +12216,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 30 minutes Cleansing and Hyperpigmentation Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
                                         treatmentSelected = "Hyperpigmentation Treatment";
-                                        newSpaPhoneNumberSelected = "(310) 498-6228";
+                                        newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
 
@@ -12233,9 +12233,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (310) 498-6228";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
                                         treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                        newSpaPhoneNumberSelected = "(310) 498-6228";
+                                        newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
             
