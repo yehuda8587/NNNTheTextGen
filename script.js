@@ -17092,7 +17092,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95-2";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17111,7 +17111,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-79-95-2";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-79-95";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17128,7 +17128,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95-2";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17145,7 +17145,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-79-95-2";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-79-95";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17162,7 +17162,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-59-95-2";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-59-95";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
