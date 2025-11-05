@@ -388,23 +388,7 @@ function updateForm(){
             insteadOfSpa = "$377"
             break;
 
-            case "Beauty Lounge MD":
-            upDatedSpaName = "Beauty Lounge";
-            upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
-            upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
-            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
-            upDatedSpaPhone = "(301) 291-7543";
-            upDatedDurationTotal = "60 Minutes";
-            upDatedDurationOne = "- 15 Minutes Cleansing";
-            upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-            promoPrice = "99.95"
-            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-            treatmentSelected = "LED Treatment";
-            newSpaPhoneNumberSelected = "(301) 775-3494";
-            insteadOfSpa = "$377"
-            break; 
-
-            case "Beauty Lounge MD Body Sculpting":
+           case "Beauty Lounge MD Body Sculpting":
                 upDatedSpaName = "Beauty Lounge";
                 upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
                 upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
