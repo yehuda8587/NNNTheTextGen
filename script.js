@@ -17225,6 +17225,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Below Zero Spa Boca Raton Men Skin Tightening $99.95":
+                                upDatedSpaName = "Below Zero Boca Raton";
+                                upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-men-skin-tightening-99-95-377";
+                                upDatedSpaPhone = "(561) 285-4849";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
+                                treatmentSelected = "Men Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(305) 934-5054";
+                                insteadOfSpa = "$377"
+                                break;
+            
                                 case "Below Zero Spa Rochester Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Rochester";
                                 upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)";
