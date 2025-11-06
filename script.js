@@ -16097,6 +16097,24 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(281) 818-2149";
                                 insteadOfSpa = "$377"
                                 break;
+
+
+                                 case "Dermalogy Med Spa Bye Bye Saggy Eyes $59.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
+                                upDatedSpaWebLINK = "corrective-treatments.myshopify.com/pages/dermalogy-med-spa-bye-bye-saggy-eyes-59-95";
+                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 10 minutes Cleansing and 40 minutes Bye Bye Saggy Eyes";
+                                upDatedDurationTwo = " - 10 minutes Consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
+                                insteadOfSpa = "$377"
+                                break;
             
                                 case "BioLed Beauty Natural Facelift $79.95":
                                 upDatedSpaName = "BioLed Beauty";
