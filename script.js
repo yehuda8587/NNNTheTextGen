@@ -422,7 +422,7 @@ function updateForm(){
 
                 case "Beauty Lounge LED 79.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
@@ -439,7 +439,7 @@ function updateForm(){
 
                     case "Beauty Lounge Natural Facelift 79.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-facelift-treatment-79-95";
@@ -456,7 +456,7 @@ function updateForm(){
                     
                     case "Beauty Lounge Hydraglow + LED Treatment 89.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-hydraglow-led-promo";
@@ -473,7 +473,7 @@ function updateForm(){
 
                     case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-3-in-1-skin-tightening-promo";
@@ -490,7 +490,7 @@ function updateForm(){
 
                     case "Beauty Lounge Neck and Jawline 79.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-neck-amp-jawline-treatment";
@@ -507,7 +507,7 @@ function updateForm(){
 
                     case "Beauty Lounge Bye Bye Saggy Eyes 79.95":
                     upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-79-95";
