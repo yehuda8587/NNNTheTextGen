@@ -389,7 +389,7 @@ function updateForm(){
             break;
 
             case "Beauty Frizz MD":
-            upDatedSpaName = "BeautyFrizz Spa";
+            upDatedSpaName = "Beauty Lounge";
             upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
             upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
@@ -405,7 +405,7 @@ function updateForm(){
             break; 
 
             case "Beauty Frizz MD Body Sculpting":
-                upDatedSpaName = "BeautyFrizz Spa";
+                upDatedSpaName = "Beauty Lounge";
                 upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
                 upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-bodysculpting-promo";
@@ -420,8 +420,8 @@ function updateForm(){
                 insteadOfSpa = "$500"
                 break; 
 
-                case "Beauty Frizz Spa LED 79.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                case "Beauty Lounge LED 79.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
@@ -437,12 +437,12 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;     
 
-                    case "Beauty Frizz Spa Natural Facelift 79.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                    case "Beauty Lounge Natural Facelift 79.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-facelift-treatment-79-95";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-facelift-treatment-79-95";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
@@ -454,12 +454,12 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;  
                     
-                    case "Beauty Frizz Spa Hydraglow + LED Treatment 89.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                    case "Beauty Lounge Hydraglow + LED Treatment 89.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-hydraglow-led-promo";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-hydraglow-led-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
@@ -471,12 +471,12 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;
 
-                    case "Beauty Frizz Spa 3 in 1 Skin Tightening 79.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                    case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-3-in-1-skin-tightening-promo";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-3-in-1-skin-tightening-promo";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -488,12 +488,12 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;   
 
-                    case "Beauty Frizz Spa Neck and Jawline 79.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                    case "Beauty Lounge Neck and Jawline 79.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-neck-amp-jawline-treatment";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-neck-amp-jawline-treatment";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -505,12 +505,12 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;  
 
-                    case "Beauty Frizz Spa Bye Bye Saggy Eyes 79.95":
-                    upDatedSpaName = "BeautyFrizz Spa";
+                    case "Beauty Lounge Bye Bye Saggy Eyes 79.95":
+                    upDatedSpaName = "Beauty Lounge";
                     upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Shoppes At Paddock Park)";
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-ocala-bye-bye-saggy-eyes-79-95";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-79-95";
                     upDatedSpaPhone = "(352) 577-9216";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -6297,6 +6297,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Good Life Spa Skin Tightening 59.95":
+                                upDatedSpaName = "Good Life Spa";
+                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-59-95";
+                                upDatedSpaPhone = "(386) 319-1236";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minutes of light cleansing";
+                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(386) 888-0765";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Good Life Spa Hydraglow 79.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
@@ -6359,6 +6376,23 @@ function updateForm(){
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
                                 upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
                                 promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(386) 888-0765";
+                                insteadOfSpa = "$377";
+                                break;
+
+                                case "Good Life Spa 3 in 1 Skin Tightening 59.95":
+                                upDatedSpaName = "Good Life Spa";
+                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-3-in-1-skin-tightening-59-95";
+                                upDatedSpaPhone = "(386) 319-1236";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minutes of light cleansing";
+                                upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
+                                promoPrice = "59.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
                                 treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(386) 888-0765";
@@ -15538,7 +15572,7 @@ function updateForm(){
                                         upDatedSpaLINK = "https://forms.gle/shfBVwkqTzsskWTH7";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/5YarDpsVL7XxrrNL9";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/hermetise-fayetteville-natural-facelift-promo";
-                                        upDatedSpaPhone = "(910) 321-8797";
+                                        upDatedSpaPhone = "(910) 635-0707";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -17092,7 +17126,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95-2";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17111,7 +17145,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-79-95-2";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17128,7 +17162,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95-2";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17145,7 +17179,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-79-95-2";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -17162,7 +17196,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
                                 upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-59-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-59-95-2";
                                 upDatedSpaPhone = "(561) 285-4849";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
