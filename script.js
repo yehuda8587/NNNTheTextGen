@@ -13847,7 +13847,7 @@ function updateForm(){
                                 upDatedSpaName = "Below Zero Alpharetta";
                                 upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
                                 upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13864,7 +13864,7 @@ function updateForm(){
                                 upDatedSpaName = "Below Zero Alpharetta";
                                 upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
                                 upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13881,7 +13881,7 @@ function updateForm(){
                                 upDatedSpaName = "Below Zero Alpharetta";
                                 upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/VnR27TgpeZLKVuhU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-freezing-facelift-promo-89-95";
                                 upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "60 Minutes";
