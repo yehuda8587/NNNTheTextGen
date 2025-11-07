@@ -10493,6 +10493,24 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Oasis Aesthetics Anti-Aging 49.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-ness-anti-aging-facial-49-95";
+                                    upDatedSpaPhone = "(204) 819-4554";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 60 minutes cleansing and LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "49.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 306-7627";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+
                                     case "Oasis Aesthetics Ness DTB-Anti-Aging 59.95":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -10709,6 +10727,23 @@ function updateForm(){
                                     upDatedDurationOne = "- 60 minutes cleansing and Bye Bye Saggy Eyes Treatment";
                                     upDatedDurationTwo = "- 15 minutes post-care and consultation"
                                     promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 306-7627";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                     case "Oasis Aesthetics Bye Bye Saggy Eyes 49.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-ness-bye-bye-saggy-eyes-49-95";
+                                    upDatedSpaPhone = "(204) 819-4554";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 60 minutes cleansing and Bye Bye Saggy Eyes Treatment";
+                                    upDatedDurationTwo = "- 15 minutes post-care and consultation"
+                                    promoPrice = "49.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
                                     treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                     newSpaPhoneNumberSelected = "(204) 306-7627";
