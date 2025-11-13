@@ -15517,6 +15517,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Nova Aesthetic Natural Facelift $59.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-natural-facelift-promo-59-95";
+                                upDatedSpaPhone = "(437) 290-4174";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Nova Aesthetic 3 in 1 Skin Tightening $79.95":
                                 upDatedSpaName = "Nova Aesthetic";
                                 upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
@@ -15528,6 +15545,23 @@ function updateForm(){
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening and 15 minutes Consultation";
                                 promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                 case "Nova Aesthetic 3 in 1 Skin Tightening $59.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-3-in-1-skin-tightening-promo-59-95";
+                                upDatedSpaPhone = "(437) 290-4174";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening and 15 minutes Consultation";
+                                promoPrice = "59.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
                                 treatmentSelected = "3 in 1 Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(437) 410-9788";
