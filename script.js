@@ -12309,22 +12309,24 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale San Juan Natural Facelift $59.95":
+                                        case "Skin Totale San Juan Natural Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-natural-facelift-59-95";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-natural-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Lifting Facial Treatment";
+                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Natural Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
-                                        treatmentSelected = "Natural Facelift Treatment";
+                                        treatmentSelected = "Natural Skin Tightening Treatment";
                                         newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
+
+                                        
 
                                         case "Skin Totale San Juan Men Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
