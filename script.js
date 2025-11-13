@@ -11075,6 +11075,43 @@ function updateForm(){
                                     insteadOfSpa = "$299";
                                     break;
 
+
+                                    case "Oasis Aesthetics Marine Anti-Aging 49.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
+                                    upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-49-95";
+                                    upDatedSpaPhone = "(236) 200-5069";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "49.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 323-2232";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+
+
+                                    case "Oasis Aesthetics Marine Body Contouring 59.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
+                                    upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-body-contouring-59-95";
+                                    upDatedSpaPhone = "(236) 200-5069";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and Body Contouring Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "49.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
+                                    treatmentSelected = "Body Contouring  Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 323-2232";
+                                    insteadOfSpa = "$350";
+                                    break;
+
                                     case "Lavan Med Spa LED 59.95":
                                     upDatedSpaName = "Lavan Med Spa";
                                     upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
