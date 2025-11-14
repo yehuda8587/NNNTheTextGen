@@ -12353,8 +12353,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-natural-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Natural Skin Tightening Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Natural Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12371,8 +12371,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-natural-facelift-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Natural Facelift Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Natural Facelift Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12388,8 +12388,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-neck-and-jawline-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Neck and Jawline Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Neck and Jawline Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12407,8 +12407,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-men-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Deep Cleansing and Skin Tightening Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12424,8 +12424,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-hyperpigmentation-treatment-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Cleansing and Hyperpigmentation Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Cleansing and Hyperpigmentation Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12441,8 +12441,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-promo-59-95-377";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12459,8 +12459,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-hydraglow-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Cleansing and Hydraglow Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Hydraglow Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
@@ -12476,8 +12476,8 @@ function updateForm(){
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-bye-bye-saggy-eyes-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "45 Minutes";
-                                        upDatedDurationOne = "- 30 minutes Skin Analysis, Cleansing and Bye Bye Saggy Eyes Treatment";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Bye Bye Saggy Eyes Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
