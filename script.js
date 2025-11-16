@@ -17016,6 +17016,25 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+
+
+            case "Florentine Skincare and Cosmetics Neck and Jawline $79.95":
+                                upDatedSpaName = "Florentine Skincare and Cosmetics";
+                                upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+                                upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-neck-amp-jawline-79-95";
+                                upDatedSpaPhone = "(437) 291-3104";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Neck and Jawline Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 622-4464";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(416) 622-4464";
+                                insteadOfSpa = "$377"
+                                break;
+
             case "Florentine Skincare and Cosmetics Natural Facelift $99.95":
                                 upDatedSpaName = "Florentine Skincare and Cosmetics";
                                 upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
