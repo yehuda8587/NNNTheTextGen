@@ -12439,7 +12439,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-promo-59-95-377";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
@@ -12457,7 +12457,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-hydraglow-59-95";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-hydraglow-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Hydraglow Treatment";
