@@ -9047,7 +9047,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-69-95";
-                                    upDatedSpaPhone = "(567) 698-7589";
+                                    upDatedSpaPhone = "(567) 698-8074";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -9065,7 +9065,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/pAgjcKAJJEuSLJgKA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/hydrasphere-toledo-natural-facelift-79-95";
-                                    upDatedSpaPhone = "(567) 698-7589";
+                                    upDatedSpaPhone = "(567) 698-8074";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minute Cleansing";
                                     upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15 minutes Consultation"
@@ -16369,7 +16369,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-bioled-natural-facelift-79-95-377";
-                                upDatedSpaPhone = "(248) 385-2105";
+                                upDatedSpaPhone = "(248) 392-2204";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 5 minutes Cleansing";
                                 upDatedDurationTwo = " - 25 minutes Skin Tightening Treatment and 15 minutes Consultation";
@@ -16386,7 +16386,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/mJre1yWCABLtPhuN7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/jXGbtY9eGYpNAeyr8";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bioled-collagen-enhancing-99-95-377";
-                                upDatedSpaPhone = "(248) 385-2105";
+                                upDatedSpaPhone = "(248) 392-2204";
                                 upDatedDurationTotal = "45 Minutes";
                                 upDatedDurationOne = " - 5 minutes Cleansing";
                                 upDatedDurationTwo = " - 25 minutes Collagen Enhancing Treatment and 15 minutes Consultation";
