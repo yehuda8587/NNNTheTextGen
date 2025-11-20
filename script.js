@@ -11076,17 +11076,17 @@ function updateForm(){
                                     break;
 
 
-                                    case "Oasis Aesthetics Marine Anti-Aging 49.95":
+                                    case "Oasis Aesthetics Marine Anti-Aging 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-49-95";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-69-99";
                                     upDatedSpaPhone = "(236) 200-5069";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
-                                    promoPrice = "49.95";
+                                    promoPrice = "69.99";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
                                     treatmentSelected = "Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(236) 323-2232";
@@ -11095,17 +11095,17 @@ function updateForm(){
 
 
 
-                                    case "Oasis Aesthetics Marine Body Contouring 59.95":
+                                    case "Oasis Aesthetics Marine Body Contouring 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-body-contouring-59-95";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-body-contouring-69-99";
                                     upDatedSpaPhone = "(236) 200-5069";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes cleansing and Body Contouring Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
-                                    promoPrice = "49.95";
+                                    promoPrice = "69.99";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
                                     treatmentSelected = "Body Contouring  Treatment";
                                     newSpaPhoneNumberSelected = "(236) 323-2232";
