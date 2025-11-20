@@ -12290,7 +12290,7 @@ function updateForm(){
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
                                         promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
-                                        treatmentSelected = "Hydraglown Treatment";
+                                        treatmentSelected = "Hydraglow Treatment";
                                         newSpaPhoneNumberSelected = "(714) 852-5300";
                                         insteadOfSpa = "$377";
                                         break;
