@@ -14142,6 +14142,24 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Ora Med Spa Natural Facelift $59.95":
+                                upDatedSpaName = "Ora Medical Spa";
+                                upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-59-95";
+                                upDatedSpaPhone = "(850) 988-9735";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(850) 501-3350";
+                                insteadOfSpa = "$377"
+                                break;
+
+            
                                 case "Ora Med Spa Neck and Jawline $79.95":
                                 upDatedSpaName = "Ora Medical Spa";
                                 upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -14208,6 +14226,23 @@ function updateForm(){
                                 treatmentSelected = "Hydraglow Treatment";
                                 newSpaPhoneNumberSelected = "(850) 501-3350";
                                 insteadOfSpa = "$399"
+                                break;
+
+                                case "Ora Med Spa LuminO2 Hydra Lift $59.95":
+                                upDatedSpaName = "Ora Medical Spa";
+                                upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
+                                upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-lumino2-hydra-lift-59-95";
+                                upDatedSpaPhone = "(850) 988-9735";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes LuminO2 Hydra Lift Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
+                                treatmentSelected = "LuminO2 Hydra Lift Treatment";
+                                newSpaPhoneNumberSelected = "(850) 501-3350";
+                                insteadOfSpa = "$377"
                                 break;
 
                                 case "Ora Med Spa Skin Tightening $69.95":
