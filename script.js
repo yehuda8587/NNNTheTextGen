@@ -12713,7 +12713,7 @@ function updateForm(){
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-davie-natural-facelift-page-79-95" ;
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-davie-natural-facelift-page-59-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
