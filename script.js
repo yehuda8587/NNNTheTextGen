@@ -11198,7 +11198,7 @@ function updateForm(){
 
                                     case "Oasis Aesthetics Marine Anti-Aging 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
-                                    upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
+                                    upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-69-99";
@@ -11217,7 +11217,7 @@ function updateForm(){
 
                                     case "Oasis Aesthetics Marine Body Contouring 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
-                                    upDatedSpaAddress = "1318 Marine Dr #101, West Vancouver, BC V7T 1B5"+"<br>"+"()";
+                                    upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-body-contouring-69-99";
