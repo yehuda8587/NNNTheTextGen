@@ -16242,6 +16242,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Aeternitas Natural Facelift $69.95":
+                                upDatedSpaName = "Aeternitas";
+                                upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+                                upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/aeternitas-natural-facelift-69-95";
+                                upDatedSpaPhone = "(941) 867-4376";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(941) 867-4376";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Nova Med Spa Skin Tightening $79.95":
                                 upDatedSpaName = "Nova Med Spa";
