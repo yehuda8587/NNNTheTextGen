@@ -17313,7 +17313,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Lumera Skin Clinics Natural Facelift $99.95":
                                 upDatedSpaName = "Lumera Skin Clinics";
-                                upDatedSpaAddress = "1216 Stanley St, Montreal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+                                upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
                                 upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-99-95";
@@ -17330,7 +17330,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Lumera Skin Clinics Natural Facelift $129.95":
                                 upDatedSpaName = "Lumera Skin Clinics";
-                                upDatedSpaAddress = "1216 Stanley St, Montreal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+                                upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
                                 upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95";
