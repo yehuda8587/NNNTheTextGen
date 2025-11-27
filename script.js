@@ -16259,6 +16259,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Latoua Mille Natural Facelift $79.95":
+                                upDatedSpaName = "Latoua Mille";
+                                upDatedSpaAddress = "117 S Main Street, Galena, IL 61036"+"<br>"+"(Galena Main Street downtown, across from champagne on main, next to the bakery)";
+                                upDatedSpaLINK = "https://forms.gle/3KEFCiT1GJHu6HrU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/HbQW8S9Lw68eHr1Z9";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/latoua-mille-natural-facelift-79-95";
+                                upDatedSpaPhone = "(815) 649-1719";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 317-9878";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(561) 317-9878";
+                                insteadOfSpa = "$377"
+                                break;
+
 
                                 case "Nova Med Spa Skin Tightening $79.95":
                                 upDatedSpaName = "Nova Med Spa";
