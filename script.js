@@ -523,6 +523,24 @@ function updateForm(){
                     break;  
 
 
+             case "Beauty Lounge Men's Anti-Aging Facial 89.95":
+                    upDatedSpaName = "Beauty Lounge";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+                    upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-mens-anti-aging-facial-89-95";
+                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+                    upDatedDurationTwo = "- 30 Minutes Men's Anti-Aging Facial Treatment & 15 minutes Consultation";
+                    promoPrice = "89.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+                    treatmentSelected = "Men's Anti-Aging Facial Treatment";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
+                    insteadOfSpa = "$377"
+                    break;  
+
+
             case "Bee and Co":
                 upDatedSpaName = "Bee and Co";
                 upDatedSpaAddress = "14006 Riverside Dr #213a, Sherman Oaks, CA 91423" +"<br>"+"(Second floor near Express Clothing in front Cotton On Clothing)";
