@@ -6830,21 +6830,21 @@ function updateForm(){
                                 insteadOfSpa = "$399";
                                 break;
 
-                                case "Tesoro Mio Spa Collagen Enhancing":
+                                case "Tesoro Mio Spa Natural Facelift $49.95":
                                 upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/orasempre-spa-collagen-enhancing-treatment";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-natural-facelift-49-95-199";
                                 upDatedSpaPhone = "(406) 919-7560";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 20-minutes of Cleansing";
-                                upDatedDurationTwo = "- 20-minutes Collagen Enhancing Treatment & 20-minutes Consultation"
-                                promoPrice = "69.95";
+                                upDatedDurationOne = "- 15-minutes of Cleansing";
+                                upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment & Consultation"
+                                promoPrice = "49.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
-                                treatmentSelected = "Collagen Enhancing";
+                                treatmentSelected = "Natural Facelift";
                                 newSpaPhoneNumberSelected = "(406) 885-1321";
-                                insteadOfSpa = "$377";
+                                insteadOfSpa = "$199";
                                 break;
 
                                 case "Tesoro Mio Spa Neck and Jawline $69.95":
@@ -16445,6 +16445,23 @@ function updateForm(){
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 585-0715";
                                 treatmentSelected = "Below Zero Facelift";
                                 newSpaPhoneNumberSelected = "(713) 585-0715";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Dermalogy Med Spa Microneedling $99.95":
+                                upDatedSpaName = "Dermalogy Med Spa";
+                                upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+                                upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-microneedling-99";
+                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes of Microneedling Treatment and 15 minutes Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+                                treatmentSelected = "Microneedling Treatment";
+                                newSpaPhoneNumberSelected = "(281) 818-2149";
                                 insteadOfSpa = "$377"
                                 break;
 
