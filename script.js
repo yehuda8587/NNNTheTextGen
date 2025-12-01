@@ -10614,6 +10614,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                     case "Oasis Aesthetics Neck and Jawline 69.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-ness-neck-and-jawline-69-95";
+                                    upDatedSpaPhone = "(204) 819-4554";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 60 minutes cleansing and Neck and Jawline Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 306-7627";
+                                    insteadOfSpa = "$377";
+                                    break;
+
 
 
                                     case "Oasis Aesthetics Ness DTB-Anti-Aging 59.95":
@@ -11043,6 +11060,23 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Oasis Aesthetics Henderson Neck and Jawline 69.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+                                    upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-neck-and-jawline-69-95";
+                                    upDatedSpaPhone = "(204) 800-4409";
+                                    upDatedDurationTotal = "75 Minutes";
+                                    upDatedDurationOne = "- 60 minutes cleansing and Neck and Jawline Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 691-1922";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                      case "Oasis Aesthetics Henderson DTB Anti-Aging 59.95":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -11227,6 +11261,24 @@ function updateForm(){
                                     promoPrice = "69.99";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
                                     treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 323-2232";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+
+                                    case "Oasis Aesthetics Marine Neck and Jawline 69.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
+                                    upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-neck-and-jawline-69-95";
+                                    upDatedSpaPhone = "(236) 200-5069";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and Neck and Jawline Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "69.99";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
+                                    treatmentSelected = "Neck and Jawline Treatment";
                                     newSpaPhoneNumberSelected = "(236) 323-2232";
                                     insteadOfSpa = "$350";
                                     break;
