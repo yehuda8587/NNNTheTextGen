@@ -6837,9 +6837,9 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-natural-facelift-49-95-199";
                                 upDatedSpaPhone = "(406) 919-7560";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing";
-                                upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment & Consultation"
+                                upDatedDurationTotal = "75 Minutes";
+                                upDatedDurationOne = "- 60 minutes of Natural Facelift Treatment";
+                                upDatedDurationTwo = "- 15 minutes of Consultation"
                                 promoPrice = "49.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                 treatmentSelected = "Natural Facelift";
