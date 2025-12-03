@@ -13488,7 +13488,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Facial and 15 minutes post-care and consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                 treatmentSelected = "Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
