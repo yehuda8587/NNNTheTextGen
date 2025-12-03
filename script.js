@@ -4974,23 +4974,6 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Gentle Touch Beauty Natural Facelift $69.95":
-                                upDatedSpaName = "Gentle Touch Beauty";
-                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
-                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-natural-facelift-treatment-69-95" ;
-                                upDatedSpaPhone = "(941) 280-0407";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "15 minute Cleansing";
-                                upDatedDurationTwo = "45 minute Natural Facelift Treatment";
-                                promoPrice = "69.95"
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(941) 244-0044";
-                                insteadOfSpa = "$377";
-                                break;
-
                                 case "Gentle Touch Beauty 3 in 1 Skin Tightening Treatment $99.95":
                                 upDatedSpaName = "Gentle Touch Beauty";
                                 upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
@@ -5053,23 +5036,6 @@ function updateForm(){
                                 upDatedDurationOne = "15 minute Cleansing";
                                 upDatedDurationTwo = "45 minute Turkey Neck Rescue Treatment";
                                 promoPrice = "79.95"
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
-                                treatmentSelected = "Turkey Neck Rescue Treatment";
-                                newSpaPhoneNumberSelected = "(941) 244-0044";
-                                insteadOfSpa = "$377";
-                                break;
-
-                                case "Gentle Touch Beauty Turkey Neck Rescue Treatment $69.95":
-                                upDatedSpaName = "Gentle Touch Beauty";
-                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
-                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/gentle-touch-beauty-turkey-neck-rescue-69-95" ;
-                                upDatedSpaPhone = "(941) 280-0407";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "15 minute Cleansing";
-                                upDatedDurationTwo = "45 minute Turkey Neck Rescue Treatment";
-                                promoPrice = "69.95"
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
                                 treatmentSelected = "Turkey Neck Rescue Treatment";
                                 newSpaPhoneNumberSelected = "(941) 244-0044";
@@ -14866,7 +14832,7 @@ function updateForm(){
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-collagen-restoration-facial-59-95";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-neck-and-jawline-promo-69-95";
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Collagen Restoration";
