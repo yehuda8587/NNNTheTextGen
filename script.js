@@ -14866,7 +14866,7 @@ function updateForm(){
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-neck-and-jawline-promo-69-95";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-collagen-restoration-facial-59-95";
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Collagen Restoration";
