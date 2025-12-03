@@ -9134,7 +9134,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sthetics-med-spa-mens-skin-tightening-79-95-377";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Men's Skin Tightening Treatment and 20 minutes Consultation"
@@ -9152,7 +9152,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-promo-page";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 20 minutes Consultation"
@@ -9169,7 +9169,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-sculpting-promo-page";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60-minutes of the Body Sculpting Treatment"
@@ -9186,7 +9186,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-mens-led-treatment-promo-page";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 20 minutes Consultation"
@@ -9203,7 +9203,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-neck-and-jaw-line-tightening-treatment-promo ";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Neck and Jawline Treatment and 20 minutes Consultation"
@@ -9220,7 +9220,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/form-sthetics-neck-and-jawline-59-95-377";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Neck and Jawline Treatment and 20 minutes Consultation"
@@ -9237,7 +9237,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-body-lipo-cavitation-promo-page";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60-minutes of the Body Lipo Cavitation Treatment"
@@ -9254,7 +9254,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-body-lipo-cavitation-promo";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minutes of Consultation";
                                     upDatedDurationTwo = "- 60-minutes of the Body Lipo Cavitation Treatment"
@@ -9271,7 +9271,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-turkey-neck-tightening-treatment-promo";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 15-minute Consultation";
                                     upDatedDurationTwo = "- 60-minutes Turkey Neck Tightening Treatment"
@@ -9288,7 +9288,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sthetics-med-spa-led-promo-page";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes LED Anti-Aging Treatment and 20 minutes Consultation"
@@ -9305,7 +9305,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-treatment";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9322,7 +9322,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/sthetics-med-spa-natural-facelift-promo";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9339,7 +9339,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-natural-facelift-59-95-377";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9356,7 +9356,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-mens-skin-tightening-79-95-299";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Men's Skin Tightening Treatment and 20 minutes Consultation"
@@ -9373,7 +9373,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-natural-facelift-69";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9390,7 +9390,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-med-spa-natural-facelift-2nd";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9407,7 +9407,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-sthetics-med-spa-men-skin-tightening-2nd";
-                                    upDatedSpaPhone = "(619) 377-8385";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Skin Tightening Treatment and 20 minutes Consultation"
@@ -13454,7 +13454,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Skin Tightening Facial and 15 minutes post-care and consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                 treatmentSelected = "Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
@@ -14832,7 +14832,7 @@ function updateForm(){
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-neck-and-jawline-promo-69-95";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-collagen-restoration-facial-59-95";
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Collagen Restoration";
