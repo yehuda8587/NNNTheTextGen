@@ -9373,7 +9373,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-natural-facelift-59-95-377";
-                                    upDatedSpaPhone = "(619) 432-6354";
+                                    upDatedSpaPhone = "(619) 413-0022";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 20 minutes Consultation"
@@ -9390,7 +9390,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/FyXERa9QLfAfDbEA6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/ryGVrzx8At9Cw2ZD7";
                                     upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/sky-med-spa-mens-skin-tightening-79-95-299";
-                                    upDatedSpaPhone = "(619) 432-6354;
+                                    upDatedSpaPhone = "(619) 413-0022;
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 20-minute Light Cleansing";
                                     upDatedDurationTwo = "- 35-minutes Men's Skin Tightening Treatment and 20 minutes Consultation"
