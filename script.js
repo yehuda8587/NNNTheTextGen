@@ -11286,7 +11286,7 @@ function updateForm(){
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/MSfrNJNquZhmnqPu5?g_st=iw";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-69-99";
                                     upDatedSpaPhone = "(236) 200-5069";
                                     upDatedDurationTotal = "60 Minutes";
@@ -11304,7 +11304,7 @@ function updateForm(){
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/MSfrNJNquZhmnqPu5?g_st=iw";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-neck-and-jawline-69-95";
                                     upDatedSpaPhone = "(236) 200-5069";
                                     upDatedDurationTotal = "60 Minutes";
@@ -11323,7 +11323,7 @@ function updateForm(){
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/uXkpvqZphC2Yb8Dg6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/MSfrNJNquZhmnqPu5?g_st=iw";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-body-contouring-69-99";
                                     upDatedSpaPhone = "(236) 200-5069";
                                     upDatedDurationTotal = "60 Minutes";
