@@ -5149,7 +5149,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5166,7 +5166,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5184,7 +5184,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-bye-bye-saggy-eyes-59-95-377" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5201,7 +5201,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hyperpigmentation-treatment-59-95" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5218,7 +5218,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5235,7 +5235,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5252,7 +5252,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5269,7 +5269,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-neck-jawline-tightening" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5286,7 +5286,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-turkey-neck-rescue-59-95-2" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5303,7 +5303,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-men-natural-facelift-69-95-2" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5320,7 +5320,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-neck-and-jawline-treatment-59-95" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5337,7 +5337,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5354,7 +5354,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5371,7 +5371,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening-promo-page" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5388,7 +5388,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-natural-facelift-page-59-95" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5406,7 +5406,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-59-95" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5423,7 +5423,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5440,7 +5440,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-new-mens-led-treatment-promo-page" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5457,7 +5457,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-treatment-59-95" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5474,7 +5474,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-facelift-two-ftb" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5491,7 +5491,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-skin-tightening-ftb-two" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5508,7 +5508,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-led-promo" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5525,7 +5525,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-skin-tightening-promo" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5542,7 +5542,7 @@ function updateForm(){
                                 upDatedSpaName = "Ben's Beauty Spa";
                                 upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                 upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                upDatedSpaMapLINK = "";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-treatment" ;
                                 upDatedSpaPhone = "(626) 225-0556";
                                 upDatedDurationTotal = "60 Minutes";
@@ -5559,7 +5559,7 @@ function updateForm(){
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                    upDatedSpaMapLINK = "";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-spa-3-in-1-skin-lifting-promo" ;
                                     upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
@@ -5576,7 +5576,7 @@ function updateForm(){
                                     upDatedSpaName = "Ben's Beauty Spa";
                                     upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
                                     upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/iYXCTAucg3a6bjnr5";
+                                    upDatedSpaMapLINK = "";
                                     upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/bens-beauty-hydraglow-treatment" ;
                                     upDatedSpaPhone = "(626) 225-0556";
                                     upDatedDurationTotal = "60 Minutes";
