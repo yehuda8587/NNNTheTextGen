@@ -11282,7 +11282,7 @@ function updateForm(){
                                     break;
 
 
-                                    case "Oasis Aesthetics Marine Anti-Aging 69.95":
+                                    case "Oasis Aesthetics Marine Anti-Aging 69.99":
                                     upDatedSpaName = "Oasis Aesthetics";
                                     upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
                                     upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
@@ -11292,7 +11292,7 @@ function updateForm(){
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
-                                    promoPrice = "69.95";
+                                    promoPrice = "69.99";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
                                     treatmentSelected = "Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(236) 323-2232";
