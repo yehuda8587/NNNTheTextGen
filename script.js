@@ -12709,6 +12709,23 @@ function updateForm(){
                                         newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
+
+                                        case "Skin Totale San Juan Bye Bye Saggy Eyes $99.95":
+                                        upDatedSpaName = "Skin Totale Med Spa";
+                                        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
+                                        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
+                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-bye-bye-saggy-eyes-99-95";
+                                        upDatedSpaPhone = "(949) 339-3541";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Bye Bye Saggy Eyes Treatment";
+                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+                                        promoPrice = "99.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
+                                        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                        newSpaPhoneNumberSelected = "(949) 514-6192";
+                                        insteadOfSpa = "$377";
+                                        break;
             
             
                                             case "Lift and Revive Med Spa Natural Facelift $79.95":
