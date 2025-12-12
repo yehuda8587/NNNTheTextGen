@@ -11372,6 +11372,25 @@ function updateForm(){
                                     insteadOfSpa = "$350";
                                     break;
 
+
+
+                                    case "Oasis Aesthetics St. Mary's Anti-Aging 69.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+                                    upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-anti-aging-facial-69-95";
+                                    upDatedSpaPhone = "(431) 244-0968";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "69.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavan Med Spa LED 59.95":
                                     upDatedSpaName = "Lavan Med Spa";
                                     upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
