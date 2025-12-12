@@ -12989,7 +12989,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-skin-tightening-59-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13006,7 +13006,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elevatione-davie-natural-facelift-page-59-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13023,7 +13023,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-69-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13040,7 +13040,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-skin-tightening-79-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13057,7 +13057,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-mens-skin-tightening-promo" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13074,7 +13074,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-mens-led-anti-aging-promo-89-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13091,7 +13091,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-body-sculpting-promo" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13108,7 +13108,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13125,7 +13125,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-69-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13142,7 +13142,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-treatment" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13159,7 +13159,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-3-in-1-skin-lifting-promo-89" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13176,7 +13176,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-hydraglow-treatment" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
@@ -13193,7 +13193,7 @@ function updateForm(){
                                 upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/AVMgo5hmvWDxtk6GA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/elevatione-davie-natural-facelift-69-95" ;
                                 upDatedSpaPhone = "(954) 694-6452";
                                 upDatedDurationTotal = "60 Minutes";
