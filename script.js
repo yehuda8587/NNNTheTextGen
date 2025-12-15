@@ -11433,7 +11433,7 @@ function updateForm(){
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-neck-and-jaw-line-tightening-treatment-promo";
                                     upDatedSpaPhone = "(480) 535-1117";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes cleansing";
+                                    upDatedDurationOne = "- ";
                                     upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and 15 minutes Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
@@ -11450,7 +11450,7 @@ function updateForm(){
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavan-med-spa-turkey-neck-rescue-59-95-377";
                                     upDatedSpaPhone = "(480) 535-1117";
                                     upDatedDurationTotal = "60 Minutes";
-                                    upDatedDurationOne = "- 15 minutes cleansing";
+                                    upDatedDurationOne = "- ";
                                     upDatedDurationTwo = "- 45 minutes Turkey Neck Rescue Treatment and 15 minutes Consultation"
                                     promoPrice = "59.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (480) 408-4170";
