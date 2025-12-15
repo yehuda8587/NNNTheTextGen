@@ -11380,7 +11380,7 @@ function updateForm(){
                                     upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
                                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-anti-aging-facial-69-95";
-                                    upDatedSpaPhone = "(431) 244-0968";
+                                    upDatedSpaPhone = "(204) 819-5651";
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
