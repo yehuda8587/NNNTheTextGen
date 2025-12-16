@@ -540,6 +540,23 @@ function updateForm(){
                     insteadOfSpa = "$377"
                     break;  
 
+                    case "Beauty Lounge Bye Bye Saggy Eyes 59.95":
+                    upDatedSpaName = "Beauty Lounge";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+                    upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-59-95";
+                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 15 Minutes Cleansing";
+                    upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
+                    promoPrice = "59.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+                    treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
+                    insteadOfSpa = "$377"
+                    break;  
+
 
              case "Beauty Lounge Men's Anti-Aging Facial 89.95":
                     upDatedSpaName = "Beauty Lounge";
