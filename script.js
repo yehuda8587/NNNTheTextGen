@@ -11818,7 +11818,7 @@ function updateForm(){
 
                                         case "Queen Bee Natural Facelift $79.95":
                                         upDatedSpaName = "Queen Bee";
-                                        upDatedSpaAddress = "114 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
+                                        upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
                                         upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/queen-bee-palm-springs-natural-facelift-79-95";
@@ -11827,9 +11827,9 @@ function updateForm(){
                                         upDatedDurationOne = "- 10 minutes light cleansing";
                                         upDatedDurationTwo = "- 35 minutes Natural Facelif Treatment and Consultation"
                                         promoPrice = "79.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 459-3426";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 501-5800";
                                         treatmentSelected = "Natural Facelif Treatment";
-                                        newSpaPhoneNumberSelected = "(760) 459-3426";
+                                        newSpaPhoneNumberSelected = "(760) 501-5800";
                                         insteadOfSpa = "$377";
                                         break;
 
