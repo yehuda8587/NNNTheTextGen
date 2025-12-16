@@ -11818,7 +11818,7 @@ function updateForm(){
 
                                         case "Queen Bee Natural Facelift $79.95":
                                         upDatedSpaName = "Queen Bee";
-                                        upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(Between Balboa Candy and Peepa's)"+"<br>"+"(In Front of Store)";
+                                        upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(across the street of Tommy Bahama)";
                                         upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/queen-bee-palm-springs-natural-facelift-79-95";
