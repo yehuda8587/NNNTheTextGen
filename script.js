@@ -11820,7 +11820,7 @@ function updateForm(){
                                         upDatedSpaName = "Queen Bee";
                                         upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(across the street of Tommy Bahama)";
                                         upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
-                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/RFLZDKNDWpau1jAN9";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/APwbgkvMwCt2fkc79";
                                         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/queen-bee-palm-springs-natural-facelift-79-95";
                                         upDatedSpaPhone = "(760) 979-0516";
                                         upDatedDurationTotal = "45 Minutes";
