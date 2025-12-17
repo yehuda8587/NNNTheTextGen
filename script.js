@@ -11845,7 +11845,7 @@ function updateForm(){
                                         upDatedDurationTwo = "- 35 minutes Natural Facelif Treatment and Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 501-5800";
-                                        treatmentSelected = "Natural Facelif Treatment";
+                                        treatmentSelected = "Natural Facelift Treatment";
                                         newSpaPhoneNumberSelected = "(760) 501-5800";
                                         insteadOfSpa = "$377";
                                         break;
