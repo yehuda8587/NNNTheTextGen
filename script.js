@@ -15512,6 +15512,23 @@ function updateForm(){
                                 newSpaPhoneNumberSelected = "(214) 238-6896";
                                 insteadOfSpa = "$499"
                                 break;
+
+                                 case "Equanimity Glow Infusion Facial $99.95":
+                                upDatedSpaName = "Equanimity Wellness";
+                                upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-glow-infusion-facial-99-95";
+                                upDatedSpaPhone = "(469) 436-2824";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes of Glow Infusion Facial Treatment";
+                                upDatedDurationTwo = "- 15 minutes Skin Assestment";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                treatmentSelected = "Glow Infusion Facial";
+                                newSpaPhoneNumberSelected = "(214) 238-6896";
+                                insteadOfSpa = "$377"
+                                break;
             
 
                                 case "Equanimity DTB Bye Bye Saggy Eyes $59.95":
