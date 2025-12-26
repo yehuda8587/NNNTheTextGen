@@ -9607,6 +9607,24 @@ function updateForm(){
                                 insteadOfSpa = "$299";
                                 break;
 
+
+                                case "Lavelier Round Rock Neck and Jawline $59.95":
+                                upDatedSpaName = "Lavelier";
+                                upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
+                                upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-neck-and-jawline-59-95";
+                                upDatedSpaPhone = "(512) 566-3975";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15-minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(512) 953-8818";
+                                insteadOfSpa = "$299";
+                                break;
+
                                 case "Lavelier Round Rock Skin Tightening $59.95":
                                 upDatedSpaName = "Lavelier";
                                 upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
