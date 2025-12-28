@@ -7852,6 +7852,40 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Elysium Cosmetic Clinics Natural Facelift 69.95":
+                                upDatedSpaName = "Elysium Cosmetic Clinics";
+                                upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-natural-facelift-promo-69-95";
+                                upDatedSpaPhone = "(904) 799-2965";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minute Consultation";
+                                upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment"  
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
+                                insteadOfSpa = "$377";
+                                break;
+
+                                case "Elysium Cosmetic Clinics Neck and Jawline 69.95":
+                                upDatedSpaName = "Elysium Cosmetic Clinics";
+                                upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-neck-and-jawline-promo-69-95";
+                                upDatedSpaPhone = "(904) 799-2965";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minute Consultation";
+                                upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"  
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
+                                treatmentSelected = "Neck and Jawline";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Joli Visage Spa LED":
                                 upDatedSpaName = "Joli Visage Spa";
                                 upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
