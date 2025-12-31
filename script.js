@@ -7855,7 +7855,7 @@ function updateForm(){
                                 case "Elysium Cosmetic Clinics Natural Facelift 69.95":
                                 upDatedSpaName = "Elysium Cosmetic Clinics";
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
-                                upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-natural-facelift-promo-69-95";
                                 upDatedSpaPhone = "(904) 799-2965";
@@ -7872,7 +7872,7 @@ function updateForm(){
                                 case "Elysium Cosmetic Clinics Neck and Jawline 69.95":
                                 upDatedSpaName = "Elysium Cosmetic Clinics";
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
-                                upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
+                                upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-neck-and-jawline-promo-69-95";
                                 upDatedSpaPhone = "(904) 799-2965";
