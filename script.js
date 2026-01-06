@@ -15719,6 +15719,23 @@ function updateForm(){
                                 insteadOfSpa = "$499"
                                 break;
 
+                                case "Donna Ella Med Spa Natural Facelift $79.95":
+                                upDatedSpaName = "Donna Ella Med Spa";
+                                upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
+                                upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-natural-facelift-promo-79-95";
+                                upDatedSpaPhone = "(346) 214-9823";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 960-1313";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(713) 960-1313";
+                                insteadOfSpa = "$377"
+                                break;
+
             
                                 case "Tranquil Wellness and Spa Skin Tightening Facial $79.95":
                                 upDatedSpaName = "Tranquil Wellness and Spa";
