@@ -11528,6 +11528,40 @@ function updateForm(){
                                     insteadOfSpa = "$377";
                                     break;
 
+                                    case "Oasis Aesthetics St. Mary's Neck and Jawline 59.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+                                    upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-neck-and-jawline-59-95";
+                                    upDatedSpaPhone = "(204) 819-5651";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and Neck and Jawline Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
+                                    treatmentSelected = "Neck and Jawline Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
+                                    insteadOfSpa = "$377";
+                                    break;
+
+                                    case "Oasis Aesthetics St. Mary's Men Skin Tightening 79.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+                                    upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-men-skin-tightening-79-95";
+                                    upDatedSpaPhone = "(204) 819-5651";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and Skin Tightening Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "9.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
+                                    treatmentSelected = "Skin Tightening Treatment";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
+                                    insteadOfSpa = "$377";
+                                    break;
+
                                     case "Lavan Med Spa LED 59.95":
                                     upDatedSpaName = "Lavan Med Spa";
                                     upDatedSpaAddress = "3301 N. Miller Rd. Scottsdale AZ 85251"+"<br>"+"(STE 115, Inside the Medical Building)"+"<br>"+"(Free parking in front of the building)";
@@ -15724,7 +15758,7 @@ function updateForm(){
                                 upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
                                 upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-natural-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-79-95";
                                 upDatedSpaPhone = "(346) 214-9823";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
