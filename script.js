@@ -13304,7 +13304,7 @@ function updateForm(){
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes LED Anti-Aging Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "89.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
                                 treatmentSelected = "Men's LED Anti-Aging Treatment";
                                 newSpaPhoneNumberSelected = "(954) 765-6091";
