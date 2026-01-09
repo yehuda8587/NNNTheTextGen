@@ -12004,6 +12004,25 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
+
+                                        case "Queen Bee Greenwood Natural Facelift $79.95":
+                                        upDatedSpaName = "Queen Bee";
+                                        upDatedSpaAddress = "Queen Bee – Greenwood Park Mall, 1251 U.S. Highway 31 N, Unit 0F12A Greenwood, IN 46142"+"<br>"+"(Our spa is located inside Greenwood Park Mall, just past Pandora and directly across from Foot Locker Kids.)";
+                                        upDatedSpaLINK = "https://forms.gle/6ykBeakQuACtfEiU7";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/MhmV1XnjUk5HA6tk8";
+                                        upDatedSpaWebLINK = "https://queenbeegw.firstouchbeauty.com/natural-facelift-79-95-booking";
+                                        upDatedSpaPhone = "(317) 518-1860";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes light cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelif Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (800) 699-6935";
+                                        treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(800) 699-6935";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+            
                                         case "La Reve LED 79.95":
                                         upDatedSpaName = "La Reve";
                                         upDatedSpaAddress = "Woodfield Mall,"+"<br>"+"5 Woodfield Mall Room F328 Schaumburg, IL 60173"+"<br>"+"(Second Floor, Near Sephora)"+"<br>"+"(Park near main entrance)";
