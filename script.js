@@ -11555,7 +11555,7 @@ function updateForm(){
                                     upDatedDurationTotal = "60 Minutes";
                                     upDatedDurationOne = "- 45 minutes cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
-                                    promoPrice = "9.95";
+                                    promoPrice = "79.95";
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
                                     treatmentSelected = "Skin Tightening Treatment";
                                     newSpaPhoneNumberSelected = "(204) 292 2530";
