@@ -288,7 +288,7 @@ function updateForm(){
 
         case "Esthetix Raleigh":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-nc-promo";
@@ -305,7 +305,7 @@ function updateForm(){
 
             case "Esthetix Raleigh Natural Facelift":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-face-lift-promo-79-95";
@@ -322,7 +322,7 @@ function updateForm(){
 
             case "Esthetix Raleigh Natural Facelift $69.95":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-facelift-page-69-95";
@@ -339,7 +339,7 @@ function updateForm(){
 
             case "Esthetix Raleigh Natural Facelift $89.95":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-natural-facelift-page-89-95";
@@ -356,7 +356,7 @@ function updateForm(){
 
             case "Esthetix Raleigh 3 in 1 Skin Tightening $79.95":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-3-in-1-skin-tightening-promo-79-95";
@@ -373,7 +373,7 @@ function updateForm(){
 
             case "Esthetix Raleigh Skin Tightening $69.95":
             upDatedSpaName = "Esthetix Spa";
-            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, next to Johnston & Murphy)";
+            upDatedSpaAddress = "Crabtree Valley Mall,"+"<br>"+"4325 Glenwood Ave, Raleigh NC 27612" +"<br>"+"(STE 2106, 2nd floor, in front J. Jill and Sunglass Hut)";
             upDatedSpaLINK = "https://forms.gle/WHjM6Js3yYA6w6Y59";
             upDatedSpaMapLINK = "https://maps.app.goo.gl/6hkznAPu98192D1y7";
             upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-raleigh-skin-tightening-promo";
