@@ -443,7 +443,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-facelift-treatment-79-95";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
@@ -460,7 +460,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-hydraglow-led-promo";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes Hydraglow + LED Treatment & 15 minutes Consultation";
@@ -477,7 +477,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-3-in-1-skin-tightening-promo";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 45 Minutes 3 in 1 Skin Tightening Treatment & Consultation";
@@ -494,7 +494,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-neck-amp-jawline-treatment";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
@@ -512,7 +512,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-spa-neck-amp-amp-jawline-69-95";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
@@ -529,7 +529,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-79-95";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
@@ -546,7 +546,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-59-95";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing";
                     upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
@@ -564,7 +564,7 @@ function updateForm(){
                     upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
                     upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
                     upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-mens-anti-aging-facial-89-95";
-                    upDatedSpaPhone = "(352) 577-9216";
+                    upDatedSpaPhone = "(352) 607-7773";
                     upDatedDurationTotal = "60 Minutes";
                     upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
                     upDatedDurationTwo = "- 30 Minutes Men's Anti-Aging Facial Treatment & 15 minutes Consultation";
@@ -11101,7 +11101,7 @@ function updateForm(){
                                     upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
                                     upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
                                     upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
-                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-henderson-hydraglow-59-95";
+                                    upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/hydraglow-59-95-book";
                                     upDatedSpaPhone = "(204) 800-4409";
                                     upDatedDurationTotal = "75 Minutes";
                                     upDatedDurationOne = "- 60 minutes cleansing and Hydraglow Treatment";
