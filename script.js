@@ -12701,7 +12701,7 @@ function updateForm(){
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-men-skin-tightening-promo";
+                                        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/men-natural-facelift-59-95";
                                         upDatedSpaPhone = "(714) 450-6547";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
@@ -12713,29 +12713,14 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale 3 in 1 Skin Tightening $59.95":
-                                        upDatedSpaName = "Skin Totale";
-                                        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
-                                        upDatedSpaLINK = " ";
-                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/sin-totale-3-in-1-skin-tightening-59-95";
-                                        upDatedSpaPhone = "(714) 450-6547";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 minutes Skin Analysis and 3 in 1 Skin Tightening Treatment";
-                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
-                                        treatmentSelected = "3 in 1 Skin Tightening";
-                                        newSpaPhoneNumberSelected = "(714) 852-5300";
-                                        insteadOfSpa = "$377";
-                                        break;
+                                    
 
                                         case "Skin Totale Natural Facelift $59.95":
                                         upDatedSpaName = "Skin Totale";
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-natural-facelift-promo";
+                                        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/natural-facelift-59-95-book";
                                         upDatedSpaPhone = "(714) 450-6547";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
@@ -12786,7 +12771,7 @@ function updateForm(){
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-hydraglow-59-95";
+                                        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/hydraglow-59-95-book";
                                         upDatedSpaPhone = "(714) 450-6547";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes Cleansing and 30 miuntes of the Hydraglow Treatment";
@@ -12803,7 +12788,7 @@ function updateForm(){
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-neck-amp-jawline-promo-59-95";
+                                        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/neck-and-jawline-59-95-book";
                                         upDatedSpaPhone = "(714) 450-6547";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis and Neck and Jawline Lifting Treatment";
@@ -12837,7 +12822,7 @@ function updateForm(){
                                         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
                                         upDatedSpaLINK = " ";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-bye-bye-saggy-eyes-59-95";
+                                        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/bye-bye-saggy-eyes-book";
                                         upDatedSpaPhone = "(714) 450-6547";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Cleansing and Bye Bye Saggy Eyes Treatment";
@@ -12889,7 +12874,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-neck-and-jawline-59-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/neck-and-jawline-59-95-book";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Neck and Jawline Treatment";
@@ -12908,7 +12893,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-men-skin-tightening-59-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/men-natural-facelift-59-95";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Skin Tightening Treatment";
@@ -12959,7 +12944,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-3-in-1-skin-tightening-59-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/3-in-1-skin-tightening-59-95-book";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and 3 in 1 Skin Tightening Treatment";
@@ -12994,7 +12979,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-san-juan-bye-bye-saggy-eyes-59-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/bye-bye-saggy-eyes-book";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Bye Bye Saggy Eyes Treatment";
