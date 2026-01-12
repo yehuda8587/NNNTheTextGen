@@ -15962,6 +15962,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "The Soap Tree Omaha Collagen Restoration $69.95":
+                                upDatedSpaName = "The Soap Tree";
+                                upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
+                                upDatedSpaLINK = "https://forms.gle/yXFkQsA4PmN61qxT8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/ptdDexcxmHAWC65Y6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/the-soap-tree-omaha-natural-facelift-treatment-69-95";
+                                upDatedSpaPhone = "(402) 509-2233";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Restoration Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (928) 399-9242";
+                                treatmentSelected = "Collagen Restoration Treatment";
+                                newSpaPhoneNumberSelected = "(928) 399-9242";
+                                insteadOfSpa = "$377";
+                                break; 
+
                                 case "The Soap Tree Omaha Skin Tightening $79.95":
                                 upDatedSpaName = "The Soap Tree";
                                 upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
