@@ -15967,7 +15967,7 @@ function updateForm(){
                                 upDatedSpaAddress = "10000 California St. Omaha, NE 68114" + "<br>" + "(STE 1221, Westroads Mall, 1st Floor across Five Below)";
                                 upDatedSpaLINK = "https://forms.gle/yXFkQsA4PmN61qxT8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/ptdDexcxmHAWC65Y6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/the-soap-tree-omaha-natural-facelift-treatment-69-95";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/soap-tree-omaha-collagen-restoration-treatment-69-95-377";
                                 upDatedSpaPhone = "(402) 509-2233";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Restoration Treatment";
