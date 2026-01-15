@@ -6488,19 +6488,36 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Good Life Spa Skin Tightening 69.95":
+                                case "Good Life Spa Bye Bye Saggy Eyes 69.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-69-95";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
                                 upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
-                                promoPrice = "69.95";
+                                promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
                                 treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(386) 888-0765";
+                                insteadOfSpa = "$377";
+                                break;
+
+                                case "Good Life Spa Bye Bye Saggy Eyes 69.95":
+                                upDatedSpaName = "Good Life Spa";
+                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
+                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
+                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/bye-bye-saggy-eyes-book";
+                                upDatedSpaPhone = "(386) 319-1236";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 15-minutes of light cleansing";
+                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and Consultation"
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
                                 newSpaPhoneNumberSelected = "(386) 888-0765";
                                 insteadOfSpa = "$377";
                                 break;
