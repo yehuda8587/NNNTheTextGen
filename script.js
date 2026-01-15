@@ -6488,7 +6488,7 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Good Life Spa Bye Bye Saggy Eyes 69.95":
+                                case "Good Life Spa Skin Tightening 79.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
