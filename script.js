@@ -13644,7 +13644,7 @@ function updateForm(){
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-79-95-260" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/weigh-loss-iv-79-95" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
