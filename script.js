@@ -13230,8 +13230,8 @@ function updateForm(){
                                             insteadOfSpa = "$377";
                                             break;
 
-                                case "Elevatione Spa Davie Natural Skin Tightening $59.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Natural Skin Tightening $59.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13247,8 +13247,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                  case "Elevatione Spa Davie Natural Natural Facelift $59.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                  case "Mize Med Spa and Wellness Center Natural Natural Facelift $59.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13264,8 +13264,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie Skin Tightening $69.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Skin Tightening $69.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13281,8 +13281,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Elevatione Spa Davie Skin Tightening $79.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Skin Tightening $79.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13298,8 +13298,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie Men's Skin Tightening $79.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Men's Skin Tightening $79.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13315,8 +13315,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Elevatione Spa Davie Men's LED Anti-Aging $89.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Men's LED Anti-Aging $89.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13332,8 +13332,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Elevatione Spa Davie Body Sculpting $79.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Body Sculpting $79.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13349,8 +13349,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $89.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13366,8 +13366,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $69.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $69.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13383,8 +13383,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $79.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $79.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13400,8 +13400,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $89.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13417,8 +13417,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie Hydraglow $79.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness Center Hydraglow $79.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13434,8 +13434,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Elevatione Spa Davie Natural Facelift $69.95":
-                                upDatedSpaName = "Elevatione Spa Davie";
+                                case "Mize Med Spa and Wellness CenterNatural Facelift $69.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
