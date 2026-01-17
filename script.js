@@ -14015,64 +14015,15 @@ function updateForm(){
                                 break;
 
                                
-                                case "Moana Crystals Natural Skin Tightening $59.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-natural-skin-tightening-59-95";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Natural Skin Tightening Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Moana Crystals 3 in 1 Skin Tightening $69.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystals-3-in-1-skin-tightening-promo";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "DTB Moana Crystals Skin Tightening $69.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-moana-crystals-skin-tightening-69-95-377";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
+                                
 
                                 case "Moana Crystals Skin Tightening $69.95":
                                 upDatedSpaName = "Moana Crystals";
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-skin-tightening-69-95-377";
-                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/natural-skin-tightening-69-95-book-page";
+                                upDatedSpaPhone = "(808) 444-5295";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
@@ -14083,82 +14034,14 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Moana Crystals Skin Tightening $79.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-treatment-promo";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Moana Crystals Hydraglow Treatment $69.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-hydraglow-69-95";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Hydraglow Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Hydraglow Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
-
-                                case "Moana Crystals Men's Skin Tightening $79.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-mens-skin-tightening-79-95-377";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Men's Skin Tightening";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Moana Crystals Neck and Jawline $69.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-neck-and-jawline-69-95-377";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Neck and Jawline Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
-
+                                
                                 case "Moana Crystals Neck and Jawline $59.95":
                                 upDatedSpaName = "Moana Crystals";
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-neck-and-jawline-59-95";
-                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/neck-and-jawline-59-95-book-page";
+                                upDatedSpaPhone = "(808) 444-5295";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
@@ -14170,22 +14053,7 @@ function updateForm(){
                                 break;
 
 
-                                case "Moana Crystals Bye Bye Saggy Eyes $59.95":
-                                upDatedSpaName = "Moana Crystals";
-                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
-                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-bye-bye-saggy-eyes-59-95-377";
-                                upDatedSpaPhone = "(808) 764-3367";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 10 minutes Cleansing";
-                                upDatedDurationTwo = "- 40 minutes Bye Bye Saggy Eyes and 10 minutes post-care and consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
-                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
-                                insteadOfSpa = "$377"
-                                break;
+                                
 
 
                                 case "Miliv Med Spa Natural Facelift $79.95":
