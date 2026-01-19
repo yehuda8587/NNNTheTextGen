@@ -6512,9 +6512,9 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
                                 upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/bye-bye-saggy-eyes-book";
                                 upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and Consultation"
+                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
                                 treatmentSelected = "Bye Bye Saggy Eyes Treatment";
@@ -11522,9 +11522,9 @@ function updateForm(){
                                     upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
                                     promoPrice = "69.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
                                     treatmentSelected = "Anti-Aging Treatment";
-                                    newSpaPhoneNumberSelected = "(431) 570-2004";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -11539,9 +11539,9 @@ function updateForm(){
                                     upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
                                     promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
                                     treatmentSelected = "Anti-Aging Treatment";
-                                    newSpaPhoneNumberSelected = "(431) 570-2004";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -11556,9 +11556,9 @@ function updateForm(){
                                     upDatedDurationOne = "- 45 minutes cleansing and Neck and Jawline Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
                                     promoPrice = "59.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
                                     treatmentSelected = "Neck and Jawline Treatment";
-                                    newSpaPhoneNumberSelected = "(431) 570-2004";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -11573,9 +11573,9 @@ function updateForm(){
                                     upDatedDurationOne = "- 45 minutes cleansing and Skin Tightening Treatment";
                                     upDatedDurationTwo = "- 15 minutes Consultation"
                                     promoPrice = "79.95";
-                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 292 2530";
                                     treatmentSelected = "Skin Tightening Treatment";
-                                    newSpaPhoneNumberSelected = "(431) 570-2004";
+                                    newSpaPhoneNumberSelected = "(204) 292 2530";
                                     insteadOfSpa = "$377";
                                     break;
 
@@ -13230,8 +13230,42 @@ function updateForm(){
                                             insteadOfSpa = "$377";
                                             break;
 
-                                case "Mize Med Spa and Wellness Center Natural Skin Tightening $59.95":
+                                case "Mize Med Spa and Wellness Center Skin Tightening $99.95":
                                 upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
+                                upDatedSpaWebLINK = "https://mizemedspa.firstouchbeauty.com/skin-tightening-form" ;
+                                upDatedSpaPhone = "(954) 694-6452";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(954) 765-6091";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Mize Med Spa and Wellness Center Men Skin Tightening $99.95":
+                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
+                                upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
+                                upDatedSpaWebLINK = "https://mizemedspa.firstouchbeauty.com/men-skin-tightening-promo" ;
+                                upDatedSpaPhone = "(954) 694-6452";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (954) 765-6091";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(954) 765-6091";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Elevatione Spa Davie Natural Skin Tightening $59.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13247,8 +13281,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                  case "Mize Med Spa and Wellness Center Natural Natural Facelift $59.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                  case "Elevatione Spa Davie Natural Natural Facelift $59.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13264,8 +13298,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center Skin Tightening $69.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Skin Tightening $69.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13281,8 +13315,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Mize Med Spa and Wellness Center Skin Tightening $79.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Skin Tightening $79.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13298,8 +13332,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center Men's Skin Tightening $79.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Men's Skin Tightening $79.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13315,8 +13349,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Mize Med Spa and Wellness Center Men's LED Anti-Aging $89.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Men's LED Anti-Aging $89.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13332,8 +13366,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
             
-                                case "Mize Med Spa and Wellness Center Body Sculpting $79.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Body Sculpting $79.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13349,8 +13383,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $89.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13366,8 +13400,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $69.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $69.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13383,8 +13417,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $79.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $79.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13400,8 +13434,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center 3 in 1 Skin Lifting $89.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie 3 in 1 Skin Lifting $89.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13417,8 +13451,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness Center Hydraglow $79.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Hydraglow $79.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13434,8 +13468,8 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Mize Med Spa and Wellness CenterNatural Facelift $69.95":
-                                upDatedSpaName = "Mize Med Spa and Wellness Center";
+                                case "Elevatione Spa Davie Natural Facelift $69.95":
+                                upDatedSpaName = "Elevatione Spa Davie";
                                 upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
                                 upDatedSpaLINK = "https://forms.gle/ozE4ecnYeJ7z5uXt6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/T4xqTTf78tAdCzEk8?g_st=ipc"+"<br>"+"https://maps.apple.com/place?address=3728%20Davie%20Rd,%20Davie,%20FL%20%2033314,%20United%20States&coordinate=26.075670,-80.231447&name=%C3%89l%C3%A9vatione&place-id=IBD25F1CA58484CE4&map=h";
@@ -13644,7 +13678,7 @@ function updateForm(){
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/weigh-loss-iv-79-95" ;
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-79-95-260" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
@@ -14015,15 +14049,47 @@ function updateForm(){
                                 break;
 
                                
-                                
-
-                                case "Moana Crystals Skin Tightening $69.95":
+                                case "Moana Crystals Natural Skin Tightening $59.95":
                                 upDatedSpaName = "Moana Crystals";
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/natural-skin-tightening-69-95-book-page";
-                                upDatedSpaPhone = "(808) 444-5295";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-natural-skin-tightening-59-95";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Natural Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals 3 in 1 Skin Tightening $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystals-3-in-1-skin-tightening-promo";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 45 minutes 3 in 1 Skin Tightening Treatment and post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "DTB Moana Crystals Skin Tightening $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-moana-crystals-skin-tightening-69-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
@@ -14034,14 +14100,99 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                
+                                case "Moana Crystals Skin Tightening $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-skin-tightening-69-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals Skin Tightening $79.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/moana-crystal-skin-tightening-treatment-promo";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals Hydraglow Treatment $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-hydraglow-69-95";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Hydraglow Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Hydraglow Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+                                case "Moana Crystals Men's Skin Tightening $79.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-mens-skin-tightening-79-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Men's Skin Tightening";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals Neck and Jawline $69.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-neck-and-jawline-69-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Moana Crystals Neck and Jawline $59.95":
                                 upDatedSpaName = "Moana Crystals";
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/neck-and-jawline-59-95-book-page";
-                                upDatedSpaPhone = "(808) 444-5295";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-neck-and-jawline-59-95";
+                                upDatedSpaPhone = "(808) 764-3367";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
@@ -14053,7 +14204,22 @@ function updateForm(){
                                 break;
 
 
-                                
+                                case "Moana Crystals Bye Bye Saggy Eyes $59.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/moana-crystals-bye-bye-saggy-eyes-59-95-377";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Bye Bye Saggy Eyes and 10 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                insteadOfSpa = "$377"
+                                break;
 
 
                                 case "Miliv Med Spa Natural Facelift $79.95":
@@ -14482,14 +14648,29 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                
+                                case "Below Zero Alpharetta Spa Natural Facelift $79.95":
+                                upDatedSpaName = "Below Zero Alpharetta";
+                                upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
+                                upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
+                                upDatedSpaPhone = "(404) 618-4124";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(706) 901-8979";
+                                insteadOfSpa = "$377"
+                                break;
 
                                 case "Below Zero Alpharetta Spa Natural Facelift $89.95":
                                 upDatedSpaName = "Below Zero Alpharetta";
                                 upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
                                 upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
-                                upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/natural-facelift-89-95-booking";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-natural-facelift-promo-89-95";
                                 upDatedSpaPhone = "(404) 618-4124";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -14501,7 +14682,22 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                
+                                case "Below Zero Alpharetta Spa Freezing Skin Tightening $89.95":
+                                upDatedSpaName = "Below Zero Alpharetta";
+                                upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
+                                upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-freezing-facelift-promo-89-95";
+                                upDatedSpaPhone = "(404) 618-4124";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Freezing Skin Tightening Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+                                treatmentSelected = "Freezing Skin Tightening Treatment";
+                                newSpaPhoneNumberSelected = "(706) 901-8979";
+                                insteadOfSpa = "$377"
+                                break;
 
 
                                 case "Ora Med Spa Natural Facelift $79.95":
@@ -14757,23 +14953,6 @@ function updateForm(){
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
                                 treatmentSelected = "Hyperpigmentation Treatment";
-                                newSpaPhoneNumberSelected = "(850) 501-3350";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Ora Med Spa Body Treatment $69.95":
-                                upDatedSpaName = "Ora Medical Spa";
-                                upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-                                upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-                                upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/body-treatment-69-95-book-page";
-                                upDatedSpaPhone = "(850) 988-9735";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "";
-                                upDatedDurationTwo = "- 45 minutes Body Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-                                treatmentSelected = "Body Treatment";
                                 newSpaPhoneNumberSelected = "(850) 501-3350";
                                 insteadOfSpa = "$377"
                                 break;
