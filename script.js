@@ -14060,9 +14060,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Natural Skin Tightening Treatment and 10 minutes post-care and consultation";
                                 promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
                                 treatmentSelected = "Natural Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                newSpaPhoneNumberSelected = "(808) 779-8279";
                                 insteadOfSpa = "$377"
                                 break;
 
@@ -14078,9 +14078,9 @@ function updateForm(){
                                 upDatedDurationOne = "- 10 minutes Cleansing";
                                 upDatedDurationTwo = "- 40 minutes Neck and Jawline Treatment and 10 minutes post-care and consultation";
                                 promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 201-0060";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
                                 treatmentSelected = "Neck and Jawline Treatment";
-                                newSpaPhoneNumberSelected = "(808) 201-0060";
+                                newSpaPhoneNumberSelected = "(808) 779-8279";
                                 insteadOfSpa = "$377"
                                 break;
 
