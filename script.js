@@ -14071,7 +14071,7 @@ function updateForm(){
                                 upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
                                 upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
-                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/natural-skin-tightening-59-95-form";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/natural-skin-tightening-69-95-book-page";
                                 upDatedSpaPhone = "(808) 764-3367";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 10 minutes Cleansing";
