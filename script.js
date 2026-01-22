@@ -16907,7 +16907,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-microneedling-99";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Microneedling Treatment and 15 minutes Consultation";
@@ -16924,7 +16924,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-natural-facelift-79-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
@@ -16941,7 +16941,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-skin-tightening-79-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Skin Tightening Treatment and 15 minutes Consultation";
@@ -16959,7 +16959,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-neck-and-jawline-79-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Neck and Jawline Treatment and 15 minutes Consultation";
@@ -16976,7 +16976,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-natural-facelift-69-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
@@ -16993,7 +16993,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-skin-tightening-69-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Skin Tightening Treatment and 15 minutes Consultation";
@@ -17011,7 +17011,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-neck-and-jawline-69-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Neck and Jawline Treatment and 15 minutes Consultation";
@@ -17028,7 +17028,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-men-skin-tightening-69-95-377";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
                                 upDatedDurationTwo = " - 30 minutes of Men Skin Tightening and 15 minutes Consultation";
@@ -17045,7 +17045,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-body-treatment-69-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 45 minutes Body Treatment";
                                 upDatedDurationTwo = " - 15 minutes Consultation";
@@ -17063,7 +17063,7 @@ function updateForm(){
                                 upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
                                 upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dermalogy-med-spa-bye-bye-saggy-eyes-59-95";
-                                upDatedSpaPhone = "(281) 675-2651";
+                                upDatedSpaPhone = "(281) 697-6978";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 10 minutes Cleansing and 40 minutes Bye Bye Saggy Eyes";
                                 upDatedDurationTwo = " - 10 minutes Consultation";
