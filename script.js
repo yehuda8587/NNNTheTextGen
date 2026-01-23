@@ -7874,7 +7874,7 @@ function updateForm(){
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                 upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-natural-facelift-promo-69-95";
+                                upDatedSpaWebLINK = "https://elysium.noneedleneeded.com/natural-facelift-69-95-book-page";
                                 upDatedSpaPhone = "(904) 799-2965";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minute Consultation";
@@ -7891,7 +7891,7 @@ function updateForm(){
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                 upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/elysium-neck-and-jawline-promo-69-95";
+                                upDatedSpaWebLINK = "https://elysium.noneedleneeded.com/neck-and-jawline-69-95-book-page";
                                 upDatedSpaPhone = "(904) 799-2965";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minute Consultation";
