@@ -6366,145 +6366,6 @@ function updateForm(){
                                 insteadOfSpa = "$350";
                                 break;
 
-                                case "Good Life Spa LED 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
-                                upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$350";
-                                break;
-
-
-                                case "Good Life Spa LED Anti-Aging 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-led-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
-                                upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "LED Anti-Aging Treatment";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$350";
-                                break;
-
-                                case "Good Life Spa LED 59.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-new-led-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing"+"<br>"+" 25 minutes of the LED Anti-aging Experience ";
-                                upDatedDurationTwo = "- 10 minute Upper Body Massage & 10 minutes of Anti-aging serum application and Consultation"
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$350";
-                                break;
-
-                                case "Good Life Spa Men's LED 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-led-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing";
-                                upDatedDurationTwo = "- 45 minutes of the LED Anti-aging Experience & Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "LED Treatment";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$299";
-                                break;
-
-                                case "Good Life Spa Collagen Enhancing 69.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-collagen-enhancing-69-95";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Collagen Enhancing Treatment & 15 minutes Consultation"
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "Collagen Enhancing";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$377";
-                                break;
-
-                
-
-                                case "Good Life Spa Neck and Jawline 69.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-neck-and-jawline-treatment-page";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of Consultation";
-                                upDatedDurationTwo = "- 45 minutes of the Neck & Jawline Treatment"
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 267-5157";
-                                treatmentSelected = "Neck and Jawline Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 267-5157";
-                                insteadOfSpa = "$377";
-                                break;
-
-                                case "Good Life Spa Skin Tightening 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
-
-                                case "Good Life Spa Skin Tightening 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-79-95";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
-
                                 case "Good Life Spa Bye Bye Saggy Eyes 69.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
@@ -6522,80 +6383,14 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Good Life Spa Skin Tightening 59.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-skin-tightening-59-95";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
-
-                                case "Good Life Spa Hydraglow 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-hydraglow-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Hydraglow Treatment and 15 minutes Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Hydraglow Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$399";
-                                break;
-
-                                case "Good Life Spa Men Skin Tightening 99.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-mens-skin-tightening-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
-                                promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
-
-                                case "Good Life Spa 3 in 1 Skin Tightening 79.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-3-in-1-skin-tightening-promo";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
+                               
 
                                 case "Good Life Spa 3 in 1 Skin Tightening 69.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-3-in-1-skin-tightening-69-95";
+                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/3-in-1-skin-tightening-69-95-book";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
@@ -6607,22 +6402,7 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
-                                case "Good Life Spa 3 in 1 Skin Tightening 59.95":
-                                upDatedSpaName = "Good Life Spa";
-                                upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
-                                upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/good-life-spa-3-in-1-skin-tightening-59-95";
-                                upDatedSpaPhone = "(386) 319-1236";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(386) 888-0765";
-                                insteadOfSpa = "$377";
-                                break;
+                                
 
                                 case "NeoLumo Florence":
                                 upDatedSpaName = "NeoLumo Florence";
