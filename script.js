@@ -17652,7 +17652,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
                                 upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-99-95";
+                                upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/natural-facelift-99-95-booking";
                                 upDatedSpaPhone = "(438) 230-4017";
                                 upDatedDurationTotal = "50 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
@@ -17660,6 +17660,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
                                 treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(514) 208‑0226";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Lumera Skin Clinics Neck & Jawline $99.95":
+                                upDatedSpaName = "Lumera Skin Clinics";
+                                upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+                                upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+                                upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/neck-and-jawline-99-95-booking";
+                                upDatedSpaPhone = "(438) 230-4017";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Neck & Jawline Treatment";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
+                                treatmentSelected = "Neck & Jawline Treatment";
                                 newSpaPhoneNumberSelected = "(514) 208‑0226";
                                 insteadOfSpa = "$377"
                                 break;
