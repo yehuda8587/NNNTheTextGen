@@ -7295,7 +7295,7 @@ function updateForm(){
 
                                 case "Donna Ella Spa LED":
                                 upDatedSpaName = "Donna Ella Spa";
-                                upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
+                                upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
                                 upDatedSpaLINK = "https://forms.gle/XHLsxffpnMpoKiUm6";
                                 upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
                                 upDatedSpaPhone = "(346) 980-4152";
@@ -15487,7 +15487,7 @@ function updateForm(){
 
                                 case "Donna Ella Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Donna Ella Med Spa";
-                                upDatedSpaAddress = "Galleria Mall,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
+                                upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
                                 upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-79-95";
