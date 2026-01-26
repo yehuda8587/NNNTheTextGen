@@ -13882,6 +13882,24 @@ function updateForm(){
                                 break;
 
 
+                                case "Moana Crystals Hydraglow Treatment $59.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/hydraglow-59-95-book";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Hydraglow Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                treatmentSelected = "Hydraglow Treatment";
+                                newSpaPhoneNumberSelected = "(808) 779-8279";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 case "Miliv Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Miliv Med Spa";
                                 upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
