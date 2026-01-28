@@ -18145,9 +18145,9 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/ijoWKX3Ur2iSKwBh7";
                                 upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/blesseli-spa-natural-facelift-79-95";
                                 upDatedSpaPhone = "(314) 377-5991";
-                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
                                 treatmentSelected = "Natural Facelift Treatment";
