@@ -17707,7 +17707,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/neck-and-jawline-99-95-booking";
                                 upDatedSpaPhone = "(438) 230-4017";
                                 upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Neck & Jawline Treatment";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Neck and Jawline Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation";
                                 promoPrice = "99.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
