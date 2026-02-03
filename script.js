@@ -14992,6 +14992,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Meital Studios Beauty 3 in 1 Skin Lifting $69.95":
+                                upDatedSpaName = "Meital Studios Beauty";
+                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/booking-page-3-in-1-skin-lifting-69-95";
+                                upDatedSpaPhone = "(437) 290-4169";
+                                upDatedDurationTotal = "70 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes 3 in 1 Skin Lifting Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                treatmentSelected = "3 in 1 Skin Lifting Treatment";
+                                newSpaPhoneNumberSelected = "(647) 243-4780";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Meital Studios Beauty Skin Tightening $79.95":
                                 upDatedSpaName = "Meital Studios Beauty";
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
@@ -15088,6 +15105,23 @@ function updateForm(){
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
                                 promoPrice = "99.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                treatmentSelected = "Hyperpigmentation Treatment";
+                                newSpaPhoneNumberSelected = "(647) 243-4780";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Meital Studios Beauty Hyperpigmentation Treatment $69.95":
+                                upDatedSpaName = "Meital Studios Beauty";
+                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-69-95";
+                                upDatedSpaPhone = "(437) 290-4169";
+                                upDatedDurationTotal = "70 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                 treatmentSelected = "Hyperpigmentation Treatment";
                                 newSpaPhoneNumberSelected = "(647) 243-4780";
