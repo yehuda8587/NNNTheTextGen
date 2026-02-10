@@ -6782,17 +6782,17 @@ function updateForm(){
                                 insteadOfSpa = "$199";
                                 break;
 
-                                case "Tesoro Mio Spa Neck and Jawline $69.95":
+                                case "Tesoro Mio Spa Neck and Jawline $49.95":
                                 upDatedSpaName = "Tesoro Mio Spa";
                                 upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
                                 upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/tesoro-mio-neck-and-jawline-treatment";
+                                upDatedSpaWebLINK = "https://tesoro-mio.advancedbeautytreatments.com/neck-and-jawline-49";
                                 upDatedSpaPhone = "(406) 919-7560";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of Consultation";
                                 upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
-                                promoPrice = "69.95";
+                                promoPrice = "49.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
                                 treatmentSelected = "Neck and Jawline Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(406) 885-1321";
