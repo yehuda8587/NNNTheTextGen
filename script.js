@@ -16647,6 +16647,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                 case "Aeternitas Natural Facelift $89.95":
+                                upDatedSpaName = "Aeternitas";
+                                upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+                                upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/aeternitas-natural-facelift-89-95";
+                                upDatedSpaPhone = "(941) 867-4376";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+                                treatmentSelected = "Natural Facelift";
+                                newSpaPhoneNumberSelected = "(941) 867-4376";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Latoua Mille Natural Facelift $79.95":
                                 upDatedSpaName = "Latoua Mille";
                                 upDatedSpaAddress = "117 S Main Street, Galena, IL 61036"+"<br>"+"(Galena Main Street downtown, across from champagne on main, next to the bakery)";
