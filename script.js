@@ -18222,6 +18222,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "elow Zero Spa Rochester Neck and Jawline $79.95":
+                                upDatedSpaName = "Below Zero Rochester";
+                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)";
+                                upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
+                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-neck-and-jawline-79-95";
+                                upDatedSpaPhone = "(585) 252-4003";
+                                upDatedDurationTotal = "45 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 35 minutes Neck and Jawline Treatment and Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
+                                treatmentSelected = "Neck and Jawline Treatment";
+                                newSpaPhoneNumberSelected = "(585) 449-2100";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Queen Bee Limited Natural Facelift $69.95":
                                 upDatedSpaName = "Queen Bee Limited";
                                 upDatedSpaAddress = "322 E Front St. Traverse City, MI 49684"+"<br>"+"(Right next to the parking garage on Front Street)";
