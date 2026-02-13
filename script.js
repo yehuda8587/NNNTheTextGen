@@ -16751,7 +16751,7 @@ function updateForm(){
                                 break;
 
                                 case "Premier Naples Natural Facelift $69.95":
-                                upDatedSpaName = "Chantel Beauty Spa";
+                                upDatedSpaName = "Premier Naples";
                                 upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)";
                                 upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
