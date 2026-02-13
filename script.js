@@ -16750,7 +16750,22 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                               
+                                case "Premier Naples Natural Facelift $69.95":
+                                upDatedSpaName = "Chantel Beauty Spa";
+                                upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)";
+                                upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
+                                upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/natural-facelift-69-95-book-page";
+                                upDatedSpaPhone = "(239) 330-6871";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(239) 963-6077";
+                                insteadOfSpa = "$377"
+                                break;
 
                                 
 
