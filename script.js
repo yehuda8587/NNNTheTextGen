@@ -16139,7 +16139,7 @@ function updateForm(){
                                 upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
                                 upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-natural-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/natural-facelift-79-95-form";
                                 upDatedSpaPhone = "(437) 290-4174";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
@@ -16147,6 +16147,23 @@ function updateForm(){
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
                                 treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(437) 410-9788";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Nova Aesthetic Neck and Jawline $79.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
+                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
+                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/neck-and-jawline-79-95-form";
+                                upDatedSpaPhone = "(437) 290-4174";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
+                                treatmentSelected = "Neck and Jawline Treatment";
                                 newSpaPhoneNumberSelected = "(437) 410-9788";
                                 insteadOfSpa = "$377"
                                 break;
@@ -16241,7 +16258,7 @@ function updateForm(){
                                 upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
                                 upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-bye-bye-saggy-arms-79-95";
+                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/bye-bye-saggy-arms-booking-page-685219";
                                 upDatedSpaPhone = "(437) 290-4174";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " - 15 minutes Cleansing";
