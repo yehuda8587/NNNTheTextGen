@@ -6383,38 +6383,38 @@ function updateForm(){
                                 insteadOfSpa = "$350";
                                 break;
 
-                                case "Good Life Spa Bye Bye Saggy Eyes 69.95":
+                                case "Good Life Spa Natural Facelift 69.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/bye-bye-saggy-eyes-book";
+                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/natural-facelift-69-95-book-page";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 30 minutes of the Skin Tightening Treatment and 15 minutes Consultation"
+                                upDatedDurationTwo = "- 30 minutes of the Natural Facelift and 15 minutes Consultation"
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(386) 888-0765";
                                 insteadOfSpa = "$377";
                                 break;
 
                                
 
-                                case "Good Life Spa 3 in 1 Skin Tightening 69.95":
+                                case "Good Life Spa Neck and Jawline 69.95":
                                 upDatedSpaName = "Good Life Spa";
                                 upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
                                 upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/3-in-1-skin-tightening-69-95-book";
+                                upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/booking-neck-and-jawline-69-95-ltb";
                                 upDatedSpaPhone = "(386) 319-1236";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15-minutes of light cleansing";
-                                upDatedDurationTwo = "- 45 minutes of the 3 in 1 Skin Tightening Treatment and Consultation"
+                                upDatedDurationTwo = "- 45 minutes of the Neck and Jawline Treatment and Consultation"
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 888-0765";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
+                                treatmentSelected = "Neck and Jawline Treatment";
                                 newSpaPhoneNumberSelected = "(386) 888-0765";
                                 insteadOfSpa = "$377";
                                 break;
