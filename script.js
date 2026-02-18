@@ -16049,90 +16049,27 @@ function updateForm(){
                                 insteadOfSpa = "$375"
                                 break;
 
-                                case "Renova Skin Med Spa Anti-Aging Facial $59.95":
-                                upDatedSpaName = "Renova Skin Med Spa";
-                                upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
-                                upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-anti-aging-facial-promo";
-                                upDatedSpaPhone = "(732) 523-2168";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Anti-Aging Facial";
-                                upDatedDurationTwo = " -15 minutes Consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
-                                treatmentSelected = "LED Anti-Aging Treatment";
-                                newSpaPhoneNumberSelected = "(609) 422-9463";
-                                insteadOfSpa = "$377"
-                                break;
+                                
+                                
 
-                                case "Renova Skin Med Spa Anti-Aging Facial $99.95":
+                                case "Renova Skin Med Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Renova Skin Med Spa";
                                 upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
                                 upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-anti-aging-facial-promo-99-95";
-                                upDatedSpaPhone = "(732) 523-2168";
+                                upDatedSpaWebLINK = "https://renova.noneedleneeded.com/natural-facelift-79-95-book-page";
+                                upDatedSpaPhone = "(732) 867-7896";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Anti-Aging Facial";
-                                upDatedDurationTwo = " -15 minutes Consultation";
-                                promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
-                                treatmentSelected = "LED Anti-Aging Treatment";
-                                newSpaPhoneNumberSelected = "(609) 422-9463";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Renova Skin Med Spa LED Non-Surgical Facelift $99.95":
-                                upDatedSpaName = "Renova Skin Med Spa";
-                                upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
-                                upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo-99-95";
-                                upDatedSpaPhone = "(732) 523-2168";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
-                                upDatedDurationTwo = " -15 minutes Consultation";
-                                promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
-                                treatmentSelected = "Non-Surgical Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(609) 422-9463";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Renova Skin Med Spa LED Non-Surgical Facelift $59.95":
-                                upDatedSpaName = "Renova Skin Med Spa";
-                                upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
-                                upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo";
-                                upDatedSpaPhone = "(732) 523-2168";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
-                                upDatedDurationTwo = " -15 minutes Consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
-                                treatmentSelected = "Non-Surgical Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(609) 422-9463";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Renova Skin Med Spa Non-Surgical Facelift $79.95":
-                                upDatedSpaName = "Renova Skin Med Spa";
-                                upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
-                                upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/renova-skin-med-spa-led-non-surgical-facelift-promo-79-95";
-                                upDatedSpaPhone = "(732) 523-2168";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes LED Non-Surgical Facelift";
+                                upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
                                 upDatedDurationTwo = " -15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
-                                treatmentSelected = "Non-Surgical Facelift Treatment";
+                                treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(609) 422-9463";
                                 insteadOfSpa = "$377"
                                 break;
+
+                                
 
                                 case "Wow Laser Spa Skin Tightening $59.95":
                                 upDatedSpaName = "Wow Laser Spa";
