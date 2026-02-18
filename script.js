@@ -15536,6 +15536,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Equanimity Glow Infusion Facial $89.95":
+                                upDatedSpaName = "Equanimity Wellness";
+                                upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+                                upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+                                upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/glow-infusion-facial-89-95-booking-page";
+                                upDatedSpaPhone = "(469) 436-2824";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 45 minutes of Glow Infusion Facial Treatment";
+                                upDatedDurationTwo = "- 15 minutes Skin Assestment";
+                                promoPrice = "89.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+                                treatmentSelected = "Glow Infusion Facial";
+                                newSpaPhoneNumberSelected = "(214) 238-6896";
+                                insteadOfSpa = "$377"
+                                break;
+
                                  case "Equanimity Microneedling $129.95":
                                 upDatedSpaName = "Equanimity Wellness";
                                 upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
