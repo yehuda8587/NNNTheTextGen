@@ -760,46 +760,12 @@ function updateForm(){
                 break;
 
 
-                    case "Kristals Burlington LED":
+                        case "Kristals Burlington Neck and Jawline $79.95":
                         upDatedSpaName = "Kristals Burlington Spa";
                         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                         upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-led-promo-page" ;
-                        upDatedSpaPhone = "(647) 749-7406";
-                        upDatedDurationTotal = "50 Minutes";
-                        upDatedDurationOne = "- 10 Minutes Light Cleansing";
-                        upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-                        promoPrice = "79.95"
-                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                        treatmentSelected = "LED Treatment";
-                        newSpaPhoneNumberSelected = "(647) 277-5122";
-                        insteadOfSpa = "$350"
-                        break; 
-
-                        case "Kristals Burlington AquaPure":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-quapure-promo" ;
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "50 Minutes";
-                            upDatedDurationOne = " 50 Minutes Aquapure Treatment & Consultation";
-                            upDatedDurationTwo = " ";
-                            promoPrice = "99.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "AquaPure";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$550"
-                            break; 
-
-                            case "Kristals Burlington Neck and Jawline":
-                        upDatedSpaName = "Kristals Burlington Spa";
-                        upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                        upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jaw-line-tightening-treatment-promo" ;
+                        upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/neck-and-jawline-79-95-book-page" ;
                         upDatedSpaPhone = "(647) 749-7406";
                         upDatedDurationTotal = "60 Minutes";
                         upDatedDurationOne = "- 15 Minutes Light Cleansing";
@@ -816,7 +782,7 @@ function updateForm(){
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95";
+                            upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/natural-facelift-79-95-book-page";
                             upDatedSpaPhone = "(647) 749-7406";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Light Cleansing";
@@ -828,107 +794,25 @@ function updateForm(){
                             insteadOfSpa = "$377"
                             break; 
 
-            case "Kristals Burlington Natural Facelift $79.95-399":
+            case "Kristals Burlington Hyperpigmentation Treatment $79.95":
                             upDatedSpaName = "Kristals Burlington Spa";
                             upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
                             upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
                             upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-page-79-95-399";
+                            upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/hyperpigmentation-79-95-book";
                             upDatedSpaPhone = "(647) 749-7406";
                             upDatedDurationTotal = "60 Minutes";
                             upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
+                            upDatedDurationTwo = "- 45 Minutes Hyperpigmentation Treatment and Consultation";
                             promoPrice = "79.95"
                             upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Natural Facelift Treatment";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$399"
-                            break; 
-
-                            case "Kristals Burlington Natural Facelift $69.95":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-69-95" ;
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
-                            promoPrice = "69.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Natural Facelift Treatment";
+                            treatmentSelected = "Hyperpigmentation Treatment Treatment";
                             newSpaPhoneNumberSelected = "(647) 277-5122";
                             insteadOfSpa = "$377"
                             break; 
 
-                            case "Kristals Burlington Neck and Jawline $99.95":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-neck-and-jawline-99-95-377" ;
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment and Consultation";
-                            promoPrice = "99.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Neck and Jawline Treatment";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$399"
-                            break; 
 
-                            case "Kristals Burlington Natural Facelift $99.95":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-natural-facelift-99-95" ;
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment and Consultation";
-                            promoPrice = "99.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Natural Facelift Treatment";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$377"
-                            break; 
-
-                            case "Kristals Burlington Men's Skin Tightening $89.95":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95";
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment and Consultation";
-                            promoPrice = "89.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Skin Tightening Treatment";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$377"
-                            break; 
-
-            case "Kristals Burlington Men's Skin Tightening $89.95-399":
-                            upDatedSpaName = "Kristals Burlington Spa";
-                            upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)"; 
-                            upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-                            upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
-                            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-mens-skin-tightening-promo-89-95-399";
-                            upDatedSpaPhone = "(647) 749-7406";
-                            upDatedDurationTotal = "60 Minutes";
-                            upDatedDurationOne = "- 15 Minutes Light Cleansing";
-                            upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment and Consultation";
-                            promoPrice = "89.95"
-                            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-                            treatmentSelected = "Men's Skin Tightening Treatment";
-                            newSpaPhoneNumberSelected = "(647) 277-5122";
-                            insteadOfSpa = "$399"
-                            break; 
+           
 
                         case "Kristals Barrie":
                             upDatedSpaName = "Kristals Barrie Spa";
