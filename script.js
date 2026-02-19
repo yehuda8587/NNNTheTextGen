@@ -15936,17 +15936,17 @@ function updateForm(){
                                 
                                 
 
-                                case "Renova Skin Med Spa Natural Facelift $79.95":
+                                case "Renova Skin Med Spa Natural Facelift $69.95":
                                 upDatedSpaName = "Renova Skin Med Spa";
                                 upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
                                 upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
-                                upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/natural-facelift-79-95-book-page";
+                                upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/natural-facelift-69-95-book-page";
                                 upDatedSpaPhone = "(732) 867-7896";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
                                 upDatedDurationTwo = " -15 minutes Consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
                                 treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(609) 422-9463";
