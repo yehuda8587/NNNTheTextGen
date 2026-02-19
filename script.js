@@ -16177,6 +16177,26 @@ function updateForm(){
                                 break;
 
 
+
+
+                                 case "Nova Aesthetic Oakville Mommy Tummy Rescue $69.95":
+                                upDatedSpaName = "Nova Aesthetic";
+                                upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
+                                upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
+                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/natural-facelift-79-95-form";
+                                upDatedSpaPhone = "(289) 216-8383";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - ";
+                                upDatedDurationTwo = " - 45 minutes Mommy Tummy Rescue Treatment and 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
+                                treatmentSelected = "Mommy Tummy Rescue Treatment";
+                                newSpaPhoneNumberSelected = "(289) 837-0335";
+                                insteadOfSpa = "$377"
+                                break;
+
+
                                 case "Blowout Spa Men Skin Tightening $89.95":
                                 upDatedSpaName = "Blowout Spa";
                                 upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
