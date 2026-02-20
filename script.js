@@ -11150,7 +11150,24 @@ function updateForm(){
                                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
                                     treatmentSelected = "Anti-Aging Treatment";
                                     newSpaPhoneNumberSelected = "(236) 323-2232";
-                                    insteadOfSpa = "$377";
+                                    insteadOfSpa = "$350";
+                                    break;
+
+                                    case "Oasis Aesthetics Marine Anti-Aging 59.95":
+                                    upDatedSpaName = "Oasis Aesthetics";
+                                    upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
+                                    upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
+                                    upDatedSpaMapLINK = "https://maps.app.goo.gl/MSfrNJNquZhmnqPu5?g_st=iw";
+                                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-marine-anti-aging-facial-59-95";
+                                    upDatedSpaPhone = "(236) 200-5069";
+                                    upDatedDurationTotal = "60 Minutes";
+                                    upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
+                                    upDatedDurationTwo = "- 15 minutes Consultation"
+                                    promoPrice = "59.95";
+                                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (236) 323-2232";
+                                    treatmentSelected = "Anti-Aging Treatment";
+                                    newSpaPhoneNumberSelected = "(236) 323-2232";
+                                    insteadOfSpa = "$350";
                                     break;
 
 
