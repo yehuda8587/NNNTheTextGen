@@ -14740,97 +14740,14 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Meital Studios Beauty LED Anti-Aging $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-led-promo";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes LED Anti-Aging Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "LED Anti-Aging Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Collagen Enhancing $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-collagen-enhancing-79-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Collagen Enhancing Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Collagen Enhancing Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Mommy Tummy Rescue $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-mommy-tummy-rescue-promo";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Mommy Tummy Rescue Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Mommy Tummy Rescue Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$399"
-                                break;
-
-                                case "Meital Studios Beauty Natural Facelift $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-facelift-promo";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Facelift Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Natural Facelift $69.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-facelift-promo-69-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Facelift Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
+                                
 
                                 case "Meital Studios Beauty Neck and Jawline $69.95":
                                 upDatedSpaName = "Meital Studios Beauty";
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-neck-and-jawline-promo-69-95";
+                                upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/neck-and-jawline-69-95-book-page";
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Neck and Jawline Treatment";
@@ -14842,56 +14759,7 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Meital Studios Beauty Natural Collagen Restoration $59.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-natural-collagen-restoration-facial-59-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Natural Collagen Restoration";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Natural Collagen Restoration";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Gold Collagen $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-gold-collagen-promo-79-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Gold Collagen Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Gold Collagen Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-            
-                                case "Meital Studios Beauty 3 in 1 Skin Tightening $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-3-in-1-skin-tightening-promo";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes 3 in 1 Skin Tightening Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
+                                
 
                                 case "Meital Studios Beauty 3 in 1 Skin Lifting $69.95":
                                 upDatedSpaName = "Meital Studios Beauty";
@@ -14910,46 +14778,14 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Meital Studios Beauty Skin Tightening $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-skin-tightening-treatment-79-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Skin Tightening Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Men Skin Tightening $79.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-beauty-mens-skin-tightening-promo";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Skin Tightening Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
+                                
+                                
                                 case "Meital Studios Beauty Hydraglow $79.95":
                                 upDatedSpaName = "Meital Studios Beauty";
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hydraglow-79-95";
+                                upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/hydraglow-79-95-book;
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hydraglow Treatment";
@@ -14961,74 +14797,26 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Meital Studios Beauty Hyperpigmentation Treatment $129.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-129-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "129.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Hyperpigmentation Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$750"
-                                break;
+                                
 
-                                case "Meital Studios Beauty Hyperpigmentation Treatment $99.95":
+                                case "Meital Studios Beauty Hyperpigmentation Treatment $79.95":
                                 upDatedSpaName = "Meital Studios Beauty";
                                 upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
                                 upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-99-95";
+                                upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/hyperpigmentation-79-95-book";
                                 upDatedSpaPhone = "(437) 290-4169";
                                 upDatedDurationTotal = "70 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
                                 upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "99.95";
+                                promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                 treatmentSelected = "Hyperpigmentation Treatment";
                                 newSpaPhoneNumberSelected = "(647) 243-4780";
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Meital Studios Beauty Hyperpigmentation Treatment $99.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-99-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Hyperpigmentation Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Meital Studios Beauty Hyperpigmentation Treatment $69.95":
-                                upDatedSpaName = "Meital Studios Beauty";
-                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
-                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/meital-studios-hyperpigmentation-treatment-69-95";
-                                upDatedSpaPhone = "(437) 290-4169";
-                                upDatedDurationTotal = "70 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Hyperpigmentation Treatment";
-                                upDatedDurationTwo = "- 10 minutes Consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
-                                treatmentSelected = "Hyperpigmentation Treatment";
-                                newSpaPhoneNumberSelected = "(647) 243-4780";
-                                insteadOfSpa = "$377"
-                                break;
-
+            
                                 case "Ola Aesthetic and Spa Natural Facelift $79.95":
                                 upDatedSpaName = "Ola Aesthetic and Spa";
                                 upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
