@@ -18035,6 +18035,40 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Solei Beauty Lounge Natural Facelift $69.95":
+                                upDatedSpaName = "Solei Beauty Lounge";
+                                upDatedSpaAddress = "1660 S Albion St Denver CO 80222"+"<br>"+"(Office building, floor number 10, unit number 1020)";
+                                upDatedSpaLINK = "https://forms.gle/JjPxBTu86e3Ad7bf8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/c8f7ZYLgdqKxkRKe7";
+                                upDatedSpaWebLINK = "https://soleibeautylounge.firstouchbeauty.com/natural-facelift-69-95-book-page";
+                                upDatedSpaPhone = "(720) 542-6696";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (303) 284-5624";
+                                treatmentSelected = "Natural Facelift Treatment";
+                                newSpaPhoneNumberSelected = "(303) 284-5624";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Solei Beauty Lounge Triple Lift $69.95":
+                                upDatedSpaName = "Solei Beauty Lounge";
+                                upDatedSpaAddress = "1660 S Albion St Denver CO 80222"+"<br>"+"(Office building, floor number 10, unit number 1020)";
+                                upDatedSpaLINK = "https://forms.gle/JjPxBTu86e3Ad7bf8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/c8f7ZYLgdqKxkRKe7";
+                                upDatedSpaWebLINK = "https://soleibeautylounge.firstouchbeauty.com/triple-lift-69-book";
+                                upDatedSpaPhone = "(720) 542-6696";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes Consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (303) 284-5624";
+                                treatmentSelected = "Triple Lift Treatment";
+                                newSpaPhoneNumberSelected = "(303) 284-5624";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Queen Bee Limited Natural Facelift $69.95":
                                 upDatedSpaName = "Queen Bee Limited";
                                 upDatedSpaAddress = "322 E Front St. Traverse City, MI 49684"+"<br>"+"(Right next to the parking garage on Front Street)";
