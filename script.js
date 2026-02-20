@@ -6684,6 +6684,23 @@ function updateForm(){
                                 insteadOfSpa = "$199";
                                 break;
 
+                                case "Tesoro Mio Spa Lift and Hydrate $49.95":
+                                upDatedSpaName = "Tesoro Mio Spa";
+                                upDatedSpaAddress = "201 Central Ave. Whitefish, MT, 59937"+"<br>"+"(Downtown Whitefish)";
+                                upDatedSpaLINK = "https://forms.gle/vZThh2XQUKSwE6TP8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/HgBKZ3Da6xHjFCx79";
+                                upDatedSpaWebLINK = "https://tesoro-mio.advancedbeautytreatments.com/lift-and-hydrate-book";
+                                upDatedSpaPhone = "(406) 919-7560";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minutes of Consultation";
+                                upDatedDurationTwo = "- 45-minutes Lift and Hydrate Treatment"
+                                promoPrice = "49.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (406) 885-1321";
+                                treatmentSelected = "Lift and Hydrate Treatment";
+                                newSpaPhoneNumberSelected = "(406) 885-1321";
+                                insteadOfSpa = "$199";
+                                break;
+
                                 
 
                                 case "GreenBiotics Pentagon":
@@ -14628,6 +14645,24 @@ function updateForm(){
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
                                 treatmentSelected = "Hyperpigmentation Treatment";
+                                newSpaPhoneNumberSelected = "(647) 243-4780";
+                                insteadOfSpa = "$377"
+                                break;
+
+
+                                case "Meital Studios Beauty Lift and Hydrate $79.95":
+                                upDatedSpaName = "Meital Studios Beauty";
+                                upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+                                upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+                                upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/lift-and-hydrate-book";
+                                upDatedSpaPhone = "(437) 290-4169";
+                                upDatedDurationTotal = "70 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Lift and Hydrate";
+                                upDatedDurationTwo = "- 10 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+                                treatmentSelected = "Lift and Hydrate";
                                 newSpaPhoneNumberSelected = "(647) 243-4780";
                                 insteadOfSpa = "$377"
                                 break;
