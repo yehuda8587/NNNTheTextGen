@@ -16806,7 +16806,7 @@ function updateForm(){
                                 upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
                                 upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-natural-facelift-promo-79-95";
+                                upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/mommy-tummy-69-95-book-page";
                                 upDatedSpaPhone = "(437) 290-1194";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 45 minutes Cleansing and Mommy Tummy Treatment";
