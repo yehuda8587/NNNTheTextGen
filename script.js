@@ -13103,56 +13103,7 @@ function updateForm(){
                                 break;
 
 
-                                case "Parie Med Spa  Inner Beauty IV Treatment $79.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-inner-beauty-iv-treatment-79-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Injection of IV";
-                                upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and wellness consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Inner Beauty IV Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$260"
-                                break;
 
-                                case "Parie Med Spa  Inner Beauty IV Treatment $69.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-inner-beauty-iv-treatment-69-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Injection of IV";
-                                upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and wellness consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Inner Beauty IV Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$260"
-                                break;
-
-                                case "Parie Med Spa  Weight Loss IV Treatment $89.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-89-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
-                                upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
-                                promoPrice = "89.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Weight Loss IV Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$260"
-                                break;
 
                                 case "Parie Med Spa  Weight Loss IV Treatment $79.95":
                                 upDatedSpaName = "Parie Med Spa";
@@ -13171,98 +13122,14 @@ function updateForm(){
                                 insteadOfSpa = "$260"
                                 break;
 
-                                case "Parie Med Spa  Weight Loss IV Treatment $69.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-weight-loss-iv-treatment-69-95-260" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
-                                upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Weight Loss IV Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$260"
-                                break;
-
-            
-                                case "Parie Med Spa Skinny Shot $97":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/skinny-shots-parie-med-97" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Lipo Injection";
-                                upDatedDurationTwo = " 30 minutes red light therapy and 10 minutes post care and consultation";
-                                promoPrice = "97";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Skinny Shot Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$500"
-                                break;
-
-                                case "Parie Med Spa Bye Bye Saggy Eyes $79.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-bye-bye-saggy-eyes-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "50 Minutes";
-                                upDatedDurationOne = "- 10 minutes Lipo Injection";
-                                upDatedDurationTwo = " 30 minutes LED & Hyaluronic Acid Treatment and 10 minutes post-care and consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Parie Med Spa Skin Tightening $79.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-79-95" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Parie Med Spa Skin Tightening $69.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-skin-tightening-69-95-377" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
+                                
 
                                 case "Parie Med Spa Men Skin Tightening $79.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-men-skin-tightening-promo-79-95" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/men-natural-facelift-59-95" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -13274,97 +13141,33 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Parie Med Spa Men Skin Tightening $69.95":
+                                
+                                case "Parie Med Spa Neck and Jawline $69.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/parie-med-spa-mens-skin-tightening-69-95-377" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Parie Med Spa Neck and Jawline $79.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-neck-amp-jawline-promo-79-95" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/neck-and-jawline-69-95-book-page" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
                                 upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "79.95";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
                                 treatmentSelected = "Neck & Jawline Treatment";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Parie Med Spa Skin Tightening Facial $69.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-skin-tightening-facial-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Skin Tightening Facial and 15 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Parie Med Spa LED Non-Surgical Facelift $59.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-led-non-surgical-facelift-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Non-Surgical Facelift Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "LED Non-Surgical Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Parie Med Spa Natural Facelift $69.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-natural-facelift-promo" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = "- 15 minutes Cleansing";
-                                upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-                                promoPrice = "69.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$377"
-                                break;
+                            
+                                
 
                                 case "Parie Med Spa Anti-Aging Facial $69.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-med-spa-anti-aging-facial-promo" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/anti-aging-facial-69-95-form-book-page" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
                                 upDatedDurationOne = "- 15 minutes Cleansing";
@@ -13376,73 +13179,41 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Parie Med Spa Laser Hair Removal $89.95":
+                                case "Parie Med Spa Natural Facelift $69.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-lv-laser-hair-removal-3areas-89-95" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/natural-facelift-69-95-book-page" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " ";
-                                upDatedDurationTwo = " ";
-                                promoPrice = "89.95";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes post-care and consultation";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Laser Hair Removal";
+                                treatmentSelected = "Natural Facelift Treatment";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Parie Med Spa Laser Hair Removal Full Body $159.95":
+                                case "Parie Med Spa Lift and Hydrate $69.95":
                                 upDatedSpaName = "Parie Med Spa";
                                 upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
                                 upDatedSpaLINK = " ";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/parie-laser-hair-removal-full-body-promo" ;
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/lift-and-hydrate-book" ;
                                 upDatedSpaPhone = "(702) 637-2259";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " ";
-                                upDatedDurationTwo = " ";
-                                promoPrice = "159.95";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Lift and Hydrate and 15 minutes post-care and consultation";
+                                promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Laser Hair Removal";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$995"
-                                break;
-
-                                case "FTB Parie Med Spa Laser Hair Removal $89.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/parie-lhr-3areas" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " ";
-                                upDatedDurationTwo = " ";
-                                promoPrice = "89.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Laser Hair Removal";
+                                treatmentSelected = "Lift and Hydrate Treatment";
                                 newSpaPhoneNumberSelected = "(702) 930-6221";
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "DTB Parie Med Spa Laser Hair Removal $89.95":
-                                upDatedSpaName = "Parie Med Spa";
-                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
-                                upDatedSpaLINK = " ";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-                                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-parie-lv-laser-hair-removal-3areas-at-89-95-two" ;
-                                upDatedSpaPhone = "(702) 637-2259";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " ";
-                                upDatedDurationTwo = " ";
-                                promoPrice = "89.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
-                                treatmentSelected = "Laser Hair Removal";
-                                newSpaPhoneNumberSelected = "(702) 930-6221";
-                                insteadOfSpa = "$320"
-                                break;
+                                
 
                                 case "Oasis Boutique Skin Tightening $79.95":
                                 upDatedSpaName = "Oasis Boutique";
