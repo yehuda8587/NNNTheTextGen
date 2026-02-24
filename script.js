@@ -12399,24 +12399,6 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-
-                                    case "Skin Totale San Juan Natural Facelift $59.95":
-                                        upDatedSpaName = "Skin Totale Med Spa";
-                                        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
-                                        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
-                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-natural-facelift-59-95";
-                                        upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Natural Facelift Treatment";
-                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
-                                        treatmentSelected = "Natural Facelift Treatment";
-                                        newSpaPhoneNumberSelected = "(949) 514-6192";
-                                        insteadOfSpa = "$377";
-                                        break;
-
                                         case "Skin Totale San Juan Neck and Jawline $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
@@ -12453,39 +12435,7 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale San Juan Hyperpigmentation $59.95":
-                                        upDatedSpaName = "Skin Totale Med Spa";
-                                        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
-                                        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
-                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-san-juan-hyperpigmentation-treatment-59-95";
-                                        upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 minutes Cleansing and Hyperpigmentation Treatment";
-                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
-                                        promoPrice = "59.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
-                                        treatmentSelected = "Hyperpigmentation Treatment";
-                                        newSpaPhoneNumberSelected = "(949) 514-6192";
-                                        insteadOfSpa = "$377";
-                                        break;
-
-                                        case "Skin Totale San Juan Microneedling $89.95":
-                                        upDatedSpaName = "Skin Totale Med Spa";
-                                        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
-                                        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
-                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://skintotalesj.firstouchbeauty.com/microneedling-89-95";
-                                        upDatedSpaPhone = "(949) 339-3541";
-                                        upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 minutes Cleansing and Microneedling Treatment";
-                                        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
-                                        promoPrice = "89.95";
-                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
-                                        treatmentSelected = "Microneedling Treatment";
-                                        newSpaPhoneNumberSelected = "(949) 514-6192";
-                                        insteadOfSpa = "$432";
-                                        break;
+                                        
 
                                         case "Skin Totale San Juan 3 in 1 Skin Tightening $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
@@ -12510,7 +12460,7 @@ function updateForm(){
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-hydraglow-59-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/hydraglow-59-95-book";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Hydraglow Treatment";
@@ -12539,19 +12489,19 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Skin Totale San Juan Bye Bye Saggy Eyes $99.95":
+                                        case "Skin Totale San Juan Lift and Hydrate $59.95":
                                         upDatedSpaName = "Skin Totale Med Spa";
                                         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
                                         upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-totale-san-juan-bye-bye-saggy-eyes-99-95";
+                                        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/lift-and-hydrate-book";
                                         upDatedSpaPhone = "(949) 339-3541";
                                         upDatedDurationTotal = "60 Minutes";
-                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Bye Bye Saggy Eyes Treatment";
+                                        upDatedDurationOne = "- 45 minutes Skin Analysis, Cleansing and Lift and Hydrate Treatment";
                                         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
-                                        promoPrice = "99.95";
+                                        promoPrice = "59.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
-                                        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
+                                        treatmentSelected = "Lift and Hydrate Treatment";
                                         newSpaPhoneNumberSelected = "(949) 514-6192";
                                         insteadOfSpa = "$377";
                                         break;
