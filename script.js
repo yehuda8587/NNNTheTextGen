@@ -16529,8 +16529,8 @@ function updateForm(){
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
                                 upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/mommy-tummy-69-95-book-page";
                                 upDatedSpaPhone = "(437) 290-1194";
-                                upDatedDurationTotal = "45 Minutes";
-                                upDatedDurationOne = "- 30 minutes of the Mommy Tummy Treatment";
+                                upDatedDurationTotal = "75 Minutes";
+                                upDatedDurationOne = "- 60 minutes of the Mommy Tummy Treatment";
                                 upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
