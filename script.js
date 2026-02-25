@@ -426,7 +426,7 @@ function updateForm(){
                 upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
                 upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
-                upDatedSpaWebLINK = "";
+                upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/natural-facelift-79-95-book-page";
                 upDatedSpaPhone = "";
                 upDatedDurationTotal = "60 Minutes";
                 upDatedDurationOne = "- 15 Minutes Cleansing";
