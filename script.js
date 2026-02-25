@@ -421,21 +421,25 @@ function updateForm(){
             insteadOfSpa = "$377"
             break; 
 
-            case "Beauty Frizz MD Body Sculpting":
-                upDatedSpaName = "Beauty Lounge";
-                upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
-                upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
-                upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-bodysculpting-promo";
-                upDatedSpaPhone = "(301) 291-7543";
+            case "Beauty Affairs MediSpa Brookvale Natural Facelift $79.95":
+                upDatedSpaName = "Beauty Affairs MediSpa Brookvale";
+                upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
+                upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
+                upDatedSpaWebLINK = "";
+                upDatedSpaPhone = "";
                 upDatedDurationTotal = "60 Minutes";
-                upDatedDurationOne = "- 45 Minutes Body Sculpting";
-                upDatedDurationTwo = "- 15 Minutes Consultation ";
-                promoPrice = "120"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-                treatmentSelected = "Body Sculpting Treatment";
-                newSpaPhoneNumberSelected = "(301) 775-3494";
-                insteadOfSpa = "$500"
+                upDatedDurationOne = "- 15 Minutes Cleansing";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61 2 9905 3873";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "+61 2 9905 3873";
+                insteadOfSpa = "$377"
                 break; 
+
+
+            
 
                 case "Beauty Lounge LED 79.95":
                     upDatedSpaName = "Beauty Lounge";
