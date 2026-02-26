@@ -422,7 +422,7 @@ function updateForm(){
             break; 
 
             case "Beauty Affairs MediSpa Brookvale Natural Facelift $79.95":
-                upDatedSpaName = "Beauty Affairs MediSpa Brookvale";
+                upDatedSpaName = "Beauty Affairs MediSpa";
                 upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
                 upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
@@ -439,7 +439,7 @@ function updateForm(){
                 break; 
 
                  case "Beauty Affairs MediSpa CBD Natural Facelift $79.95":
-                upDatedSpaName = "Beauty Affairs MediSpa Brookvale";
+                upDatedSpaName = "Beauty Affairs MediSpa";
                 upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
                 upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
                 upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
