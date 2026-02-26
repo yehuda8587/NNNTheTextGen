@@ -432,9 +432,26 @@ function updateForm(){
                 upDatedDurationOne = "- 15 Minutes Cleansing";
                 upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
                 promoPrice = "79.95"
-                upDatedActualSpaPhone = "Can't find our spa? Give us a call at +61 2 9905 3873";
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9905 3873";
                 treatmentSelected = "Natural Facelift Treatment";
-                newSpaPhoneNumberSelected = "+61 2 9905 3873";
+                newSpaPhoneNumberSelected = "+612 9905 3873";
+                insteadOfSpa = "$377"
+                break; 
+
+                 case "Beauty Affairs MediSpa CBD Natural Facelift $79.95":
+                upDatedSpaName = "Beauty Affairs MediSpa Brookvale";
+                upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
+                upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
+                upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
+                upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/natural-facelift-79-95-book-page";
+                upDatedSpaPhone = "";
+                upDatedDurationTotal = "60 Minutes";
+                upDatedDurationOne = "- 15 Minutes Cleansing";
+                upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
+                promoPrice = "79.95"
+                upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
+                treatmentSelected = "Natural Facelift Treatment";
+                newSpaPhoneNumberSelected = "+612 9286 3898";
                 insteadOfSpa = "$377"
                 break; 
 
