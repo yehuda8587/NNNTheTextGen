@@ -7421,6 +7421,24 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+
+                                ase "Elysium Cosmetic Clinics Lift and Hydrate 69.95":
+                                upDatedSpaName = "Elysium Cosmetic Clinics";
+                                upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+                                upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+                                upDatedSpaWebLINK = "https://elysium.noneedleneeded.com/lift-and-hydrate-book";
+                                upDatedSpaPhone = "(904) 799-2965";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15-minute Consultation";
+                                upDatedDurationTwo = "- 45-minutes Lift and Hydrate Treatment"  
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
+                                treatmentSelected = "Lift and Hydrate";
+                                newSpaPhoneNumberSelected = "(904) 342-2870";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Joli Visage Spa LED":
                                 upDatedSpaName = "Joli Visage Spa";
                                 upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
