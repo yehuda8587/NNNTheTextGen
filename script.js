@@ -13180,6 +13180,23 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+                                case "Parie Med Spa Triple Lift $69.95":
+                                upDatedSpaName = "Parie Med Spa";
+                                upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+                                upDatedSpaLINK = " ";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+                                upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/triple-lift-booking" ;
+                                upDatedSpaPhone = "(702) 637-2259";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 15 minutes Cleansing";
+                                upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
+                                promoPrice = "69.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+                                treatmentSelected = "Triple Lift Treatment";
+                                newSpaPhoneNumberSelected = "(702) 930-6221";
+                                insteadOfSpa = "$377"
+                                break;
+
                             
                                 
 
