@@ -16054,6 +16054,58 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
+
+                                case "Aeternitas Neck and Jawline $79.95":
+                                upDatedSpaName = "Aeternitas";
+                                upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+                                upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+                                upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/neck-and-jawline-79-95-book";
+                                upDatedSpaPhone = "(941) 867-4376";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Neck and Jawline Treatment & 15 minutes Consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+                                treatmentSelected = "Neck and Jawline";
+                                newSpaPhoneNumberSelected = "(941) 867-4376";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                 case "Aeternitas Non Surgical Facelift $89.00":
+                                upDatedSpaName = "Aeternitas";
+                                upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+                                upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+                                upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-book-page";
+                                upDatedSpaPhone = "(941) 867-4376";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
+                                promoPrice = "89.00";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+                                treatmentSelected = "Non Surgical Facelift";
+                                newSpaPhoneNumberSelected = "(941) 867-4376";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                 case "Aeternitas Triple Lift $89.00":
+                                upDatedSpaName = "Aeternitas";
+                                upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+                                upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+                                upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/triple-lift-booking";
+                                upDatedSpaPhone = "(941) 867-4376";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = " - 15 minutes Cleansing";
+                                upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & 15 minutes Consultation";
+                                promoPrice = "89.00";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+                                treatmentSelected = "Triple Lift";
+                                newSpaPhoneNumberSelected = "(941) 867-4376";
+                                insteadOfSpa = "$377"
+                                break;
+
                                 case "Latoua Mille Natural Facelift $79.95":
                                 upDatedSpaName = "Latoua Mille";
                                 upDatedSpaAddress = "117 S Main Street, Galena, IL 61036"+"<br>"+"(Galena Main Street downtown, across from champagne on main, next to the bakery)";
