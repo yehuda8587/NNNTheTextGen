@@ -7438,7 +7438,7 @@ function updateForm(){
                                 break;
 
 
-                                ase "Elysium Cosmetic Clinics Lift and Hydrate 69.95":
+                                case "Elysium Cosmetic Clinics Lift and Hydrate 69.95":
                                 upDatedSpaName = "Elysium Cosmetic Clinics";
                                 upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                 upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
@@ -11600,10 +11600,27 @@ function updateForm(){
                                         upDatedSpaPhone = "(317) 518-1860";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15 minutes light cleansing";
-                                        upDatedDurationTwo = "- 45 minutes Natural Facelif Treatment and Consultation"
+                                        upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation"
                                         promoPrice = "79.95";
                                         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (800) 699-6935";
                                         treatmentSelected = "Natural Facelift Treatment";
+                                        newSpaPhoneNumberSelected = "(800) 699-6935";
+                                        insteadOfSpa = "$377";
+                                        break;
+
+                                        case "Queen Bee Greenwood Lift and Hydrate $79.95":
+                                        upDatedSpaName = "Queen Bee";
+                                        upDatedSpaAddress = "Queen Bee – Greenwood Park Mall, 1251 U.S. Highway 31 N, Unit 0F12A Greenwood, IN 46142"+"<br>"+"(Our spa is located inside Greenwood Park Mall, just past Pandora and directly across from Foot Locker Kids.)";
+                                        upDatedSpaLINK = "https://forms.gle/6ykBeakQuACtfEiU7";
+                                        upDatedSpaMapLINK = "https://maps.app.goo.gl/MhmV1XnjUk5HA6tk8";
+                                        upDatedSpaWebLINK = "https://queenbeegw.firstouchbeauty.com/lift-and-hydrate-book";
+                                        upDatedSpaPhone = "(317) 518-1860";
+                                        upDatedDurationTotal = "60 Minutes";
+                                        upDatedDurationOne = "- 15 minutes light cleansing";
+                                        upDatedDurationTwo = "- 45 minutes Lift and Hydrate Treatment and Consultation"
+                                        promoPrice = "79.95";
+                                        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (800) 699-6935";
+                                        treatmentSelected = "Lift and Hydrate Treatment";
                                         newSpaPhoneNumberSelected = "(800) 699-6935";
                                         insteadOfSpa = "$377";
                                         break;
