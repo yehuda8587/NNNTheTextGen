@@ -405,21 +405,7 @@ function updateForm(){
             insteadOfSpa = "$377"
             break;
 
-            case "Beauty Frizz MD":
-            upDatedSpaName = "Beauty Lounge";
-            upDatedSpaAddress = "7101 Democracy Blvd, Bethesda, MD 20817" +"<br>"+"(2nd Floor, Near Nordstrom, Directly left of California Pizza Kitchen)";
-            upDatedSpaLINK = "https://forms.gle/srNaY1uJefDZFANW8";
-            upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beautyfrizz-led-promo";
-            upDatedSpaPhone = "(301) 291-7543";
-            upDatedDurationTotal = "60 Minutes";
-            upDatedDurationOne = "- 15 Minutes Cleansing";
-            upDatedDurationTwo = "- 45 Minutes LED Light Session & Consultation";
-            promoPrice = "99.95"
-            upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 775-3494";
-            treatmentSelected = "LED Treatment";
-            newSpaPhoneNumberSelected = "(301) 775-3494";
-            insteadOfSpa = "$377"
-            break; 
+            
 
             case "Beauty Affairs MediSpa Brookvale Natural Facelift $79.95":
                 upDatedSpaName = "Beauty Affairs MediSpa";
@@ -458,22 +444,7 @@ function updateForm(){
 
             
 
-                case "Beauty Lounge LED 79.95":
-                    upDatedSpaName = "Beauty Lounge";
-                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
-                    upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-                    upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-frizz-ocala-promo-page";
-                    upDatedSpaPhone = "(352) 577-9216";
-                    upDatedDurationTotal = "60 Minutes";
-                    upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
-                    upDatedDurationTwo = "- 30 Minutes LED Anti-Aging Treatment & 15 minutes Consultation";
-                    promoPrice = "79.95"
-                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
-                    treatmentSelected = "LED Treatment";
-                    newSpaPhoneNumberSelected = "(352) 235-9336";
-                    insteadOfSpa = "$377"
-                    break;     
+                   
 
                     case "Beauty Lounge Natural Facelift 79.95":
                     upDatedSpaName = "Beauty Lounge";
@@ -488,6 +459,23 @@ function updateForm(){
                     promoPrice = "79.95"
                     upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
                     treatmentSelected = "Natural Facelift Treatment";
+                    newSpaPhoneNumberSelected = "(352) 235-9336";
+                    insteadOfSpa = "$377"
+                    break;  
+
+                    case "Beauty Lounge Non Surgical Facelift 79.95":
+                    upDatedSpaName = "Beauty Lounge";
+                    upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+                    upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+                    upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+                    upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/non-surgical-facelift-79-95-book";
+                    upDatedSpaPhone = "(352) 607-7773";
+                    upDatedDurationTotal = "60 Minutes";
+                    upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+                    upDatedDurationTwo = "- 30 Minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
+                    promoPrice = "79.95"
+                    upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+                    treatmentSelected = "Non Surgical Facelift Treatment";
                     newSpaPhoneNumberSelected = "(352) 235-9336";
                     insteadOfSpa = "$377"
                     break;  
