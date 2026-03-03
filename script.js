@@ -17592,7 +17592,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Below Zero Spa Rochester Natural Facelift $79.95":
                                 upDatedSpaName = "Below Zero Rochester";
-                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)";
+                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)<br>"+"Nearest entrance: #6";
                                 upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-natural-facelift-promo-79-95";
@@ -17609,7 +17609,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
 
                                 case "Below Zero Spa Rochester Neck and Jawline $79.95":
                                 upDatedSpaName = "Below Zero Rochester";
-                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)";
+                                upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)<br>"+"Nearest entrance: #6";
                                 upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
                                 upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-neck-and-jawline-79-95";
