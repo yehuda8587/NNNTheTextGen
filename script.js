@@ -16222,8 +16222,8 @@ function updateForm(){
                                 upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/natural-facelift-69-95-book-page";
                                 upDatedSpaPhone = "(239) 330-6871";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
+                                upDatedDurationOne = " - 4O minutes Cleansing+LED";
+                                upDatedDurationTwo = " - 20 min Consultation";
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
                                 treatmentSelected = "Natural Facelift Treatment";
@@ -16239,8 +16239,8 @@ function updateForm(){
                                 upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/non-surgical-facelift-book-page";
                                 upDatedSpaPhone = "(239) 330-6871";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes of Non Surgical Facelift Treatment and 15 minutes Consultation";
+                                upDatedDurationOne = " - 4O minutes Cleansing+LED";
+                                upDatedDurationTwo = " - 20 min Consultation";;
                                 promoPrice = "69.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
                                 treatmentSelected = "Non Surgical Facelift Treatment";
