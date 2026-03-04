@@ -7357,12 +7357,12 @@ function updateForm(){
                                         insteadOfSpa = "$377";
                                         break;
 
-                                        case "Esthetix St. Augustine Body Contouring 79.95":
-                                        upDatedSpaName = "Esthetix Spa";
+                                        case "Elysium Cosmetic Clinics Body Contouring 79.95":
+                                        upDatedSpaName = "Elysium Cosmetic Clinics";
                                         upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
                                         upDatedSpaLINK = "https://forms.gle/uqWKcfmgbPZ1Ej17A";
                                         upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
-                                        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/esthetix-st-augustine-body-contouring-79-95";
+                                        upDatedSpaWebLINK = "https://elysium.noneedleneeded.com/body-contouring-79-95-book-page";
                                         upDatedSpaPhone = "(904) 799-2965";
                                         upDatedDurationTotal = "60 Minutes";
                                         upDatedDurationOne = "- 15-minute Body Analysis";
