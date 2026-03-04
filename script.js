@@ -15492,172 +15492,19 @@ function updateForm(){
                                 insteadOfSpa = "$377"
                                 break;
 
-                                case "Nova Aesthetic Natural Facelift $59.95":
+                                case "Nova Aesthetic Bye Bye Mommy Tummy $79.95":
                                 upDatedSpaName = "Nova Aesthetic";
                                 upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
                                 upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-natural-facelift-promo-59-95";
+                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/triple-lift-booking";
                                 upDatedSpaPhone = "(437) 290-4174";
                                 upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Natural Facelift Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic 3 in 1 Skin Tightening $79.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-3-in-1-skin-tightening-promo-79-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening and 15 minutes Consultation";
+                                upDatedDurationOne = " - ";
+                                upDatedDurationTwo = " - 45 minutes Bye Bye Mommy Tummy Treatment and 15 minutes Consultation";
                                 promoPrice = "79.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                 case "Nova Aesthetic 3 in 1 Skin Tightening $59.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-3-in-1-skin-tightening-promo-59-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening and 15 minutes Consultation";
-                                promoPrice = "59.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic DTB 3 in 1 Skin Tightening $79.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-nova-aesthetic-3-in-1-skin-tightening-79-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening and 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "3 in 1 Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Collagen Enhancing $79.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-collagen-enhancing-79-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Collagen Enhancing and 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Collagen Enhancing Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Bye Bye Saggy Arms $79.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/bye-bye-saggy-arms-booking-page-685219";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Arms and 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Bye Bye Saggy Arms Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Bye Bye Saggy Eyes $79.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-bye-bye-saggy-eyes-79-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Bye Bye Saggy Eyes $69.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetic-bye-bye-saggy-eyes-69-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
-                                promoPrice = "79.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Men Skin Tightening $89.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-men-skin-tightening-promo-89-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Men Skin Tightening and 15 minutes Consultation";
-                                promoPrice = "89.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Men Skin Tightening Treatment";
-                                newSpaPhoneNumberSelected = "(437) 410-9788";
-                                insteadOfSpa = "$377"
-                                break;
-
-                                case "Nova Aesthetic Men Skin Tightening $99.95":
-                                upDatedSpaName = "Nova Aesthetic";
-                                upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
-                                upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
-                                upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/nova-aesthetics-men-skin-tightening-promo-99-95";
-                                upDatedSpaPhone = "(437) 290-4174";
-                                upDatedDurationTotal = "60 Minutes";
-                                upDatedDurationOne = " - 15 minutes Cleansing";
-                                upDatedDurationTwo = " - 30 minutes Men Skin Tightening and 15 minutes Consultation";
-                                promoPrice = "99.95";
-                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
-                                treatmentSelected = "Men Skin Tightening Treatment";
+                                treatmentSelected = "Bye Bye Mommy Tummy Treatment";
                                 newSpaPhoneNumberSelected = "(437) 410-9788";
                                 insteadOfSpa = "$377"
                                 break;
@@ -16216,7 +16063,7 @@ function updateForm(){
 
                                 case "Premier Naples Natural Facelift $69.95":
                                 upDatedSpaName = "Premier Naples";
-                                upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)";
+                                upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
                                 upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
                                 upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/natural-facelift-69-95-book-page";
@@ -16233,7 +16080,7 @@ function updateForm(){
 
                                 case "Premier Naples Non Surgical Facelift $69.95":
                                 upDatedSpaName = "Premier Naples";
-                                upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)";
+                                upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
                                 upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
                                 upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
                                 upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/non-surgical-facelift-book-page";
