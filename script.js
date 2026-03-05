@@ -4902,6 +4902,23 @@ function updateForm(){
                                 insteadOfSpa = "$377";
                                 break;
 
+                                case "Gentle Touch Beauty Triple Lift $89.95":
+                                upDatedSpaName = "Gentle Touch Beauty";
+                                upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+                                upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+                                upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/triple-lift-booking" ;
+                                upDatedSpaPhone = "(941) 280-0407";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "15 minute Cleansing";
+                                upDatedDurationTwo = "45 minute Triple Lift Treatment";
+                                promoPrice = "89.95"
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+                                treatmentSelected = "Triple Lift Treatment";
+                                newSpaPhoneNumberSelected = "(941) 244-0044";
+                                insteadOfSpa = "$377";
+                                break;
+
                                 case "Gentle Touch Beauty Natural Facelift $99.95":
                                 upDatedSpaName = "Gentle Touch Beauty";
                                 upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
@@ -13461,6 +13478,40 @@ function updateForm(){
                                 promoPrice = "59.95";
                                 upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
                                 treatmentSelected = "Hydraglow Treatment";
+                                newSpaPhoneNumberSelected = "(808) 779-8279";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals Triple Lift $59.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/triple-lift-booking";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Triple Lift Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "59.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                treatmentSelected = "Triple Lift Treatment";
+                                newSpaPhoneNumberSelected = "(808) 779-8279";
+                                insteadOfSpa = "$377"
+                                break;
+
+                                case "Moana Crystals Men Skin Tightening $79.95":
+                                upDatedSpaName = "Moana Crystals";
+                                upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+                                upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+                                upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/men-skin-tightening-79-95-booking";
+                                upDatedSpaPhone = "(808) 764-3367";
+                                upDatedDurationTotal = "60 Minutes";
+                                upDatedDurationOne = "- 10 minutes Cleansing";
+                                upDatedDurationTwo = "- 40 minutes Men Skin Tightening Treatment and 10 minutes post-care and consultation";
+                                promoPrice = "79.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+                                treatmentSelected = "Men Skin Tightening Treatment";
                                 newSpaPhoneNumberSelected = "(808) 779-8279";
                                 insteadOfSpa = "$377"
                                 break;
