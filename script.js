@@ -17102,6 +17102,23 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
                                 insteadOfSpa = "$377"
                                 break;
 
+                                ase "Lumera Skin Clinics Hair Removal $99.95":
+                                upDatedSpaName = "Lumera Skin Clinics";
+                                upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+                                upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+                                upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/hair-removal-booking-page";
+                                upDatedSpaPhone = "(438) 230-4017";
+                                upDatedDurationTotal = "50 Minutes";
+                                upDatedDurationOne = "- 35 minutes of Hair Removal Treatment and 15 minutes Consultation";
+                                upDatedDurationTwo = "- 15 minutes Consultation";
+                                promoPrice = "299.95";
+                                upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
+                                treatmentSelected = "Hair Removal Treatment";
+                                newSpaPhoneNumberSelected = "(514) 208‑0226";
+                                insteadOfSpa = "$499"
+                                break;
+
                                 case "Lumera Skin Clinics Neck and Jawline $99.95":
                                 upDatedSpaName = "Lumera Skin Clinics";
                                 upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
