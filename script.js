@@ -14,6 +14,12 @@ let upDatedSpaLINK = "SELECT SPA FOR FORM LINK"
 // Location MAP LINK variables in text
 let locationMapLinkArray = document.getElementsByClassName("varLocationMapLink");
 let upDatedSpaMapLINK = "SELECT SPA FOR MAP LINK"; // New variable for map link
+
+
+// Location Parking LINK variables in text
+let locationMapLinkArray = document.getElementsByClassName("varLocationParkLink");
+let upDatedSpaMapLINK = "SELECT SPA FOR PARKING LINK"; // New variable for parking link
+
 // NNN Location PHONE variables in text
 let locationPhoneArray = document.getElementsByClassName("varLocationPhone");
 let upDatedSpaPhone = "SELECT SPA FOR Location Phone" 
@@ -67,6 +73,12 @@ function updateForm(){
     for (let i = 0; i < locationMapLinkArray.length; i++) {
         locationMapLinkArray[0].innerHTML = upDatedSpaMapLINK;
         locationMapLinkArray[i].innerHTML = upDatedSpaMapLINK; // Update map link
+            }
+
+      // LOCATION PARk LINK FORLOOP        
+    for (let i = 0; i < locationMapLinkArray.length; i++) {
+        locationMapLinkArray[0].innerHTML = upDatedSpaParkLINK;
+        locationMapLinkArray[i].innerHTML = upDatedSpaParkLINK; // Update parking link
             }
 
             //LOCATION Phone FORLOOP
@@ -17717,6 +17729,12 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
     let mapLinkArray = document.getElementsByClassName("varLocationMapLink");
     for (var i = 0; i < mapLinkArray.length; i++) {
     mapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
+}
+
+      //Parking LINK
+    let mapLinkArray = document.getElementsByClassName("varLocationParkLink");
+    for (var i = 0; i < mapLinkArray.length; i++) {
+    mapLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
 }
 
  
