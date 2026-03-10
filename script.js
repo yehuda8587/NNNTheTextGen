@@ -11910,6 +11910,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Premier Naples Men Skin Tightening $79.95":
+        upDatedSpaName = "Premier Naples";
+        upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
+        upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
+        upDatedSpaParkLINK = "https://maps.app.goo.gl/cKQGjT5Gws4goAmN8";
+        upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/men-skin-tightening-79-95-booking";
+        upDatedSpaPhone = "(239) 330-6871";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationTwo = " - 20 min Consultation";;
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
+        treatmentSelected = "Men Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(239) 963-6077";
+        insteadOfSpa = "$377"
+        break;    
+
         case "Premier Pensacola":
         upDatedSpaName = "Premier Spa";
         upDatedSpaAddress = "Inside Cordova Mall," + "<br>" + "5100 N 9th Ave Pensacola, FL 32504"+"<br>"+"(Dick’s aisle, next to Buckle)";
