@@ -17730,11 +17730,19 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
     mapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
 }
 
-      //Parking LINK
+      //Parking LINK - only show for Premier Naples
     let parkLinkArray = document.getElementsByClassName("varLocationParkLink");
-for (var i = 0; i < parkLinkArray.length; i++) {
-    parkLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
-}
+    for (var i = 0; i < parkLinkArray.length; i++) {
+        parkLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
+    }
+    let parkingLine = document.getElementById("parkingLine");
+    if (parkingLine) {
+        if (spaNameStatus.innerHTML.includes("Premier Naples")) {
+            parkingLine.style.display = "inline";
+        } else {
+            parkingLine.style.display = "none";
+        }
+    }
 
  
 
