@@ -3269,170 +3269,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Colorado MedLaser Cryo Body Sculpting":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-cryo-body-sculpting";
-        upDatedSpaPhone = "(720) 358-4719";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
-        upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$399";
-        break;
 
-        case "Colorado MedLaser Cryo Body Sculpting 69.95":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-colorado-medlaser-cryo-body-sculpting";
-        upDatedSpaPhone = "(720) 358-4719";
+        case "Chantel Beauty Spa Neck and Jawline $59.95":
+        upDatedSpaName = "Chantel Beauty Spa";
+        upDatedSpaAddress = "12285 Scripps Poway Pkwy, Poway, CA 92064"+"<br>"+"(STE103 - Front store in the plaza between 2 dentist)";
+        upDatedSpaLINK = "https://forms.gle/x5fSwJsBi3388VxT8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/wJs4VNoeJWwweu3s7";
+        upDatedSpaWebLINK = "https://chantelbeauty.firstouchbeauty.com/booking-neck-and-jawline-59-95-ltb";
+        upDatedSpaPhone = "(858) 746-7200";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes Anti-Freeze Membrane & Cryo Head";
-        upDatedDurationTwo = "- 10-minute Massage & 20-minutes Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$399";
-        break;
-
-        case "Colorado MedLaser LED":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-led-promo";
-        upDatedSpaPhone = "(720) 358-4719";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40-minutes Skin Tightening & LED Anti-Aging Treatment";
-        upDatedDurationTwo = "- 20-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Colorado MedLaser Skin Tightening":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-promo";
-        upDatedSpaPhone = "(720) 358-4719";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
-        upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$399";
-        break;
-
-        case "Colorado MedLaser Skin Tightening 59.95":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/colorado-medlaser-skin-tightening-new-promo";
-        upDatedSpaPhone = "(720) 358-4719";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
-        upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes of Neck and Jawline Treatment and 15 minutes Consultation";
         promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$299";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 673-8219";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(619) 673-8219";
+        insteadOfSpa = "$377"
         break;
-
-        case "Colorado MedLaser Skin Tightening 69.95":
-        upDatedSpaName = "Colorado MedLaser";
-        upDatedSpaAddress = "Dry Creek Medical Office Building,"+"<br>"+"125 Inverness Dr E, Englewood, CO 80112"+"<br>"+"(3rd floor, STE #340)";
-        upDatedSpaLINK = "https://forms.gle/4Wk3RaTCuTQP3hhe7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/new-colorado-medlaser-skin-tightening-promo";
-        upDatedSpaPhone = "(720) 358-4719";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes light Cleansing, Massage & HIFU";
-        upDatedDurationTwo = "- 10-minutes LED Treatment & 20-minute Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (720) 960-7077";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(720) 960-7077";
-        insteadOfSpa = "$299";
-        break;
-
-        case "D'or24k Prestige Spa LED":
-        upDatedSpaName = "D'or24k Prestige Spa";
-        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/d-or24k-prestige-promo-page";
-        upDatedSpaPhone = "(567) 298-4583";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(971) 380-9085";
-        insteadOfSpa = "$350";
-        break;
-
-        case "D'or24k Prestige Spa LED 69.95":
-        upDatedSpaName = "D'or24k Prestige Spa";
-        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-prestige-led-promo";
-        upDatedSpaPhone = "(567) 298-4583";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(971) 380-9085";
-        insteadOfSpa = "$377";
-        break;
-
-        case "D'or24k Prestige Spa Natural Facelift 69.95":
-        upDatedSpaName = "D'or24k Prestige Spa";
-        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-facelift-treatment-69-95";
-        upDatedSpaPhone = "(567) 298-4583";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 10-minute Cleansing";
-        upDatedDurationTwo = "- 20-minutes Natural Facelift Treatment and 15 minutes Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(971) 380-9085";
-        insteadOfSpa = "$377";
-        break;
-
-        case "D'or24k Prestige Spa Natural Skin Tightening 69.95":
-        upDatedSpaName = "D'or24k Prestige Spa";
-        upDatedSpaAddress = "Franklin Park Mall,"+"<br>"+"5001 Monroe St, Toledo, OH 43623"+"<br>"+"(first floor, across Victoria's secret)";
-        upDatedSpaLINK = "https://forms.gle/o2S43wbLekVFC81x9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/oxUFHyAa7n2cUa9m6";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dor24k-natural-skin-tightening-69-95";
-        upDatedSpaPhone = "(567) 666-4053";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 10-minute Cleansing";
-        upDatedDurationTwo = "- 20-minutes Natural Skin Tightening Treatment and 15 minutes Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (971) 380-9085";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(971) 380-9085";
-        insteadOfSpa = "$377";
-        break;
-
+            
         case "Dermalogy Med Spa Body Treatment $49.95":
         upDatedSpaName = "Dermalogy Med Spa";
         upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
