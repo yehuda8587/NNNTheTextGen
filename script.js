@@ -16169,7 +16169,8 @@ function updateForm(){
                                 upDatedSpaName = "Premier Naples";
                                 upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
                                 upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
-                                upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9"+"<br>"+"Parking:"+"<br>"+"https://maps.app.goo.gl/cKQGjT5Gws4goAmN8";
+                                upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
+                                upDatedSpaParkLINK = "https://maps.app.goo.gl/cKQGjT5Gws4goAmN8";
                                 upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/non-surgical-facelift-book-page";
                                 upDatedSpaPhone = "(239) 330-6871";
                                 upDatedDurationTotal = "60 Minutes";
@@ -17718,11 +17719,7 @@ case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
     mapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
 }
 
-     //Parking LINK
-    let mapLinkArray = document.getElementsByClassName("varLocationParkLink");
-    for (var i = 0; i < mapLinkArray.length; i++) {
-    mapLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
-}
+ 
 
     // CUSTOMER NAME LOOP
     for(var i = 0; i < custNameArray.length; i++){
