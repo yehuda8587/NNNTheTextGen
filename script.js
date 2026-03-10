@@ -10057,29 +10057,12 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Natural Blossom by Adore LED":
-        upDatedSpaName = "Natural Blossom by Adore";
-        upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-        upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-promo-page";
-        upDatedSpaPhone = "(780) 900-4210";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(780) 890-0008";
-        insteadOfSpa = "$350";
-        break;
-
         case "Natural Blossom by Adore Natural Facelift $69.95":
         upDatedSpaName = "Natural Blossom by Adore";
         upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
         upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-facelift-promo-69-95";
+        upDatedSpaWebLINK = "https://naturalblossom.noneedleneeded.com/natural-facelift-69-95-book-page";
         upDatedSpaPhone = "(780) 900-4210";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minute Cleansing";
@@ -10091,157 +10074,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Natural Blossom by Adore Natural Facelift $79.95":
-        upDatedSpaName = "Natural Blossom by Adore";
-        upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-        upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-natural-face-lift-promo-79-95";
-        upDatedSpaPhone = "(780) 900-4210";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(780) 890-0008";
-        insteadOfSpa = "$350";
-        break;
-
-        case "Natural Blossom by Adore Neck and Jawline 69.95":
-        upDatedSpaName = "Natural Blossom by Adore";
-        upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-        upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-69-95";
-        upDatedSpaPhone = "(780) 900-4210";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-        treatmentSelected = "Neck and Jawline Tightening";
-        newSpaPhoneNumberSelected = "(780) 890-0008";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Natural Blossom by Adore Neck and Jawline 99.95":
-        upDatedSpaName = "Natural Blossom by Adore";
-        upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-        upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-neck-and-jaw-line-tightening-treatment-promo";
-        upDatedSpaPhone = "(780) 900-4210";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-        treatmentSelected = "Neck and Jawline Tightening";
-        newSpaPhoneNumberSelected = "(780) 890-0008";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Natural Blossom by Adore Skin Tightening 99.95":
-        upDatedSpaName = "Natural Blossom by Adore";
-        upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
-        upDatedSpaLINK = "https://forms.gle/t5PE58hv1M3gzFbx8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/zyeTcS8EHcR9EiUcA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-edmonton-skin-tightening-promo-page";
-        upDatedSpaPhone = "(780) 900-4210";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 45-minutes Skin Tightening Treatment"
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(780) 890-0008";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Natural Blossom LED":
-        upDatedSpaName = "Natural Blossom Spa";
-        upDatedSpaAddress = "112 A Saint George Street St. Augustine, Florida 32084" + "<br>" + "(Across from Five & Dime)";
-        upDatedSpaLINK = "https://forms.gle/92UM2qkkZQdkrJdN9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/naturalblossom-ledpromo";
-        upDatedSpaPhone = "(904) 368-6790";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 30 Minutes LED Experience" +"<br>" + "- 15 Minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 615-1394";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(904) 615-1394";
-        insteadOfSpa = "$350";
-        break;
-
-        case "NeoLumo Florence":
-        upDatedSpaName = "NeoLumo Florence";
-        upDatedSpaAddress = "Magnolia Mall,"+"<br>"+"2701 David H McLeod Blvd Florence, SC 29501"+"<br>"+"(Next to Kay Jewelers)";
-        upDatedSpaLINK = "https://forms.gle/HLY8sSM46sDjSD8V6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/neolumo-promo-page";
-        upDatedSpaPhone = "(864) 999-4665";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minutes of Cleansing";
-        upDatedDurationTwo = "- 30-minutes LED Anti-Aging Treatment"+"<br>"+"15-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (864) 999-4665";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(864) 999-4665";
-        insteadOfSpa = "$350";
-        break;
-
-        case "NEW LOCATION DTB Iridescent Wellness and Medical Spa Natural Facelift $79.95":
-        upDatedSpaName = "Iridescent Wellness and Medical Spa";
-        upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
-        upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-iridescent-med-spa-natural-facelift-79";
-        upDatedSpaPhone = "(586) 248-4419";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(586)690-8693";
-        insteadOfSpa = "$377";
-        break;
-
-        case "NEW LOCATION Iridescent Wellness and Medical Spa Cryo Body Contouring $79.95":
-        upDatedSpaName = "Iridescent Wellness and Medical Spa";
-        upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
-        upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-cryo-body-contouring-promo-79-95";
-        upDatedSpaPhone = "(586) 248-4419";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 30-minutes Cryo Body Contouring Treatment";
-        upDatedDurationTwo = "- 10-minutes Post Care Massage and 20 minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
-        treatmentSelected = "Cryo Body Contouring Treatment";
-        newSpaPhoneNumberSelected = "(586)690-8693";
-        insteadOfSpa = "$377";
-        break;
-
-        case "NEW LOCATION Iridescent Wellness and Medical Spa Natural Facelift $79.95":
-        upDatedSpaName = "Iridescent Wellness and Medical Spa";
-        upDatedSpaAddress = "River Oaks Suites,"+"<br>"+"42855 Garfield Rd. Clinton Twp, MI 48038"+"<br>"+"(STE 105, Located near 19 Mile/Garfield. Right off of Garfield Rd in River Oaks Office Complex)";
-        upDatedSpaLINK = "https://forms.gle/c66G44jKBffGC9Q69";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/UVRaZSvzY1UwPXAL7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/iridescent-med-spa-natural-facelift-79-95";
-        upDatedSpaPhone = "(586) 248-4419";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 30-minutes Natural Facelift Treatment and 15-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (586)690-8693";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(586)690-8693";
-        insteadOfSpa = "$377";
-        break;
-
+      
         case "Nova Aesthetic Bye Bye Mommy Tummy $79.95":
         upDatedSpaName = "Nova Aesthetic";
         upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
