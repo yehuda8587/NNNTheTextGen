@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5006,6 +5005,29 @@
                 </div>
 
                 <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingLeadFollowSMS">
+                    <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseLeadFollowSMS" aria-expanded="false" aria-controls="flush-collapseLeadFollowSMS">
+                      Lead Created - Follow Up SMS
+                    </button>
+                  </h2>
+                  <div id="flush-collapseLeadFollowSMS" class="accordion-collapse collapse" aria-labelledby="flush-headingLeadFollowSMS" data-bs-parent="#LeadsFunnelAccordion">
+                    <div class="accordion-body">
+                      <p id="AnswerLeadFollowSMS">
+                        Hi <span class="varCustName"></span>! You inquired about our <span class="varTreatmentSelected"></span> promo on Facebook/Instagram. I tried calling but couldn't reach you. Is 2PM or 5PM better for a quick call?<br>
+                        <span class="varRepName"></span><br>
+                        <span class="varLocationName"></span><br><br>
+                        Reply STOP to opt out.
+                      </p>
+                      <div class="d-flex justify-content-end">
+                        <button type="button" class="copy-udi" onclick="copyEvent('AnswerLeadFollowSMS')" aria-label="Copy text"><i class="text-right far fa-copy"></i></button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+<!-- VOICEMAIL AND DAY1CALL3 - HIDDEN -->
+<!--
+                <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingVMFollow">
                     <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseVMFollow" aria-expanded="false" aria-controls="flush-collapseVMFollow">
                       Voicemail - Follow Up
@@ -5041,7 +5063,8 @@
                     </div>
                   </div>
                 </div>
-
+-->
+<!-- VOICEMAIL AND DAY1CALL3 - HIDDEN END -->
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
@@ -5051,12 +5074,10 @@
                   <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#LeadsFunnelAccordion">
                     <div class="accordion-body">
                       <p id="AnswerTwo">
-                        We only have a few spots left for this promotion—don’t miss out! 😊 <br>
-                        To learn more or book your appointment, visit: <span class="varWebLink"></span><br>
-                        Need help? Text or call us at this number.<br><br>
+                        Hurry—our promotion is almost full! Reserve your spot now: <span class="varWebLink"></span><br>
+                        Need help? Call or text us at <span class="varLocationPhone"></span>.<br><br>
                         Reply STOP to opt out.
-
-                    </p>
+                      </p>
                     <div class="d-flex justify-content-end">
                       <button type="button" class="copy-udi" onclick="copyEvent('AnswerTwo')"><i class=" text-right far fa-copy"></i></button>
                     </div>
