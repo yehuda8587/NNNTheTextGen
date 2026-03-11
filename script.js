@@ -2022,7 +2022,7 @@ function updateForm(){
         upDatedSpaAddress = "456 N. New Ballas, Suite 342"+"<br>"+"(After entering the building, the elevators are located on the right. Take the elevator to the 3rd floor. When you exit, turn right and walk straight down the hallway. Suite 342 will be at the end.)";
         upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/nBmbYU6RuH73iqAy7";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/blesseli-spa-natural-facelift-79-95";
+        upDatedSpaWebLINK = "https://blesseli.advancedbeautytreatments.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(314) 377-5991";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
