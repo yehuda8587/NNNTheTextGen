@@ -10610,114 +10610,12 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Skin Analytics":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-spa-led-promo"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 30 Minutes LED Light Session & a 15 minutes Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$350"
-        break;
-
-        case "Skin Analytics Collagen Enhancing Treatment":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-collagen-enhancing-facial-promo-page"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Collagen Enhancing Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$299"
-        break;
-
-        case "Skin Analytics Gold Treatment":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-gold-collagen-facial"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Gold Collagen Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "80"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$299"
-        break;
-
-        case "Skin Analytics Male Non-Surgical Face Lift":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-mens-non-surgical-facelift-promo-page"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Non-Surgical Face Lift & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Non-Surgical Face Lift";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Skin Analytics Natural Facelift $69.95":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-69-95"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Skin Analytics Natural Facelift 79.95":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skinanalytics-naturalfacelift-treatment-79"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$377"
-        break;
-
         case "Skin Analytics Natural Facelift 89.95":
         upDatedSpaName = "Skin Analytics Spa";
         upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
         upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-natural-facelift-treatment"
+        upDatedSpaWebLINK = "https://skin-analytics.noneedleneeded.com/natural-facelift-89-95-book-page"
         upDatedSpaPhone = "(919) 695-9376";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleaning";
@@ -10729,53 +10627,20 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Skin Analytics Neck and Jawline $89.95":
+    
+        case "Skin Analytics Triple Lift 89.95":
         upDatedSpaName = "Skin Analytics Spa";
         upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
         upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-neck-and-jawline-89-95"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Neck and Jawline Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "89.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Skin Analytics Skin Tightening $69.95":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-skin-tightening-69-95"
-        upDatedSpaPhone = "(919) 695-9376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Skin Tightening Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(919) 405-2586";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Skin Analytics Spa Skin Tightening Treatment":
-        upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's across from Forever 21)";
-        upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-analytics-spa-skin-tightening-treatment-with-hifu-led-page"
+        upDatedSpaWebLINK = "https://skin-analytics.noneedleneeded.com/triple-lift-booking"
         upDatedSpaPhone = "(919) 695-9376";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 30 Minutes Skin Tightening w/ HIFU & LED Technology & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
-        promoPrice = "79.95"
+        upDatedDurationTwo = "- 30 Minutes Triple Lift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
+        promoPrice = "89.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Skin Tightening Treatment with HIFU & LED";
+        treatmentSelected = "Triple Lift Treatment;
         newSpaPhoneNumberSelected = "(919) 405-2586";
         insteadOfSpa = "$399"
         break;
