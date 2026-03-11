@@ -7403,102 +7403,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Melle Soul Skin and Body Collagen Enhancing":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo-page";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minutes light cleansing";
-        upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "Collagen Enhancing";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Melle Soul Skin and Body Collagen Enhancing 59":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-collagen-enhancing-promo";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minutes light cleansing";
-        upDatedDurationTwo = "- 30-minute Collagen Enhancing Treatment and Consultation"
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "Collagen Enhancing";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Melle Soul Skin and Body LED":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-led-promo-page";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 10-minutes Consultation";
-        upDatedDurationTwo = "- 35-minute LED Anti-aging Treatment"
+        case "Meital Studios Beauty Triple Lift $79.95":
+        upDatedSpaName = "Meital Studios Beauty";
+        upDatedSpaAddress = "4401 Bathurst St. North York, ON M3H3R9"+"<br>"+"(Intersection of Bathurst & Sheppard inside RBC building, 3rd floor, Unit #300 glass door)";
+        upDatedSpaLINK = "https://forms.gle/Db58xPVxiEkjbtMQ6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/2kCEmxCr2YTyvch96";
+        upDatedSpaWebLINK = "https://meital-studio.firstouchbeauty.com/triple-lift-booking";
+        upDatedSpaPhone = "(437) 290-4169";
+        upDatedDurationTotal = "70 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 45 minutes Triple Lift Treatment";
+        upDatedDurationTwo = "- 10 minutes Consultation";
         promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$300";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 243-4780";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(647) 243-4780";
+        insteadOfSpa = "$377"
         break;
 
-        case "Melle Soul Skin and Body Men's LED":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-mens-led-promo-page";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
-        upDatedDurationTwo = "- 15-minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Melle Soul Skin and Body Neck and Jawline":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/melle-soul-skin-amp-body-neck-and-jaw-line-tightening-treatment-promo";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 30-minute Neck and Jawline Treatment";
-        upDatedDurationTwo = "- 15-minutes Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Melle Soul Skin and Body Skin Tightening 69.95":
-        upDatedSpaName = "Melle Soul Skin and Body";
-        upDatedSpaAddress = "12247 Queenston Blvd. Houston, TX 77095"+"<br>"+"(STE A)"+"<br>"+"(Free Parking within the Plaza)";
-        upDatedSpaLINK = "https://forms.gle/eqHNxsWTKb8peijE8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-melle-soul-skin-amp-body-skin-tightening-treatment";
-        upDatedSpaPhone = "(346) 646-5755";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 30-minute LED Anti-Aging Treatment";
-        upDatedDurationTwo = "- 15-minutes Consultation"
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (832) 920-4942";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(832) 920-4942";
-        insteadOfSpa = "$377";
-        break;
-
+        
         case "Miliv Med Spa 3 in 1 Skin Tightening $79.95":
         upDatedSpaName = "Miliv Med Spa";
         upDatedSpaAddress = "524 Waugh Dr. Houston TX 77019"+"<br>"+"(2nd Floor, Above Bayou Liquor)";
