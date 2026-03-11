@@ -10562,7 +10562,7 @@ function updateForm(){
         upDatedDurationTwo = "- 30 Minutes Triple Lift Treatment & a 15 minute Consultation"+"<br><br>"+"Dont Forget! You are eligible for a 25% off your next purchase at our spa :)";
         promoPrice = "89.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (919) 405-2586";
-        treatmentSelected = "Triple Lift Treatment;
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(919) 405-2586";
         insteadOfSpa = "$399"
         break;
