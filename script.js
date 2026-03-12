@@ -9666,67 +9666,17 @@ function updateForm(){
         insteadOfSpa = "$350";
         break;
 
-        case "Prestige Clearwater":
-        upDatedSpaName = "Prestige Spa";
-        upDatedSpaAddress = "Countryside Mall," + "<br>" + "27001 US Hwy 19 N, Clearwater, FL 33761"+"<br>"+"(Next to Victoria's Secrets)";
-        upDatedSpaLINK = "https://forms.gle/kALTejFtfwnYpKnm6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/prestige-clearwater-ledpromo";
-        upDatedSpaPhone = "(727) 308-0391";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 10 minutes Cleansing";
-        upDatedDurationTwo = "- 35 minutes LED Anti-aging Treatment" + "<br>" + "- 15 minutes of Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 383-5302";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(762) 383-5302";
-        insteadOfSpa = "$350";
-        break;
-
-        case "Prime Clinic 3 in 1 Skin Lifting $69.95":
+        case "Prime Clinic 3 in 1 Skin Tightening $79.00":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-69-95";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Lifting Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "3 in 1 Skin Lifting Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic 3 in 1 Skin Lifting $79.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-lifting-79-95";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Lifting Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "3 in 1 Skin Lifting Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic 3 in 1 Skin Tightening $59.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-3-in-1-skin-tightening-59-95";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/3-in-1-skin-tightening-79-book";
         upDatedSpaPhone = "(863) 278-3069";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
+        promoPrice = "79.00";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "3 in 1 Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
@@ -9750,6 +9700,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Prime Clinic Hydraglow $79.00":
+        upDatedSpaName = "Prime Clinic";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/hydraglow-79-book";
+        upDatedSpaPhone = "(863) 278-3069";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleansing and Hydraglow Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "79.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
+        treatmentSelected = "Hydraglow Treatment";
+        newSpaPhoneNumberSelected = "813-214-8046";
+        insteadOfSpa = "$377"
+        break;
+
         case "Prime Clinic Natural Facelift $69.95":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
@@ -9767,87 +9734,19 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Prime Clinic Natural Facelift $79.95":
+        case "Prime Clinic Natural Facelift $79.00":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-natural-facelift-79-95-377";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-79-book-page";
         upDatedSpaPhone = "(863) 278-3069";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
+        promoPrice = "79.00";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic Neck and Jawline $69.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-neck-and-jawline-69-95-377";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Neck and Jawline Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic Neck and Jawline $79.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-neck-and-jawline-79-95-377";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Neck and Jawline Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic Skin Tightening $69.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-skin-tigtening-69-95";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Prime Clinic Skin Tightening $79.95":
-        upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
-        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/prime-clinic-skin-tigtening-79-95";
-        upDatedSpaPhone = "(863) 278-3069";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
-        treatmentSelected = "Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
         insteadOfSpa = "$377"
         break;
@@ -9863,6 +9762,23 @@ function updateForm(){
         upDatedDurationOne = "- 45 minutes Cleansing and Triple Lift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
         promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "813-214-8046";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Prime Clinic Triple Lift $79.00":
+        upDatedSpaName = "Prime Clinic";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-booking";
+        upDatedSpaPhone = "(863) 278-3069";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleansing and Triple Lift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "79.00";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
