@@ -9591,7 +9591,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 4O minutes Cleansing+LED";
         upDatedDurationTwo = " - 20 min Consultation";;
-        promoPrice = "69.95";
+        promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
         treatmentSelected = "Men Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "(239) 963-6077";
