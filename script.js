@@ -5636,7 +5636,24 @@ function updateForm(){
         upDatedDurationTwo = "- 45 Minutes Hyperpigmentation Treatment and Consultation";
         promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-        treatmentSelected = "Hyperpigmentation Treatment Treatment";
+        treatmentSelected = "Hyperpigmentation Treatment";
+        newSpaPhoneNumberSelected = "(647) 277-5122";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Kristals Burlington Triple Lift $79.95":
+        upDatedSpaName = "Kristals Burlington Spa";
+        upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
+        upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(647) 749-7406";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Light Cleansing";
+        upDatedDurationTwo = "- 45 Minutes Triple Lift and Consultation";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(647) 277-5122";
         insteadOfSpa = "$377"
         break;
