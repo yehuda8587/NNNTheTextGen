@@ -1405,6 +1405,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Ben's Beauty Triple Lift $59.95":
+        upDatedSpaName = "Ben's Beauty Spa";
+        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+        upDatedSpaMapLINK = "";
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/triple-lift-booking" ;
+        upDatedSpaPhone = "(626) 225-0556";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing ";
+        upDatedDurationTwo = "30 minutes of Triple Lift Treatment and 15 minutes Consultation";
+        promoPrice = "59.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(626) 298-6456";
+        insteadOfSpa = "$377";
+        break;
+
         case "Ben's Beauty Bye Bye Saggy Eyes $59.95":
         upDatedSpaName = "Ben's Beauty Spa";
         upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
@@ -4143,6 +4160,23 @@ function updateForm(){
         promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
         treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Glameria Triple Lift $79.95":
+        upDatedSpaName = "Glameria";
+        upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(Main Floor between Pandora and Nespresso. The best Entrance is the East Entrance)";
+        upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
+        upDatedSpaWebLINK = "https://glameria.firstouchbeauty.com/triple-lift-booking";
+        upDatedSpaPhone = "(587) 200-7971";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(587) 800-1699";
         insteadOfSpa = "$377"
         break;
@@ -9832,6 +9866,23 @@ function updateForm(){
         promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
         treatmentSelected = "Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$350";
+        break;
+
+        case "Pura Vida AB Triple Lift $79.95":
+        upDatedSpaName = "Pura Vida Spa";
+        upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
+        upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jBNQdzDcNS4N5GkY7";
+        upDatedSpaWebLINK = "https://puravida.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(587) 328-6478";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTwo = "- 30 Minutes Triple Lift & Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(587) 800-1699";
         insteadOfSpa = "$350";
         break;
