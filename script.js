@@ -8901,142 +8901,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Ola Aesthetic and Spa Natural Facelift $59.95":
-        upDatedSpaName = "Ola Aesthetic and Spa";
-        upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
-        upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ola-aesthetics-natural-facelift-promo-59-95";
-        upDatedSpaPhone = "(832) 389-2267";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(713) 933-5371";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ola Aesthetic and Spa Natural Facelift $79.95":
-        upDatedSpaName = "Ola Aesthetic and Spa";
-        upDatedSpaAddress = "La Sendera at Barker Cypress, 6211 W Barker Cypress Rd. Houston, TX 77449"+"<br>"+"(Unit C102, Next to Domino's Pizza)";
-        upDatedSpaLINK = "https://forms.gle/LXTJeUNG73anr6sE8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/pN89Qvhy7kChY6vh9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ola-aesthetics-natural-facelift-promo";
-        upDatedSpaPhone = "(832) 389-2267";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 933-5371";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(713) 933-5371";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa 3 in 1 Skin Tightening $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-3-in-1-skin-tightening";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Tightening Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "3 in 1 Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$399"
-        break;
-
-        case "Ora Med Spa DTB Natural Facelift $69.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-69-95-dtb-2";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Hydraglow $69.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-hydraglow-promo-69-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Hydraglow Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$399"
-        break;
-
-        case "Ora Med Spa Hydraglow $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-hydraglow-promo";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Hydraglow Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Hydraglow Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$399"
-        break;
-
-        case "Ora Med Spa Hyperpigmentation Treatment $69.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-medical-spa-hyperpigmentation-treatment-69-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Hyperpigmentation Treatment and 15 minutes post-care and consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Hyperpigmentation Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Hyperpigmentation Treatment $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/oral-medical-spa-hyperpigmentation-treatment-79-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Hyperpigmentation Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Hyperpigmentation Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
         case "Ora Med Spa LuminO2 Hydra Lift $59.95":
         upDatedSpaName = "Ora Medical Spa";
         upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
@@ -9054,46 +8918,12 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Ora Med Spa Men Skin Tightening $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-men-skin-tightening-promo-79-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Men Skin Tightening $89.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-men-skin-tightening-promo";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
         case "Ora Med Spa Natural Facelift $59.95":
         upDatedSpaName = "Ora Medical Spa";
         upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
         upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-59-95";
+        upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/natural-facelift-59-95-book";
         upDatedSpaPhone = "(850) 988-9735";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
@@ -9101,74 +8931,6 @@ function updateForm(){
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Natural Facelift $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-facelift-promo";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Natural Skin Tightening $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-natural-skin-tightening-promo";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Neck and Jawline $69.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-neck-amp-amp-jawline-promo-69-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(850) 501-3350";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Ora Med Spa Neck and Jawline $79.95":
-        upDatedSpaName = "Ora Medical Spa";
-        upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
-        upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-neck-amp-jawline-promo-79-95";
-        upDatedSpaPhone = "(850) 988-9735";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(850) 501-3350";
         insteadOfSpa = "$377"
         break;
@@ -9190,19 +8952,19 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Ora Med Spa Skin Tightening $69.95":
+        case "Ora Med Spa Triple Lift $59.95":
         upDatedSpaName = "Ora Medical Spa";
         upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
         upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/ora-med-spa-skin-tightening";
+        upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/triple-lift-booking";
         upDatedSpaPhone = "(850) 988-9735";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "69.95";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (850) 501-3350";
-        treatmentSelected = "Natural Facelift Treatment";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(850) 501-3350";
         insteadOfSpa = "$377"
         break;
