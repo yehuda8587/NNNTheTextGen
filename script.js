@@ -919,8 +919,8 @@ function updateForm(){
         upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
         upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "+61 483 946 963";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " ";
         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
         promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9905 3873";
@@ -936,8 +936,8 @@ function updateForm(){
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
         upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "+61 468 021 570";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " ";
         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
         promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
