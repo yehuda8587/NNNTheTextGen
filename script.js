@@ -912,38 +912,38 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Beauty Affairs MediSpa Brookvale Natural Facelift $79.95":
+        case "Beauty Affairs MediSpa Brookvale Natural Facelift $148":
         upDatedSpaName = "Beauty Affairs MediSpa";
         upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
         upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
-        upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/natural-facelift-79-95-book-page";
+        upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/booking-page-natural-facelift-148";
         upDatedSpaPhone = "+61 483 946 963";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
-        promoPrice = "79.95"
+        promoPrice = "148"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9905 3873";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "+612 9905 3873";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$400"
         break;
 
-        case "Beauty Affairs MediSpa CBD Natural Facelift $79.95":
+        case "Beauty Affairs MediSpa CBD Natural Facelift $148":
         upDatedSpaName = "Beauty Affairs MediSpa";
         upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
         upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
-        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/natural-facelift-79-95-book-page";
+        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/natural-facelift-148-book-page";
         upDatedSpaPhone = "+61 468 021 570";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
-        promoPrice = "79.95"
+        promoPrice = "148"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "+612 9286 3898";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$400"
         break;
 
         case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
@@ -2038,7 +2038,7 @@ function updateForm(){
         upDatedSpaName = "Blesseli Spa ";
         upDatedSpaAddress = "456 N. New Ballas, Suite 342"+"<br>"+"(After entering the building, the elevators are located on the right. Take the elevator to the 3rd floor. When you exit, turn right and walk straight down the hallway. Suite 342 will be at the end.)";
         upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/nBmbYU6RuH73iqAy7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/AuXmTsoZBL1ck2Qk7";
         upDatedSpaWebLINK = "https://blesseli.advancedbeautytreatments.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(314) 377-5991";
         upDatedDurationTotal = "60 Minutes";
