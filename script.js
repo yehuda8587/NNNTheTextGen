@@ -2135,6 +2135,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Chantel Beauty Spa Triple Lift $59.95":
+        upDatedSpaName = "Chantel Beauty Spa";
+        upDatedSpaAddress = "12285 Scripps Poway Pkwy, Poway, CA 92064"+"<br>"+"(STE103 - Front store in the plaza between 2 dentist)";
+        upDatedSpaLINK = "https://forms.gle/x5fSwJsBi3388VxT8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/wJs4VNoeJWwweu3s7";
+        upDatedSpaWebLINK = "https://chantelbeauty.firstouchbeauty.com/triple-lift-booking59";
+        upDatedSpaPhone = "(858) 746-7200";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes of Triple Lift Treatment and 15 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 673-8219";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(619) 673-8219";
+        insteadOfSpa = "$377"
+        break;
+
         case "Chantel Beauty Spa Natural Skin Tightening $59.95":
         upDatedSpaName = "Chantel Beauty Spa";
         upDatedSpaAddress = "12285 Scripps Poway Pkwy, Poway, CA 92064"+"<br>"+"(STE103 - Front store in the plaza between 2 dentist)";
@@ -5467,6 +5484,23 @@ function updateForm(){
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
         treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(239) 234-6855";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Joli Visage Triple Lift 69.95":
+        upDatedSpaName = "Joli Visage";
+        upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
+        upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
+        upDatedSpaWebLINK = "https://jolivisage.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(239) 438-3252";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 10-minute Cleansing";
+        upDatedDurationTwo = "- 20 minutes Triple Lift with 15 minutes Consultation"
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 234-6855";
+        treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(239) 234-6855";
         insteadOfSpa = "$377";
         break;
@@ -9443,6 +9477,24 @@ function updateForm(){
         newSpaPhoneNumberSelected = "(239) 963-6077";
         insteadOfSpa = "$377"
         break;
+
+        case "Premier Naples Men Skin Tightening $89.95":
+        upDatedSpaName = "Premier Naples";
+        upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
+        upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
+        upDatedSpaParkLINK = "https://maps.app.goo.gl/cKQGjT5Gws4goAmN8";
+        upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/men-skin-tightening-89-95-booking";
+        upDatedSpaPhone = "(239) 330-6871";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationTwo = " - 20 min Consultation";;
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
+        treatmentSelected = "Men Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(239) 963-6077";
+        insteadOfSpa = "$377"
+        break;    
 
         case "Premier Naples Men Skin Tightening $79.95":
         upDatedSpaName = "Premier Naples";
