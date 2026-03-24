@@ -180,23 +180,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Adore Cookstown Neck and Jawline 69.95":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
-        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-and-jaw-line-tightening-treatment-promo" ;
-        upDatedSpaPhone = "(705) 400-8900";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment & Consultation";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$377"
-        break;
-
         case "Adore Cookstown Neck and Jawline 79.95":
         upDatedSpaName = "Adore Spa";
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
@@ -211,59 +194,6 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
         treatmentSelected = "Neck and Jawline Tightening Treatment";
         newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Adore Cookstown Non Surgical Facelift":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
-        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-non-surgical-facelift" ;
-        upDatedSpaPhone = "(705) 400-8900";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45-minute Cleansing and the Non-Surgical Face Lift treatment";
-        upDatedDurationTwo = "- 15-minute Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-        treatmentSelected = "Non-Surgical Facelift Treatment";
-        newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$350"
-        break;
-
-        case "Adore Cookstown Skin Tightening 69.95":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
-        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-skin-tightening-promo-page" ;
-        upDatedSpaPhone = "(705) 400-8900";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 45 Minutes Skin Tightening Treatment & Consultation";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$299"
-        break;
-
-        
-
-        case "Adore Estero 3 in 1 Skin Lifting $79.95":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Miromar Outlets,"+"<br>"+"10801 Corkscrew Rd Estero, FL 33928"+"<br>"+"(Between Ford's Garage & Aerie)"+"<br>"+"(Use parking near Ford's Garage)"+"<br>"+"Before arriving please fill out our new customer form by using this link https://form.jotform.com/220505197859060";
-        upDatedSpaLINK = "https://form.jotform.com/220505197859060";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/QkV3oeGQaa1SWStc8";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/adore-estero-3-in-1-skin-lifting-treatment";
-        upDatedSpaPhone = "(239) 748-0390";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 35 Minutes 3 in 1 Skin Lifting Treatment";
-        upDatedDurationTwo = "- 10 Minutes Post care and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 301-4943";
-        treatmentSelected = "3 in 1 Skin Lifting Treatment";
-        newSpaPhoneNumberSelected = "(239) 301-4943";
         insteadOfSpa = "$377"
         break;
 
