@@ -144,29 +144,14 @@ function updateForm(){
         insteadOfSpa = "No Spa Selected";
         break;
 
-        case "Adore Cookstown":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
-        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adorecookstown-ledpromo" ;
-        upDatedSpaPhone = "(705) 400-8900";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 40 Minutes LED Light Experience & Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$350"
-        break;
+      
 
         case "Adore Cookstown Men's Skin Tightening $89.95":
         upDatedSpaName = "Adore Spa";
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-mens-skin-tightening-promo-89-95" ;
+        upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/men-skin-tightening-89-95-booking" ;
         upDatedSpaPhone = "(705) 400-8900";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 20 Minutes Light Cleaning";
@@ -183,7 +168,7 @@ function updateForm(){
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-natural-face-lift-promo-79-95" ;
+        upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/natural-facelift-79-95-book-page" ;
         upDatedSpaPhone = "(705) 400-8900";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 20 Minutes Light Cleaning";
@@ -217,7 +202,7 @@ function updateForm(){
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/adore-cookstown-neck-amp-jawline-promo-79-95" ;
+        upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/booking-neck-and-jawline-79-95-ltb" ;
         upDatedSpaPhone = "(705) 400-8900";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Light Cleaning";
