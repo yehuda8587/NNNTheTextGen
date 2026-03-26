@@ -1253,42 +1253,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Forest Hill Cosmetic Clinic 3 in 1 Skin Tightening $79.95":
-        upDatedSpaName = "Forest Hill Cosmetic Clinic";
-        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
-        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-        upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-3-in-1-skin-tightening-promo-79-95";
-        upDatedSpaPhone = "(437) 290-1194";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "3 in 1 Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Forest Hill Cosmetic Clinic Bye Bye Saggy Eyes $79.95":
-        upDatedSpaName = "Forest Hill Cosmetic Clinic";
-        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
-        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-        upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-bye-bye-saggy-eyes-79-95";
-        upDatedSpaPhone = "(437) 290-1194";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes of Cleansing, LED & Hyaluronic Acid Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$377"
-        break;
-
         case "Forest Hill Cosmetic Clinic Mommy Tummy Rescue $69.95":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
@@ -1307,38 +1271,20 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Forest Hill Cosmetic Clinic Natural Facelift $79.95":
+        ase "Forest Hill Cosmetic Clinic Instant Shape and Sculpt Treatment $69.95":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
         upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-natural-facelift-promo-79-95";
+        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/instant-shape-and-sculpt-treatment-69-95-book-page";
         upDatedSpaPhone = "(437) 290-1194";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes of the Instant Shape and Sculpt Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Forest Hill Cosmetic Clinic Neck and Face Skin Tightening $79.95":
-        upDatedSpaName = "Forest Hill Cosmetic Clinic";
-        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
-        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-        upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/forest-hill-cosmetic-clinic-neck-and-face-skin-tightening-79-95";
-        upDatedSpaPhone = "(437) 290-1194";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Cleansing and Neck and Face Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "Neck and Face Skin Tightening Treatment";
+        treatmentSelected = "Instant Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
         insteadOfSpa = "$377"
         break;
