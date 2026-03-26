@@ -197,40 +197,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Aeternitas Natural Facelift $69.95":
-        upDatedSpaName = "Aeternitas";
-        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
-        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/aeternitas-natural-facelift-69-95";
-        upDatedSpaPhone = "(941) 867-4376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Aeternitas Natural Facelift $89.95":
-        upDatedSpaName = "Aeternitas";
-        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
-        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/aeternitas-natural-facelift-89-95";
-        upDatedSpaPhone = "(941) 867-4376";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
-        insteadOfSpa = "$377"
-        break;
-
         case "Aeternitas Neck and Jawline $79.95":
         upDatedSpaName = "Aeternitas";
         upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
@@ -283,550 +249,6 @@ function updateForm(){
         break;
 
 
-        case "AVOLOGI Eneo Metrotown":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-ledpromo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and LED Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Metrotown 3 in 1 Skin Tightening $89.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-3-in-1-skin-tightening-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and 3 in 1 Skin Tightening Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "3 in 1 Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Body Treatment $79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-body-treatment-80";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 10 Minutes Body Analysis and 30 minutes Body Treatment";
-        upDatedDurationTwo = "- 20 Minutes post-care consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Body Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$399";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Collagen Enhancing":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-collagen-enhancing-new-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Collagen Enhancing Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Collagen Enhancing";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown EMS":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-ems-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and EMS Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "EMS Anti-aging Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Men's LED 79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-mens-led-promo-page";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and LED Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Natural Facelift $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-69-95-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Natural Facelift $79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-facelift-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Natural Facelift $80":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-facelift-treatment-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Natural Facelift Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "80";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$399";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Natural Skin Tightening $79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-natural-skin-tightening-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Natural Skin Tightening Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Natural Skin Tightening $89.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-natural-skin-tightening";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Neck and Jawline":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Neck & Jawline Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Neck and Jawline $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-neck-and-jaw-line-tightening-treatment-new-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Neck & Jawline Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Oxygen and LED 89.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-oxygen-anti-aging-treatment";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and the Oxygen and LED Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Oxygen and LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$299";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Sagging Neck Rescue 69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-sagging-neck-rescue-treatment-promo ";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Sagging Neck Rescue Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Sagging Neck Rescue Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Skin Tightening $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-metrotown-skin-tightening-69-95";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Skin Tightening $69.95 TG":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-skin-tightening-tg";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Metrotown Turkey Neck Tightening 79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "Metrotown Mall, 4700 Kingsway #1170, Burnaby, BC V5H 4M5, Canada"+"<br>"+"(Ground level in the Indigo Books wing, at the bottom of the escalator)";
-        upDatedSpaLINK = "https://forms.gle/c8TFXfwBMpLd3TcM6";
-        upDatedSpaMapLINK = "https://www.metropolisatmetrotown.com/interactive-map/#/";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-metrotown-turkey-neck-tightening-treatment-promo";
-        upDatedSpaPhone = "(778) 910-1179";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 40 Minutes Cleansing and Turkey Neck Treatment";
-        upDatedDurationTwo = "- 20 Minutes Consultation with Skin Specialist";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Turkey Neck Tightening Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-led-promo";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20 Minutes Cleansing";
-        upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Victoria Collagen Enhancing":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-collagen-enhancing-new-promo";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20-minute cleansing and 20 Minutes Collagen Enhancing treatment";
-        upDatedDurationTwo = "- 20-minute consultation ";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Collagen Enhancing";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria Men's LED $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-mens-led-promo-page";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria Natural Facelift $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-treatment-promo";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 10 Minutes Consultation";
-        upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria Natural Facelift $99.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-natural-facelift-99-95";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 10 Minutes Consultation";
-        upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria Neck and Jawline 69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-victoria-neck-and-jaw-line-tightening-treatment-promo ";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45-minute cleansing and the Neck and Jawline treatment";
-        upDatedDurationTwo = "- 15-minute consultation ";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Victoria Non-Surgical Facelift":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "3147 Douglas Street Victoria, BC V8Z 6E3"+"<br>"+"(Unit 361, Mayfair Shopping Centre Next to People’s Jewlery in front of Nail Art 360)";
-        upDatedSpaLINK = "https://forms.gle/VN9LgHRNeDcctfkg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xZgd5rSmzA8PevuZ8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-victoria-non-surgical-face-lift";
-        upDatedSpaPhone = "(250) 800-9949";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
-        upDatedDurationTwo = "- 15-minute consultation ";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Non-Surgical Face Lift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologieneo-woodgrove-nonsurgical-face-neck-lift-promo";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20 Minutes Cleansing";
-        upDatedDurationTwo = "- 20 Minutes LED Treatmen" + "<br>" + "- 20 Minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Collagen":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-collagen-enhancing-new-promo";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20 Minutes Cleansing";
-        upDatedDurationTwo = "- 20 Minutes Collagen Enhancing" + "<br>" + "- 20 Minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Collagen Enhancing";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Men's LED $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-mens-led-promo-page";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 45 Minutes LED Treatment and Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Natural Facelift $69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-natural-facelift-treatment-promo";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 10 Minutes Consultation";
-        upDatedDurationTwo = "- 50 Minutes Natural Facelift Treatment";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Neck and Jawline 69.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-neck-and-jaw-line-tightening-treatment-promo ";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Treatment and consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Non-Surgical Facelift":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-eneo-woodgrove-non-surgical-face-lift";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45-minute cleansing and the Non-Surgical Face Lift treatment";
-        upDatedDurationTwo = "- 15-minute consultation ";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Non-Surgical Face Lift Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$350";
-        break;
-
-        case "AVOLOGI Eneo Woodgrove Sagging Neck Rescue $79.95":
-        upDatedSpaName = "Avologi Eneo";
-        upDatedSpaAddress = "6631 Island Hwy, Nanaimo, BC V9T 4T7"+"<br>"+"(Woodgrove Centre, across the hall from The Shoe Company)";
-        upDatedSpaLINK = "https://forms.gle/L7mp4FhBtw9Z8SeG8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/NE66XMe6v3Zy83Yu6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/avologi-woodgrove-sagging-neck-rescue-treatment-promo";
-        upDatedSpaPhone = "(250) 999-0095";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Consultation";
-        upDatedDurationTwo = "- 45 Minutes Sagging Neck Rescue Treatment";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (778) 910-1179";
-        treatmentSelected = "Sagging Neck Rescue Treatment";
-        newSpaPhoneNumberSelected = "(778) 910-1179";
-        insteadOfSpa = "$377";
-        break;
-
         case "Beauty Affairs MediSpa Brookvale Natural Facelift $148":
         upDatedSpaName = "Beauty Affairs MediSpa";
         upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
@@ -866,7 +288,7 @@ function updateForm(){
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-3-in-1-skin-tightening-promo";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-3-in-1-skin-tightening-79-95";
         upDatedSpaPhone = "(352) 607-7773";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -883,7 +305,7 @@ function updateForm(){
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-59-95";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-page-bye-bye-saggy-eyes";
         upDatedSpaPhone = "(352) 607-7773";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
@@ -895,63 +317,12 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Beauty Lounge Bye Bye Saggy Eyes 79.95":
-        upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
-        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-bye-bye-saggy-eyes-79-95";
-        upDatedSpaPhone = "(352) 607-7773";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(352) 235-9336";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Beauty Lounge Hydraglow + LED Treatment 89.95":
-        upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
-        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-hydraglow-led-promo";
-        upDatedSpaPhone = "(352) 607-7773";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
-        upDatedDurationTwo = "- 30 Minutes Hydraglow + LED Treatment & 15 minutes Consultation";
-        promoPrice = "89.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
-        treatmentSelected = "Hydraglow + LED Treatment";
-        newSpaPhoneNumberSelected = "(352) 235-9336";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Beauty Lounge Men's Anti-Aging Facial 89.95":
-        upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
-        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-mens-anti-aging-facial-89-95";
-        upDatedSpaPhone = "(352) 607-7773";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
-        upDatedDurationTwo = "- 30 Minutes Men's Anti-Aging Facial Treatment & 15 minutes Consultation";
-        promoPrice = "89.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
-        treatmentSelected = "Men's Anti-Aging Facial Treatment";
-        newSpaPhoneNumberSelected = "(352) 235-9336";
-        insteadOfSpa = "$377"
-        break;
-
         case "Beauty Lounge Natural Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-facelift-treatment-79-95";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(352) 607-7773";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
@@ -968,29 +339,12 @@ function updateForm(){
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-spa-neck-amp-amp-jawline-69-95";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/neck-and-jawline-69-95-book-page";
         upDatedSpaPhone = "(352) 607-7773";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
         upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
         promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(352) 235-9336";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Beauty Lounge Neck and Jawline 79.95":
-        upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
-        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/beauty-lounge-neck-amp-jawline-treatment";
-        upDatedSpaPhone = "(352) 607-7773";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 Minutes Cleansing";
-        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
-        promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
         treatmentSelected = "Neck and Jawline Tightening Treatment";
         newSpaPhoneNumberSelected = "(352) 235-9336";
@@ -1014,23 +368,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Below Zero Alpharetta Spa Freezing Skin Tightening $89.95":
-        upDatedSpaName = "Below Zero Alpharetta";
-        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
-        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-alpharetta-freezing-facelift-promo-89-95";
-        upDatedSpaPhone = "(404) 618-4124";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Freezing Skin Tightening Treatment and 15 minutes post-care and consultation";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-        treatmentSelected = "Freezing Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(706) 901-8979";
-        insteadOfSpa = "$377"
-        break;
-
         case "Below Zero Alpharetta Spa Hyperbaric Treatment $99":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
@@ -1048,23 +385,6 @@ function updateForm(){
         insteadOfSpa = "$399"
         break;
 
-        case "Below Zero Alpharetta Spa Natural Facelift $79.95":
-        upDatedSpaName = "Below Zero Alpharetta";
-        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
-        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-alpharetta-natural-facelift-79-95-377";
-        upDatedSpaPhone = "(404) 618-4124";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(706) 901-8979";
-        insteadOfSpa = "$377"
-        break;
-
         case "Below Zero Alpharetta Spa Natural Facelift $89.95":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
@@ -1079,210 +399,6 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(706) 901-8979";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton 3 in 1 Skin Lifting $59.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-59-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "3 in 1 Skin Lifting Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton 3 in 1 Skin Lifting $79.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-3-in-1-skin-lifting-79-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes 3 in 1 Skin Lifting Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "3 in 1 Skin Lifting Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Men Skin Tightening $79.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-men-skin-tightening-79-95-377";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Men Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Men Skin Tightening $99.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-men-skin-tightening-99-95-377";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and Consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Men Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Natural Facelift $59.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-59-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Natural Facelift $69.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-natural-facelift-69-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Natural Facelift $79.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-natural-facelift-79-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Neck and Jawline $59.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-59-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Boca Raton Neck and Jawline $79.95":
-        upDatedSpaName = "Below Zero Boca Raton";
-        upDatedSpaAddress = "6000 Glades Rd, Boca Raton Florida 33431"+"<br>"+"(Town center at Boca Raton next to Saks fifth Avenue)"+"<br>"+"(Park your car right next to 'La Boulangerie Boulmich' and use the main door to the mall right next to the restaurant)";
-        upDatedSpaLINK = "https://forms.gle/TUZaTJZAWCahxd6t5";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/56Nzxj43KuU26ojG6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/below-zero-boca-raton-neck-and-jawline-79-95";
-        upDatedSpaPhone = "(561) 285-4849";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (305) 934-5054";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(305) 934-5054";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Natural Facelift $129.95":
-        upDatedSpaName = "Below Zero Spa";
-        upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
-        upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo-129-95";
-        upDatedSpaPhone = "(410) 261-6428";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "129.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(227) 254-9289";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Natural Facelift $79.95":
-        upDatedSpaName = "Below Zero Spa";
-        upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
-        upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo";
-        upDatedSpaPhone = "(410) 261-6428";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(227) 254-9289";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Below Zero Spa Natural Facelift $99.95":
-        upDatedSpaName = "Below Zero Spa";
-        upDatedSpaAddress = "10300 Little Patuxent Pkwy, Columbia, MD 21044"+"<br>"+"(The Mall in Columbia, First floor near Pandora, in front of J.Jill)";
-        upDatedSpaLINK = "https://forms.gle/BRuiVAjQWnvfuJM99";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FXTze5oaHXJvZQzVA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-natural-facelift-promo-99-95";
-        upDatedSpaPhone = "(410) 261-6428";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (227) 254-9289";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(227) 254-9289";
         insteadOfSpa = "$377"
         break;
 
@@ -1337,148 +453,46 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Ben's Beauty Bye Bye Saggy Eyes $59.95":
+        case "Ben's Beauty Natural Facelift $59.95":
         upDatedSpaName = "Ben's Beauty Spa";
         upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
         upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-bye-bye-saggy-eyes-59-95-377" ;
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/natural-facelift-59-95-book-page" ;
         upDatedSpaPhone = "(626) 225-0556";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "20 minute Cleansing ";
-        upDatedDurationTwo = "40 minutes of Bye Bye Saggy Eyes Treatment and Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty DTB FTB Natural Facelift $59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-facelift-two-ftb" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-        upDatedDurationTwo = "15 minutes Consultation";
+        upDatedDurationOne = "15 minute Cleansing ";
+        upDatedDurationTwo = "30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
         promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(626) 298-6456";
         insteadOfSpa = "$377";
-        break;
+        break; 
 
-        case "Ben's Beauty DTB FTB Natural Skin Tightening $59.95":
+        case "Ben's Beauty Neck and Jawline $59.95":
         upDatedSpaName = "Ben's Beauty Spa";
         upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
         upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/dtb-bens-natural-skin-tightening-ftb-two" ;
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/neck-and-jawline-59-95-book" ;
         upDatedSpaPhone = "(626) 225-0556";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Skin Tightening Treatment";
-        upDatedDurationTwo = "15 minutes Consultation";
+        upDatedDurationOne = "15 minute Cleansing ";
+        upDatedDurationTwo = "30 minutes of Beauty Neck and Jawline Treatment and 15 minutes Consultation";
         promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Natural Skin Tightening Treatment";
+        treatmentSelected = "Beauty Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(626) 298-6456";
         insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty DTB Men's Natural Facelift $69.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-men-natural-facelift-69-95-2" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Men's Natural Facelift Treatment";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Men's Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty DTB Natural Facelift $59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-treatment-59-95" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
-        upDatedDurationTwo = "15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty DTB Turkey Neck Rescue 59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-turkey-neck-rescue-59-95-2" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Turkey Neck Rescue Treatment";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Turkey Neck Rescue Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Hyperpigmentation Treament $59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hyperpigmentation-treatment-59-95" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "20 minute Cleansing ";
-        upDatedDurationTwo = "40 minutes of Hyperpigmentation Treament and Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Hyperpigmentation Treament Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Bye Bye Saggy Eyes 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-bye-bye-saggy-eyes-59-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
+        break;       
 
         case "Ben's Beauty Irvine Bye Bye Saggy Eyes 79.95":
         upDatedSpaName = "Ben's Beauty Irvine";
         upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
         upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-bye-bye-saggy-eyes-79-95" ;
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/bye-bye-saggy-eyes-book" ;
         upDatedSpaPhone = "(714) 430-3899";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
@@ -1490,445 +504,37 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Ben's Beauty Irvine Bye Bye Saggy Eyes 99.95":
+        case "Ben's Beauty Irvine Natural Facelift 99.95":
         upDatedSpaName = "Ben's Beauty Irvine";
         upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
         upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-bye-bye-saggy-eyes-99-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Bye Bye Saggy Eyes and 15 minutes Consultation";
-        promoPrice = "99.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Collagen Enhancing 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-collagen-enhancing-59-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Collagen Enhancing and 15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Collagen Enhancing 79.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-irvine-collagen-enhancing-79-95-377" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Collagen Enhancing and 15 minutes Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Hyperpigmentation Treatment 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-hyperpigmentation-treatment-59-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes Hyperpigmentation Treatment";
-        upDatedDurationTwo = "- 10 minutes Post Care and Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Hyperpigmentation Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Collagen Restoration $79.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-natural-collagen-restoration-79-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Collagen Restoration and 15 minutes Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Collagen Restoration Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Facelift 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-natural-facelift-59-95" ;
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/natural-facelift-99-95-book-page" ;
         upDatedSpaPhone = "(714) 430-3899";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Facelift 79.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-facelift-79-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Skin Tightening 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-skin-tightening-59-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Skin Tightening and 15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Skin Tightening 79.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-natural-skin-tightening-79-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Skin Tightening and 15 minutes Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Natural Skin Tightening 99.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-irvine-natural-skin-tightening-99-95" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Skin Tightening and 15 minutes Consultation";
         promoPrice = "99.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Natural Skin Tightening Treatment";
+        treatmentSelected = "Natural Facelift  Treatment";
         newSpaPhoneNumberSelected = "(949) 490-7726";
         insteadOfSpa = "$377";
         break;
 
-        case "Ben's Beauty Irvine Neck and Jawline 59.95":
+        case "Ben's Beauty Irvine Anti-Aging Facial 59.95":
         upDatedSpaName = "Ben's Beauty Irvine";
         upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
         upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/triple-n-natural-neck-amp-jawline-tightening-59-95" ;
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/booking-page-anti-aging-facial" ;
         upDatedSpaPhone = "(714) 430-3899";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Tightening and 15 minutes Consultation";
+        upDatedDurationTwo = "- 30 minutes Anti-Aging Facial Tightening and 15 minutes Consultation";
         promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Neck and Jawline Treatment";
+        treatmentSelected = "Anti-Aging Facial Treatment";
         newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Non Invasive Pain Management Therapy 59.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-non-invasive-pain-management-therapy-59-95-377" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
-        upDatedDurationTwo = "- 10 minutes Post Care";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Non Invasive Pain Management Therapy";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Irvine Non Invasive Pain Management Therapy 79.95":
-        upDatedSpaName = "Ben's Beauty Irvine";
-        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
-        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/triple-n-painless-light-therapy-79-95-377" ;
-        upDatedSpaPhone = "(714) 430-3899";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Consultation and preparation 35 minutes LED therapy";
-        upDatedDurationTwo = "- 10 minutes Post Care";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Non Invasive Pain Management Therapy";
-        newSpaPhoneNumberSelected = "(949) 490-7726";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Men LED 79.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-mens-led-treatment-promo-page" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Cleansing ";
-        upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Men LED 99.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-new-mens-led-treatment-promo-page" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "45 minutes Cleansing and the Men's LED Treatment";
-        upDatedDurationTwo = "15 minutes Consultation";
-        promoPrice = "99.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Neck and Jawline Tightening 79.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-neck-jawline-tightening" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Neck and Jawline Treatment";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Skin Tightening 59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening-promo-page" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Skin Tightening 59.95 with DP":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-spa-skin-tightening" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Skin Tightening 69.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Skin Tightening 79.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/dtb-bens-beauty-skin-tightening-promo" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Skin Tightening Treatment";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Spa 89.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-spa-led-promo-page" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Cleansing ";
-        upDatedDurationTwo = "45 minutes of LED therapy and Consultation";
-        promoPrice = "89.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$350";
-        break;
-
-        case "Ben's Beauty Spa Collagen Enhancing Treatment 79.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "20 minute Cleansing ";
-        upDatedDurationTwo = "40 minutes of Collagen Enhancing Faccial and Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Spa Collagen Enhancing Treatment with LED 69.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-collagen-enhancing-facial-with-led-promo" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "20 minute Cleansing";
-        upDatedDurationTwo = "40 minutes of Collagen Enhancing Treatment with LED and Consultation";
-        promoPrice = "69.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Spa Hydraglow Treatment 79.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-hydraglow-facial-promo-page" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation ";
-        upDatedDurationTwo = "45 minutes of deep cleansing & Hydraglow Treatment";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Hydraglow Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Ben's Beauty Spa Natural Facelift 59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/bens-beauty-natural-facelift-59-95" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Cleansing";
-        upDatedDurationTwo = "30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Ben's Beauty Spa Neck and Jawline 59.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/bens-beauty-neck-and-jawline-treatment-59-95" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Consultation";
-        upDatedDurationTwo = "45 minutes of Neck and Jawline Treatment";
-        promoPrice = "59.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Neck and Jawline Tightening Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
         insteadOfSpa = "$377";
         break;
 
@@ -1995,57 +601,6 @@ function updateForm(){
         promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
         treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(979) 324-5845";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Blowout Spa Men Skin Tightening $99.95":
-        upDatedSpaName = "Blowout Spa";
-        upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
-        upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-men-skin-tightening-99-95";
-        upDatedSpaPhone = "(678) 992-5095";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and Consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(979) 324-5845";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Blowout Spa Natural Facelift $69.95":
-        upDatedSpaName = "Blowout Spa";
-        upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
-        upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo-69-95";
-        upDatedSpaPhone = "(678) 992-5095";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(979) 324-5845";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Blowout Spa Natural Facelift $79.95":
-        upDatedSpaName = "Blowout Spa";
-        upDatedSpaAddress = "3393 Peachtree Rd NE, Atlanta, GA 30326"+"<br>"+"(Lenox square Mall, at the corner next to Forever 21 store)";
-        upDatedSpaLINK = "https://forms.gle/zqgBmUhwJUk8tbMH9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/FkN3AnaaCpaiXq6F9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/blowout-spa-natural-facelift-promo";
-        upDatedSpaPhone = "(678) 992-5095";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (979) 324-5845";
-        treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(979) 324-5845";
         insteadOfSpa = "$377"
         break;
