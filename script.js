@@ -1271,7 +1271,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        ase "Forest Hill Cosmetic Clinic Instant Shape and Sculpt Treatment $69.95":
+        case "Forest Hill Cosmetic Clinic Instant Shape and Sculpt Treatment $69.95":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
