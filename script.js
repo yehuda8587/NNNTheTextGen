@@ -6342,91 +6342,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Velora Med Spa 3 in 1 Skin Tightening $119.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-3-in-1-skin-tightening-119-95";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes 3 in 1 Skin Tightening Treatment & Consultation";
-        promoPrice = "119.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa Bye Bye Saggy Eyes $89.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-bye-bye-saggy-eyes-89-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes treatment & Consultation";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa Bye Bye Saggy Eyes $99.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-bye-bye-saggy-eyes-99-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Bye Bye Saggy Eyes treatment & Consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Bye Bye Saggy Eyes Treatment";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa DTB Natural Facelift $79.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-velora-med-spa-79-95-3777";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa DTB Natural Facelift $89.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-velora-med-spa-89-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
         case "Velora Med Spa DTB Natural Facelift $99.95":
         upDatedSpaName = "Velora Med Spa";
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
@@ -6449,7 +6364,7 @@ function updateForm(){
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
         upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-mens-skin-tightening-99-95";
+        upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/men-skin-tightening-99-95-booking-page";
         upDatedSpaPhone = "(312) 625-1275";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
@@ -6461,34 +6376,17 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Velora Med Spa Natural Facelift $79.95":
+        case "Velora Med Spa Men's Skin Tightening $129.95":
         upDatedSpaName = "Velora Med Spa";
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
         upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-natural-facelift-79-95-377";
+        upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/men-skin-tightening-129-95-form-page";
         upDatedSpaPhone = "(312) 625-1275";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa Natural Facelift $89.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-natural-facelift-89-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift & Consultation";
-        promoPrice = "89.95";
+        upDatedDurationTwo = " - 30 minutes Skin Tightening & Consultation";
+        promoPrice = "129.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
         treatmentSelected = "Natural Facelift";
         newSpaPhoneNumberSelected = "(331) 600-2304";
@@ -6500,7 +6398,7 @@ function updateForm(){
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
         upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-natural-facelift-99-95-377";
+        upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/natural-facelift-99-95-book-page";
         upDatedSpaPhone = "(312) 625-1275";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
@@ -6508,40 +6406,6 @@ function updateForm(){
         promoPrice = "99.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
         treatmentSelected = "Natural Facelift";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa Skin Tightening $79.95":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-skin-tightening-79-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Skin Tightening";
-        newSpaPhoneNumberSelected = "(331) 600-2304";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Velora Med Spa Skin Tightening $79.95- Tagalog":
-        upDatedSpaName = "Velora Med Spa";
-        upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
-        upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/velora-med-spa-tg-skin-tigtening-79-95-377";
-        upDatedSpaPhone = "(312) 625-1275";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening & Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (331) 600-2304";
-        treatmentSelected = "Skin Tightening";
         newSpaPhoneNumberSelected = "(331) 600-2304";
         insteadOfSpa = "$377"
         break;
