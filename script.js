@@ -572,6 +572,40 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Blesseli Spa Men Skin Tightening $79.95":
+        upDatedSpaName = "Blesseli Spa ";
+        upDatedSpaAddress = "456 N. New Ballas, Suite 342"+"<br>"+"(After entering the building, the elevators are located on the right. Take the elevator to the 3rd floor. When you exit, turn right and walk straight down the hallway. Suite 342 will be at the end.)";
+        upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/AuXmTsoZBL1ck2Qk7";
+        upDatedSpaWebLINK = "https://blesseli.advancedbeautytreatments.com/men-skin-tightening-79-95-booking";
+        upDatedSpaPhone = "(314) 377-5991";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and 15 minutes Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
+        treatmentSelected = "Men Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(314) 664-9655";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Blesseli Spa Neck and Jawline $79.95":
+        upDatedSpaName = "Blesseli Spa ";
+        upDatedSpaAddress = "456 N. New Ballas, Suite 342"+"<br>"+"(After entering the building, the elevators are located on the right. Take the elevator to the 3rd floor. When you exit, turn right and walk straight down the hallway. Suite 342 will be at the end.)";
+        upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/AuXmTsoZBL1ck2Qk7";
+        upDatedSpaWebLINK = "https://blesseli.advancedbeautytreatments.com/booking-neck-and-jawline-79-95-ltb";
+        upDatedSpaPhone = "(314) 377-5991";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(314) 664-9655";
+        insteadOfSpa = "$377"
+        break;
+
         case "Blossom Cosmetics Collagen Enhancing $59.95":
         upDatedSpaName = "Blossom";
         upDatedSpaAddress = "10400 San Jose Blvd, Jacksonville, FL 32257"+"<br>"+"(Suite 2, Next to EverBank)"+"<br>"+"(Plenty of parking within the premises)";
