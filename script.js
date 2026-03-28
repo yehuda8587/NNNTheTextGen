@@ -2746,29 +2746,12 @@ function updateForm(){
         insteadOfSpa = "$350"
         break;
 
-        case "Lavelier Round Rock Men's Skin Tightening $79.95":
-        upDatedSpaName = "Lavelier";
-        upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
+        case "FIL Fall In Love Natural Facelift $59.95":
+        upDatedSpaName = "FIL Fall In Love Spa";
+        upDatedSpaAddress = "200 W Metro Dr, Suite 410, Leander, TX 78641"+"<br>"+"(If you coming from US Hwy 183 Road We are located behind the building of Whataburger and Panda Express Chinese restaurant.)";
         upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-men-skin-tightening-79-95";
-        upDatedSpaPhone = "(512) 566-3975";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(512) 953-8818";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Lavelier Round Rock Natural Facelift $59.95":
-        upDatedSpaName = "Lavelier";
-        upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
-        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-natural-facelift-59-95";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
+        upDatedSpaWebLINK = "https://lavelier-roundrock.noneedleneeded.com/natural-facelift-89-95-book-page";
         upDatedSpaPhone = "(512) 566-3975";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15-minutes Cleansing";
@@ -2776,40 +2759,6 @@ function updateForm(){
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(512) 953-8818";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Lavelier Round Rock Neck and Jawline $59.95":
-        upDatedSpaName = "Lavelier";
-        upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
-        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-neck-and-jawline-59-95";
-        upDatedSpaPhone = "(512) 566-3975";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(512) 953-8818";
-        insteadOfSpa = "$299";
-        break;
-
-        case "Lavelier Round Rock Skin Tightening $59.95":
-        upDatedSpaName = "Lavelier";
-        upDatedSpaAddress = "Round Rock Premium Outlets,"+"<br>"+"4401 I 35 N Frontage Rd, Unit 764, Round Rock, TX 78664"+"<br>"+"(The store is located inside the mall next to Michael Kors)";
-        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/rPMbRkMYK2yeeQM17";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/lavelier-round-rock-skin-tightening-59-95";
-        upDatedSpaPhone = "(512) 617-0084";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 15-minutes Cleansing and 30-minutes Skin Tightening Treatment"
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
-        treatmentSelected = "Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "(512) 953-8818";
         insteadOfSpa = "$299";
         break;
