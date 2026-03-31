@@ -1313,11 +1313,11 @@ function updateForm(){
         upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/natural-shape-and-sculpt-69-95-book-page";
         upDatedSpaPhone = "(437) 290-1194";
         upDatedDurationTotal = "75 Minutes";
-        upDatedDurationOne = "- 60 minutes of the Mommy Tummy Treatment";
+        upDatedDurationOne = "- 60 minutes of the Natural Shape and Sculpt Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "Mommy Tummy Treatment";
+        treatmentSelected = "Natural Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
         insteadOfSpa = "$599"
         break;
@@ -3365,10 +3365,10 @@ function updateForm(){
         upDatedSpaPhone = "(289) 216-8383";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
-        upDatedDurationTwo = " - 45 minutes Mommy Tummy Rescue Treatment and 15 minutes Consultation";
+        upDatedDurationTwo = " - 45 minutes Natural Shape and Sculpt Treatment and 15 minutes Consultation";
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
-        treatmentSelected = "Mommy Tummy Rescue Treatment";
+        treatmentSelected = "Natural Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(289) 837-0335";
         insteadOfSpa = "$599"
         break;
