@@ -1310,7 +1310,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
         upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/mommy-tummy-69-95-book-page";
+        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/natural-shape-and-sculpt-69-95-book-page";
         upDatedSpaPhone = "(437) 290-1194";
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes of the Mommy Tummy Treatment";
@@ -1318,24 +1318,6 @@ function updateForm(){
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
         treatmentSelected = "Mommy Tummy Treatment";
-        newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$599"
-        break;
-
-        case "Forest Hill Cosmetic Clinic Instant Shape and Sculpt Treatment $69.95":
-        upDatedSpaName = "Forest Hill Cosmetic Clinic";
-        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
-        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-        upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
-        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/instant-shape-and-sculpt-treatment-69-95-book-page";
-        upDatedSpaPhone = "(437) 290-1194";
-        upDatedDurationTotal = "75 Minutes";
-        upDatedDurationOne = "- 60 minutes of the Instant Shape and Sculpt Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
-        treatmentSelected = "Instant Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
         insteadOfSpa = "$599"
         break;
