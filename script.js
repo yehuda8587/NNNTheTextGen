@@ -3379,7 +3379,7 @@ function updateForm(){
         upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
         upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
-        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/mommy-tummy-69-95-book";
+        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/natural-shape-and-sculpt-book";
         upDatedSpaPhone = "(289) 216-8383";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
