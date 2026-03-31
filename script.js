@@ -572,7 +572,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Blesseli Spa Men Skin Tightening $79.95":
+        case "Blesseli Spa Men Skin Tightening $99.95":
         upDatedSpaName = "Blesseli Spa ";
         upDatedSpaAddress = "456 N. New Ballas, Suite 342"+"<br>"+"(After entering the building, the elevators are located on the right. Take the elevator to the 3rd floor. When you exit, turn right and walk straight down the hallway. Suite 342 will be at the end.)";
         upDatedSpaLINK = "https://forms.gle/FX62JFqPpav8cp399";
@@ -582,7 +582,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Men Skin Tightening Treatment and 15 minutes Consultation";
-        promoPrice = "79.95";
+        promoPrice = "99.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (314) 664-9655";
         treatmentSelected = "Men Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "(314) 664-9655";
