@@ -6252,6 +6252,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Villagio Triple Lift $69.95":
+        upDatedSpaName = "Villagio Spa";
+        upDatedSpaAddress = "101 Palm Harbor Pkwy, Palm Coast, FL"+"<br>"+"(European Village Palm Coast, Unit #B114)";
+        upDatedSpaLINK = "https://forms.gle/RhE2ozvjdQxhbs2B9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/MtUnkuoZxLKrsjH86";
+        upDatedSpaWebLINK = "https://villagio.firstouchbeauty.com/triple-lift-booking";
+        upDatedSpaPhone = "(386) 302-4298";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (386) 387-3810";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(386) 387-3810";
+        insteadOfSpa = "$377"
+        break;
+
         case "Velora Med Spa Men's Skin Tightening $99.95":
         upDatedSpaName = "Velora Med Spa";
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
