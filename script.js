@@ -1304,7 +1304,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Forest Hill Cosmetic Clinic Mommy Tummy Rescue $69.95":
+        case "Forest Hill Cosmetic Clinic Natural Shape and Sculpt  $69.95":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
@@ -1319,7 +1319,7 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
         treatmentSelected = "Mommy Tummy Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$599"
         break;
 
         case "Forest Hill Cosmetic Clinic Instant Shape and Sculpt Treatment $69.95":
@@ -1337,7 +1337,7 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
         treatmentSelected = "Instant Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$599"
         break;
 
         case "Gentle Touch Beauty":
@@ -2768,7 +2768,7 @@ function updateForm(){
         upDatedSpaAddress = "200 W Metro Dr, Suite 410, Leander, TX 78641"+"<br>"+"(If you coming from US Hwy 183 Road We are located behind the building of Whataburger and Panda Express Chinese restaurant.)";
         upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
-        upDatedSpaWebLINK = "https://lavelier-roundrock.noneedleneeded.com/natural-facelift-89-95-book-page";
+        upDatedSpaWebLINK = "https://fil.noneedleneeded.com/natural-facelift-59-95-book-page";
         upDatedSpaPhone = "(512) 566-3975";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15-minutes Cleansing";
@@ -3374,7 +3374,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Nova Aesthetic Oakville Mommy Tummy Rescue $69.95":
+        case "Nova Aesthetic Oakville Natural Shape and Sculpt $69.95":
         upDatedSpaName = "Nova Aesthetic";
         upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
         upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
@@ -3388,7 +3388,7 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
         treatmentSelected = "Mommy Tummy Rescue Treatment";
         newSpaPhoneNumberSelected = "(289) 837-0335";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$599"
         break;
 
         case "Nova Aesthetic Triple Lift $79.95":
