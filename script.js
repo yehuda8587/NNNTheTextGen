@@ -860,6 +860,23 @@ function updateForm(){
         insteadOfSpa = "$399";
         break;
 
+        case "Elysium Cosmetic Clinics Triple Lift 69.95":
+        upDatedSpaName = "Elysium Cosmetic Clinics";
+        upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
+        upDatedSpaLINK = "https://forms.gle/RsNbu4Di2qzZaFZu6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yduPRKaVAP7qGztR7";
+        upDatedSpaWebLINK = "https://elysium.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(904) 799-2965";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15-minute Consultation";
+        upDatedDurationTwo = "- 45-minutes Triple Lift Treatment"
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
+        treatmentSelected = "Triple Lift";
+        newSpaPhoneNumberSelected = "(904) 342-2870";
+        insteadOfSpa = "$377";
+        break;
+
         case "Elysium Cosmetic Clinics Lift and Hydrate 69.95":
         upDatedSpaName = "Elysium Cosmetic Clinics";
         upDatedSpaAddress = "163 Palencia Village Drive, St Augustine, FL 32095"+"<br>"+"(Unit 110, Near Starbucks and Cleaners)";
