@@ -2782,7 +2782,7 @@ function updateForm(){
         case "FIL Fall In Love Natural Facelift $59.95":
         upDatedSpaName = "FIL Fall In Love Spa";
         upDatedSpaAddress = "200 W Metro Dr, Suite 410, Leander, TX 78641"+"<br>"+"(If you coming from US Hwy 183 Road We are located behind the building of Whataburger and Panda Express Chinese restaurant.)";
-        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+        upDatedSpaLINK = "https://forms.gle/SLFCdkZtRMyb1TWu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
         upDatedSpaWebLINK = "https://fil.noneedleneeded.com/natural-facelift-59-95-book-page";
         upDatedSpaPhone = "(512) 566-3975";
@@ -2799,7 +2799,7 @@ function updateForm(){
         case "FIL Fall In Love Neck and Jawline $59.95":
         upDatedSpaName = "FIL Fall In Love Spa";
         upDatedSpaAddress = "200 W Metro Dr, Suite 410, Leander, TX 78641"+"<br>"+"(If you coming from US Hwy 183 Road We are located behind the building of Whataburger and Panda Express Chinese restaurant.)";
-        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+        upDatedSpaLINK = "https://forms.gle/SLFCdkZtRMyb1TWu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
         upDatedSpaWebLINK = "https://fil.noneedleneeded.com/booking-neck-and-jawline-59-95-ltb";
         upDatedSpaPhone = "(512) 566-3975";
