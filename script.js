@@ -2793,7 +2793,24 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(512) 953-8818";
-        insteadOfSpa = "$299";
+        insteadOfSpa = "$377";
+        break;
+
+        case "FIL Fall In Love Neck and Jawline $59.95":
+        upDatedSpaName = "FIL Fall In Love Spa";
+        upDatedSpaAddress = "200 W Metro Dr, Suite 410, Leander, TX 78641"+"<br>"+"(If you coming from US Hwy 183 Road We are located behind the building of Whataburger and Panda Express Chinese restaurant.)";
+        upDatedSpaLINK = "https://forms.gle/cpgsKXAFgNchNqLP6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
+        upDatedSpaWebLINK = "https://fil.noneedleneeded.com/booking-neck-and-jawline-59-95-ltb";
+        upDatedSpaPhone = "(512) 566-3975";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15-minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(512) 953-8818";
+        insteadOfSpa = "$377";
         break;
 
         case "Lavelier Spokane Natural Faecelift":
