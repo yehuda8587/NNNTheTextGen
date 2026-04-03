@@ -5663,6 +5663,40 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Solei Beauty Lounge MO Neck and Jawline $69.95":
+        upDatedSpaName = "Solei Beauty Lounge";
+        upDatedSpaAddress = "1186 NE Douglas St, Lee's Summit, MO 64086"+"<br>"+"(Next to the nail salon, there’s a large sign that says “Solei” on top, right in front of Starbucks.)";
+        upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
+        upDatedSpaWebLINK = "https://soleibl-mo.firstouchbeauty.com/neck-and-jawline-69-95-booking";
+        upDatedSpaPhone = "(816) 839-5847";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (816) 272 5131";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(816) 272 5131";
+        insteadOfSpa = "$377"
+        break;
+
+         case "Solei Beauty Lounge MO Natural Facelift $69.95":
+        upDatedSpaName = "Solei Beauty Lounge";
+        upDatedSpaAddress = "1186 NE Douglas St, Lee's Summit, MO 64086"+"<br>"+"(Next to the nail salon, there’s a large sign that says “Solei” on top, right in front of Starbucks.)";
+        upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
+        upDatedSpaWebLINK = "https://soleibl-mo.firstouchbeauty.com/natural-facelift-69-95-book-page";
+        upDatedSpaPhone = "(816) 839-5847";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (816) 272 5131";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(816) 272 5131";
+        insteadOfSpa = "$377"
+        break;
+
         case "Spa and Co Fernandina Beach Skin Tightening $99.95":
         upDatedSpaName = "Spa and Co";
         upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
