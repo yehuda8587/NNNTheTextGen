@@ -4589,7 +4589,7 @@ function updateForm(){
         upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/men-skin-tightening-89-95-booking";
         upDatedSpaPhone = "(239) 330-6871";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationOne = " - 4O minutes Cleansing+Men Skin Tightening";
         upDatedDurationTwo = " - 20 min Consultation";;
         promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
