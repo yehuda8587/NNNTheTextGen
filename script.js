@@ -1132,6 +1132,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Equanimity Freezing Facelift $79.95":
+        upDatedSpaName = "Equanimity Wellness";
+        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/freezing-facelift-79-booking";
+        upDatedSpaPhone = "(469) 436-2824";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+        treatmentSelected = "Freezing Facelift Treatment";
+        newSpaPhoneNumberSelected = "(214) 238-6896";
+        insteadOfSpa = "$377"
+        break;
+
         case "Equanimity Glow Infusion Facial $89.95":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
@@ -6334,6 +6351,57 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
         treatmentSelected = "Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "(714) 784-6884";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Auraderma Natural Facelift $69.95":
+        upDatedSpaName = "Auraderma Spa";
+        upDatedSpaAddress = "925 State Street, Santa Barbara, CA 93101"+"<br>"+"(Located across the street from Apple.)";
+        upDatedSpaLINK = "https://forms.gle/9cZqsK8F4ayQHrmz5";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xTtjPzj7C5UrtjaL7";
+        upDatedSpaWebLINK = "https://auraderma.noneedleneeded.com/natural-facelift-69-95-book-page";
+        upDatedSpaPhone = "(805) 250-3910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (805) 899-3937";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(805) 899-3937";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Auraderma Neck and Jawline $69.95":
+        upDatedSpaName = "Auraderma Spa";
+        upDatedSpaAddress = "925 State Street, Santa Barbara, CA 93101"+"<br>"+"(Located across the street from Apple.)";
+        upDatedSpaLINK = "https://forms.gle/9cZqsK8F4ayQHrmz5";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xTtjPzj7C5UrtjaL7";
+        upDatedSpaWebLINK = "https://auraderma.noneedleneeded.com/neck-and-jawline-69-95-book-page";
+        upDatedSpaPhone = "(805) 250-3910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Neck and Jawline Treatment & 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (805) 899-3937";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(805) 899-3937";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Auraderma Skin Tightening $69.95":
+        upDatedSpaName = "Auraderma Spa";
+        upDatedSpaAddress = "925 State Street, Santa Barbara, CA 93101"+"<br>"+"(Located across the street from Apple.)";
+        upDatedSpaLINK = "https://forms.gle/9cZqsK8F4ayQHrmz5";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xTtjPzj7C5UrtjaL7";
+        upDatedSpaWebLINK = "https://auraderma.noneedleneeded.com/skin-tightening69-book-page";
+        upDatedSpaPhone = "(805) 250-3910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (805) 899-3937";
+        treatmentSelected = "Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(805) 899-3937";
         insteadOfSpa = "$377"
         break;
 
