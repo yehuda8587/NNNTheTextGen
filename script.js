@@ -2654,9 +2654,9 @@ function updateForm(){
         upDatedDurationOne = "- 15-minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation"
         promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 348-1263";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(512) 953-8818";
+        newSpaPhoneNumberSelected = "(512) 348-1263";
         insteadOfSpa = "$377";
         break;
 
@@ -2671,9 +2671,9 @@ function updateForm(){
         upDatedDurationOne = "- 15-minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
         promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 953-8818";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (512) 348-1263";
         treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(512) 953-8818";
+        newSpaPhoneNumberSelected = "(512) 348-1263";
         insteadOfSpa = "$377";
         break;
 
