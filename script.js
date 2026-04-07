@@ -962,170 +962,17 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Anti-Aging Facial $59.95":
+        case "Equanimity Freezing Facelift $79":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-anti-aging-facial-promo";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Anti-Aging Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Anti-Aging Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity Bye Bye Muffin Top $89.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-muffin-top-89-95";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes of Bye Bye Muffin Top Treatment";
-        upDatedDurationTwo = "- 15 minutes Skin Assestment";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Bye Bye Muffin Top";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$499"
-        break;
-
-        case "Equanimity Bye Bye Saggy Arms $89.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/equanimity-bye-bye-saggy-arms-89-95";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes of Bye Bye Saggy Arms Treatment";
-        upDatedDurationTwo = "- 15 minutes Skin Assestment";
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Bye Bye Saggy Arms";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$499"
-        break;
-
-        case "Equanimity Bye Bye Saggy Eyes $59.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-bye-bye-saggy-eyes-59-95";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes of the LED & Hyaluronic Acid Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Bye Bye Saggy Eye";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity Collagen Enhancing $69.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-collagen-enhancing-promo-69-95";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity DTB Bye Bye Saggy Eyes $59.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-equanimity-bye-bye-saggy-eyes-59-95-377";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes of the LED & Hyaluronic Acid Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Bye Bye Saggy Eye";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity DTB Collagen Enhancing $69.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/dtb-p2-equanimity-collagen-enhancing-69-95-377";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Collagen Enhancing Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Collagen Enhancing Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity EMS Body $79.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-wellness-ems-body-promo";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes EMS Body Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "EMS Body Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity Facelifting Treatment $69.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-facelifting-treatment-69-95-survey";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Facelifting Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Facelifting Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Equanimity Freezing Facelift $69.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-freezing-facelift-69-95";
+        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/freezing-facelift-79-booking";
         upDatedSpaPhone = "(469) 436-2824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "79";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
         treatmentSelected = "Freezing Facelift Treatment";
         newSpaPhoneNumberSelected = "(214) 238-6896";
