@@ -4417,7 +4417,7 @@ function updateForm(){
         upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/natural-facelift-69-95-book-page";
         upDatedSpaPhone = "(239) 330-6871";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationOne = " - 4O minutes Cleansing+Natural Facelift";
         upDatedDurationTwo = " - 20 min Consultation";
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
@@ -4435,7 +4435,7 @@ function updateForm(){
         upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/non-surgical-facelift-book-page";
         upDatedSpaPhone = "(239) 330-6871";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationOne = " - 4O minutes Cleansing+Non Surgical Facelift";
         upDatedDurationTwo = " - 20 min Consultation";;
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
@@ -4471,7 +4471,7 @@ function updateForm(){
         upDatedSpaWebLINK = "https://premier-naples.noneedleneeded.com/men-skin-tightening-79-95-booking";
         upDatedSpaPhone = "(239) 330-6871";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 4O minutes Cleansing+LED";
+        upDatedDurationOne = " - 4O minutes Cleansing+Men Skin Tightening";
         upDatedDurationTwo = " - 20 min Consultation";;
         promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (239) 963-6077";
