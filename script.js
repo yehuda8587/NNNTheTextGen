@@ -4109,7 +4109,7 @@ function updateForm(){
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
         upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-anti-aging-facial-59-95";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/anti-aging-facial-59-95-book-page";
         upDatedSpaPhone = "(204) 819-5651";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
@@ -4121,56 +4121,24 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Oasis Aesthetics St. Mary's Anti-Aging 69.95":
+        case "Oasis Aesthetics St. Mary's Natural Shape and Sculpt 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
         upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-anti-aging-facial-69-95";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/natural-shape-and-sculpt-69-95-book-page";
         upDatedSpaPhone = "(204) 819-5651";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
+        upDatedDurationOne = "- 45 minutes of Natural Shape and Sculpt Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
-        treatmentSelected = "Anti-Aging Treatment";
+        treatmentSelected = "Natural Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
         insteadOfSpa = "$377";
         break;
 
-        case "Oasis Aesthetics St. Mary's Men Skin Tightening 79.95":
-        upDatedSpaName = "Oasis Aesthetics";
-        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
-        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-men-skin-tightening-79-95";
-        upDatedSpaPhone = "(204) 819-5651";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes cleansing and Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(431) 570-2004";
-        insteadOfSpa = "$377";
-        break;
-
-        case "Oasis Aesthetics St. Mary's Neck and Jawline 59.95":
-        upDatedSpaName = "Oasis Aesthetics";
-        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
-        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-st-mary-neck-and-jawline-59-95";
-        upDatedSpaPhone = "(204) 819-5651";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes cleansing and Neck and Jawline Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation"
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
-        treatmentSelected = "Neck and Jawline Treatment";
-        newSpaPhoneNumberSelected = "(431) 570-2004";
-        insteadOfSpa = "$377";
-        break;
+    
 
         case "Oasis Boutique Natural Facelift $79.95":
         upDatedSpaName = "Oasis Boutique";
