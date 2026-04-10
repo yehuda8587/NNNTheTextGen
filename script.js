@@ -5769,7 +5769,7 @@ function updateForm(){
         upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
         upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/ndwdtmNsqH8FKRNf9";
-        upDatedSpaWebLINK = "https://beauty-lab.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaWebLINK = "https://beauty-lab.firstouchbeauty.com/triple-lift-booking";
         upDatedSpaPhone = "(587) 374-5304";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15 minutes light cleansing";
