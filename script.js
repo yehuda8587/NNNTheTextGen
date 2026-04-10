@@ -407,7 +407,7 @@ function updateForm(){
         upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)<br>"+"Nearest entrance: #6";
         upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-natural-facelift-promo-79-95";
+        upDatedSpaWebLINK = "https://belowz-roch.firstouchbeauty.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(585) 252-4003";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10 minutes Cleansing";
@@ -416,7 +416,7 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(585) 449-2100";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$349"
         break;
 
         case "Below Zero Spa Rochester Neck and Jawline $79.95":
@@ -424,7 +424,7 @@ function updateForm(){
         upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)<br>"+"Nearest entrance: #6";
         upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/below-zero-rochester-neck-and-jawline-79-95";
+        upDatedSpaWebLINK = "https://belowz-roch.firstouchbeauty.com/booking-neck-and-jawline-79-95-ltb-7163";
         upDatedSpaPhone = "(585) 252-4003";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10 minutes Cleansing";
@@ -433,7 +433,7 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
         treatmentSelected = "Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(585) 449-2100";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$349"
         break;
 
         case "Ben's Beauty Triple Lift $59.95":
