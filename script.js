@@ -5762,19 +5762,19 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "The Beauty Lab Skin Tight 79.95":
+        case "The Beauty Lab Triple Lift 69.95":
         upDatedSpaName = "The Beauty Lab";
         upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
         upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/ndwdtmNsqH8FKRNf9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/the-beauty-lab-natural-facelift-treatment";
-        upDatedSpaPhone = "(587) 208-3432";
+        upDatedSpaWebLINK = "https://beauty-lab.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(587) 374-5304";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15 minutes light cleansing";
-        upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and Post Care and Consultation"
-        promoPrice = "79.95";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and Post Care and Consultation"
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
-        treatmentSelected = "Skin Tightening Treatment";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(587) 800-1699";
         insteadOfSpa = "$377";
         break;
