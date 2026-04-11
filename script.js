@@ -5555,10 +5555,10 @@ function updateForm(){
         upDatedSpaPhone = "(816) 839-5847";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (816) 272 5131";
-        treatmentSelected = "Neck and Jawline Treatment";
+        treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(816) 272 5131";
         insteadOfSpa = "$377"
         break;
