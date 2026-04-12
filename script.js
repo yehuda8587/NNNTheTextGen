@@ -5534,7 +5534,7 @@ function updateForm(){
         upDatedSpaAddress = "1186 NE Douglas St, Lee's Summit, MO 64086"+"<br>"+"(Next to the nail salon, there’s a large sign that says “Solei” on top, right in front of Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
-        upDatedSpaWebLINK = "https://soleibl-mo.firstouchbeauty.com/neck-and-jawline-69-95-booking";
+        upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/neck-and-jawline-69-95-booking";
         upDatedSpaPhone = "(816) 839-5847";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
@@ -5551,7 +5551,7 @@ function updateForm(){
         upDatedSpaAddress = "1186 NE Douglas St, Lee's Summit, MO 64086"+"<br>"+"(Next to the nail salon, there’s a large sign that says “Solei” on top, right in front of Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
-        upDatedSpaWebLINK = "https://soleibl-mo.firstouchbeauty.com/natural-facelift-69-95-book-page";
+        upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/natural-facelift-69-95-book-page";
         upDatedSpaPhone = "(816) 839-5847";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
