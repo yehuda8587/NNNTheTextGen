@@ -3066,6 +3066,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Minnesota Aesthetic Center Nail Fungus Laser $250"":
+        upDatedSpaName = "Minnesota Aesthetic Center;
+        upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
+        upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
+        upDatedSpaWebLINK = "";
+        upDatedSpaPhone = "(651) 383-2251";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 40 minutes of Nail Fungus Laser Treatment";
+        upDatedDurationTwo = "- 20 minutes Consultation";
+        promoPrice = "250";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (651) 369-9218";
+        treatmentSelected = "Nail Fungus Laser Treatment";
+        newSpaPhoneNumberSelected = "(651) 369-9218";
+        insteadOfSpa = "$600"
+        break;
+    
         case "Mize Med Spa and Wellness Center Men Skin Tightening $99.95":
         upDatedSpaName = "Mize Med Spa and Wellness Center";
         upDatedSpaAddress = "3728 Davie Road Davie, FL 33314"+"<br>"+"(Varsity Square, Next to Blend Beauty Lounge)";
