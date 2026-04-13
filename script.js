@@ -3066,7 +3066,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Minnesota Aesthetic Center Nail Fungus Laser $250"":
+        case "Minnesota Aesthetic Center Nail Fungus Laser $250":
         upDatedSpaName = "Minnesota Aesthetic Center";
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
