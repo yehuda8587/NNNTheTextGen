@@ -3071,7 +3071,7 @@ function updateForm(){
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
-        upDatedSpaWebLINK = "";
+        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/toenail-fungus-booking-7670";
         upDatedSpaPhone = "(651) 383-2251";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 40 minutes of Nail Fungus Laser Treatment";
