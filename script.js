@@ -3322,6 +3322,23 @@ function updateForm(){
         insteadOfSpa = "$599"
         break;
 
+         case "Nova Aesthetic Oakville Natural Shape and Sculpt $99.95":
+        upDatedSpaName = "Nova Aesthetic";
+        upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
+        upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
+        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/natural-shape-and-sculpt-book-99-95";
+        upDatedSpaPhone = "(289) 216-8383";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - ";
+        upDatedDurationTwo = " - 45 minutes Natural Shape and Sculpt Treatment and 15 minutes Consultation";
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
+        treatmentSelected = "Natural Shape and Sculpt Treatment";
+        newSpaPhoneNumberSelected = "(289) 837-0335";
+        insteadOfSpa = "$599"
+        break;
+
         case "Nova Aesthetic Triple Lift $79.95":
         upDatedSpaName = "Nova Aesthetic";
         upDatedSpaAddress = "225 McRae Dr. East York ON M4G1T5"+"<br>"+"(Next to the fire station)";
