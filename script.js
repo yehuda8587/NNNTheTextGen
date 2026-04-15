@@ -6001,138 +6001,37 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "TKO Beauty Tech LED":
+        case "TKO Beauty Tech Natural Facelift 89.95":
         upDatedSpaName = "TKO Beauty Tech";
         upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-promo-page";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$377";
-        break;
-
-        case "TKO Beauty Tech LED FTB 79.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 30-minutes LED Anti-aging Treatment and 15 minutes Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$377";
-        break;
-
-        case "TKO Beauty Tech Men's Skin Tightening 89.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-mens-skin-tightening-89-95";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
-        upDatedDurationTwo = "- 30-minutes Skin Tightening Treatment and 15 minutes Consultation"
-        promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$377";
-        break;
-
-        case "TKO Beauty Tech Natural Facelift FTB 79.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
+        upDatedSpaWebLINK = "https://tko.firstouchbeauty.com/natural-facelift-89-95-book-page";
         upDatedSpaPhone = "(916) 790-3599";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
         upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$377";
-        break;
-
-        case "TKO Beauty Tech Natural Facelift FTB 89.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-natural-facelift-promo-89-95";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate.";
-        upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment."
         promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$398";
-        break;
-
-        case "TKO Beauty Tech Natural Facelift FTB 99.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-beauty-tech-led-promo";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes of consultation and skin analysis and 10 minutes light cleaning and exfoliate";
-        upDatedDurationTwo = "- 15 minutes anti aging booster (customized) and 20 minutes Natural face-lift treatment"
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
-        insteadOfSpa = "$398";
-        break;
-
-        case "TKO Beauty Tech Natural Skin Tightening 99.95":
-        upDatedSpaName = "TKO Beauty Tech";
-        upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tko-natural-skin-tightening-treatment-99-95";
-        upDatedSpaPhone = "(916) 790-3599";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
-        upDatedDurationTwo = "- 30-minutes Natural Skin Tightening Treatment and 15 minutes Consultation"
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(916) 781-0167";
         insteadOfSpa = "$377";
         break;
 
-        case "TKO Beauty Tech Reverse Turkey Neck Treatment 79.95":
+            
+        case "TKO Beauty Tech Triple Lift 89.95":
         upDatedSpaName = "TKO Beauty Tech";
         upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/CQKGipYdGaW2mBDs5";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tko-beauty-tech-reverse-turkey-neck-tightening-treatment-promo";
+        upDatedSpaWebLINK = "https://tko.firstouchbeauty.com/natural-facelift-89-95-book-page";
         upDatedSpaPhone = "(916) 790-3599";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute Consultation";
-        upDatedDurationTwo = "- 45-minutes Reverse Turkey Neck Treatment"
-        promoPrice = "79.95";
+        upDatedDurationOne = "- 5-minutes Skin Analysis and 10 minutes of light cleansing";
+        upDatedDurationTwo = "- 30-minutes Triple Lift Treatment and 15 minutes Consultation"
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (916) 781-0167";
-        treatmentSelected = "Reverse Turkey Neck Treatment";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(916) 781-0167";
         insteadOfSpa = "$377";
         break;
