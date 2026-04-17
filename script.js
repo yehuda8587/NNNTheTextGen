@@ -4717,6 +4717,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Renova Skin Med Spa Microneedling $158":
+        upDatedSpaName = "Renova Skin Med Spa";
+        upDatedSpaAddress = "561 Cranbury Rd. East Brunswick, NJ 08816 "+"<br>"+"(STE F, Medical Arts and Surgical Center Building on Cranbury Road)";
+        upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
+        upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/microneedling-booking";
+        upDatedSpaPhone = "(732) 867-7896";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Microneedling";
+        upDatedDurationTwo = " -15 minutes Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
+        treatmentSelected = "Microneedling Treatment";
+        newSpaPhoneNumberSelected = "(609) 422-9463";
+        insteadOfSpa = "$377"
+        break;
+
+
         case "Resveratrol LED 59.95":
         upDatedSpaName = "Resveratrol Spa";
         upDatedSpaAddress = "Biltmore Fashion Park" +"<br>"+"2502 E Camelback Rd, Phoenix, AZ 85016"+"<br>"+"(Between Skin Laundry and Pottery Barn)";
