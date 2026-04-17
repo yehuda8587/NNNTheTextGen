@@ -3039,7 +3039,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
         upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/triple-lift-booking";
-        upDatedSpaPhone = "(437) 290-4174";
+        upDatedSpaPhone = "(437) 292-0500";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
         upDatedDurationTwo = " - 45 minutes Bye Bye Mommy Tummy Treatment and 15 minutes Consultation";
@@ -3056,7 +3056,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
         upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/natural-facelift-79-95-form";
-        upDatedSpaPhone = "(437) 290-4174";
+        upDatedSpaPhone = "(437) 292-0500";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and 15 minutes Consultation";
@@ -3073,7 +3073,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/NR29HzZTmaivLJLYA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hdjG6t9w2Y88oiuJA";
         upDatedSpaWebLINK = "https://novaaesthetic.firstouchbeauty.com/neck-and-jawline-79-95-form";
-        upDatedSpaPhone = "(437) 290-4174";
+        upDatedSpaPhone = "(437) 292-0500";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Neck and Jawline Treatment and 15 minutes Consultation";
