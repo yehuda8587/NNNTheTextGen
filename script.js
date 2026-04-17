@@ -3993,7 +3993,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
         upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/natural-facelift-59-95-book";
-        upDatedSpaPhone = "(850) 988-9735";
+        upDatedSpaPhone = "(850) 279-1879";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -4010,7 +4010,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
         upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/body-treatment-69-95-form-page";
-        upDatedSpaPhone = "(850) 988-9735";
+        upDatedSpaPhone = "(850) 279-1879";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes assessment";
         upDatedDurationTwo = "- 30 minutes Body Treatment Treatment and 15 minutes post-care and consultation";
@@ -4027,7 +4027,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/2cGVHU6ahcHVQCYM9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hzhtj8tyjfZwwM2F7";
         upDatedSpaWebLINK = "https://ora-med.firstouchbeauty.com/triple-lift-booking";
-        upDatedSpaPhone = "(850) 988-9735";
+        upDatedSpaPhone = "(850) 279-1879";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
