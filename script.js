@@ -1226,7 +1226,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
         upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/natural-facelift-89-95-form" ;
-        upDatedSpaPhone = "(941) 280-0407";
+        upDatedSpaPhone = "(941) 477-3615";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "15 minute Cleansing";
         upDatedDurationTwo = "45 minute Natural Facelift Treatment";
@@ -1243,7 +1243,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
         upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/triple-lift-booking" ;
-        upDatedSpaPhone = "(941) 280-0407";
+        upDatedSpaPhone = "(941) 477-3615";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "15 minute Cleansing";
         upDatedDurationTwo = "45 minute Triple Lift Treatment";
