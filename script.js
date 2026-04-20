@@ -289,7 +289,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-3-in-1-skin-tightening-79-95";
-        upDatedSpaPhone = "(352) 607-7773";
+        upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
         upDatedDurationTwo = "- 45 Minutes 3 in 1 Skin Tightening Treatment & Consultation";
@@ -306,7 +306,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-page-bye-bye-saggy-eyes";
-        upDatedSpaPhone = "(352) 607-7773";
+        upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes of the LED & Hyaluronic Acid Treatment & 15 minutes Consultation";
@@ -323,7 +323,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/natural-facelift-79-95-book-page";
-        upDatedSpaPhone = "(352) 607-7773";
+        upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
         upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
@@ -340,7 +340,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/neck-and-jawline-69-95-book-page";
-        upDatedSpaPhone = "(352) 607-7773";
+        upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing";
         upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
@@ -357,7 +357,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/non-surgical-facelift-79-95-book";
-        upDatedSpaPhone = "(352) 607-7773";
+        upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
         upDatedDurationTwo = "- 30 Minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
@@ -764,7 +764,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-59-95";
-        upDatedSpaPhone = "(346) 214-9823";
+        upDatedSpaPhone = "(346) 362-5699";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
@@ -781,7 +781,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-79-95";
-        upDatedSpaPhone = "(346) 214-9823";
+        upDatedSpaPhone = "(346) 362-5699";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
@@ -798,7 +798,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-neck-and-jawline-59-95";
-        upDatedSpaPhone = "(346) 214-9823";
+        upDatedSpaPhone = "(346) 362-5699";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and Consultation";
