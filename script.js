@@ -1259,12 +1259,29 @@ function updateForm(){
         upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(Main Floor between Pandora and Nespresso. The best Entrance is the East Entrance)";
         upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/glameria-natural-facelift-promo";
+        upDatedSpaWebLINK = "https://glameria.firstouchbeauty.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(587) 200-7971";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
         promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Glameria Natural Facelift $99.95":
+        upDatedSpaName = "Glameria";
+        upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(Main Floor between Pandora and Nespresso. The best Entrance is the East Entrance)";
+        upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
+        upDatedSpaWebLINK = "https://glameria.firstouchbeauty.com/natural-facelift-99-95-book-page";
+        upDatedSpaPhone = "(587) 200-7971";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment";
+        promoPrice = "99.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(587) 800-1699";
@@ -1282,6 +1299,23 @@ function updateForm(){
         upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
         upDatedDurationTwo = "- 30 minutes Triple Lift Treatment";
         promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Glameria Triple Lift $99.95":
+        upDatedSpaName = "Glameria";
+        upDatedSpaAddress = "Market Mall, 3625 Shaganappi Trail NW, Calgary, AB T3A 0E2"+"<br>"+"(Main Floor between Pandora and Nespresso. The best Entrance is the East Entrance)";
+        upDatedSpaLINK = "https://forms.gle/iFJBnUqSxK1xVUMo6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJ66ucuhSm5UUZYj9";
+        upDatedSpaWebLINK = "https://glameria.firstouchbeauty.com/triple-lift-booking-99";
+        upDatedSpaPhone = "(587) 200-7971";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 minutes Consultation and Cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment";
+        promoPrice = "99.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(587) 800-1699";
