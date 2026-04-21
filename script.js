@@ -5646,6 +5646,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "The Beauty Lab Triple Lift 99.95":
+        upDatedSpaName = "The Beauty Lab";
+        upDatedSpaAddress = "West Edmonton Mall,"+"<br>"+"8882 170 St NW, Edmonton, AB T5T 4J2"+"<br>"+"Phase I, Ground Floor. Between Miniso and Angela's Hair Styling";
+        upDatedSpaLINK = "https://forms.gle/v5UNtbD95MgyDfAa9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/ndwdtmNsqH8FKRNf9";
+        upDatedSpaWebLINK = "https://beauty-lab.firstouchbeauty.com/triple-lift-booking-99";
+        upDatedSpaPhone = "(587) 374-5304";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 minutes light cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and Post Care and Consultation"
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$377";
+        break;
+
         case "The Glow Med Spa Skin Tightening 59.95":
         upDatedSpaName = "The Glow Med Spa";
         upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
