@@ -4399,7 +4399,7 @@ function updateForm(){
 
         case "Prime Clinic 3 in 1 Skin Tightening $79.00":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/3-in-1-skin-tightening-79-book";
@@ -4416,7 +4416,7 @@ function updateForm(){
 
         case "Prime Clinic Hydraglow $69.95":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/hydraglow-69-95-book";
@@ -4433,7 +4433,7 @@ function updateForm(){
 
         case "Prime Clinic Hydraglow $79.00":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/hydraglow-79-book";
@@ -4450,7 +4450,7 @@ function updateForm(){
 
         case "Prime Clinic Natural Facelift $69.95":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-69-95-book-page";
@@ -4467,7 +4467,7 @@ function updateForm(){
 
         case "Prime Clinic Natural Facelift $79.00":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-79-book-page";
@@ -4484,7 +4484,7 @@ function updateForm(){
 
         case "Prime Clinic Triple Lift $69.95":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-69-book";
@@ -4501,7 +4501,7 @@ function updateForm(){
 
         case "Prime Clinic Triple Lift $79.00":
         upDatedSpaName = "Prime Clinic";
-        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(It's just three stores down to the left of Bath & Body Works)";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-booking";
