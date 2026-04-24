@@ -4651,6 +4651,23 @@ function updateForm(){
         newSpaPhoneNumberSelected = "(760) 501-5800";
         insteadOfSpa = "$377";
         break;
+
+         case "QQueen Bee Natural Facelift $99.95":
+        upDatedSpaName = "Queen Bee";
+        upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(across the street of Tommy Bahama)";
+        upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/APwbgkvMwCt2fkc79";
+        upDatedSpaWebLINK = "https://queenbee-ps.firstouchbeauty.com/natural-facelift-99-95-book-page";
+        upDatedSpaPhone = "(760) 979-0516";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 10 minutes light cleansing";
+        upDatedDurationTwo = "- 35 minutes Natural Facelif Treatment and Consultation"
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (760) 501-5800";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(760) 501-5800";
+        insteadOfSpa = "$377";
+        break;
  
         case "Rachels Beauty Scottsdale Neck and Jawline":
         upDatedSpaName = "Rachel’s Beauty Spa";
