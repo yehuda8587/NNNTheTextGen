@@ -1207,7 +1207,7 @@ function updateForm(){
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
-        upDatedSpaParkLINK = "https://maps.app.goo.gl/wmKSTxGytV3HD9ii7";
+        upDatedSpaParkLINK = "https://maps.app.goo.gl/ABMJwMEwFyW5DJzn7 ";
         upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/natural-shape-and-sculpt-69-95-book-page";
         upDatedSpaPhone = "(437) 290-1194";
         upDatedDurationTotal = "75 Minutes";
