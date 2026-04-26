@@ -5481,7 +5481,7 @@ function updateForm(){
 
         case "Coastal Glow Aesthetics Natural Facelift $69.95":
         upDatedSpaName = "Coastal Glow Aesthetics";
-        upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Main Street)";
+        upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Right beside The Cinnamon Bear Country Store)";
         upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
         upDatedSpaWebLINK = "https://coastal-glow.noneedleneeded.com/natural-facelift-69-95-book-page";
