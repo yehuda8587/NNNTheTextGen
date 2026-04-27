@@ -4652,7 +4652,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-         case "QQueen Bee Natural Facelift $99.95":
+         case "Queen Bee Natural Facelift $99.95":
         upDatedSpaName = "Queen Bee";
         upDatedSpaAddress = "156 N Palm Canyon Dr. Palm Springs,  CA. 92262 United States"+"<br>"+"(across the street of Tommy Bahama)";
         upDatedSpaLINK = "https://forms.gle/qvo1ebyuCpyd8xVcA";
