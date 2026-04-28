@@ -4038,6 +4038,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+         case "Oasis Boutique Natural Facelift $89.95":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-89-95-book-page";
+        upDatedSpaPhone = "(407) 848-1390";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-1390";
+        insteadOfSpa = "$377"
+        break;
+
         case "Oasis Boutique Neck and Jawline $79.95":
         upDatedSpaName = "Oasis Boutique";
         upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
@@ -4049,6 +4066,23 @@ function updateForm(){
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
         promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-1390";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Oasis Boutique Neck and Jawline $89.95":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/booking-neck-and-jawline-89-95-ltb";
+        upDatedSpaPhone = "(407) 848-1390";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and 15 minutes post-care and consultation";
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
         treatmentSelected = "Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(407) 848-1390";
