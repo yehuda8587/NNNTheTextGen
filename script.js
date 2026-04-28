@@ -377,7 +377,7 @@ function updateForm(){
         upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
-        upDatedDurationTwo = "- 30 Minutes Triple Liftt Treatment & 15 minutes Consultation";
+        upDatedDurationTwo = "- 30 Minutes Triple Lift Treatment & 15 minutes Consultation";
         promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
         treatmentSelected = "Triple Lift Treatment";
