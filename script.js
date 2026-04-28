@@ -351,6 +351,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Beauty Lounge Neck and Jawline 79.95":
+        upDatedSpaName = "Beauty Lounge";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/neck-and-jawline-79-95-book-page";
+        upDatedSpaPhone = "(352) 607-6669";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTwo = "- 45 Minutes Neck and Jawline Tightening Treatment & Consultation";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+        treatmentSelected = "Neck and Jawline Tightening Treatment";
+        newSpaPhoneNumberSelected = "(352) 235-9336";
+        insteadOfSpa = "$377"
+        break;
+
         case "Beauty Lounge Non Surgical Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
