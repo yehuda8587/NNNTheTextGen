@@ -368,6 +368,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Beauty Lounge Triple Lift 79.95":
+        upDatedSpaName = "Beauty Lounge";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(352) 607-6669";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+        upDatedDurationTwo = "- 30 Minutes Triple Liftt Treatment & 15 minutes Consultation";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(352) 235-9336";
+        insteadOfSpa = "$377"
+        break;
+
         case "Below Zero Alpharetta Spa Hyperbaric Treatment $99":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
