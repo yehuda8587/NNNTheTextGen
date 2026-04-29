@@ -4796,11 +4796,11 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Microneedling";
         upDatedDurationTwo = " -15 minutes Consultation";
-        promoPrice = "79.95";
+        promoPrice = "158";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (609) 422-9463";
         treatmentSelected = "Microneedling Treatment";
         newSpaPhoneNumberSelected = "(609) 422-9463";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$600"
         break;
 
 
