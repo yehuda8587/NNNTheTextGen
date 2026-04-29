@@ -1030,6 +1030,40 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Equanimity Neck and Jawline $79":
+        upDatedSpaName = "Equanimity Wellness";
+        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/neck-and-jawline-79-booking";
+        upDatedSpaPhone = "(469) 436-2824";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "79";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(214) 238-6896";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Equanimity Non Surgical Skin Tightening $79":
+        upDatedSpaName = "Equanimity Wellness";
+        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/non-surgical-skintight-book-79-eq";
+        upDatedSpaPhone = "(469) 436-2824";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Non Surgical Skin Tightening Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "79";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+        treatmentSelected = "Non Surgical Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(214) 238-6896";
+        insteadOfSpa = "$377"
+        break;
+
         case "Equanimity Freezing Facelift $79":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
