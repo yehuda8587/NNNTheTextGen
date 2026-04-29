@@ -265,7 +265,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Scottsdale Lift and Sculpt $69.95":
+        case "Arizona MedLaser Scottsdale Lift and Sculpt $89.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
@@ -275,14 +275,14 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
         upDatedDurationTwo = " - 45 minutes  of Lift and Sculpt Treatment & 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Lift and Sculpt";
         newSpaPhoneNumberSelected = "(602) 919-3901";
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Scottsdale Natural Facelift $69.95":
+        case "Arizona MedLaser Scottsdale Natural Facelift $89.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
@@ -292,7 +292,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Natural Facelift Treatment & 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Natural Facelift";
         newSpaPhoneNumberSelected = "(602) 919-3901";
