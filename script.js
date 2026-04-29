@@ -282,12 +282,12 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Scottsdale Natural Facelift $89.95":
+        case "Arizona MedLaser Scottsdale Natural Facelift $69.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eeRnVJMPibJpQhjW7";
-        upDatedSpaWebLINK = "https://medlaser-scot.firstouchbeauty.com/natural-facelift-89-95-book-page";
+        upDatedSpaWebLINK = "https://medlaser-scot.firstouchbeauty.com/natural-facelift-69-95-book-page";
         upDatedSpaPhone = "(602) 830-1559";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
