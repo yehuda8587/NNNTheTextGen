@@ -1305,6 +1305,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Gentle Touch Beauty Men Skin Tightening $89.95":
+        upDatedSpaName = "Gentle Touch Beauty";
+        upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+        upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+        upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/men-skin-tightening-booking-gt89" ;
+        upDatedSpaPhone = "(941) 477-3615";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "45 minute Skin Tightening Treatment";
+        promoPrice = "89.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+        treatmentSelected = "Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(941) 244-0044";
+        insteadOfSpa = "$377";
+        break;
+
         case "Gentle Touch Beauty Triple Lift $89.95":
         upDatedSpaName = "Gentle Touch Beauty";
         upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
@@ -1316,6 +1333,23 @@ function updateForm(){
         upDatedDurationOne = "15 minute Cleansing";
         upDatedDurationTwo = "45 minute Triple Lift Treatment";
         promoPrice = "89.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(941) 244-0044";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Gentle Touch Beauty Triple Lift $79.95":
+        upDatedSpaName = "Gentle Touch Beauty";
+        upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+        upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+        upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/triple-lift-booking-gt79" ;
+        upDatedSpaPhone = "(941) 477-3615";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "45 minute Triple Lift Treatment";
+        promoPrice = "79.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(941) 244-0044";
