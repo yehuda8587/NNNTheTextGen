@@ -248,12 +248,29 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Arizona MedLaser Scottsdale Triple Lift $89.95":
+        upDatedSpaName = "Arizona MedLaser";
+        upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
+        upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eeRnVJMPibJpQhjW7";
+        upDatedSpaWebLINK = "https://medlaser-scot.firstouchbeauty.com/triple-lift-booking";
+        upDatedSpaPhone = "(602) 830-1559";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
+        treatmentSelected = "Triple Lift";
+        newSpaPhoneNumberSelected = "(602) 919-3901";
+        insteadOfSpa = "$377"
+        break;
+
         case "Arizona MedLaser Scottsdale Lift and Sculpt $69.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eeRnVJMPibJpQhjW7";
-        upDatedSpaWebLINK = "";
+        upDatedSpaWebLINK = "https://medlaser-scot.firstouchbeauty.com/lift-and-sculpt-89-95-book-page";
         upDatedSpaPhone = "(602) 830-1559";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
@@ -270,7 +287,7 @@ function updateForm(){
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eeRnVJMPibJpQhjW7";
-        upDatedSpaWebLINK = "";
+        upDatedSpaWebLINK = "https://medlaser-scot.firstouchbeauty.com/natural-facelift-89-95-book-page";
         upDatedSpaPhone = "(602) 830-1559";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
@@ -279,6 +296,57 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Natural Facelift";
         newSpaPhoneNumberSelected = "(602) 919-3901";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Arizona MedLaser Glendale Natural Facelift $89.95":
+        upDatedSpaName = "Arizona MedLaser";
+        upDatedSpaAddress = "5701 W Talavi Blvd Suite 101, Glendale, AZ 85306"+"<br>"+"(Inside a medical building)";
+        upDatedSpaLINK = "https://forms.gle/cGjvr4ahGDZ8Zi536";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/6BpdFWQDrSiVv8c39";
+        upDatedSpaWebLINK = "https://medlaser-glen.firstouchbeauty.com/natural-facelift-89-95-book-page";
+        upDatedSpaPhone = "(602) 812-2910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes  of Natural Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 510-3905";
+        treatmentSelected = "Natural Facelift";
+        newSpaPhoneNumberSelected = "(602) 510-3905";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Arizona MedLaser Glendale Triple Lift $89.95":
+        upDatedSpaName = "Arizona MedLaser";
+        upDatedSpaAddress = "5701 W Talavi Blvd Suite 101, Glendale, AZ 85306"+"<br>"+"(Inside a medical building)";
+        upDatedSpaLINK = "https://forms.gle/cGjvr4ahGDZ8Zi536";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/6BpdFWQDrSiVv8c39";
+        upDatedSpaWebLINK = "https://medlaser-glen.firstouchbeauty.com/triple-lift-booking";
+        upDatedSpaPhone = "(602) 812-2910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 510-3905";
+        treatmentSelected = "Triple Lift";
+        newSpaPhoneNumberSelected = "(602) 510-3905";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Arizona MedLaser Glendale Lift and Sculpt $89.95":
+        upDatedSpaName = "Arizona MedLaser";
+        upDatedSpaAddress = "5701 W Talavi Blvd Suite 101, Glendale, AZ 85306"+"<br>"+"(Inside a medical building)";
+        upDatedSpaLINK = "https://forms.gle/cGjvr4ahGDZ8Zi536";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/6BpdFWQDrSiVv8c39";
+        upDatedSpaWebLINK = "https://medlaser-glen.firstouchbeauty.com/lift-and-sculpt-89-95-book-page";
+        upDatedSpaPhone = "(602) 812-2910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - ";
+        upDatedDurationTwo = " - 45 minutes  of Lift and Sculpt Treatment & 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 510-3905";
+        treatmentSelected = "Lift and Sculpt";
+        newSpaPhoneNumberSelected = "(602) 510-3905";
         insteadOfSpa = "$377"
         break;
 
