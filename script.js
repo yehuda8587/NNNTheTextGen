@@ -1390,6 +1390,23 @@ function updateForm(){
         insteadOfSpa = "$599"
         break;
 
+        case "Gentle Touch Beauty Natural Facelift $79.95":
+        upDatedSpaName = "Gentle Touch Beauty";
+        upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
+        upDatedSpaLINK = "https://forms.gle/PVLf5eCmvnyUHL1i6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/RNDibJBb8mMaDftN7";
+        upDatedSpaWebLINK = "https://gentletouch.noneedleneeded.com/natural-facelift-79-95-book-page" ;
+        upDatedSpaPhone = "(941) 477-3615";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "45 minute Natural Facelift Treatment";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 244-0044";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(941) 244-0044";
+        insteadOfSpa = "$377";
+        break;
+
         case "Gentle Touch Beauty Natural Facelift $89.95":
         upDatedSpaName = "Gentle Touch Beauty";
         upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
