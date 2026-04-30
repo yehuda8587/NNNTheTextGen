@@ -1581,7 +1581,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/lift-and-hydrate-book";
-        upDatedSpaPhone = "(386) 319-1236";
+        upDatedSpaPhone = "(386) 229-3956";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 30 minutes of the Lift and Hydrate and 15 minutes Consultation"
@@ -1598,7 +1598,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/natural-facelift-69-95-book-page";
-        upDatedSpaPhone = "(386) 319-1236";
+        upDatedSpaPhone = "(386) 229-3956";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 30 minutes of the Natural Facelift and 15 minutes Consultation"
@@ -1615,7 +1615,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/booking-neck-and-jawline-69-95-ltb";
-        upDatedSpaPhone = "(386) 319-1236";
+        upDatedSpaPhone = "(386) 229-3956";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 45 minutes of the Neck and Jawline Treatment and Consultation"
