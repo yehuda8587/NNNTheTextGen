@@ -402,6 +402,23 @@ function updateForm(){
         insteadOfSpa = "$400"
         break;
 
+        case "Beauty Affairs MediSpa CBD HIFU Double Chin Lift $248":
+        upDatedSpaName = "Beauty Affairs MediSpa";
+        upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
+        upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
+        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/hifu-booking";
+        upDatedSpaPhone = "+61 468 021 570";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " ";
+        upDatedDurationTwo = "- 30 Minutes HIFU Double Chin Lift Treatment & 15 minutes Consultation";
+        promoPrice = "248"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
+        treatmentSelected = "HIFU Double Chin Lift Treatment";
+        newSpaPhoneNumberSelected = "+612 9286 3898";
+        insteadOfSpa = "$1200"
+        break;
+
         case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
