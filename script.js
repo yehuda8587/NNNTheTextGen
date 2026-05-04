@@ -3441,7 +3441,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Oasis Aesthetics Natural Body Shape & Sculpt $69.95":
+        case "Oasis Aesthetics Natural Body Shape and Sculpt $69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
