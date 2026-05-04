@@ -524,7 +524,7 @@ function updateForm(){
         case "Below Zero Alpharetta Spa Hyperbaric Treatment $99":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
-        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaLINK = "https://fill.boloforms.com/signature/15zSE0oHeugcaDX8pzTB87A67lW07BlQSYwroIu7-Csw?p=view#googtrans(en)";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
         upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/hyperbaric-treatment-booking-page";
         upDatedSpaPhone = "(404) 618-4124";
