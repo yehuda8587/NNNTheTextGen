@@ -402,23 +402,6 @@ function updateForm(){
         insteadOfSpa = "$400"
         break;
 
-        case "Beauty Affairs MediSpa CBD HIFU Double Chin Lift $248":
-        upDatedSpaName = "Beauty Affairs MediSpa";
-        upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
-        upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
-        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/hifu-booking";
-        upDatedSpaPhone = "+61 468 021 570";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " ";
-        upDatedDurationTwo = "- 30 Minutes HIFU Double Chin Lift Treatment & 15 minutes Consultation";
-        promoPrice = "248"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
-        treatmentSelected = "HIFU Double Chin Lift Treatment";
-        newSpaPhoneNumberSelected = "+612 9286 3898";
-        insteadOfSpa = "$1200"
-        break;
-
         case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
@@ -568,6 +551,23 @@ function updateForm(){
         promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
         treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(706) 901-8979";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Below Zero Alpharetta Spa Triple Lift $89.95":
+        upDatedSpaName = "Below Zero Alpharetta";
+        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
+        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/triple-lift-booking-bz89";
+        upDatedSpaPhone = "(404) 618-4124";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(706) 901-8979";
         insteadOfSpa = "$377"
         break;
