@@ -533,7 +533,7 @@ function updateForm(){
         upDatedDurationTwo = "- 45 minutes Hyperbaric Treatment and 15 minutes post-care and consultation";
         promoPrice = "99";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
-        treatmentSelected = "Hyperbaric Treatment Treatment";
+        treatmentSelected = "Hyperbaric Treatment";
         newSpaPhoneNumberSelected = "(706) 901-8979";
         insteadOfSpa = "$399"
         break;
