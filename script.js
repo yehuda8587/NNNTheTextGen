@@ -4687,6 +4687,40 @@ function updateForm(){
         insteadOfSpa = "$350";
         break;
 
+        case "Pura Vida AB Triple Lift $99.95":
+        upDatedSpaName = "Pura Vida Spa";
+        upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
+        upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jBNQdzDcNS4N5GkY7";
+        upDatedSpaWebLINK = "https://puravida.noneedleneeded.com/triple-lift-booking-99";
+        upDatedSpaPhone = "(587) 328-6478";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTwo = "- 30 Minutes Triple Lift & Consultation";
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$350";
+        break;
+
+        case "Pura Vida AB Natural Facelift $99.95":
+        upDatedSpaName = "Pura Vida Spa";
+        upDatedSpaAddress = "Southcentre Mall, 100 Anderson Rd SE, Calgary, AB T2J 3V1" + "<br>" + "(Ground Floor, across from Sport Check)";
+        upDatedSpaLINK = "https://forms.gle/w7fRjryo9sTSq5p27";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jBNQdzDcNS4N5GkY7";
+        upDatedSpaWebLINK = "https://puravida.noneedleneeded.com/natural-facelift-99-95-book-page";
+        upDatedSpaPhone = "(587) 328-6478";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing";
+        upDatedDurationTwo = "- 30 Minutes Natural Facelift & Consultation";
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (587) 800-1699";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(587) 800-1699";
+        insteadOfSpa = "$350";
+        break;
+
         case "Queen Bee Greenwood Lift and Hydrate $79.95":
         upDatedSpaName = "Queen Bee";
         upDatedSpaAddress = "Queen Bee – Greenwood Park Mall, 1251 U.S. Highway 31 N, Unit 0F12A Greenwood, IN 46142"+"<br>"+"(Our spa is located inside Greenwood Park Mall, just past Pandora and directly across from Foot Locker Kids.)";
