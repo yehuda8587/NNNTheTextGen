@@ -292,7 +292,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Natural Facelift Treatment & 15 minutes Consultation";
-        promoPrice = "89.95";
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Natural Facelift";
         newSpaPhoneNumberSelected = "(602) 919-3901";
