@@ -4347,7 +4347,7 @@ function updateForm(){
         case "Pearl De Flore Augusta Natural Skin Tightening $99.95":
         upDatedSpaName = "Pearl De Flore Spa";
         upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
-        upDatedSpaLINK = "https://forms.gle/ea7Mes4ARmJjo9fy7";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-of-flore-natural-skin-tightening-99-95-377";
         upDatedSpaPhone = "(762) 200-3183";
