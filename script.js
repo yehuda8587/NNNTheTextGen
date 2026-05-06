@@ -4344,20 +4344,20 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Pearl De Flore Augusta Natural Skin Tightening $99.95":
+        case "Pearl De Flore Augusta Triple Lift $79.00":
         upDatedSpaName = "Pearl De Flore Spa";
-        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Please use the north entrance of Macy’s, 2nd floor, beside Lovisa and near the elevator in the middle of the mall)";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/E8c2G5bgbVf5J7Gr9";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/pearl-of-flore-natural-skin-tightening-99-95-377";
-        upDatedSpaPhone = "(762) 200-3183";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/triple-lift-booking";
+        upDatedSpaPhone = "(850) 680-1836";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Natural Skin Tightening Treatment" + "<br>" + "- 15 minutes of Consultation";
-        promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 383-5302";
-        treatmentSelected = "Natural Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(762) 383-5302";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "79.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(762) 218-2597";
         insteadOfSpa = "$377";
         break;
 
