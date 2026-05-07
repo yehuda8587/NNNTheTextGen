@@ -1098,29 +1098,13 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Well Era 3 in 1 Skin Tightening Treatment $59.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/equanimity-3-in-1-skin-tightening-promo-59-95";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes 3 in 1 Skin Tightening Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "59.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "3 in 1 Skin Tightening Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
+    
         case "Well Era Neck and Jawline $75":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/neck-and-jawline-75-booking";
+        upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/neck-and-jawline-75-booking";
         upDatedSpaPhone = "(469) 436-2824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
@@ -1137,7 +1121,7 @@ function updateForm(){
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/neck-and-jawline-79-booking";
+        upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/neck-and-jawline-79-booking";
         upDatedSpaPhone = "(469) 436-2824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
@@ -1154,7 +1138,7 @@ function updateForm(){
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/non-surgical-skintight-book-79-eq";
+        upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/non-surgical-skintight-book-79-eq";
         upDatedSpaPhone = "(469) 436-2824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Non Surgical Skin Tightening Treatment";
@@ -1171,29 +1155,12 @@ function updateForm(){
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/freezing-facelift-79-booking";
+        upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/freezing-facelift-79-booking";
         upDatedSpaPhone = "(469) 436-2824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
         promoPrice = "79";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
-        treatmentSelected = "Freezing Facelift Treatment";
-        newSpaPhoneNumberSelected = "(214) 238-6896";
-        insteadOfSpa = "$377"
-        break;
-
-        case "Well Era Freezing Facelift $79.95":
-        upDatedSpaName = "Equanimity Wellness";
-        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
-        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
-        upDatedSpaWebLINK = "https://equanimity.noneedleneeded.com/freezing-facelift-79-booking";
-        upDatedSpaPhone = "(469) 436-2824";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Freezing Facelift Treatment";
-        upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
         treatmentSelected = "Freezing Facelift Treatment";
         newSpaPhoneNumberSelected = "(214) 238-6896";
