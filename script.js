@@ -4052,6 +4052,23 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
         treatmentSelected = "Natural Shape and Sculpt Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$599";
+        break;
+
+        case "Oasis Aesthetics St. Mary's Mommy Tummy Rescue 69.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "http://oasis-stmary.noneedleneeded.com/mommy-tummy-rescue-69-95-book-page";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes of Mommy Tummy Rescue Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Mommy Tummy Rescue Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
         insteadOfSpa = "$377";
         break;
 
