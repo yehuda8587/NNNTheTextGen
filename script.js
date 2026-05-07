@@ -4226,6 +4226,23 @@ function updateForm(){
         insteadOfSpa = "$260"
         break;
 
+        case "Parie Med Spa 3D Facelift $69.95":
+        upDatedSpaName = "Parie Med Spa";
+        upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
+        upDatedSpaLINK = " ";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
+        upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/3d-facelift-booking" ;
+        upDatedSpaPhone = "(702) 637-2259";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes 3D Facelift and 15 minutes post-care and consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (702) 930-6221";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(702) 930-6221";
+        insteadOfSpa = "$377"
+        break;
+
         case "Parie Med Spa Anti-Aging Facial $69.95":
         upDatedSpaName = "Parie Med Spa";
         upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
