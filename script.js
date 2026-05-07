@@ -4125,6 +4125,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Oasis Boutique Triple Lift $125":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/triple-lift-booking";
+        upDatedSpaPhone = "(407) 848-1390";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "125";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-1390";
+        insteadOfSpa = "$400"
+        break;
+
+
         case "Ora Med Spa Natural Facelift $59.95":
         upDatedSpaName = "Ora Medical Spa";
         upDatedSpaAddress = "4400 Bayou Blvd, Pensacola FL 32504"+"<br>"+"(In Cordova Square Plaza, Suite #29A)";
