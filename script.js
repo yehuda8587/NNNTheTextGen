@@ -1098,7 +1098,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Equanimity 3 in 1 Skin Tightening Treatment $59.95":
+        case "Well Era 3 in 1 Skin Tightening Treatment $59.95":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1115,7 +1115,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Neck and Jawline $75":
+        case "Well Era Neck and Jawline $75":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1132,7 +1132,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Neck and Jawline $79":
+        case "Well Era Neck and Jawline $79":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1149,7 +1149,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Non Surgical Skin Tightening $79":
+        case "Well Era Non Surgical Skin Tightening $79":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1166,7 +1166,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Freezing Facelift $79":
+        case "Well Era Freezing Facelift $79":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1183,7 +1183,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Freezing Facelift $79.95":
+        case "Well Era Freezing Facelift $79.95":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1200,7 +1200,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Equanimity Glow Infusion Facial $89.95":
+        case "Well Era Glow Infusion Facial $89.95":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
@@ -1218,7 +1218,7 @@ function updateForm(){
         break;
 
         
-        case "Equanimity Skin Tightening Treatment $65":
+        case "Well Era Skin Tightening Treatment $65":
         upDatedSpaName = "Equanimity Wellness";
         upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
         upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
