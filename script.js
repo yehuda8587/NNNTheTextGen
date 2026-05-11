@@ -248,7 +248,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Scottsdale Triple Lift $69.95":
+        case "Arizona MedLaser Scottsdale Triple Lift $89.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
@@ -258,7 +258,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(602) 919-3901";
@@ -316,7 +316,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Glendale Triple Lift $69.95":
+        case "Arizona MedLaser Glendale Triple Lift $89.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5701 W Talavi Blvd Suite 101, Glendale, AZ 85306"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/cGjvr4ahGDZ8Zi536";
@@ -326,7 +326,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "89.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 510-3905";
         treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(602) 510-3905";
