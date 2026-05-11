@@ -248,7 +248,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Scottsdale Triple Lift $89.95":
+        case "Arizona MedLaser Scottsdale Triple Lift $69.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5111 N Scottsdale Rd Suite 208, Scottsdale, AZ 85250"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/EYztXbdBab5JqdBt8";
@@ -258,7 +258,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
-        promoPrice = "89.95";
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 919-3901";
         treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(602) 919-3901";
@@ -316,7 +316,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Arizona MedLaser Glendale Triple Lift $89.95":
+        case "Arizona MedLaser Glendale Triple Lift $69.95":
         upDatedSpaName = "Arizona MedLaser";
         upDatedSpaAddress = "5701 W Talavi Blvd Suite 101, Glendale, AZ 85306"+"<br>"+"(Inside a medical building)";
         upDatedSpaLINK = "https://forms.gle/cGjvr4ahGDZ8Zi536";
@@ -326,7 +326,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes  of Triple Lift Treatment & 15 minutes Consultation";
-        promoPrice = "89.95";
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 510-3905";
         treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(602) 510-3905";
@@ -4155,6 +4155,23 @@ function updateForm(){
         promoPrice = "125";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
         treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-1390";
+        insteadOfSpa = "$400"
+        break;
+
+        case "Oasis Boutique Natural Facelift $118":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-form-118";
+        upDatedSpaPhone = "(407) 848-1390";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "118";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-1390";
+        treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(407) 848-1390";
         insteadOfSpa = "$400"
         break;
