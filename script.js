@@ -4518,7 +4518,7 @@ function updateForm(){
 
         case "Premier Naples Natural Facelift $69.95":
         upDatedSpaName = "Premier Naples";
-        upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
+        upDatedSpaAddress = "1900 Tamiami trail north, Naples 34102"+"<br>"+"(Coastland Center, across Zales)<br>"+"<br>"+"Use Forge Athletics as a landmark for directions. The parking garage near Mall Entrance 4 is closest, and the spa is directly across from that entrance.";
         upDatedSpaLINK = "https://forms.gle/XnQ6aBHTiDS3bvXf9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/LKAHwE1hiSrXvATx9";
         upDatedSpaParkLINK = "https://maps.app.goo.gl/cKQGjT5Gws4goAmN8";
@@ -5869,23 +5869,6 @@ function updateForm(){
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Post Care and Consultation";
         promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(904) 432-7364";
-        insteadOfSpa = "$377"
-        break;
-
-         case "Coastal Glow Aesthetics Natural Facelift $89.99":
-        upDatedSpaName = "Coastal Glow Aesthetics";
-        upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Right beside The Cinnamon Bear Country Store)";
-        upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
-        upDatedSpaWebLINK = "https://coastal-glow.noneedleneeded.com/natural-facelift-89-99-book-page";
-        upDatedSpaPhone = "(904) 452-8539";
-        upDatedDurationTotal = "45 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment and Post Care and Consultation";
-        promoPrice = "89.99";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(904) 432-7364";
