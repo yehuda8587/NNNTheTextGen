@@ -180,23 +180,6 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Adore Cookstown Triple Lift $79.95":
-        upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
-        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
-        upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/triple-lift-booking" ;
-        upDatedSpaPhone = "(705) 400-8900";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 20 Minutes Light Cleaning";
-        upDatedDurationTwo = "- 40 Minutes Triple Lift Treatment & Consultation";
-        promoPrice = "79.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
-        treatmentSelected = "Triple Lift Treatment";
-        newSpaPhoneNumberSelected = "(844) 377-7753";
-        insteadOfSpa = "$377"
-        break;
-
         case "Adore Cookstown Neck and Jawline 79.95":
         upDatedSpaName = "Adore Spa";
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
@@ -5509,7 +5492,7 @@ function updateForm(){
         upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/booking-natural-facelift-59-95";
         upDatedSpaPhone = "(949) 339-3541";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Anti-Aging Facial Treatment";
+        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
