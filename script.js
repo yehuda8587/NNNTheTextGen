@@ -1089,7 +1089,7 @@ function updateForm(){
         upDatedDurationTwo = "- 45-minutes Neck and Jawline Treatment"
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 342-2870";
-        treatmentSelected = "Neck and Jawline";
+        treatmentSelected = "Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(904) 342-2870";
         insteadOfSpa = "$377";
         break;
