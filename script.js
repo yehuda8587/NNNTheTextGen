@@ -50,82 +50,9 @@ let upDatedAddons = "No Addons Selected"
 
 
 function updateForm(){
-    //LOCATION NAME FORLOOP
-    for (let i = 0; i < locationNameArray.length; i++) {
-            locationNameArray[0].innerHTML = upDatedSpaName;
-            locationNameArray[i].innerHTML = upDatedSpaName;      
-            }
 
-    //LOCATION ADDRESS FORLOOP
-    for (let i = 0; i < locationAddressArray.length; i++) {
-            locationAddressArray[0].innerHTML = upDatedSpaAddress;
-            locationAddressArray[i].innerHTML = upDatedSpaAddress;      
-            }
-
-    //LOCATION LINK FORLOOP
-    for (let i = 0; i < locationALinkArray.length; i++) {
-        locationALinkArray[0].innerHTML = upDatedSpaLINK;
-        locationALinkArray[i].innerHTML = upDatedSpaLINK; 
-            }
-
-    // LOCATION MAP LINK FORLOOP        
-    for (let i = 0; i < locationMapLinkArray.length; i++) {
-        locationMapLinkArray[0].innerHTML = upDatedSpaMapLINK;
-        locationMapLinkArray[i].innerHTML = upDatedSpaMapLINK; // Update map link
-            }
-
-      // LOCATION PARk LINK FORLOOP        
-   for (let i = 0; i < locationParkLinkArray.length; i++) {
-    locationParkLinkArray[0].innerHTML = upDatedSpaParkLINK;
-    locationParkLinkArray[i].innerHTML = upDatedSpaParkLINK;
-}
-
-            //LOCATION Phone FORLOOP
-    for (let i = 0; i < locationPhoneArray.length; i++) {
-        locationPhoneArray[0].innerHTML = upDatedSpaPhone;
-        locationPhoneArray[i].innerHTML = upDatedSpaPhone; 
-            }
-
-            //LOCATION Actual Phone FORLOOP
-    for (let i = 0; i < acutalLocationPhoneArray.length; i++) {
-        acutalLocationPhoneArray[0].innerHTML = upDatedActualSpaPhone;
-        acutalLocationPhoneArray[i].innerHTML = upDatedActualSpaPhone; 
-            }
-
-
-    //LOCATION WEB LINK FORLOOP
-    for (let i = 0; i < locationWebLinkArray.length; i++) {
-        locationWebLinkArray[0].innerHTML = upDatedSpaWebLINK;
-        locationWebLinkArray[i].innerHTML = upDatedSpaWebLINK; 
-            }
-
-        
-    //Duration Total FORLOOP
-    for (let i = 0; i < DurationTotalArray.length; i++) {
-        DurationTotalArray[0].innerHTML = upDatedDurationTotal;
-        DurationTotalArray[i].innerHTML = upDatedDurationTotal; 
-            }
-
-            //Duration One FORLOOP
-    for (let i = 0; i < DurationOneArray.length; i++) {
-        DurationOneArray[0].innerHTML = upDatedDurationOne;
-        DurationOneArray[i].innerHTML = upDatedDurationOne; 
-            }
-
-            //Duration Two FORLOOP
-    for (let i = 0; i < DurationTwoArray.length; i++) {
-        DurationTwoArray[0].innerHTML = upDatedDurationTwo;
-        DurationTwoArray[i].innerHTML = upDatedDurationTwo;
-    }
-            
-
-    //Addons FORLOOP
-    for (let i = 0; i < addOnsArray.length; i++) {
-        addOnsArray[0].innerHTML = upDatedAddons;
-        addOnsArray[i].innerHTML = upDatedAddons; 
-            }
-            upDatedAddons = addOnsStatus.value;
-
+    // *** SWITCH MUST RUN FIRST so variables are updated before the for-loops render them ***
+    upDatedAddons = addOnsStatus.value;
 
     // SWITCH FOR LOCATIONS INFORMATION
     switch (spaNameStatus.innerHTML) {
@@ -6589,6 +6516,68 @@ function updateForm(){
             break;
     }
 
+    // NOW render all variables into the DOM (switch has already updated them above)
+
+    //LOCATION NAME FORLOOP
+    for (let i = 0; i < locationNameArray.length; i++) {
+        locationNameArray[i].innerHTML = upDatedSpaName;
+    }
+
+    //LOCATION ADDRESS FORLOOP
+    for (let i = 0; i < locationAddressArray.length; i++) {
+        locationAddressArray[i].innerHTML = upDatedSpaAddress;
+    }
+
+    //LOCATION LINK FORLOOP
+    for (let i = 0; i < locationALinkArray.length; i++) {
+        locationALinkArray[i].innerHTML = upDatedSpaLINK;
+    }
+
+    // LOCATION MAP LINK FORLOOP — render as clickable anchor
+    for (let i = 0; i < locationMapLinkArray.length; i++) {
+        locationMapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
+    }
+
+    // LOCATION PARK LINK FORLOOP
+    for (let i = 0; i < locationParkLinkArray.length; i++) {
+        locationParkLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
+    }
+
+    //LOCATION Phone FORLOOP
+    for (let i = 0; i < locationPhoneArray.length; i++) {
+        locationPhoneArray[i].innerHTML = upDatedSpaPhone;
+    }
+
+    //LOCATION Actual Phone FORLOOP
+    for (let i = 0; i < acutalLocationPhoneArray.length; i++) {
+        acutalLocationPhoneArray[i].innerHTML = upDatedActualSpaPhone;
+    }
+
+    //LOCATION WEB LINK FORLOOP
+    for (let i = 0; i < locationWebLinkArray.length; i++) {
+        locationWebLinkArray[i].innerHTML = upDatedSpaWebLINK;
+    }
+
+    //Duration Total FORLOOP
+    for (let i = 0; i < DurationTotalArray.length; i++) {
+        DurationTotalArray[i].innerHTML = upDatedDurationTotal;
+    }
+
+    //Duration One FORLOOP
+    for (let i = 0; i < DurationOneArray.length; i++) {
+        DurationOneArray[i].innerHTML = upDatedDurationOne;
+    }
+
+    //Duration Two FORLOOP
+    for (let i = 0; i < DurationTwoArray.length; i++) {
+        DurationTwoArray[i].innerHTML = upDatedDurationTwo;
+    }
+
+    //Addons FORLOOP
+    for (let i = 0; i < addOnsArray.length; i++) {
+        addOnsArray[i].innerHTML = upDatedAddons;
+    }
+
 
     if (spaNameStatus.innerHTML.includes("Elevatione")) {
         let hideOne = document.getElementById("hideOne")
@@ -6615,6 +6604,16 @@ function updateForm(){
 
     }
 
+    // parkingLine: only show for spas that have a parking link
+    let parkingLine = document.getElementById("parkingLine");
+    if (parkingLine) {
+        if (upDatedSpaName === "Premier Naples" || upDatedSpaName === "Forest Hill Cosmetic Clinic") {
+            parkingLine.style.display = "inline";
+        } else {
+            parkingLine.style.display = "none";
+        }
+    }
+
     // Variables in text
     let custNameArray = document.getElementsByClassName("varCustName");
     let repNameArray = document.getElementsByClassName("varRepName");
@@ -6627,43 +6626,18 @@ function updateForm(){
     let treatmentSelectedArray = document.getElementsByClassName("varTreatmentSelected");
     let insteadOfArray = document.getElementsByClassName("insteadOf");
 
-
     // USER DATA ENTRY
     let customerName = document.getElementById("custName").value;
     let repName = document.getElementById("empName").value;
-    //  let promoPrice = document.getElementById("promoPrice").value;
     let aptDateDay = document.getElementById("aptDateDay").value;
     let aptDateMonth = document.getElementById("aptDateMonth").value;
     let aptMinutesTime = document.getElementById("minutesOfTime").value;
     let aptTime = document.getElementById("aptTime").value;
     let aptTimeAmPm = document.getElementById("aptTimeAmPm").value;
-    //  let treatmentSelected = document.getElementById("chooseTreatment").value;
-  
-    //GOOGLE MAP LINK
-    let mapLinkArray = document.getElementsByClassName("varLocationMapLink");
-    for (var i = 0; i < mapLinkArray.length; i++) {
-    mapLinkArray[i].innerHTML = `<a href="${upDatedSpaMapLINK}" target="_blank">${upDatedSpaMapLINK}</a>`;
-}
 
-      //Parking LINK - only show for Premier Naples
-    let parkLinkArray = document.getElementsByClassName("varLocationParkLink");
-    for (var i = 0; i < parkLinkArray.length; i++) {
-        parkLinkArray[i].innerHTML = `<a href="${upDatedSpaParkLINK}" target="_blank">${upDatedSpaParkLINK}</a>`;
-    }
-    let parkingLine = document.getElementById("parkingLine");
-    if (parkingLine) {
-        if (upDatedSpaName === "Premier Naples" || upDatedSpaName === "Forest Hill Cosmetic Clinic") {
-            parkingLine.style.display = "inline";
-        } else {
-            parkingLine.style.display = "none";
-        }
-    }
-
- 
-
+    // REP NAME LOOP
     // CUSTOMER NAME LOOP
     for(var i = 0; i < custNameArray.length; i++){
-    custNameArray[0].innerHTML = customerName;
     custNameArray[i].innerHTML = customerName;
 }
     // REP NAME LOOP
