@@ -75,7 +75,7 @@ function updateForm(){
 
         case "Adore Cookstown Men's Skin Tightening $89.95":
         upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
+        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Calvin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
         upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/men-skin-tightening-89-95-booking" ;
@@ -92,7 +92,7 @@ function updateForm(){
 
         case "Adore Cookstown Natural Facelift":
         upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
+        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Calvin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
         upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/natural-facelift-79-95-book-page" ;
@@ -109,7 +109,7 @@ function updateForm(){
 
         case "Adore Cookstown Neck and Jawline 79.95":
         upDatedSpaName = "Adore Spa";
-        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Clavin Klein & Lids)";
+        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Calvin Klein & Lids)";
         upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
         upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/booking-neck-and-jawline-79-95-ltb" ;
