@@ -585,6 +585,23 @@ function updateForm(){
         insteadOfSpa = "$399"
         break;
 
+        case "Below Zero Alpharetta Spa Natural Facelift $97":
+        upDatedSpaName = "Below Zero Alpharetta";
+        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
+        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/natural-facelift-97-book-page";
+        upDatedSpaPhone = "(404) 618-4124";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "97";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(706) 901-8979";
+        insteadOfSpa = "$377"
+        break;
+
         case "Below Zero Alpharetta Spa Natural Facelift $89.95":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
