@@ -924,6 +924,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Chantel Beauty Spa 3D Facelift $59.95":
+        upDatedSpaName = "Chantel Beauty Spa";
+        upDatedSpaAddress = "12285 Scripps Poway Pkwy, Poway, CA 92064"+"<br>"+"(STE103 - Front store in the plaza between 2 dentist)";
+        upDatedSpaLINK = "https://forms.gle/x5fSwJsBi3388VxT8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/wJs4VNoeJWwweu3s7";
+        upDatedSpaWebLINK = "https://chantelbeauty.firstouchbeauty.com/3d-facelift-book59";
+        upDatedSpaPhone = "(858) 746-7200";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes of 3D Facelift Treatment and 15 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (619) 673-8219";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(619) 673-8219";
+        insteadOfSpa = "$377"
+        break;
+
         case "Chantel Beauty Spa Triple Lift $59.95":
         upDatedSpaName = "Chantel Beauty Spa";
         upDatedSpaAddress = "12285 Scripps Poway Pkwy, Poway, CA 92064"+"<br>"+"(STE103 - Front store in the plaza between 2 dentist)";
