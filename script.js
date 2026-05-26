@@ -2928,6 +2928,23 @@ function updateForm(){
         insteadOfSpa = "$350"
         break;
 
+        case "Lumera Skin Clinics Botox $11":
+        upDatedSpaName = "Lumera Skin Clinics";
+        upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+        upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-booking-11";
+        upDatedSpaPhone = "(438) 230-4017";
+        upDatedDurationTotal = "50 Minutes";
+        upDatedDurationOne = "- 40 minutes of Treatment and Consultation";
+        upDatedDurationTwo = "- 10 minutes Cleansing";
+        promoPrice = "11";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
+        treatmentSelected = "Botox Treatment";
+        newSpaPhoneNumberSelected = "(514) 208‑0226";
+        insteadOfSpa = "$15"
+        break;
+
         case "Lumera Skin Clinics Hair Removal $99.95":
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
@@ -3450,6 +3467,23 @@ function updateForm(){
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
         treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(808) 779-8279";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Moana Crystals 3D Facelift $59.95":
+        upDatedSpaName = "Moana Crystals";
+        upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+        upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+        upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/3d-facelift-book-page-59";
+        upDatedSpaPhone = "(808) 764-3367";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 10 minutes Cleansing";
+        upDatedDurationTwo = "- 40 minutes 3D Facelift Treatment and 10 minutes post-care and consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+        treatmentSelected = "3D Facelift Treatment";
         newSpaPhoneNumberSelected = "(808) 779-8279";
         insteadOfSpa = "$377"
         break;
