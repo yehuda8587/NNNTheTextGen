@@ -6411,20 +6411,20 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Tierra Med Turkey Neck Tightening 69.95":
+        case "Tierra Med Spa 3D Facelift 79.95":
         upDatedSpaName = "Tierra Med Spa";
         upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
         upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/tierra-med-spa-turkey-neck-tightening-treatment-promo";
-        upDatedSpaPhone = "(647) 799-6173";
+        upDatedSpaWebLINK = "";
+        upDatedSpaPhone = "(289) 302-8033";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Consultation";
-        upDatedDurationTwo = "- 45 Minutes Turkey Neck Tightening Treatment";
-        promoPrice = "69.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
-        treatmentSelected = "Turkey Neck Tightening Treatment";
-        newSpaPhoneNumberSelected = "(647) 277-5122";
+        upDatedDurationTwo = "- 45 Minutes 3D Facelift Treatment";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(289) 217 3012";
         insteadOfSpa = "$377";
         break;
 
