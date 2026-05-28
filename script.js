@@ -6007,6 +6007,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Solei Beauty Lounge MO 3D Facelift $59.95":
+        upDatedSpaName = "Solei Beauty Lounge";
+        upDatedSpaAddress = "1186 NE Douglas St, Lee's Summit, MO 64086"+"<br>"+"(Next to the nail salon, there’s a large sign that says “Solei” on top, right in front of Starbucks.)";
+        upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
+        upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/3d-facelift-booking";
+        upDatedSpaPhone = "(816) 839-5847";
+        upDatedDurationTotal = "90 Minutes";
+        upDatedDurationOne = " ";
+        upDatedDurationTwo = "- 60 minutes 3D Facelift Treatment and 30 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (816) 272 5131";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(816) 272 5131";
+        insteadOfSpa = "$377"
+        break;
+
         case "Coastal Glow Aesthetics Natural Facelift $69.95":
         upDatedSpaName = "Coastal Glow Aesthetics";
         upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Right beside The Cinnamon Bear Country Store)";
