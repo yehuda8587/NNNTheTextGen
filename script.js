@@ -4873,6 +4873,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Prime Clinic 3D Facelift $87":
+        upDatedSpaName = "Prime Clinic";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
+        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/3d-facelift-booking";
+        upDatedSpaPhone = "(863) 278-3069";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleansing and 3D Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "87.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "813-214-8046";
+        insteadOfSpa = "$395"
+        break;
+
         case "Prime Clinic Triple Lift $69.95":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
