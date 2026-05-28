@@ -6225,6 +6225,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "The Crown Spa & Skin Experts Natural Facelift 69.95:
+        upDatedSpaName = "The Crown Spa & Skin Experts";
+        upDatedSpaAddress = "1210 S Federal Hwy STE 101, Boynton Beach, FL 33435"+"<br>"+"(If you are coming from I-95, take Exit 56 and continue on Woolbright Rd. Turn left onto Federal Hwy. Shortly after, you will see a white building with blue awnings on your right-hand side — turn right into the entrance.)";
+        upDatedSpaLINK = "https://forms.gle/tBNsWqxJnbgLSnLe7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cSMmyiP5AqJC8NEMA";
+        upDatedSpaWebLINK = "https://thecrownspa.firstouchbeauty.com/natural-facelift-69-95-booking";
+        upDatedSpaPhone = "(561) 821-4590";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Light Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes Post Care and Consultation"
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 819-4004";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(561) 819-4004";
+        insteadOfSpa = "$377";
+        break;
+
         case "The Glow Med Spa Skin Tightening 59.95":
         upDatedSpaName = "The Glow Med Spa";
         upDatedSpaAddress = "937 S Coast Hwy 101, Encinitas, CA 92024"+"<br>"+"(Unit 100, At the plaza between The doughnut shop and the barbershop)";
