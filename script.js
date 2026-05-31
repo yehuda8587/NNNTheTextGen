@@ -1522,6 +1522,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Forest Hill Cosmetic Clinic 3D Facelift $89.95":
+        upDatedSpaName = "Forest Hill Cosmetic Clinic";
+        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+        upDatedSpaParkLINK = "https://maps.app.goo.gl/ABMJwMEwFyW5DJzn7 ";
+        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/3d-facelift-booking-89";
+        upDatedSpaPhone = "(437) 370-0400";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes of the 3D Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(416) 595-9788";
+        insteadOfSpa = "$377"
+        break;
+
         case "Forest Hill Cosmetic Clinic Natural Shape and Sculpt  $69.95":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
@@ -3554,6 +3572,23 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (437) 410-9788";
         treatmentSelected = "Neck and Jawline Treatment";
         newSpaPhoneNumberSelected = "(437) 410-9788";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Nova Aesthetic Oakville 3D Facelift $89.95":
+        upDatedSpaName = "Nova Aesthetic";
+        upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
+        upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
+        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/3d-facelift-booking-89";
+        upDatedSpaPhone = "(289) 302-8880";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - ";
+        upDatedDurationTwo = " - 45 minutes 3D Facelift Treatment and 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(289) 837-0335";
         insteadOfSpa = "$377"
         break;
 
