@@ -3575,19 +3575,19 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Nova Aesthetic Oakville 3D Facelift $89.95":
+        case "Nova Aesthetic Oakville Triple Lift $89":
         upDatedSpaName = "Nova Aesthetic";
         upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
         upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
-        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/3d-facelift-booking-89";
+        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/triple-lift-booking-89";
         upDatedSpaPhone = "(289) 302-8880";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - ";
-        upDatedDurationTwo = " - 45 minutes 3D Facelift Treatment and 15 minutes Consultation";
-        promoPrice = "89.95";
+        upDatedDurationTwo = " - 45 minutes Triple Lift Treatment and 15 minutes Consultation";
+        promoPrice = "89";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
-        treatmentSelected = "3D Facelift Treatment";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(289) 837-0335";
         insteadOfSpa = "$377"
         break;
