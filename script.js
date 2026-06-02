@@ -124,6 +124,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Adore Cookstown 3D Facelift 79.95":
+        upDatedSpaName = "Adore Spa";
+        upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Calvin Klein & Lids)";
+        upDatedSpaLINK = "https://forms.gle/wQhsDWzjTS6GM9ko7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/PhJMxC8pXQ8oB23L9";
+        upDatedSpaWebLINK = "https://adore-cooks.noneedleneeded.com/3d-facelift-book79" ;
+        upDatedSpaPhone = "(705) 400-8900";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Light Cleaning";
+        upDatedDurationTwo = "- 45 Minutes 3D Facelift Treatment & Consultation";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (844) 377-7753";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(844) 377-7753";
+        insteadOfSpa = "$377"
+        break;
+
         case "Adore Cookstown Triple Lift 79.95":
         upDatedSpaName = "Adore Spa";
         upDatedSpaAddress = "Tanger Outlet,"+"<br>"+"3311 County Road 89, Cookstown, ON L0L 1L0" +"<br>"+"(Between Calvin Klein & Lids)";
@@ -171,6 +188,23 @@ function updateForm(){
         promoPrice = "89.00";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
         treatmentSelected = "Non Surgical Facelift";
+        newSpaPhoneNumberSelected = "(941) 867-4376";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Aeternitas 3D Facelift $89.95":
+        upDatedSpaName = "Aeternitas";
+        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+        upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-book-page";
+        upDatedSpaPhone = "(941) 867-4376";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes 3D Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        treatmentSelected = "3D Facelift";
         newSpaPhoneNumberSelected = "(941) 867-4376";
         insteadOfSpa = "$377"
         break;
@@ -1015,7 +1049,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/body-treatment-49-95-booking-page";
-        upDatedSpaPhone = "(281) 697-6978";
+        upDatedSpaPhone = "(281) 729-9242";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 45 minutes Body Treatment";
         upDatedDurationTwo = " - 15 minutes Consultation";
@@ -1032,7 +1066,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/natural-facelift-49-95-book-page";
-        upDatedSpaPhone = "(281) 697-6978";
+        upDatedSpaPhone = "(281) 729-9242";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
@@ -1049,7 +1083,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/skin-tightening-49-95-book-page";
-        upDatedSpaPhone = "(281) 697-6978";
+        upDatedSpaPhone = "(281) 729-9242";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes of Skin Tightening Treatment and 15 minutes Consultation";
@@ -1066,7 +1100,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-59-95";
-        upDatedSpaPhone = "(346) 362-5699";
+        upDatedSpaPhone = "(346) 347-7851";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
@@ -1083,7 +1117,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-79-95";
-        upDatedSpaPhone = "(346) 362-5699";
+        upDatedSpaPhone = "(346) 347-7851";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
@@ -1100,7 +1134,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-neck-and-jawline-59-95";
-        upDatedSpaPhone = "(346) 362-5699";
+        upDatedSpaPhone = "(346) 347-7851";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 45 minutes Neck and Jawline Treatment and Consultation";
