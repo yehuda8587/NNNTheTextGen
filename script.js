@@ -3369,6 +3369,23 @@ function updateForm(){
         newSpaPhoneNumberSelected = "(651) 369-9218";
         insteadOfSpa = "$750"
         break;
+
+         case "Minnesota Aesthetic Center SmartSkin CO2 Laser Resurfacing $248":
+        upDatedSpaName = "Minnesota Aesthetic Center";
+        upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
+        upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
+        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/smartskin-co2-laser-resurfacing-booking-248";
+        upDatedSpaPhone = "(651) 383-2251";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes SmartSkin CO2 Laser Resurfacing Treatment and 15 minutes post-care and consultation";
+        promoPrice = "248";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (651) 369-9218";
+        treatmentSelected = "SmartSkin CO2 Laser Resurfacing Treatment";
+        newSpaPhoneNumberSelected = "(651) 369-9218";
+        insteadOfSpa = "$750"
+        break;
     
         case "Mize Med Spa and Wellness Center Men Skin Tightening $99.95":
         upDatedSpaName = "Mize Med Spa and Wellness Center";
