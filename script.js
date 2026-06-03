@@ -6650,20 +6650,20 @@ function updateForm(){
         insteadOfSpa = "$350"
         break;
 
-        case "Tresor Rare Tallahassee Natural Facelift $79.95":
+        case "Tresor Rare Tallahassee Natural Facelift 79.95":
         upDatedSpaName = "Tresor Rare";
-        upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(2nd floor, right above the Food Court, near Helzberg Jewelers and across Bath & Body Works)";
+        upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(Second floor next to Victoria's Secret)";
         upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
-        upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/tresor-rare-natural-facelift-promo-79-95";
-        upDatedSpaPhone = "(443)-972-0601";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = " - 15 minutes Cleansing";
-        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment and 15 minutes Consultation";
+        upDatedSpaWebLINK = "https://tresorare.firstouchbeauty.com/natural-facelift-79-95-book-page";
+        upDatedSpaPhone = "(754) 258-3309";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " - 10 minutes Cleansing";
+        upDatedDurationTwo = " - 35 minutes Skin Tightening Treatment and Consultation";
         promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (443)-972-0601";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (754) 284-4145";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(571) 325-9317";
+        newSpaPhoneNumberSelected = "(754) 284-4145";
         insteadOfSpa = "$377"
         break;
 
