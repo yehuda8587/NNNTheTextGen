@@ -3370,7 +3370,7 @@ function updateForm(){
         insteadOfSpa = "$750"
         break;
 
-         case "Minnesota Aesthetic Center SmartSkin CO2 Laser Resurfacing $248":
+         case "Minnesota Aesthetic Center SmartSkin CO2 Laser Resurfacing $258":
         upDatedSpaName = "Minnesota Aesthetic Center";
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
