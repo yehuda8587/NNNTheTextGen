@@ -1556,7 +1556,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Forest Hill Cosmetic Clinic 3D Facelift $89.95":
+        case "Forest Hill Cosmetic Clinic 3D Facelift $89":
         upDatedSpaName = "Forest Hill Cosmetic Clinic";
         upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
@@ -1567,7 +1567,7 @@ function updateForm(){
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes of the 3D Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
-        promoPrice = "89.95";
+        promoPrice = "89";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
         treatmentSelected = "3D Facelift Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
