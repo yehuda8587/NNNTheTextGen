@@ -3081,17 +3081,17 @@ function updateForm(){
         insteadOfSpa = "$399";
         break;
 
-        case "LumiAge LED Aesthetics Natural Facelift $89.00":
+        case "LumiAge LED Aesthetics Natural Facelift $89":
         upDatedSpaName = "LumiAge LED Aesthetics";
         upDatedSpaAddress = "Sola Salons 680 W. Dekalb Pike #1066 King of Prussia Pa 19406"+"<br>"+"(Enter King of Prussia Mall through the corridor next to The Cheesecake Factory (Court Side). Walk toward Sola Salon, and you'll find us in Suite 5A on the ground floor.)";
         upDatedSpaLINK = "https://forms.gle/tX6u7WHfNMcdPgvL8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/kTp6Jnmf2BAeHy9a8";
         upDatedSpaWebLINK = "https://lumiage.advancedbeautytreatments.com/natural-facelift-89-95-booking";
-        upDatedSpaPhone = "(267) 289-2642";
+        upDatedSpaPhone = "(610) 615-1028";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = "- 15 mins Skin Analysis";
         upDatedDurationTwo = "- 45 mins deep cleansing, treatment and moisturizing and 30 mins post care and consultation.";
-        promoPrice = "89.00";
+        promoPrice = "89";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (484) 981 4410";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(484) 981 4410";
