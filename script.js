@@ -3081,7 +3081,7 @@ function updateForm(){
         insteadOfSpa = "$399";
         break;
 
-        case "LumiAge LED Aesthetics Natural Facelift $89.95":
+        case "LumiAge LED Aesthetics Natural Facelift $89.00":
         upDatedSpaName = "LumiAge LED Aesthetics";
         upDatedSpaAddress = "Sola Salons 680 W. Dekalb Pike #1066 King of Prussia Pa 19406"+"<br>"+"(Enter King of Prussia Mall through the corridor next to The Cheesecake Factory (Court Side). Walk toward Sola Salon, and you'll find us in Suite 5A on the ground floor.)";
         upDatedSpaLINK = "https://forms.gle/tX6u7WHfNMcdPgvL8";
