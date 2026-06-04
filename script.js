@@ -6689,7 +6689,7 @@ function updateForm(){
         upDatedSpaAddress = "Governor Square Mall"+"<br>"+"1500 Apalachee Pkwy, Unit 2350, Tallahassee, FL 32301"+"<br>"+"(Second floor next to Victoria's Secret)";
         upDatedSpaLINK = "https://forms.gle/d9bVoE3hSMELQ7a47";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dHywqo21iYKv9GV16";
-        upDatedSpaWebLINK = "https://tresorare.firstouchbeauty.com/natural-facelift-79-95-book-page";
+        upDatedSpaWebLINK = "https://tresorare.firstouchbeauty.com/natural-facelift-79-95-booking";
         upDatedSpaPhone = "(754) 258-3309";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 10 minutes Cleansing";
