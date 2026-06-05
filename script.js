@@ -675,7 +675,7 @@ function updateForm(){
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
         upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
-        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/3d-facelift-book-page";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/3d-facelift-booking-89";
         upDatedSpaPhone = "(404) 618-4124";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
