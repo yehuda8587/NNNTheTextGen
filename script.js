@@ -5605,7 +5605,7 @@ function updateForm(){
         upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
-        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/hydraglow-59-95-book";
+        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/hydraglow-booking-page-59-95";
         upDatedSpaPhone = "(714) 450-6547";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 miuntes of the Hydraglow Treatment";
