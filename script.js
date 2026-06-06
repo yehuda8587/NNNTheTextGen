@@ -4428,6 +4428,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Oasis Boutique Natural Facelift $99.95":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-99-95-booking";
+        upDatedSpaPhone = "(407) 848-5429";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-5429";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-5429";
+        insteadOfSpa = "$377"
+        break;
+
         case "Oasis Boutique Neck and Jawline $79.95":
         upDatedSpaName = "Oasis Boutique";
         upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
@@ -4477,6 +4494,23 @@ function updateForm(){
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(407) 848-5429";
         insteadOfSpa = "$400"
+        break;
+
+        case "Oasis Boutique Triple Lift $99.95":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/nbqeeN56YmrmpSyNA";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/triple-lift-booking-99-95";
+        upDatedSpaPhone = "(407) 848-5429";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "99.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-5429";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-5429";
+        insteadOfSpa = "$377"
         break;
 
         case "Oasis Boutique Natural Facelift $118":
