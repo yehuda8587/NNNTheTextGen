@@ -1592,6 +1592,23 @@ function updateForm(){
         insteadOfSpa = "$599"
         break;
 
+        case "Forest Hill Cosmetic Clinic Regina Natural Facelift $89.95":
+        upDatedSpaName = "Forest Hill Cosmetic Clinic";
+        upDatedSpaAddress = "2445 Quance St, Regina, SK S4V 2X8"+"<br>"+"(Located in the plaza on the street level.)";
+        upDatedSpaLINK = "https://forms.gle/iuhcYmjrNq8wWESc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/byDFwAfzDHpW1FXV8";
+        upDatedSpaWebLINK = "https://foresthill.advancedbeautytreatments.com/natural-facelift-booking";
+        upDatedSpaPhone = "(306) 500-5331";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "- 30 minutes of Natural Facelift and 15 minutes Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (306) 775-5551";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(306) 775-5551";
+        insteadOfSpa = "$377"
+        break;
+
         case "Gentle Touch Beauty Natural Facelift $79.95":
         upDatedSpaName = "Gentle Touch Beauty";
         upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
