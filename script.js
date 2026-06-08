@@ -1613,7 +1613,7 @@ function updateForm(){
         upDatedSpaName = "Cherry Hill Spa";
         upDatedSpaAddress = "Cherry Hill Mall,"+"<br>"+"2000 NJ Route 38, Cherry Hill, NJ 08002"+"<br>"+"(park by Nordstrom come up to the second floor as you exit Nordstrom we are to the left hand side.)";
         upDatedSpaLINK = "https://forms.gle/fyJe9ZriTPxALDn39";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/a1eMUEUraYbifmQx8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/j7RSf7UZk8xzFT8o9";
         upDatedSpaWebLINK = "https://cherryhillspa.advancedbeautytreatments.com/natural-facelift-125-book-page" ;
         upDatedSpaPhone = "(856) 888-4587";
         upDatedDurationTotal = "75 Minutes";
