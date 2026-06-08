@@ -1593,7 +1593,7 @@ function updateForm(){
         break;
 
         case "Forest Hill Cosmetic Clinic Regina Natural Facelift $89.95":
-        upDatedSpaName = "Forest Hill Cosmetic Clinic";
+        upDatedSpaName = "Forest Hill Cosmetic Clinic Regina";
         upDatedSpaAddress = "2445 Quance St, Regina, SK S4V 2X8"+"<br>"+"(Located in the plaza on the street level.)";
         upDatedSpaLINK = "https://forms.gle/iuhcYmjrNq8wWESc6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/byDFwAfzDHpW1FXV8";
