@@ -1609,6 +1609,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Cherry Hill Spa Natural Facelift $125":
+        upDatedSpaName = "Cherry Hill Spa";
+        upDatedSpaAddress = "Cherry Hill Mall,"+"<br>"+"2000 NJ Route 38, Cherry Hill, NJ 08002"+"<br>"+"(park by Nordstrom come up to the second floor as you exit Nordstrom we are to the left hand side.)";
+        upDatedSpaLINK = "https://forms.gle/fyJe9ZriTPxALDn39";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/a1eMUEUraYbifmQx8";
+        upDatedSpaWebLINK = "https://cherryhillspa.advancedbeautytreatments.com/natural-facelift-125-book-page" ;
+        upDatedSpaPhone = "(856) 888-4587";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "60 minutes Natural Facelift Treatment and Consultation";
+        promoPrice = "125"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (856) 382-7838";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(856) 382-7838";
+        insteadOfSpa = "$377";
+        break;
+
         case "Gentle Touch Beauty Natural Facelift $79.95":
         upDatedSpaName = "Gentle Touch Beauty";
         upDatedSpaAddress = "Historic Downtown Venice FL Shops,"+"<br>"+"241 W Venice Ave, Venice, FL 34285"+"<br>"+"(Between Captain's Landing & St Marco Boutique)";
