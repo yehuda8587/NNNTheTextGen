@@ -419,7 +419,7 @@ function updateForm(){
         upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
         upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
-        upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/natural-facelift-188-bookpage";
+        upDatedSpaWebLINK = "https://beautyaffairs.advancedbeautytreatments.com/natural-facelift-188-bookpage";
         upDatedSpaPhone = "+61 483 946 963";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
@@ -437,7 +437,7 @@ function updateForm(){
         upDatedSpaAddress = "Lifestyle Workplace, 11/117 Old Pittwater Rd, Brookvale NSW 2100" +"<br>"+"(Next to Warringah Mall)";
         upDatedSpaLINK = "https://forms.gle/cXX5H8qs2fxXUF3x7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/uZGb5bDujWPGcUEh9";
-        upDatedSpaWebLINK = "https://beauty-affairs-brook.noneedleneeded.com/hifu-booking";
+        upDatedSpaWebLINK = "https://beautyaffairs.advancedbeautytreatments.com/hifu-booking";
         upDatedSpaPhone = "+61 483 946 963";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
@@ -471,7 +471,7 @@ function updateForm(){
         upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
         upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
-        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/natural-facelift-188-book-page";
+        upDatedSpaWebLINK = "https://beautyaffairs-cbd.advancedbeautytreatments.com/natural-facelift-188-book-page";
         upDatedSpaPhone = "+61 468 021 570";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
@@ -481,6 +481,23 @@ function updateForm(){
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "+612 9286 3898";
         insteadOfSpa = "$400"
+        break;
+
+        case "Beauty Affairs MediSpa CBD HIFU Double Chin Lift $248":
+        upDatedSpaName = "Beauty Affairs MediSpa";
+        upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
+        upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
+        upDatedSpaWebLINK = "https://beautyaffairs-cbd.advancedbeautytreatments.com/natural-facelift-188-book-page";
+        upDatedSpaPhone = "+61 468 021 570";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " ";
+        upDatedDurationTwo = "- 30 Minutes HIFU Double Chin Lift Treatment & 15 minutes Consultation";
+        promoPrice = "248"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at +612 9286 3898";
+        treatmentSelected = "HIFU Double Chin Lift Treatment";
+        newSpaPhoneNumberSelected = "+612 9286 3898";
+        insteadOfSpa = "$950"
         break;
 
         case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
