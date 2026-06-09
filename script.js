@@ -6297,6 +6297,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Coastal Glow Aesthetics 3D Facelift $89.95":
+        upDatedSpaName = "Coastal Glow Aesthetics";
+        upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Right beside The Cinnamon Bear Country Store)";
+        upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
+        upDatedSpaWebLINK = "https://coastal-glow.noneedleneeded.com/natural-facelift-69-95-book-page";
+        upDatedSpaPhone = "(904) 452-8539";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes 3D Facelift Treatment and Post Care and Consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (904) 432-7364";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(904) 432-7364";
+        insteadOfSpa = "$377"
+        break;
+
         case "Spa De Solei LED":
         upDatedSpaName = "Spa De Solei";
         upDatedSpaAddress = "1026 N Fairfax Ave. West Hollywood, CA 90046"+"<br>"+"(Rio Beauty Lounge Street Store)";
