@@ -488,7 +488,7 @@ function updateForm(){
         upDatedSpaAddress = "St Martins Tower, Suite 2205/ Level 22 31 Market St, Sydney NSW 2000" +"<br>"+"(Next to Queen Victoria Building)";
         upDatedSpaLINK = "https://forms.gle/u7BU2hZMkmJsLdEE9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U6NvFep1HU2Tn1KP6";
-        upDatedSpaWebLINK = "https://beautyaffairs-cbd.advancedbeautytreatments.com/natural-facelift-188-book-page";
+        upDatedSpaWebLINK = "https://beautyaffairs.noneedleneeded.com/hifu-booking";
         upDatedSpaPhone = "+61 468 021 570";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " ";
@@ -1585,6 +1585,24 @@ function updateForm(){
         upDatedDurationOne = "- 60 minutes of the 3D Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
         promoPrice = "89";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(416) 595-9788";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Forest Hill Cosmetic Clinic 3D Facelift $69":
+        upDatedSpaName = "Forest Hill Cosmetic Clinic";
+        upDatedSpaAddress = "446 Spadina Rd, Toronto, ON M5P 2W4, Canada"+"<br>"+"(Next to Starbucks)";
+        upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
+        upDatedSpaParkLINK = "https://maps.app.goo.gl/ABMJwMEwFyW5DJzn7 ";
+        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/3d-facelift-booking;
+        upDatedSpaPhone = "(437) 370-0400";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes of the 3D Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation and a customized treatment plan";
+        promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (416) 595-9788";
         treatmentSelected = "3D Facelift Treatment";
         newSpaPhoneNumberSelected = "(416) 595-9788";
