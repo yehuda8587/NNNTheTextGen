@@ -1597,7 +1597,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/FYRNhaUTmx5AVs476";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/1zX6R5X3GkvfxCpE7";
         upDatedSpaParkLINK = "https://maps.app.goo.gl/ABMJwMEwFyW5DJzn7 ";
-        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/3d-facelift-booking;
+        upDatedSpaWebLINK = "https://foresthillclinic.firstouchbeauty.com/3d-facelift-booking";
         upDatedSpaPhone = "(437) 370-0400";
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes of the 3D Facelift Treatment";
