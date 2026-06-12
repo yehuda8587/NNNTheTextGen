@@ -5675,7 +5675,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/skin-totale-med-spa-below-zero-facelift-promo-59-95";
-        upDatedSpaPhone = "(714) 450-6547";
+        upDatedSpaPhone = "(714) 464-2076";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Skin Analysis and Below Zero Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -5692,7 +5692,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
         upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/bye-bye-saggy-eyes-book";
-        upDatedSpaPhone = "(714) 450-6547";
+        upDatedSpaPhone = "(714) 464-2076";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Bye Bye Saggy Eyes Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -5709,7 +5709,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
         upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/hydraglow-booking-page-59-95";
-        upDatedSpaPhone = "(714) 450-6547";
+        upDatedSpaPhone = "(714) 464-2076";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 miuntes of the Hydraglow Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
@@ -5726,7 +5726,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
         upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/men-natural-facelift-59-95";
-        upDatedSpaPhone = "(714) 450-6547";
+        upDatedSpaPhone = "(714) 464-2076";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
