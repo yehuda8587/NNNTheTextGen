@@ -704,6 +704,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Below Zero Alpharetta Spa 3D Facelift $89.95":
+        upDatedSpaName = "Below Zero Alpharetta";
+        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
+        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/3d-facelift-booking-page";
+        upDatedSpaPhone = "(404) 618-4124";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes 3D Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "89.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(706) 901-8979";
+        insteadOfSpa = "$377"
+        break;
+
         case "Below Zero Alpharetta Spa Triple Lift $89.95":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa located at the first floor between Image is Everything Salon and Emani maternity store best entrance is the one near Von Maur or Dillard's)";
@@ -1638,6 +1655,23 @@ function updateForm(){
         upDatedDurationOne = "15 minute Cleansing";
         upDatedDurationTwo = "- 30 minutes of Natural Facelift and 15 minutes Consultation";
         promoPrice = "89";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (306) 775-5551";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(306) 775-5551";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Forest Hill Cosmetic Clinic Regina Natural Facelift $69":
+        upDatedSpaName = "Forest Hill Cosmetic Clinic Regina";
+        upDatedSpaAddress = "2445 Quance St, Regina, SK S4V 2X8"+"<br>"+"(Located in the plaza on the street level.)";
+        upDatedSpaLINK = "https://forms.gle/iuhcYmjrNq8wWESc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/byDFwAfzDHpW1FXV8";
+        upDatedSpaWebLINK = "https://foresthill.advancedbeautytreatments.com/natural-facelift-booking-page-69";
+        upDatedSpaPhone = "(306) 500-5331";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing";
+        upDatedDurationTwo = "- 30 minutes of Natural Facelift and 15 minutes Consultation";
+        promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (306) 775-5551";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(306) 775-5551";
@@ -3729,6 +3763,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Nova Aesthetic Oakville Triple Lift $69":
+        upDatedSpaName = "Nova Aesthetic";
+        upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
+        upDatedSpaLINK = "https://forms.gle/tScsqFzk9VsVketz9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/k3RC8SRbo6nKPpj49";
+        upDatedSpaWebLINK = "https://novaaesthetics-oak.firstouchbeauty.com/triple-lift-book-page-69";
+        upDatedSpaPhone = "(289) 302-8880";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - ";
+        upDatedDurationTwo = " - 45 minutes Triple Lift Treatment and 15 minutes Consultation";
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 837-0335";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(289) 837-0335";
+        insteadOfSpa = "$377"
+        break;
+
         case "Nova Aesthetic Oakville Natural Shape and Sculpt $69.95":
         upDatedSpaName = "Nova Aesthetic";
         upDatedSpaAddress = "303 Robinson St, Oakville, ON L6J 1G7"+"<br>"+"(Main Floor)";
@@ -5073,6 +5124,23 @@ function updateForm(){
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
         promoPrice = "79.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "813-214-8046";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Prime Clinic Natural Facelift $87":
+        upDatedSpaName = "Prime Clinic";
+        upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
+        upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
+        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-87-book-page";
+        upDatedSpaPhone = "(863) 278-3069";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "87";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
