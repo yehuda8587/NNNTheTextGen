@@ -502,7 +502,7 @@ function updateForm(){
 
         case "Beauty Lounge 3 in 1 Skin Tightening 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-3-in-1-skin-tightening-79-95";
@@ -519,7 +519,7 @@ function updateForm(){
 
         case "Beauty Lounge Bye Bye Saggy Eyes 59.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/booking-page-bye-bye-saggy-eyes";
@@ -536,7 +536,7 @@ function updateForm(){
 
         case "Beauty Lounge Natural Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/natural-facelift-79-95-book-page";
@@ -553,7 +553,7 @@ function updateForm(){
 
         case "Beauty Lounge Neck and Jawline 69.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/neck-and-jawline-69-95-book-page";
@@ -570,7 +570,7 @@ function updateForm(){
 
         case "Beauty Lounge Neck and Jawline 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/neck-and-jawline-79-95-book-page";
@@ -587,7 +587,7 @@ function updateForm(){
 
         case "Beauty Lounge Non Surgical Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/non-surgical-facelift-79-95-book";
@@ -604,7 +604,7 @@ function updateForm(){
 
         case "Beauty Lounge Triple Lift 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/triple-lift-booking";
@@ -621,7 +621,7 @@ function updateForm(){
 
         case "Beauty Lounge 3D Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
-        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(2 shops next to Ollie's Bargain Outlet,  Next to Christie Dental)";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
         upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/3d-facelift-79-book";
