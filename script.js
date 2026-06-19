@@ -1695,7 +1695,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "CCherry Hill Spa Triple Lift $125":
+        case "Cherry Hill Spa Triple Lift $125":
         upDatedSpaName = "Cherry Hill Spa";
         upDatedSpaAddress = "Cherry Hill Mall,"+"<br>"+"2000 NJ Route 38, Cherry Hill, NJ 08002"+"<br>"+"(park by Nordstrom come up to the second floor as you exit Nordstrom we are to the left hand side.)";
         upDatedSpaLINK = "https://forms.gle/fyJe9ZriTPxALDn39";
