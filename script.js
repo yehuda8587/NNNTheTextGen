@@ -4240,6 +4240,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics Kensington Natural Facelift $79":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1414 Kensington Rd NW #103, Calgary, AB T2N 3P9"+"<br>"+"(Kensington Road)";
+        upDatedSpaLINK = "https://forms.gle/YVCSPcdVzThTpt2o6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cFqYbVhTjiTAVkRDA";
+        upDatedSpaWebLINK = "https://oasis-kensington.noneedleneeded.com/natural-facelift-79-booking";
+        upDatedSpaPhone = "(587) 323-8532";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes cleansing and Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "79";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 452-1190";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(403) 452-1190";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics LED 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
