@@ -6654,7 +6654,7 @@ function updateForm(){
 
         case "The Crown Spa and Skin Experts Natural Facelift 69.95":
         upDatedSpaName = "The Crown Spa & Skin Experts";
-        upDatedSpaAddress = "1210 S Federal Hwy STE 101, Boynton Beach, FL 33435"+"<br>"+"(If you are coming from I-95, take Exit 56 and continue on Woolbright Rd. Turn left onto Federal Hwy. Shortly after, you will see a white building with blue awnings on your right-hand side — turn right into the entrance.)";
+        upDatedSpaAddress = "1200-1260 S Federal Hwy STE 101, Boynton Beach, FL 33435"+"<br>"+"(If you are coming from I-95, take Exit 56 and continue on Woolbright Rd. Turn left onto Federal Hwy. Shortly after, you will see a white building with blue awnings on your right-hand side — turn right into the entrance.)";
         upDatedSpaLINK = "https://forms.gle/tBNsWqxJnbgLSnLe7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cSMmyiP5AqJC8NEMA";
         upDatedSpaWebLINK = "https://thecrownspa.firstouchbeauty.com/natural-facelift-69-95-booking";
