@@ -5085,7 +5085,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/3-in-1-skin-tightening-79-book";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and 3 in 1 Skin Tightening Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5102,7 +5102,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/hydraglow-69-95-book";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Hydraglow Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5119,7 +5119,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/hydraglow-79-book";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Hydraglow Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5136,7 +5136,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-69-95-book-page";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5153,7 +5153,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-79-book-page";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5170,7 +5170,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-87-book-page";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5187,7 +5187,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/3d-facelift-booking";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and 3D Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5204,7 +5204,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-69-book";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Triple Lift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5221,7 +5221,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
         upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-booking";
-        upDatedSpaPhone = "(863) 278-3069";
+        upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Triple Lift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
