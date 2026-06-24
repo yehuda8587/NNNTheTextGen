@@ -2464,7 +2464,7 @@ function updateForm(){
         upDatedSpaAddress = "640 5th ave S, Naples, FL 34102"+"<br>"+"(Next to Aldo Gallery)";
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-natural-facelift-69-95";
+        upDatedSpaWebLINK = "https://jolivisage.noneedleneeded.com/natural-facelift-69-95-book-page";
         upDatedSpaPhone = "(239) 438-3252";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
