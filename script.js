@@ -1298,6 +1298,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Well Era Neck and Jawline $69.95":
+        upDatedSpaName = "Well Era";
+        upDatedSpaAddress = "11661 Preston Rd #170, Dallas, TX 75230"+"<br>"+"(Located on the 2nd floor of the shopping plaza, right above Renny's Restaurant)";
+        upDatedSpaLINK = "https://forms.gle/AT1eTXYFy4phJGaB8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xA4XghVZvdQ5TDiZA";
+        upDatedSpaWebLINK = "https://wellera.noneedleneeded.com/neck-and-jawline-69-95-book";
+        upDatedSpaPhone = "(469) 436-2824";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Neck and Jawline Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (214) 238-6896";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(214) 238-6896";
+        insteadOfSpa = "$249"
+        break;
+
     
         case "Well Era Neck and Jawline $75":
         upDatedSpaName = "Well Era";
