@@ -6652,6 +6652,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "The Crown Spa and Skin Experts 3D Facelift 59.95":
+        upDatedSpaName = "The Crown Spa & Skin Experts";
+        upDatedSpaAddress = "1200-1260 S Federal Hwy STE 101, Boynton Beach, FL 33435"+"<br>"+"(If you are coming from I-95, take Exit 56 and continue on Woolbright Rd. Turn left onto Federal Hwy. Shortly after, you will see a white building with blue awnings on your right-hand side — turn right into the entrance.)";
+        upDatedSpaLINK = "https://forms.gle/tBNsWqxJnbgLSnLe7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cSMmyiP5AqJC8NEMA";
+        upDatedSpaWebLINK = "https://thecrownspa.firstouchbeauty.com/3d-facelift-59-95-book";
+        upDatedSpaPhone = "(561) 821-4590";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Light Cleansing";
+        upDatedDurationTwo = "- 30 minutes 3D Facelift Treatment and 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (561) 819-4004";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(561) 819-4004";
+        insteadOfSpa = "$377";
+        break;
+
         case "The Crown Spa and Skin Experts Natural Facelift 69.95":
         upDatedSpaName = "The Crown Spa & Skin Experts";
         upDatedSpaAddress = "1200-1260 S Federal Hwy STE 101, Boynton Beach, FL 33435"+"<br>"+"(If you are coming from I-95, take Exit 56 and continue on Woolbright Rd. Turn left onto Federal Hwy. Shortly after, you will see a white building with blue awnings on your right-hand side — turn right into the entrance.)";
@@ -7020,6 +7037,23 @@ function updateForm(){
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 784-6884";
         treatmentSelected = "Skin Tightening Treatment";
         newSpaPhoneNumberSelected = "(714) 784-6884";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Auraderma Triple Lift $69.95":
+        upDatedSpaName = "Auraderma Spa";
+        upDatedSpaAddress = "925 State Street, Santa Barbara, CA 93101"+"<br>"+"(Located across the street from Apple.)";
+        upDatedSpaLINK = "https://forms.gle/9cZqsK8F4ayQHrmz5";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/xTtjPzj7C5UrtjaL7";
+        upDatedSpaWebLINK = "https://auraderma.noneedleneeded.com/triplelift-69-95-book";
+        upDatedSpaPhone = "(805) 250-3910";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (805) 899-3937";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(805) 899-3937";
         insteadOfSpa = "$377"
         break;
 
