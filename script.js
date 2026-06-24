@@ -4888,17 +4888,17 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Pearl De Flore Augusta Triple Lift $79.00":
+        case "Pearl De Flore Augusta Triple Lift $79.95":
         upDatedSpaName = "Pearl De Flore Spa";
         upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
-        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/triple-lift-booking";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/triple-lift-79-booking";
         upDatedSpaPhone = "(850) 680-1836";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Triple Lift Treatment" + "<br>" + "- 15 minutes of Consultation";
-        promoPrice = "79.00";
+        promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(762) 218-2597";
