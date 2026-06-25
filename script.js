@@ -3711,6 +3711,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Moana Crystals Natural Facelift $59.95":
+        upDatedSpaName = "Moana Crystals";
+        upDatedSpaAddress = "2250 Kalakaua Ave. Honolulu, HI 96815"+"<br>"+"(Waikiki shopping plaza, 2nd floor next to the elevator, Room 217)";
+        upDatedSpaLINK = "https://forms.gle/17kGFgn6KXJcs3xY7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/fFYEqgHUbmanrLiR6";
+        upDatedSpaWebLINK = "https://moana.advancedbeautytreatments.com/natural-lifting-59-95-dtb";
+        upDatedSpaPhone = "(808) 764-3367";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 10 minutes Cleansing";
+        upDatedDurationTwo = "- 40 minutes Natural Facelift Treatment and 10 minutes post-care and consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (808) 779-8279";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(808) 779-8279";
+        insteadOfSpa = "$377"
+        break;
+
         case "Natural Blossom by Adore Natural Facelift $69.95":
         upDatedSpaName = "Natural Blossom by Adore";
         upDatedSpaAddress = "Outlet Collection Way,"+"<br>"+"Edmonton, AB T9E 1J5, Canada"+"<br>"+"(Shopping mall, right next to entrance 4)";
