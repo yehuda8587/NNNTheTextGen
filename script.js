@@ -3490,21 +3490,21 @@ function updateForm(){
         insteadOfSpa = "$600"
         break;
 
-        case "Minnesota Aesthetic Center Microneedling Treatment $158":
+        case "Minnesota Aesthetic Center Microneedling Treatment $258":
         upDatedSpaName = "Minnesota Aesthetic Center";
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
-        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/microneedling-booking";
+        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/microneedling-258-bookin2";
         upDatedSpaPhone = "(651) 383-2251";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Microneedling Treatment and 15 minutes post-care and consultation";
-        promoPrice = "158";
+        promoPrice = "258";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (651) 369-9218";
         treatmentSelected = "Microneedling Treatment";
         newSpaPhoneNumberSelected = "(651) 369-9218";
-        insteadOfSpa = "$600"
+        insteadOfSpa = "$800"
         break;
 
         case "Minnesota Aesthetic Center SmartSkin CO2 Laser Resurfacing $98":
