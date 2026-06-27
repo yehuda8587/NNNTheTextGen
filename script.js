@@ -3121,7 +3121,7 @@ function updateForm(){
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-booking-11";
         upDatedSpaPhone = "(438) 230-4017";
         upDatedDurationTotal = "50 Minutes";
@@ -3138,7 +3138,7 @@ function updateForm(){
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/hair-removal-booking-page";
         upDatedSpaPhone = "(438) 230-4017";
         upDatedDurationTotal = "50 Minutes";
@@ -3155,7 +3155,7 @@ function updateForm(){
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95";
         upDatedSpaPhone = "(438) 230-4017";
         upDatedDurationTotal = "50 Minutes";
@@ -3172,7 +3172,7 @@ function updateForm(){
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/natural-facelift-99-95-booking";
         upDatedSpaPhone = "(438) 230-4017";
         upDatedDurationTotal = "50 Minutes";
@@ -3189,7 +3189,7 @@ function updateForm(){
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/cD6CpCBq26UBwCvi6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/neck-and-jawline-99-95-booking";
         upDatedSpaPhone = "(438) 230-4017";
         upDatedDurationTotal = "50 Minutes";
