@@ -3473,6 +3473,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Minnesota Aesthetic Center Natural Facelift Treatment $97":
+        upDatedSpaName = "Minnesota Aesthetic Center";
+        upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
+        upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
+        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/natural-facelift-97-booking-page";
+        upDatedSpaPhone = "(651) 383-2251";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "97";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (651) 369-9218";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(651) 369-9218";
+        insteadOfSpa = "$377"
+        break;
+
         case "Minnesota Aesthetic Center Nail Fungus Laser $250":
         upDatedSpaName = "Minnesota Aesthetic Center";
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
