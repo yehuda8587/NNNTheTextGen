@@ -4400,7 +4400,7 @@ function updateForm(){
         upDatedSpaAddress = "1555 Marine drive West #210, West Vancouver, BC V7V 1H9"+"<br>"+"(Located on Marine Drive, between 15th St and 16th St)";
         upDatedSpaLINK = "https://forms.gle/Cz4ZWu2S7yqBizrQA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/MSfrNJNquZhmnqPu5?g_st=iw";
-        upDatedSpaWebLINK = "https://oasis-marine.noneedleneeded.com/body-contouring-form-page";
+        upDatedSpaWebLINK = "https://oasis-marine.noneedleneeded.com/body-contouring-book-page";
         upDatedSpaPhone = "(236) 200-5069";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes cleansing and Body Contouring Treatment";
