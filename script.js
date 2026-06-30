@@ -7219,7 +7219,7 @@ function updateForm(){
         upDatedSpaAddress = "108 N State St, Chicago, IL 60602, United States"+"<br>"+"(Block 37, First level)";
         upDatedSpaLINK = "https://forms.gle/m4QFVnRBasHH7UqS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/dV13uj69NZsR9zXZ9";
-        upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/triple-lift-booking";
+        upDatedSpaWebLINK = "https://velora.advancedbeautytreatments.com/triple-lift-99-95-booking";
         upDatedSpaPhone = "(312) 625-1275";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
