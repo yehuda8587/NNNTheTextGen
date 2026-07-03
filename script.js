@@ -7078,6 +7078,40 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Aura Cosmetic Clinic Triple Lift $59.95":
+        upDatedSpaName = "Aura Cosmetic Clinic";
+        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
+        upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
+        upDatedSpaWebLINK = "";
+        upDatedSpaPhone = "(602) 345-9697";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 879-3974";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(602) 879-3974";
+        insteadOfSpa = "$377"
+        break;
+
+         case "Aura Cosmetic Clinic Natural Facelift $59.95":
+        upDatedSpaName = "Aura Cosmetic Clinic";
+        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
+        upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
+        upDatedSpaWebLINK = "";
+        upDatedSpaPhone = "(602) 345-9697";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Natural Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 879-3974";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(602) 879-3974";
+        insteadOfSpa = "$377"
+        break;
+            
         case "Auraderma Triple Lift $69.95":
         upDatedSpaName = "Auraderma Spa";
         upDatedSpaAddress = "925 State Street, Santa Barbara, CA 93101"+"<br>"+"(Located across the street from Apple.)";
