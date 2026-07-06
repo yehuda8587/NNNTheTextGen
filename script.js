@@ -7080,7 +7080,7 @@ function updateForm(){
 
         case "Aura Cosmetic Clinic Triple Lift $59.95":
         upDatedSpaName = "Aura Cosmetic Clinic";
-        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
+        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Dana Landing Plaza, all the way down to the left)";
         upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
         upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/triple-lift-59-95-bookpage";
@@ -7097,7 +7097,7 @@ function updateForm(){
 
          case "Aura Cosmetic Clinic Natural Facelift $59.95":
         upDatedSpaName = "Aura Cosmetic Clinic";
-        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
+        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Dana Landing Plaza, all the way down to the left)";
         upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
         upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/natural-facelift-59-95-book-page";
