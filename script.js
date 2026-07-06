@@ -7083,7 +7083,7 @@ function updateForm(){
         upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
         upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
-        upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/natural-facelift-59-95-book-page";
+        upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/triple-lift-59-95-bookpage";
         upDatedSpaPhone = "(602) 345-9697";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
@@ -7100,7 +7100,7 @@ function updateForm(){
         upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Suite 122)";
         upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
-        upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/triple-lift-59-95-bookpage";
+        upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/natural-facelift-59-95-book-page";
         upDatedSpaPhone = "(602) 345-9697";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
