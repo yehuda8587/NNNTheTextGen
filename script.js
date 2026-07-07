@@ -1739,7 +1739,7 @@ function updateForm(){
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "15 minute Cleansing";
         upDatedDurationTwo = "60 minutes Radio Frequency Facelift Treatment and Consultation";
-        promoPrice = "125"
+        promoPrice = "148"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (856) 382-7838";
         treatmentSelected = "Radio Frequency Facelift Treatment";
         newSpaPhoneNumberSelected = "(856) 382-7838";
