@@ -867,7 +867,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Lifting Facial and 15 minutes Consultation";
-        promoPrice = "99.95"
+        promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
         treatmentSelected = "Natural Lifting Facial Treatment";
         newSpaPhoneNumberSelected = "(949) 490-7726";
