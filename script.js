@@ -3141,7 +3141,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-booking-11";
-        upDatedSpaPhone = "(438) 230-4017";
+        upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 40 minutes of Treatment and Consultation";
         upDatedDurationTwo = "- 10 minutes Cleansing";
@@ -3158,7 +3158,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/hair-removal-booking-page";
-        upDatedSpaPhone = "(438) 230-4017";
+        upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 35 minutes of Hair Removal Treatment and 15 minutes Consultation";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -3175,7 +3175,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/lumera-skin-clinics-natural-facelift-129-95";
-        upDatedSpaPhone = "(438) 230-4017";
+        upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -3192,7 +3192,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/natural-facelift-99-95-booking";
-        upDatedSpaPhone = "(438) 230-4017";
+        upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -3209,7 +3209,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
         upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/neck-and-jawline-99-95-booking";
-        upDatedSpaPhone = "(438) 230-4017";
+        upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 35 minutes of Neck and Jawline Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -5581,7 +5581,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
         upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/natural-facelift-69-95-book-page";
-        upDatedSpaPhone = "(732) 867-7896";
+        upDatedSpaPhone = "(732) 366-3974";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
         upDatedDurationTwo = " -15 minutes Consultation";
@@ -5598,7 +5598,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
         upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/non-surgical-facelift-59-95-book-page";
-        upDatedSpaPhone = "(732) 867-7896";
+        upDatedSpaPhone = "(732) 366-3974";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
         upDatedDurationTwo = " -15 minutes Consultation";
@@ -5615,7 +5615,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
         upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/natural-facelift-79-95-book-page";
-        upDatedSpaPhone = "(732) 867-7896";
+        upDatedSpaPhone = "(732) 366-3974";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
         upDatedDurationTwo = " -15 minutes Consultation";
@@ -5632,7 +5632,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
         upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/naturalfacelift-97-95";
-        upDatedSpaPhone = "(732) 867-7896";
+        upDatedSpaPhone = "(732) 366-3974";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Natural Facelift";
         upDatedDurationTwo = " -15 minutes Consultation";
@@ -5649,7 +5649,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/9fQcFgTyx4rk8CXS9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/bDFb6jQgBHV215YB6";
         upDatedSpaWebLINK = "https://renova.firstouchbeauty.com/microneedling-booking";
-        upDatedSpaPhone = "(732) 867-7896";
+        upDatedSpaPhone = "(732) 366-3974";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " -15 minutes Cleansing and 30 minutes Microneedling";
         upDatedDurationTwo = " -15 minutes Consultation";
