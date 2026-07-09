@@ -5795,7 +5795,7 @@ function updateForm(){
 
         case "Skin Analytics Natural Facelift 89.95":
         upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's)";
+        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to  Macys, In front of Q fit, right next to noir nail salon)";
         upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
         upDatedSpaWebLINK = "https://skin-analytics.noneedleneeded.com/natural-facelift-89-95-book-page"
@@ -5813,7 +5813,7 @@ function updateForm(){
     
         case "Skin Analytics Triple Lift 89.95":
         upDatedSpaName = "Skin Analytics Spa";
-        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to Macy's)";
+        upDatedSpaAddress = "6910 Fayetteville Rd, Durham, NC 27713" +"<br>"+"(Southpoint Mall, ground floor next to  Macys, In front of Q fit, right next to noir nail salon)";
         upDatedSpaLINK = "https://forms.gle/1he49LWJJgKBtHQD8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/womzh3dJjfYHQdiS9";
         upDatedSpaWebLINK = "https://skin-analytics.noneedleneeded.com/triple-lift-booking"
