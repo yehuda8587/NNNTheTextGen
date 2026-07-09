@@ -4003,6 +4003,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics Anti-Aging Facial $49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+        upDatedSpaWebLINK = "https://oasis-ness.noneedleneeded.com/anti-aging-49-95-booking-page";
+        upDatedSpaPhone = "(204) 819-4554";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Anti-Aging Facial Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+        treatmentSelected = "Anti-Aging Facial Treatment";
+        newSpaPhoneNumberSelected = "(204) 306-7627";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics Henderson Anti-Aging 49.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
