@@ -4020,24 +4020,58 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Oasis Aesthetics Henderson Anti-Aging 49.95":
+        case "Oasis Aesthetics Henderson Hydraglow 49.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-anti-aging-facial-49-95";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/hydraglow-49-95-dtb-booking";
+        upDatedSpaPhone = "(204) 800-4409";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Hydraglow Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+        treatmentSelected = "Anti-Aging Treatment";
+        newSpaPhoneNumberSelected = "(204) 691-1922";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics Henderson Collagen Restoration 49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/collagen-restoration-49-95-dtb-booking";
+        upDatedSpaPhone = "(204) 800-4409";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Collagen Restoration Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+        treatmentSelected = "Anti-Aging Treatment";
+        newSpaPhoneNumberSelected = "(204) 691-1922";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics Henderson Anti-Aging 59.99":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-anti-aging-facial";
         upDatedSpaPhone = "(204) 800-4409";
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes cleansing and Anti-Aging Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
-        promoPrice = "49.99";
+        promoPrice = "59.99";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
         treatmentSelected = "Anti-Aging Treatment";
         newSpaPhoneNumberSelected = "(204) 691-1922";
-        insteadOfSpa = "$350";
+        insteadOfSpa = "$377";
         break;
 
-        case "Oasis Aesthetics Henderson Anti-Aging 59.99":
+        case "Oasis Aesthetics Henderson Anti-Aging 49.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
