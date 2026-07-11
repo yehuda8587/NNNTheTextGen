@@ -4013,7 +4013,7 @@ function updateForm(){
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes cleansing and Anti-Aging Facial Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
-        promoPrice = "59.95";
+        promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
         treatmentSelected = "Anti-Aging Facial Treatment";
         newSpaPhoneNumberSelected = "(204) 306-7627";
