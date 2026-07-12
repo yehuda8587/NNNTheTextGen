@@ -4032,7 +4032,7 @@ function updateForm(){
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
-        treatmentSelected = "Anti-Aging Treatment";
+        treatmentSelected = "Hydraglow Treatment";
         newSpaPhoneNumberSelected = "(204) 691-1922";
         insteadOfSpa = "$377";
         break;
@@ -4049,7 +4049,7 @@ function updateForm(){
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
-        treatmentSelected = "Anti-Aging Treatment";
+        treatmentSelected = "Hydraglow Treatment";
         newSpaPhoneNumberSelected = "(204) 691-1922";
         insteadOfSpa = "$377";
         break;
