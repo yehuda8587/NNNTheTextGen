@@ -4122,6 +4122,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics Henderson Collagen Restoration 49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/collagen-restoration-49-95-dtb-booking";
+        upDatedSpaPhone = "(204) 800-4409";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Collagen Restoration Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+        treatmentSelected = "Collagen Restoration Treatment";
+        newSpaPhoneNumberSelected = "(204) 691-1922";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics Henderson Body Contouring 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
