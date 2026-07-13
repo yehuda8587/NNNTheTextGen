@@ -1083,7 +1083,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "hhttps://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/body-treatment-49-95-booking-page";
-        upDatedSpaPhone = "(281) 729-9242";
+        upDatedSpaPhone = "(281) 214-9889";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 45 minutes Body Treatment";
         upDatedDurationTwo = " - 15 minutes Consultation";
@@ -1100,7 +1100,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/natural-facelift-49-95-book-page";
-        upDatedSpaPhone = "(281) 729-9242";
+        upDatedSpaPhone = "(281) 214-9889";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes of Natural Facelift Treatment and 15 minutes Consultation";
@@ -1117,7 +1117,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
         upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/skin-tightening-49-95-book-page";
-        upDatedSpaPhone = "(281) 729-9242";
+        upDatedSpaPhone = "(281) 214-9889";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes of Skin Tightening Treatment and 15 minutes Consultation";
