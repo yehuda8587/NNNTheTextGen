@@ -7047,19 +7047,19 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Tierra Med Spa 3D Facelift 69":
-        upDatedSpaName = "Tierra Med Spa";
+        case "Oréa Beauty Boutique 3D Facelift 69":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
-        upDatedSpaLINK = "https://forms.gle/JpNRkQvGJnqLgLrs6";
+        upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
-        upDatedSpaWebLINK = "https://tierramedspa.noneedleneeded.com/3d-facelift-69-book";
+        upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/3d-facelift-69-booking-page";
         upDatedSpaPhone = "(289) 302-8033";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Consultation";
         upDatedDurationTwo = "- 45 Minutes 3D Facelift Treatment";
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
-        treatmentSelected = "3D Facelift Treatment";
+        treatmentSelected = "Oréa Beauty Boutique Treatment";
         newSpaPhoneNumberSelected = "(289) 217 3012";
         insteadOfSpa = "$377";
         break;
