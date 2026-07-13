@@ -7051,7 +7051,7 @@ function updateForm(){
         upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
         upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/TYQHegAAYfaqDzxT9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/rb64NJbeNQntgTCGA";
         upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/3d-facelift-69-booking-page";
         upDatedSpaPhone = "(289) 302-8033";
         upDatedDurationTotal = "60 Minutes";
