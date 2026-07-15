@@ -6445,7 +6445,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/neck-and-jawline-69-95-booking";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Neck and Jawline Treatment and 30 minutes Consultation";
@@ -6463,7 +6463,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/neck-and-jawline-59-95-booking";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Neck and Jawline Treatment and 30 minutes Consultation";
@@ -6480,7 +6480,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/natural-facelift-69-95-book-page";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Natural Facelift Treatment and 30 minutes Consultation";
@@ -6497,7 +6497,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/natural-facelift-59-95-book-page";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Natural Facelift Treatment and 30 minutes Consultation";
@@ -6514,7 +6514,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/triple-lift-booking";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Triple Lift Treatment and 30 minutes Consultation";
@@ -6531,7 +6531,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/triple-lift-booking-8338";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes Triple Lift Treatment and 30 minutes Consultation";
@@ -6548,7 +6548,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/GpTDZiF5PPcsJnAu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMXLhUnK4nEW7CyP8";
         upDatedSpaWebLINK = "https://soleibl-mo.noneedleneeded.com/3d-facelift-booking";
-        upDatedSpaPhone = "(816) 839-5847";
+        upDatedSpaPhone = "(816) 787-0204";
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = " ";
         upDatedDurationTwo = "- 60 minutes 3D Facelift Treatment and 30 minutes Consultation";
