@@ -5289,21 +5289,21 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Prime Clinic Natural Facelift $69.95":
+        case "Prime Clinic Natural Facelift $69":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/natural-facelift-69-95-book-page";
+        upDatedSpaWebLINK = "https://primeclinic.firstouchbeauty.com/natural-facelift-69-book";
         upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$395"
         break;
 
         case "Prime Clinic Natural Facelift $79.00":
@@ -5357,21 +5357,21 @@ function updateForm(){
         insteadOfSpa = "$395"
         break;
 
-        case "Prime Clinic Triple Lift $69.95":
+        case "Prime Clinic Triple Lift $69":
         upDatedSpaName = "Prime Clinic";
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://primeclinic.advancedbeautytreatments.com/triple-lift-69-book";
+        upDatedSpaWebLINK = "https://primeclinic.firstouchbeauty.com/triple-facelift-69-book";
         upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Triple Lift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
-        promoPrice = "69.95";
+        promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at 813-214-8046";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "813-214-8046";
-        insteadOfSpa = "$377"
+        insteadOfSpa = "$395"
         break;
 
         case "Prime Clinic Triple Lift $79.00":
