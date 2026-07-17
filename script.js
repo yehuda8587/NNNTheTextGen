@@ -3968,6 +3968,23 @@ function updateForm(){
         insteadOfSpa = "$355";
         break;
 
+        case "Oasis Aesthetics Body Contouring $59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+        upDatedSpaWebLINK = "https://oasis-ness.noneedleneeded.com/body-contouring-59-95-booking";
+        upDatedSpaPhone = "(204) 819-4554";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Body Contouring Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+        treatmentSelected = "Body Contouring Treatment";
+        newSpaPhoneNumberSelected = "(204) 306-7627";
+        insteadOfSpa = "$599";
+        break;
+
         case "Oasis Aesthetics Bye Bye Saggy Eyes 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -4049,7 +4066,7 @@ function updateForm(){
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
-        treatmentSelected = "Hydraglow Treatment";
+        treatmentSelected = "Collagen Restoration Treatment";
         newSpaPhoneNumberSelected = "(204) 691-1922";
         insteadOfSpa = "$377";
         break;
