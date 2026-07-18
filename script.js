@@ -4127,7 +4127,7 @@ function updateForm(){
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
         upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/oasis-aesthetics-henderson-body-contouring-59-95";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/body-contouring-59-95-booking";
         upDatedSpaPhone = "(204) 800-4409";
         upDatedDurationTotal = "75 Minutes";
         upDatedDurationOne = "- 60 minutes Body Contouring Treatment";
