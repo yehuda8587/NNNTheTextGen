@@ -789,17 +789,17 @@ function updateForm(){
         insteadOfSpa = "$349"
         break;
 
-        case "Ben's Beauty Triple Lift $59.95":
+        case "Ben's Beauty Triple Lift $99.95":
         upDatedSpaName = "Ben's Beauty Spa";
         upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
         upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/triple-lift-booking" ;
+        upDatedSpaWebLINK = "https://bensbeautyirvine.firstouchbeauty.com/triple-lift-99-95-booking" ;
         upDatedSpaPhone = "(626) 225-0556";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "15 minute Cleansing ";
         upDatedDurationTwo = "30 minutes of Triple Lift Treatment and 15 minutes Consultation";
-        promoPrice = "59.95"
+        promoPrice = "99.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
         treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(626) 298-6456";
@@ -887,6 +887,23 @@ function updateForm(){
         promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
         treatmentSelected = "Anti-Aging Facial Treatment";
+        newSpaPhoneNumberSelected = "(949) 490-7726";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Ben's Beauty Irvine Hydraglow Facial 89.95":
+        upDatedSpaName = "Ben's Beauty Irvine";
+        upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
+        upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/booking-page-anti-aging-facial" ;
+        upDatedSpaPhone = "(949) 284-5371";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Hydraglow Facial and 15 minutes Consultation";
+        promoPrice = "89.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
+        treatmentSelected = "Hydraglow Facial";
         newSpaPhoneNumberSelected = "(949) 490-7726";
         insteadOfSpa = "$377";
         break;
@@ -5059,6 +5076,40 @@ function updateForm(){
         promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
         treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(762) 218-2597";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Pearl De Flore Neck And Jawline Lifting Facial $79.95":
+        upDatedSpaName = "Pearl De Flore Spa";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/neck-and-jawline-79-95-booking";
+        upDatedSpaPhone = "(850) 680-1836";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Neck and Jawline Lifting Facial" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Neck and Jawline Lifting Facial";
+        newSpaPhoneNumberSelected = "(762) 218-2597";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Pearl De Flore Skin Tightening Facial $79.95":
+        upDatedSpaName = "Pearl De Flore Spa";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/skin-tightening-79-95-booking";
+        upDatedSpaPhone = "(850) 680-1836";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Skin Tightening Facial" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Skin Tightening Facial";
         newSpaPhoneNumberSelected = "(762) 218-2597";
         insteadOfSpa = "$377";
         break;
