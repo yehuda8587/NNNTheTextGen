@@ -789,22 +789,7 @@ function updateForm(){
         insteadOfSpa = "$349"
         break;
 
-        case "Ben's Beauty Triple Lift $99.95":
-        upDatedSpaName = "Ben's Beauty Spa";
-        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
-        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
-        upDatedSpaMapLINK = "";
-        upDatedSpaWebLINK = "https://bensbeautyirvine.firstouchbeauty.com/triple-lift-99-95-booking" ;
-        upDatedSpaPhone = "(626) 225-0556";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "15 minute Cleansing ";
-        upDatedDurationTwo = "30 minutes of Triple Lift Treatment and 15 minutes Consultation";
-        promoPrice = "99.95"
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
-        treatmentSelected = "Triple Lift Treatment";
-        newSpaPhoneNumberSelected = "(626) 298-6456";
-        insteadOfSpa = "$377";
-        break;
+
 
         case "Ben's Beauty Natural Facelift $59.95":
         upDatedSpaName = "Ben's Beauty Spa";
@@ -874,29 +859,30 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Ben's Beauty Irvine Anti-Aging Facial 59.95":
+        case "Ben's Beauty Irvine Triple Lift 99.95":
         upDatedSpaName = "Ben's Beauty Irvine";
         upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
         upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/booking-page-anti-aging-facial" ;
+        upDatedSpaWebLINK = "https://bensbeautyirvine.firstouchbeauty.com/triple-lift-99-95-booking" ;
         upDatedSpaPhone = "(949) 284-5371";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 30 minutes Anti-Aging Facial Tightening and 15 minutes Consultation";
-        promoPrice = "59.95"
+        upDatedDurationTwo = "- 30 minutes Triple Lift Facial and 15 minutes Consultation";
+        promoPrice = "99.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 490-7726";
-        treatmentSelected = "Anti-Aging Facial Treatment";
+        treatmentSelected = "Natural Lifting Facial Treatment";
         newSpaPhoneNumberSelected = "(949) 490-7726";
         insteadOfSpa = "$377";
         break;
 
+        
         case "Ben's Beauty Irvine Hydraglow Facial 89.95":
         upDatedSpaName = "Ben's Beauty Irvine";
         upDatedSpaAddress = "220 Technology Dr, Suite 110, Irvine, CA 92618,"+"<br>"+"(Corner office building on the first floor.)"+"<br>"+"Parking lot";
         upDatedSpaLINK = "https://forms.gle/D2zbjrQS1F2Gy97c6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/6XscTMpmrn379nJh9";
-        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/booking-page-anti-aging-facial" ;
+        upDatedSpaWebLINK = "https://bensbeautyirvine.firstouchbeauty.com/hydraglow-89-95-booking" ;
         upDatedSpaPhone = "(949) 284-5371";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
