@@ -3143,7 +3143,7 @@ function updateForm(){
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
         upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
-        upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-booking-11";
+        upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-11-per-unit-booking";
         upDatedSpaPhone = "(438) 968-6098";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 40 minutes of Treatment and Consultation";
