@@ -6618,7 +6618,7 @@ function updateForm(){
         upDatedSpaAddress = "103 Centre St. Fernandina Beach, FL 32034"+"<br>"+"(Right beside The Cinnamon Bear Country Store)";
         upDatedSpaLINK = "https://forms.gle/vWLHTxE8UqcEmTqm6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/RxpgdzaXjN58qH2E7";
-        upDatedSpaWebLINK = "https://coastal-glow.noneedleneeded.com/natural-facelift-69-95-book-page";
+        upDatedSpaWebLINK = "https://coastal-glow.noneedleneeded.com/natural-facelift-69-95-dtb";
         upDatedSpaPhone = "(904) 452-8539";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
