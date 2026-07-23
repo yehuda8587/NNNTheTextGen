@@ -3792,7 +3792,7 @@ function updateForm(){
         upDatedSpaPhone = "(780) 900-4210";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minute Cleansing";
-        upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment Consultation"
+        upDatedDurationTwo = "- 45-minutes Natural Facelift Treatment and Consultation"
         promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (780) 890-0008";
         treatmentSelected = "Natural Facelift Treatment";
