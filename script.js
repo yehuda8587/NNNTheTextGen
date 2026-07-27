@@ -1991,7 +1991,7 @@ function updateForm(){
         upDatedSpaAddress = "Volusia Mall,"+"<br>"+"1700 W International Speedway Blvd, Daytona Beach, FL 32114"+"<br>"+"(Across From T-Mobile)";
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
-        upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/booking-neck-and-jawline-69-95-ltb";
+        upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/neck-and-jawline-69-95-book-page";
         upDatedSpaPhone = "(386) 289-6999";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
