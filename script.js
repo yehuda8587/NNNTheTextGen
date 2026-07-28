@@ -3306,6 +3306,23 @@ function updateForm(){
         newSpaPhoneNumberSelected = "(484) 981 4410";
         insteadOfSpa = "$377"
         break;
+
+         case "Lumiage by Sola Salon Natural Facelift $69.00":
+        upDatedSpaName = "Lumiage by Sola Salon";
+        upDatedSpaAddress = "King of Prussia Mall,"+"<br>"+"Sola Salons 680 W. Dekalb Pike #1066 King of Prussia Pa 19406"+"<br>"+"For outdoor access: Head to the entrance near the Cheesecake Factory. You’ll see signs for Sola Salon Studios right by Unit 5A. Enter there, and we’ll guide you right to LumiAge."+"<br>"+"For mall access: Enter the King of Prussia Mall on the ground floor near the salon area. Follow the signs to Sola Salon Studios inside the mall, and you’ll find us there.";
+        upDatedSpaLINK = "https://forms.gle/tX6u7WHfNMcdPgvL8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/kTp6Jnmf2BAeHy9a8";
+        upDatedSpaWebLINK = "https://lumiage.advancedbeautytreatments.com/natural-facelift-69-booking";
+        upDatedSpaPhone = "(610) 615-1028";2
+        upDatedDurationTotal = "90 Minutes";
+        upDatedDurationOne = "- 15 mins Skin Analysis";
+        upDatedDurationTwo = "- 45 mins deep cleansing, treatment and moisturizing and 30 mins post care and consultation.";
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (484) 981 4410";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(484) 981 4410";
+        insteadOfSpa = "$377"
+        break;
             
         case "Luminous Skin-Tech Skin Tightening 79.95":
         upDatedSpaName = "Luminous Skin-Tech Spa";
@@ -4754,6 +4771,23 @@ function updateForm(){
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
         treatmentSelected = "Anti-Aging Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics St. Mary's Turkey Neck Rescue 49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/turkey-neck-rescue-49-95-booking";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes cleansing and Turkey Neck Rescue Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Turkey Neck Rescue Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
         insteadOfSpa = "$377";
         break;
