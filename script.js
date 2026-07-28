@@ -670,6 +670,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Below Zero Alpharetta Spa Natural Facelift $85":
+        upDatedSpaName = "Below Zero Alpharetta";
+        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa is located Next to Emani Maternity store and across from Cygnus Custom Gifts";
+        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/natural-facelift-85-dtb-page";
+        upDatedSpaPhone = "(404) 618-4124";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "85";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(706) 901-8979";
+        insteadOfSpa = "$377"
+        break;
+
         case "Below Zero Alpharetta Spa Natural Facelift $89.95":
         upDatedSpaName = "Below Zero Alpharetta";
         upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa is located Next to Emani Maternity store and across from Cygnus Custom Gifts";
@@ -698,6 +715,23 @@ function updateForm(){
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes 3D Facelift Treatment and 15 minutes post-care and consultation";
         promoPrice = "97";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(706) 901-8979";
+        insteadOfSpa = "$377"
+        break;
+
+        case "Below Zero Alpharetta Spa 3D Facelift $85":
+        upDatedSpaName = "Below Zero Alpharetta";
+        upDatedSpaAddress = "7000 North Point Cir, Alpharetta, GA 30022"+"<br>"+"(NORTH POINT MALL - our spa is located Next to Emani Maternity store and across from Cygnus Custom Gifts";
+        upDatedSpaLINK = "https://forms.gle/sQzmJF2atr2V2RJd9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/q1RTXZ6gR4bKHks27";
+        upDatedSpaWebLINK = "https://belowzeroalpha.firstouchbeauty.com/3d-facelift-85-booking";
+        upDatedSpaPhone = "(404) 618-4124";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes 3D Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "85";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (706) 901-8979";
         treatmentSelected = "3D Facelift Treatment";
         newSpaPhoneNumberSelected = "(706) 901-8979";
@@ -4091,6 +4125,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics Henderson Men Skin Tightening 59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/men-skin-tightening-59-95-booking";
+        upDatedSpaPhone = "(204) 800-4409";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Men Skin Tightening Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+        treatmentSelected = "Men Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(204) 691-1922";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics Henderson Anti-Aging 59.99":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -4104,6 +4155,23 @@ function updateForm(){
         promoPrice = "59.99";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
         treatmentSelected = "Anti-Aging Treatment";
+        newSpaPhoneNumberSelected = "(204) 691-1922";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics Henderson Turkey Neck Rescue 49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1919 Henderson Hwy, Winnipeg MB, R2G1P4"+"<br>"+"(River East)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yAq2WXa65WyrFnnG6";
+        upDatedSpaWebLINK = "https://oasishenderson.noneedleneeded.com/turkey-neck-rescue-49-95-booking";
+        upDatedSpaPhone = "(204) 800-4409";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes cleansing and Turkey Neck Rescue Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.99";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 691-1922";
+        treatmentSelected = "Turkey Neck Rescue Treatment";
         newSpaPhoneNumberSelected = "(204) 691-1922";
         insteadOfSpa = "$377";
         break;
