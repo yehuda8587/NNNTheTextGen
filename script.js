@@ -3601,7 +3601,7 @@ function updateForm(){
         upDatedSpaAddress = "731 Bielenberg Dr suite 208, Woodbury, MN 55125"+"<br>"+"(Located on the second floor, across from Woodbury Café)";
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
-        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/microneedling-258-bookin2";
+        upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/microneedling-258-booking";
         upDatedSpaPhone = "(651) 383-2251";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
