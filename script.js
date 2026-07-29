@@ -7267,7 +7267,7 @@ function updateForm(){
         upDatedDurationTwo = "- 45 Minutes 3D Facelift Treatment";
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
-        treatmentSelected = "Oréa Beauty Boutique Treatment";
+        treatmentSelected = "3D Facelift Treatment";
         newSpaPhoneNumberSelected = "(289) 217 3012";
         insteadOfSpa = "$377";
         break;
