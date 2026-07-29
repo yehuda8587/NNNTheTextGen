@@ -5205,7 +5205,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Pearl De Flore Neck And Jawline Lifting Facial $79.95":
+        case "Pearl De Flore Augusta Neck And Jawline Lifting Facial $79.95":
         upDatedSpaName = "Pearl De Flore Spa";
         upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
