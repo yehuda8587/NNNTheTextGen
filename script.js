@@ -1992,7 +1992,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/lift-and-hydrate-book";
-        upDatedSpaPhone = "(386) 289-6999";
+        upDatedSpaPhone = "(386) 229-4055";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 30 minutes of the Lift and Hydrate and 15 minutes Consultation"
@@ -2009,7 +2009,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/natural-facelift-69-95-book-page";
-        upDatedSpaPhone = "(386) 289-6999";
+        upDatedSpaPhone = "(386) 229-4055";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 30 minutes of the Natural Facelift and 15 minutes Consultation"
@@ -2026,7 +2026,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/UGhfQHRkfdPqvcdU7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/U3D5qhvffFRXSVAd9";
         upDatedSpaWebLINK = "https://goodlife.firstouchbeauty.com/neck-and-jawline-69-95-book-page";
-        upDatedSpaPhone = "(386) 289-6999";
+        upDatedSpaPhone = "(386) 229-4055";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minutes of light cleansing";
         upDatedDurationTwo = "- 45 minutes of the Neck and Jawline Treatment and Consultation"
@@ -4688,6 +4688,23 @@ function updateForm(){
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
         treatmentSelected = "Anti-Aging Treatment";
+        newSpaPhoneNumberSelected = "(204) 306-7627";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics Ness Double Chin Lift 49.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
+        upDatedSpaLINK = "https://forms.gle/X8CkCCRLLaFTSzqZ9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/vhEJaMCk6aiYtvQm6";
+        upDatedSpaWebLINK = "https://oasis-ness.noneedleneeded.com/double-chin-49-95-booking-page";
+        upDatedSpaPhone = "(204) 819-4554";
+        upDatedDurationTotal = "75 Minutes";
+        upDatedDurationOne = "- 60 minutes Double Chin Lift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (204) 306-7627";
+        treatmentSelected = "Double Chin Lift";
         newSpaPhoneNumberSelected = "(204) 306-7627";
         insteadOfSpa = "$377";
         break;
