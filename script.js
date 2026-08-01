@@ -5228,7 +5228,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
         upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/triple-lift-79-booking";
-        upDatedSpaPhone = "(850) 680-1836";
+        upDatedSpaPhone = "(762) 222-4775";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Triple Lift Treatment" + "<br>" + "- 15 minutes of Consultation";
@@ -5245,7 +5245,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
         upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/neck-and-jawline-79-95-booking";
-        upDatedSpaPhone = "(850) 680-1836";
+        upDatedSpaPhone = "(762) 222-4775";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Neck and Jawline Lifting Facial" + "<br>" + "- 15 minutes of Consultation";
@@ -5262,7 +5262,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
         upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/skin-tightening-79-95-booking";
-        upDatedSpaPhone = "(850) 680-1836";
+        upDatedSpaPhone = "(762) 222-4775";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Skin Tightening Facial" + "<br>" + "- 15 minutes of Consultation";
