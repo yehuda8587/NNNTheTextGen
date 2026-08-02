@@ -5273,6 +5273,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Pearl De Flore Augusta NNatural Facelift $69.95":
+        upDatedSpaName = "Pearl De Flore Spa";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/natural-facelift-69-95-book-page";
+        upDatedSpaPhone = "(762) 222-4775";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Natural Facelift";
+        newSpaPhoneNumberSelected = "(762) 218-2597";
+        insteadOfSpa = "$249";
+        break;
+
         case "Predire Prestige LED":
         upDatedSpaName = "Predire Prestige Spa";
         upDatedSpaAddress = "Tucson Mall,"+"<br>"+"4500 N Oracle Rd, Tucson, AZ 85705"+"<br>"+"(First Floor, Near Cinnabon)";
