@@ -3329,7 +3329,7 @@ function updateForm(){
         upDatedSpaAddress = "King of Prussia Mall,"+"<br>"+"Sola Salons 680 W. Dekalb Pike #1066 King of Prussia Pa 19406"+"<br>"+"For outdoor access: Head to the entrance near the Cheesecake Factory. You’ll see signs for Sola Salon Studios right by Unit 5A. Enter there, and we’ll guide you right to LumiAge."+"<br>"+"For mall access: Enter the King of Prussia Mall on the ground floor near the salon area. Follow the signs to Sola Salon Studios inside the mall, and you’ll find us there.";
         upDatedSpaLINK = "https://forms.gle/tX6u7WHfNMcdPgvL8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/kTp6Jnmf2BAeHy9a8";
-        upDatedSpaWebLINK = "https://lumiage.advancedbeautytreatments.com/natural-facelift-69-booking";
+        upDatedSpaWebLINK = "https://lumiage.advancedbeautytreatments.com/natural-facelift-69-book-page";
         upDatedSpaPhone = "(610) 615-1028";2
         upDatedDurationTotal = "90 Minutes";
         upDatedDurationOne = "- 15 mins Skin Analysis";
