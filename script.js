@@ -192,6 +192,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+         case "Aeternitas Non Surgical Facelift $69.00":
+        upDatedSpaName = "Aeternitas";
+        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+        upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-69-booking";
+        upDatedSpaPhone = "(941) 867-4376";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "69.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        treatmentSelected = "Non Surgical Facelift";
+        newSpaPhoneNumberSelected = "(941) 867-4376";
+        insteadOfSpa = "$377"
+        break;
+
         case "Aeternitas 3D Facelift $89.95":
         upDatedSpaName = "Aeternitas";
         upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
