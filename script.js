@@ -3602,7 +3602,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
         upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/natural-facelift-97-booking-page";
-        upDatedSpaPhone = "(651) 383-2251";
+        upDatedSpaPhone = "(651) 383-2279";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
@@ -3619,7 +3619,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
         upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/toenail-fungus-booking-7670";
-        upDatedSpaPhone = "(651) 383-2251";
+        upDatedSpaPhone = "(651) 383-2279";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 40 minutes of Nail Fungus Laser Treatment";
         upDatedDurationTwo = "- 20 minutes Consultation";
@@ -3636,7 +3636,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
         upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/microneedling-258-booking";
-        upDatedSpaPhone = "(651) 383-2251";
+        upDatedSpaPhone = "(651) 383-2279";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Microneedling Treatment and 15 minutes post-care and consultation";
@@ -3655,7 +3655,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
         upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/smartskin-co2-laser-resurfacing-booking-258";
-        upDatedSpaPhone = "(651) 383-2251";
+        upDatedSpaPhone = "(651) 383-2279";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes SmartSkin CO2 Laser Resurfacing Treatment and 15 minutes post-care and consultation";
@@ -3672,7 +3672,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/zPZfbHqqz9jjsDiQ9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/jMdj2H3V6RrgMJX57";
         upDatedSpaWebLINK = "https://mn-aesthetic.firstouchbeauty.com/smartskin-co2-laser-resurfacing-389-booking";
-        upDatedSpaPhone = "(651) 383-2251";
+        upDatedSpaPhone = "(651) 383-2279";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes SmartSkin CO2 Laser Resurfacing Treatment and 15 minutes post-care and consultation";
