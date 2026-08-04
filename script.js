@@ -568,6 +568,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Beauty Lounge Natural Facelift 69.95":
+        upDatedSpaName = "Beauty Lounge";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
+        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/natural-facelift-69-95-booking";
+        upDatedSpaPhone = "(352) 607-6669";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+        upDatedDurationTwo = "- 30 Minutes Natural Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "69.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(352) 235-9336";
+        insteadOfSpa = "$377"
+        break;
+
         case "Beauty Lounge Neck and Jawline 69.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
@@ -636,6 +653,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Beauty Lounge Triple Lift 69.95":
+        upDatedSpaName = "Beauty Lounge";
+        upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
+        upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/triple-lift-69-95-booking";
+        upDatedSpaPhone = "(352) 607-6669";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
+        upDatedDurationTwo = "- 30 Minutes Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "69.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (352) 235-9336";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(352) 235-9336";
+        insteadOfSpa = "$377"
+        break;
+
         case "Beauty Lounge 3D Facelift 79.95":
         upDatedSpaName = "Beauty Lounge";
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
@@ -658,7 +692,7 @@ function updateForm(){
         upDatedSpaAddress = "3101 SW 34th Ave, #701, Ocala, FL 34474"+"<br>"+"(Inside Shoppes at Paddock Park, two stores to the left of Ollie’s.)";
         upDatedSpaLINK = "https://forms.gle/82TrFg5vLcFZQ4A37";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/VsjjSdkkDXrGG9Mr5";
-        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/3d-facelift-69-95-book-page";
+        upDatedSpaWebLINK = "https://beauty-lounge.noneedleneeded.com/3d-facelift-69-95-booking";
         upDatedSpaPhone = "(352) 607-6669";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 Minutes Cleansing and Facial Massage";
@@ -906,6 +940,23 @@ function updateForm(){
         promoPrice = "59.95"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
         treatmentSelected = "Beauty Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(626) 298-6456";
+        insteadOfSpa = "$377";
+        break;   
+
+        case "Ben's Beauty Hydraglow $89.95":
+        upDatedSpaName = "Ben's Beauty Spa";
+        upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
+        upDatedSpaLINK = "https://form.jotform.com/232685044919060";
+        upDatedSpaMapLINK = "";
+        upDatedSpaWebLINK = "https://bensbeautypasa.noneedleneeded.com/hydraglow-89-booking" ;
+        upDatedSpaPhone = "(626) 225-0556";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "15 minute Cleansing ";
+        upDatedDurationTwo = "30 minutes of Hydraglow Treatment and 15 minutes Consultation";
+        promoPrice = "59.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
+        treatmentSelected = "Hydraglow Treatment";
         newSpaPhoneNumberSelected = "(626) 298-6456";
         insteadOfSpa = "$377";
         break;       
