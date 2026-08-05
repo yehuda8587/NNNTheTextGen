@@ -5358,7 +5358,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        case "Pearl De Flore Augusta NNatural Facelift $69.95":
+        case "Pearl De Flore Augusta Natural Facelift $69.95":
         upDatedSpaName = "Pearl De Flore Spa";
         upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
         upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
