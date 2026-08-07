@@ -944,7 +944,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;   
 
-        case "Ben's Beauty Hydraglow $89.95":
+        case "Ben's Beauty Hydraglow $89.00":
         upDatedSpaName = "Ben's Beauty Spa";
         upDatedSpaAddress = "20 N Raymond Ave, Pasadena CA 91103,"+"<br>"+"(Entrance is the door just left of Jimmy John's, 2nd Floor, Suite 250)"+"<br>"+"Door Code: 250"+"<br>"+"Use the door code, we'll buzz you in via intercom. Pull the door open after the buzz."+"<br>"+"Park at metered spots in front or park at 48 N Raymond Ave Parking Garage.";
         upDatedSpaLINK = "https://form.jotform.com/232685044919060";
@@ -954,7 +954,7 @@ function updateForm(){
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "15 minute Cleansing ";
         upDatedDurationTwo = "30 minutes of Hydraglow Treatment and 15 minutes Consultation";
-        promoPrice = "59.95"
+        promoPrice = "89.00"
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (626) 298-6456";
         treatmentSelected = "Hydraglow Treatment";
         newSpaPhoneNumberSelected = "(626) 298-6456";
