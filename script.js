@@ -1684,7 +1684,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-mommy-tummy-rescue-99-95";
-        upDatedSpaPhone = "(437) 291-3104";
+        upDatedSpaPhone = "(437) 370-3694";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Mommy Tummy Rescue Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -1701,7 +1701,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-amp-cosmetics-natural-facelift-79-95";
-        upDatedSpaPhone = "(437) 291-3104";
+        upDatedSpaPhone = "(437) 370-3694";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -1718,7 +1718,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://florentine.noneedleneeded.com/triple-lift-69-booking";
-        upDatedSpaPhone = "(437) 291-3104";
+        upDatedSpaPhone = "(437) 370-3694";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Triple Lift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -1735,7 +1735,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-natural-facelift-99-95";
-        upDatedSpaPhone = "(437) 291-3104";
+        upDatedSpaPhone = "(437) 370-3694";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
@@ -1752,7 +1752,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-neck-amp-jawline-79-95";
-        upDatedSpaPhone = "(437) 291-3104";
+        upDatedSpaPhone = "(437) 370-3694";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes of Neck and Jawline Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation";
