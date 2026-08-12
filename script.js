@@ -24,7 +24,7 @@ let locationPhoneArray = document.getElementsByClassName("varLocationPhone");
 let upDatedSpaPhone = "SELECT SPA FOR Location Phone" 
 
 // Actual Location PHONE variables in text
-let acutalLocationPhoneArray = document.getElementsByClassName("varLocationActualPhone");
+let actualLocationPhoneArray = document.getElementsByClassName("varLocationActualPhone");
 let upDatedActualSpaPhone = "SELECT SPA FOR Location Phone" 
 
 // Location WEB LINK variables in text
@@ -47,15 +47,22 @@ let upDatedDurationTwo    = " "
 let addOnsArray = document.getElementsByClassName("varAddons");
 let upDatedAddons = "No Addons Selected"
 
+let promoPrice = "No Spa Selected";
+let treatmentSelected = "No Spa Selected";
+let newSpaPhoneNumberSelected = "No Spa Selected";
+let insteadOfSpa = "No Spa Selected";
 
 
 function updateForm(){
 
     // *** SWITCH MUST RUN FIRST so variables are updated before the for-loops render them ***
-    upDatedAddons = addOnsStatus.value;
+    upDatedAddons = addOnsStatus ? addOnsStatus.value : "No Addons Selected";
+    upDatedSpaParkLINK = "";
 
     // SWITCH FOR LOCATIONS INFORMATION
-    switch (spaNameStatus.innerHTML) {
+    const selectedSpa = spaNameStatus ? spaNameStatus.innerHTML.trim() : "Select Spa";
+
+    switch (selectedSpa) {
         case "Select Spa":
         upDatedSpaName = "Please Select Spa Spa";
         upDatedSpaAddress = "No Spa Selected";
@@ -63,10 +70,12 @@ function updateForm(){
         upDatedSpaMapLINK = "No Spa Selected";
         upDatedSpaWebLINK = "No Spa Selected";
         upDatedSpaPhone = "No Spa Selected";
+        upDatedActualSpaPhone = "No Spa Selected";
         upDatedDurationTotal = "No Spa Selected";
         upDatedDurationOne = "No Spa Selected";
         upDatedDurationTwo = "No Spa Selected";
         promoPrice = "No Spa Selected";
+        treatmentSelected = "No Spa Selected";
         newSpaPhoneNumberSelected = "No Spa Selected";
         insteadOfSpa = "No Spa Selected";
         break;
@@ -5032,7 +5041,7 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-        ase "Oasis Aesthetics St. Mary's Body Contouring 69.95":
+        case "Oasis Aesthetics St. Mary's Body Contouring 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
         upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
@@ -7889,8 +7898,8 @@ function updateForm(){
     }
 
     //LOCATION Actual Phone FORLOOP
-    for (let i = 0; i < acutalLocationPhoneArray.length; i++) {
-        acutalLocationPhoneArray[i].innerHTML = upDatedActualSpaPhone;
+    for (let i = 0; i < actualLocationPhoneArray.length; i++) {
+        actualLocationPhoneArray[i].innerHTML = upDatedActualSpaPhone;
     }
 
     //LOCATION WEB LINK FORLOOP
@@ -7918,31 +7927,18 @@ function updateForm(){
         addOnsArray[i].innerHTML = upDatedAddons;
     }
 
+    const hideElements = [
+        document.getElementById("hideOne"),
+        document.getElementById("hideTwo"),
+        document.getElementById("hideThree"),
+        document.getElementById("hideFour")
+    ];
+    const shouldHideElevationeFields = selectedSpa.includes("Elevatione");
 
-    if (spaNameStatus.innerHTML.includes("Elevatione")) {
-        let hideOne = document.getElementById("hideOne")
-        let hideTwo = document.getElementById("hideTwo")
-        let hideThree = document.getElementById("hideThree")
-        let hideFour = document.getElementById("hideFour")
-        // let hideFive = document.getElementById("hideFive")
-
-
-        hideOne.classList.add("hide");
-        hideTwo.classList.add("hide");
-        hideThree.classList.add("hide");
-        hideFour.classList.add("hide");
-        // hideFive.classList.add("hide");
-
-
-    } else {
-        hideOne.classList.remove("hide");
-        hideTwo.classList.remove("hide");
-        hideThree.classList.remove("hide");
-        hideFour.classList.remove("hide");
-        // hideFive.classList.remove("hide");
-
-
-    }
+    hideElements.forEach((element) => {
+        if (!element) return;
+        element.classList.toggle("hide", shouldHideElevationeFields);
+    });
 
     // parkingLine: only show for spas that have a parking link
     let parkingLine = document.getElementById("parkingLine");
@@ -7967,13 +7963,13 @@ function updateForm(){
     let insteadOfArray = document.getElementsByClassName("insteadOf");
 
     // USER DATA ENTRY
-    let customerName = document.getElementById("custName").value;
-    let repName = document.getElementById("empName").value;
-    let aptDateDay = document.getElementById("aptDateDay").value;
-    let aptDateMonth = document.getElementById("aptDateMonth").value;
-    let aptMinutesTime = document.getElementById("minutesOfTime").value;
-    let aptTime = document.getElementById("aptTime").value;
-    let aptTimeAmPm = document.getElementById("aptTimeAmPm").value;
+    let customerName = document.getElementById("custName")?.value || "";
+    let repName = document.getElementById("empName")?.value || "";
+    let aptDateDay = document.getElementById("aptDateDay")?.value || "";
+    let aptDateMonth = document.getElementById("aptDateMonth")?.value || "";
+    let aptMinutesTime = document.getElementById("minutesOfTime")?.value || "";
+    let aptTime = document.getElementById("aptTime")?.value || "";
+    let aptTimeAmPm = document.getElementById("aptTimeAmPm")?.value || "";
 
     // REP NAME LOOP
     // CUSTOMER NAME LOOP
@@ -8033,10 +8029,14 @@ for(var i = 0; i < treatmentSelectedArray.length; i++){
     }
 
 let newLink = document.getElementById("newSpaLink");
-newLink.setAttribute('href', upDatedSpaWebLINK);
+if (newLink) {
+    newLink.setAttribute('href', upDatedSpaWebLINK);
+}
 
 let newSpaPhoneNumber = document.getElementById("newSpaPhoneNumber");
-newSpaPhoneNumber.innerHTML = newSpaPhoneNumberSelected;
+if (newSpaPhoneNumber) {
+    newSpaPhoneNumber.innerHTML = newSpaPhoneNumberSelected;
+}
 
 }
 
@@ -8058,32 +8058,38 @@ const searchBox = document.querySelector(".search-box input");
 
 const optionsList = document.querySelectorAll(".option");
 
-selected.addEventListener("click", () => {
-    optionsContainer.classList.toggle("active");
+if (selected && optionsContainer && searchBox) {
+    selected.addEventListener("click", () => {
+        optionsContainer.classList.toggle("active");
 
-    searchBox.value = "";
-    filterList("");
+        searchBox.value = "";
+        filterList("");
 
-    if(optionsContainer.classList.contains("active")) {
-        searchBox.focus();
-    }
-});
-
-optionsList.forEach( o => {
-    o.addEventListener("click", () => {
-        selected.innerHTML = o.querySelector("label").innerHTML;
-        optionsContainer.classList.remove("active");
+        if(optionsContainer.classList.contains("active")) {
+            searchBox.focus();
+        }
     });
-});
 
-searchBox.addEventListener("keyup", function(e){
-filterList(e.target.value);
-});
+    optionsList.forEach( o => {
+        o.addEventListener("click", () => {
+            const optionLabel = o.querySelector("label");
+            if (!optionLabel) return;
+            selected.innerHTML = optionLabel.innerHTML;
+            optionsContainer.classList.remove("active");
+        });
+    });
+
+    searchBox.addEventListener("keyup", function(e){
+        filterList(e.target.value);
+    });
+}
 
 const filterList = searchTerm => {
     searchTerm = searchTerm.toLowerCase();
     optionsList.forEach( option => {
-        let label = option.firstElementChild.nextElementSibling.innerText.toLowerCase();
+        let label = option.querySelector("label");
+        if (!label) return;
+        label = label.innerText.toLowerCase();
         if (label.indexOf(searchTerm) != -1 ) {
             option.style.display = "block";
         } else {
