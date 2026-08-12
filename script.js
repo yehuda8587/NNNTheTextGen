@@ -5228,7 +5228,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/weigh-loss-iv-79-95" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 10 minutes Injection of IV Treatment";
         upDatedDurationTwo = " 40 minutes IV infusion and 10 minutes post-care and consultation";
@@ -5245,7 +5245,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/3d-facelift-booking" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes 3D Facelift and 15 minutes post-care and consultation";
@@ -5262,7 +5262,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/anti-aging-facial-69-95-form-book-page" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Anti-Aging Facial and 15 minutes post-care and consultation";
@@ -5279,7 +5279,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/lift-and-hydrate-book" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Lift and Hydrate and 15 minutes post-care and consultation";
@@ -5296,7 +5296,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/men-natural-facelift-79-95" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Skin Tightening Treatment and 15 minutes post-care and consultation";
@@ -5313,7 +5313,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/natural-facelift-69-95-book-page" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift and 15 minutes post-care and consultation";
@@ -5330,7 +5330,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/neck-and-jawline-69-95-book-page" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Neck & Jawline Treatment and 15 minutes post-care and consultation";
@@ -5347,7 +5347,7 @@ function updateForm(){
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
         upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/triple-lift-booking" ;
-        upDatedSpaPhone = "(702) 637-2259";
+        upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Triple Lift Treatment and 15 minutes post-care and consultation";
