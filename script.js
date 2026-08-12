@@ -4643,7 +4643,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/YVCSPcdVzThTpt2o6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cFqYbVhTjiTAVkRDA";
         upDatedSpaWebLINK = "https://oasis-kensington.noneedleneeded.com/natural-facelift-79-booking";
-        upDatedSpaPhone = "(587) 323-8532";
+        upDatedSpaPhone = "(587) 200-8619";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes cleansing and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
