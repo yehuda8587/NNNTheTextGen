@@ -4896,6 +4896,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics St. Mary's Hyperpigmentation Treatment 59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/hyperpigmentation-59-95-booking";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleansing and Hyperpigmentation Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Hyperpigmentation Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics St. Mary's 3-in-1 Tightening & Brightening 49.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
@@ -4909,6 +4926,23 @@ function updateForm(){
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
         treatmentSelected = "3-in-1 Tightening & Brightening Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Oasis Aesthetics St. Mary's Anti-Aging 59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/anti-aging-59-95-booking";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes cleansing and LED Anti-Aging Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Anti-Aging Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
         insteadOfSpa = "$377";
         break;
@@ -4947,6 +4981,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+        case "Oasis Aesthetics St. Mary's Turkey Neck Rescue 59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/turkey-neck-rescue-59-95-booking";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes cleansing and Turkey Neck Rescue Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Turkey Neck Rescue Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics St. Mary's Natural Shape and Sculpt 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
@@ -4975,6 +5026,23 @@ function updateForm(){
         upDatedDurationOne = "- 45 minutes of Body Contouring Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
+        treatmentSelected = "Body Contouring Treatment";
+        newSpaPhoneNumberSelected = "(431) 570-2004";
+        insteadOfSpa = "$377";
+        break;
+
+        ase "Oasis Aesthetics St. Mary's Body Contouring 69.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
+        upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/yJomamRPC2hTi7Tg8";
+        upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/body-contouring-69-95-booking";
+        upDatedSpaPhone = "(204) 819-5651";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes of Body Contouring Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
         treatmentSelected = "Body Contouring Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
