@@ -3250,6 +3250,23 @@ function updateForm(){
         insteadOfSpa = "$350";
         break;
 
+        case "LED Care Natural Facelift $59.95":
+        upDatedSpaName = "Lavelier";
+        upDatedSpaAddress = "8175 NW 107th Ave, Doral, FL 33178, USA"+"<br>"+"(We are located inside MY SALON SUITE, Suite #108)";
+        upDatedSpaLINK = "https://forms.gle/4eEotqhH8TB7zwLA6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/Zv6mAQq5kT1VFTT77";
+        upDatedSpaWebLINK = "https://ledcare.firstouchbeauty.com/natural-facelift-59-95-dtb-page";
+        upDatedSpaPhone = "(786) 755-7198";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 10-minute Cleansing";
+        upDatedDurationTwo = "- 35-minutes Natural Faecelift Treatment and 15-minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 566-0579";
+        treatmentSelected = "Natural Faecelift Treatment";
+        newSpaPhoneNumberSelected = "(786) 566-0579";
+        insteadOfSpa = "$377";
+        break;
+
         case "Lift and Revive Med Spa Natural Facelift $79.95":
         upDatedSpaName = "Lift and Revive Med Spa";
         upDatedSpaAddress = "Residences At La Cantera"+"<br>"+"6215 Via La Cantera San Antonio, TX 78256"+"<br>"+"(STE 0121 - Our Storefront is at the Residents At La Cantera)";
