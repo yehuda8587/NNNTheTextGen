@@ -3251,7 +3251,7 @@ function updateForm(){
         break;
 
         case "LED Care Natural Facelift $59.95":
-        upDatedSpaName = "Lavelier";
+        upDatedSpaName = "Led Care";
         upDatedSpaAddress = "8175 NW 107th Ave, Doral, FL 33178, USA"+"<br>"+"(We are located inside MY SALON SUITE, Suite #108)";
         upDatedSpaLINK = "https://forms.gle/4eEotqhH8TB7zwLA6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/Zv6mAQq5kT1VFTT77";
@@ -3259,10 +3259,10 @@ function updateForm(){
         upDatedSpaPhone = "(786) 755-7198";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
-        upDatedDurationTwo = "- 35-minutes Natural Faecelift Treatment and 15-minutes Consultation"
+        upDatedDurationTwo = "- 35-minutes Natural Facelift Treatment and 15-minutes Consultation"
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (786) 566-0579";
-        treatmentSelected = "Natural Faecelift Treatment";
+        treatmentSelected = "Natural Facelift Treatment";
         newSpaPhoneNumberSelected = "(786) 566-0579";
         insteadOfSpa = "$377";
         break;
