@@ -6388,19 +6388,53 @@ function updateForm(){
         insteadOfSpa = "$399"
         break;
 
-        case "Skin So Sweet Skin Tightening $59.95":
+        case "Skin So Sweet Natural Facelift $59.95":
         upDatedSpaName = "Skin So Sweet";
         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
-        upDatedSpaLINK = " ";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/1iBNdU6iFuYiFUFH6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/skin-so-sweet-skin-tightening-59-95";
-        upDatedSpaPhone = "(714) 886 6067";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes Skin Analysis and Skin Tightening Treatment";
+        upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
+        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/natural-facelift-59-95-dtb-page";
+        upDatedSpaPhone = "(714) 640-6942";
+        upDatedDurationTotal = "50 Minutes";
+        upDatedDurationOne = "- 35 minutes Skin Analysis and Natural Facelift Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
-        treatmentSelected = "Skin Tightening Treatment";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(714) 203-3527";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Skin So Sweet Neck and Jawline $59.95":
+        upDatedSpaName = "Skin So Sweet";
+        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+        upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
+        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/neck-and-jawline-59-95-booking";
+        upDatedSpaPhone = "(714) 640-6942";
+        upDatedDurationTotal = "50 Minutes";
+        upDatedDurationOne = "- 35 minutes Skin Analysis and Neck and Jawline Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+        treatmentSelected = "Neck and Jawline Treatment";
+        newSpaPhoneNumberSelected = "(714) 203-3527";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Skin So Sweet Triple Lift $59.95":
+        upDatedSpaName = "Skin So Sweet";
+        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+        upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
+        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/triple-lift-59-95-dtb-book";
+        upDatedSpaPhone = "(714) 640-6942";
+        upDatedDurationTotal = "50 Minutes";
+        upDatedDurationOne = "- 35 minutes Skin Analysis and Triple Lift Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 203-3527";
+        treatmentSelected = "Triple Lift Treatment";
         newSpaPhoneNumberSelected = "(714) 203-3527";
         insteadOfSpa = "$377";
         break;
