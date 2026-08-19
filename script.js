@@ -5093,7 +5093,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
-    
+    case "Oasis Boutique Natural Facelift $69.95":
+        upDatedSpaName = "Oasis Boutique";
+        upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
+        upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/ncbUT4vH1DpsSmWm7";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-69-95-dtb-page";
+        upDatedSpaPhone = "(407) 848-5429";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and 15 minutes post-care and consultation";
+        promoPrice = "69.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (407) 848-5429";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(407) 848-5429";
+        insteadOfSpa = "$377"
+        break;
+
 
         case "Oasis Boutique Natural Facelift $79.95":
         upDatedSpaName = "Oasis Boutique";
