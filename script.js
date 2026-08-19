@@ -4680,6 +4680,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+         case "Oasis Aesthetics Kensington Natural Body Contouring $59.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1414 Kensington Rd NW #103, Calgary, AB T2N 3P9"+"<br>"+"(Kensington Road)";
+        upDatedSpaLINK = "https://forms.gle/YVCSPcdVzThTpt2o6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cFqYbVhTjiTAVkRDA";
+        upDatedSpaWebLINK = "https://oasis-kensington.noneedleneeded.com/body-contouring-59-95-booking";
+        upDatedSpaPhone = "(587) 200-8619";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Natural Body Contouring Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 452-1190";
+        treatmentSelected = "Natural Body Contouring Treatment";
+        newSpaPhoneNumberSelected = "(403) 452-1190";
+        insteadOfSpa = "$377";
+        break;
+
         case "Oasis Aesthetics LED 69.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "3073 Ness Ave, Winnipeg, MB R2Y 2G3"+"<br>"+"(Winnipeg - Ness Avenue)"+"<br>"+"(Parking is available just in front of the spa)";
@@ -5481,6 +5498,23 @@ function updateForm(){
         promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
         treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(762) 218-2597";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Pearl De Flore Augusta Hyperpigmentation $69.95":
+        upDatedSpaName = "Pearl De Flore Spa";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/hyperpigmentation-79-95-booking";
+        upDatedSpaPhone = "(762) 222-4775";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Hyperpigmentation Treatment" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Hyperpigmentation Treatment";
         newSpaPhoneNumberSelected = "(762) 218-2597";
         insteadOfSpa = "$377";
         break;
