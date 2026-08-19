@@ -3250,12 +3250,12 @@ function updateForm(){
         insteadOfSpa = "$350";
         break;
 
-        case "LED Care Natural Facelift $59.95":
-        upDatedSpaName = "Led Care";
+        case "Luma Spa Natural Facelift $59.95":
+        upDatedSpaName = "Luma Spa";
         upDatedSpaAddress = "8175 NW 107th Ave, Doral, FL 33178, USA"+"<br>"+"(We are located inside MY SALON SUITE, Suite #108)";
         upDatedSpaLINK = "https://forms.gle/4eEotqhH8TB7zwLA6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/Zv6mAQq5kT1VFTT77";
-        upDatedSpaWebLINK = "https://ledcare.firstouchbeauty.com/natural-facelift-59-95-dtb-page";
+        upDatedSpaWebLINK = "https://lumaspa.firstouchbeauty.com/natural-facelift-59-95-dtb-page";
         upDatedSpaPhone = "(786) 755-7198";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
