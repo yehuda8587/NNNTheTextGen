@@ -6509,7 +6509,7 @@ function updateForm(){
 
         case "Skin So Sweet Natural Facelift $59.95":
         upDatedSpaName = "Skin So Sweet";
-        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
         upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/natural-facelift-59-95-dtb-page";
@@ -6526,7 +6526,7 @@ function updateForm(){
 
         case "Skin So Sweet Neck and Jawline $59.95":
         upDatedSpaName = "Skin So Sweet";
-        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
         upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/neck-and-jawline-59-95-booking";
@@ -6543,7 +6543,7 @@ function updateForm(){
 
         case "Skin So Sweet Triple Lift $59.95":
         upDatedSpaName = "Skin So Sweet";
-        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(In the small plaza)";
+        upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
         upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/triple-lift-59-95-dtb-book";
