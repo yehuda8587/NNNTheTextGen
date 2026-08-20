@@ -6564,7 +6564,7 @@ function updateForm(){
         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
-        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/natural-facelift-59-95-dtb-page";
+        upDatedSpaWebLINK = "https://skinsosweet.noneedleneeded.com/natural-facelift-59-95-dtb-page";
         upDatedSpaPhone = "(714) 640-6942";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 35 minutes Skin Analysis and Natural Facelift Treatment";
@@ -6581,7 +6581,7 @@ function updateForm(){
         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
-        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/neck-and-jawline-59-95-booking";
+        upDatedSpaWebLINK = "https://skinsosweet.noneedleneeded.com/neck-and-jawline-59-95-booking";
         upDatedSpaPhone = "(714) 640-6942";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 35 minutes Skin Analysis and Neck and Jawline Treatment";
@@ -6598,7 +6598,7 @@ function updateForm(){
         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
         upDatedSpaLINK = "https://forms.gle/BMKJBzHQWvDG8vHRA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/NfWbW7HUKU5zapxj6";
-        upDatedSpaWebLINK = "https://skinsosweet.advancedbeautytreatments.com/triple-lift-59-95-dtb-book";
+        upDatedSpaWebLINK = "https://skinsosweet.noneedleneeded.com/triple-lift-59-95-dtb-book";
         upDatedSpaPhone = "(714) 640-6942";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 35 minutes Skin Analysis and Triple Lift Treatment";
