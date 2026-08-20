@@ -4680,6 +4680,23 @@ function updateForm(){
         insteadOfSpa = "$377";
         break;
 
+         case "Oasis Aesthetics Kensington Natural Facelift $59":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1414 Kensington Rd NW #103, Calgary, AB T2N 3P9"+"<br>"+"(Kensington Road)";
+        upDatedSpaLINK = "https://forms.gle/YVCSPcdVzThTpt2o6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cFqYbVhTjiTAVkRDA";
+        upDatedSpaWebLINK = "https://oasis-kensington.noneedleneeded.com/natural-facelift-59-booking";
+        upDatedSpaPhone = "(587) 200-8619";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes cleansing and Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "59";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 452-1190";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(403) 452-1190";
+        insteadOfSpa = "$377";
+        break;
+
          case "Oasis Aesthetics Kensington Natural Body Contouring $59.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1414 Kensington Rd NW #103, Calgary, AB T2N 3P9"+"<br>"+"(Kensington Road)";
@@ -4691,6 +4708,23 @@ function updateForm(){
         upDatedDurationOne = "- 45 minutes Natural Body Contouring Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 452-1190";
+        treatmentSelected = "Natural Body Contouring Treatment";
+        newSpaPhoneNumberSelected = "(403) 452-1190";
+        insteadOfSpa = "$377";
+        break;
+
+         case "Oasis Aesthetics Kensington Natural Body Contouring $69.95":
+        upDatedSpaName = "Oasis Aesthetics";
+        upDatedSpaAddress = "1414 Kensington Rd NW #103, Calgary, AB T2N 3P9"+"<br>"+"(Kensington Road)";
+        upDatedSpaLINK = "https://forms.gle/YVCSPcdVzThTpt2o6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cFqYbVhTjiTAVkRDA";
+        upDatedSpaWebLINK = "https://oasis-kensington.noneedleneeded.com/body-contouring-69-95-booking";
+        upDatedSpaPhone = "(587) 200-8619";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Natural Body Contouring Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation"
+        promoPrice = "69.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (403) 452-1190";
         treatmentSelected = "Natural Body Contouring Treatment";
         newSpaPhoneNumberSelected = "(403) 452-1190";
