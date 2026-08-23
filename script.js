@@ -173,14 +173,14 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
         upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/neck-and-jawline-79-95-book";
-        upDatedSpaPhone = "(941) 867-4376";
+        upDatedSpaPhone = "(941) 254-3660";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Neck and Jawline Treatment & 15 minutes Consultation";
         promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
         treatmentSelected = "Neck and Jawline";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
 
@@ -190,14 +190,14 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
         upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-book-page";
-        upDatedSpaPhone = "(941) 867-4376";
+        upDatedSpaPhone = "(941) 254-3660";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
         promoPrice = "89.00";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
         treatmentSelected = "Non Surgical Facelift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
 
@@ -207,14 +207,14 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
         upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-69-booking";
-        upDatedSpaPhone = "(941) 867-4376";
+        upDatedSpaPhone = "(941) 254-3660";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
         promoPrice = "69.00";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
         treatmentSelected = "Non Surgical Facelift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
 
@@ -224,14 +224,14 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
         upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-book-page";
-        upDatedSpaPhone = "(941) 867-4376";
+        upDatedSpaPhone = "(941) 254-3660";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes 3D Facelift Treatment & 15 minutes Consultation";
         promoPrice = "89.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
         treatmentSelected = "3D Facelift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
 
@@ -241,14 +241,14 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
         upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/triple-lift-booking";
-        upDatedSpaPhone = "(941) 867-4376";
+        upDatedSpaPhone = "(941) 254-3660";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = " - 15 minutes Cleansing";
         upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & 15 minutes Consultation";
         promoPrice = "89.00";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 867-4376";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
         treatmentSelected = "Triple Lift";
-        newSpaPhoneNumberSelected = "(941) 867-4376";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
 
