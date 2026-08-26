@@ -6610,6 +6610,40 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$399"
         break;
 
+        case "Skin Loft Studio Hyperpigmentation $69":
+        upDatedSpaName = "Skin Loft Studio";
+        upDatedSpaAddress = "1188 N Tamiami Trl # C3 Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
+        upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/hyperpigmentation-69-book";
+        upDatedSpaPhone = "(941) 432-4563";
+        upDatedDurationTotal = "40 Minutes";
+        upDatedDurationOne = "- 30 minutes Cleanse and Hyperpigmentation Treatment";
+        upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
+        treatmentSelected = "Hyperpigmentation Treatment";
+        newSpaPhoneNumberSelected = "(215) 275-8613";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Skin Loft Studio Natural Facelift $69":
+        upDatedSpaName = "Skin Loft Studio";
+        upDatedSpaAddress = "1188 N Tamiami Trl # C3 Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
+        upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/natural-facelift-69-dtb-page";
+        upDatedSpaPhone = "(941) 432-4563";
+        upDatedDurationTotal = "40 Minutes";
+        upDatedDurationOne = "- 30 minutes Skin Analysis and Natural Facelift Treatment";
+        upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(215) 275-8613";
+        insteadOfSpa = "$377";
+        break;
+
         case "Skin So Sweet Natural Facelift $59.95":
         upDatedSpaName = "Skin So Sweet";
         upDatedSpaAddress = "16456 Bolsa Chica St. Huntington Beach CA. 92649"+"<br>"+"(Located at the corner of Heil Avenue and Bolsa Chica Street, in the same shopping center as The Hangout Restaurant, directly across from Taco Bell and Starbucks.)";
