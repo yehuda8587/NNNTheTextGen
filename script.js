@@ -6617,9 +6617,9 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
         upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/hyperpigmentation-69-book";
         upDatedSpaPhone = "(941) 432-4563";
-        upDatedDurationTotal = "40 Minutes";
-        upDatedDurationOne = "- 30 minutes Cleanse and Hyperpigmentation Treatment";
-        upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Cleanse and Hyperpigmentation Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
         treatmentSelected = "Hyperpigmentation Treatment";
@@ -6634,9 +6634,9 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
         upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/natural-facelift-69-dtb-page";
         upDatedSpaPhone = "(941) 432-4563";
-        upDatedDurationTotal = "40 Minutes";
-        upDatedDurationOne = "- 30 minutes Skin Analysis and Natural Facelift Treatment";
-        upDatedDurationTwo = "- 10 minutes Post Care and Consultation"
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Skin Analysis and Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
         treatmentSelected = "Natural Facelift Treatment";
