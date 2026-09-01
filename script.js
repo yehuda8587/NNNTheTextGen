@@ -3222,7 +3222,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/SLFCdkZtRMyb1TWu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
         upDatedSpaWebLINK = "https://fil.noneedleneeded.com/natural-facelift-59-95-book-page";
-        upDatedSpaPhone = "(512) 649-7922";
+        upDatedSpaPhone = "(512) 253-7610";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15-minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Natural Facelift Treatment and Consultation"
@@ -3239,7 +3239,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/SLFCdkZtRMyb1TWu7";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9XjN144tWe2TAjo8A";
         upDatedSpaWebLINK = "https://fil.noneedleneeded.com/booking-neck-and-jawline-59-95-ltb";
-        upDatedSpaPhone = "(512) 649-7922";
+        upDatedSpaPhone = "(512) 253-7610";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 15-minutes Cleansing";
         upDatedDurationTwo = "- 30 minutes Neck and Jawline Treatment and Consultation"
