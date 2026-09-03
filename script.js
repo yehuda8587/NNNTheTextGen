@@ -1293,6 +1293,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Dermalogy Med Spa Triple Lift $49.95":
+        upDatedSpaName = "Dermalogy Med Spa";
+        upDatedSpaAddress = "9330 W Broadway St #410 Pearland, TX 77584 "+"<br>"+"(Next door to Wild Pear, in the same shopping center on the ground floor by Floor & Living)";
+        upDatedSpaLINK = "https://forms.gle/JktVGKmUCs8eFcqW7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/p6jXfdaazG5YKMt59";
+        upDatedSpaWebLINK = "https://dermalogy.noneedleneeded.com/triplelift-49-booking-page";
+        upDatedSpaPhone = "(281) 214-9889";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes of Triple Lift Treatment and 15 minutes Consultation";
+        promoPrice = "49.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (281) 818-2149";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(281) 818-2149";
+        insteadOfSpa = "$377"
+        break;
+
+
         case "Donna Ella Med Spa Natural Facelift $59.95":
         upDatedSpaName = "Donna Ella Med Spa";
         upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
