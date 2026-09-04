@@ -8066,6 +8066,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         newSpaPhoneNumberSelected = "(602) 879-3974";
         insteadOfSpa = "$377"
         break;
+
+         case "Aura Cosmetic Clinic Skin Tightening $59.95":
+        upDatedSpaName = "Aura Cosmetic Clinic";
+        upDatedSpaAddress = "3048 E Baseline Rd, STE 122, Mesa, AZ , 85204"+"<br>"+"(Dana Landing Plaza, all the way down to the left)";
+        upDatedSpaLINK = "https://forms.gle/twkVmVVrWjskX7Ha6";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/5VREP4ajw5csUZzv6";
+        upDatedSpaWebLINK = "https://auracosmeticlinic.firstouchbeauty.com/skin-tighteing-59-95-booking";
+        upDatedSpaPhone = "(602) 345-9697";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Skin Tightening Treatment & 15 minutes Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (602) 879-3974";
+        treatmentSelected = "Skin Tightening Treatment";
+        newSpaPhoneNumberSelected = "(602) 879-3974";
+        insteadOfSpa = "$377"
+        break;
             
         case "Auraderma Triple Lift $69.95":
         upDatedSpaName = "Auraderma Spa";
