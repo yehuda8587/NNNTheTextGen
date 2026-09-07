@@ -900,7 +900,22 @@ function updateForm(){
         insteadOfSpa = "$349"
         break;
 
-
+      case "Below Zero Spa Rochester Natural Facelift $59.95":
+        upDatedSpaName = "Below Zero Rochester";
+        upDatedSpaAddress = "337 Eastview Mall, Victor, NY 14564"+"<br>"+"(Located inside Eastview Mall, on the main Von Maur aisle, next to AT&T and directly across from The Source Jewelry.)<br>"+"Nearest entrance: #6";
+        upDatedSpaLINK = "https://forms.gle/57j3KLsY1Ekw4gDu7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/SG2RYd3nBvcTAGxR8";
+        upDatedSpaWebLINK = "https://belowz-roch.firstouchbeauty.com/natural-facelift-59-95-booking";
+        upDatedSpaPhone = "(585) 252-4003";
+        upDatedDurationTotal = "45 Minutes";
+        upDatedDurationOne = "- 10 minutes Cleansing";
+        upDatedDurationTwo = "- 35 minutes Natural Facelift Treatment and Consultation";
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (585) 449-2100";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(585) 449-2100";
+        insteadOfSpa = "$377"
+        break;
 
         case "Ben's Beauty Natural Facelift $59.95":
         upDatedSpaName = "Ben's Beauty Spa";
