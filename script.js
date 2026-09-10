@@ -3384,6 +3384,23 @@ function updateForm(){
         insteadOfSpa = "$15"
         break;
 
+        case "Lumera Skin Clinics Botox $9":
+        upDatedSpaName = "Lumera Skin Clinics";
+        upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
+        upDatedSpaLINK = "https://forms.gle/u9QW8E8ExtwsFChG7";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/YUMHCgtkdrNWWuuz8";
+        upDatedSpaWebLINK = "https://lumera.advancedbeautytreatments.com/botox-9-per-unit-booking";
+        upDatedSpaPhone = "(438) 968-6098";
+        upDatedDurationTotal = "50 Minutes";
+        upDatedDurationOne = "- 40 minutes of Treatment and Consultation";
+        upDatedDurationTwo = "- 10 minutes Cleansing";
+        promoPrice = "9";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 208‑0226";
+        treatmentSelected = "Botox Treatment";
+        newSpaPhoneNumberSelected = "(514) 208‑0226";
+        insteadOfSpa = "$15"
+        break;
+
         case "Lumera Skin Clinics Hair Removal $99.95":
         upDatedSpaName = "Lumera Skin Clinics";
         upDatedSpaAddress = "1216 Rue Stanley, Montréal, QC H3B 2S7"+"<br>"+"(Inside the building on the second floor)";
