@@ -7429,12 +7429,12 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaName = "Spa Lumineux";
         upDatedSpaAddress = "1600 Boul. le Corbusier, Laval, QC H7S 1Y9"+"<br>"+"(Located inside Centre Laval (DUO), at the corner of Boulevard Saint-Martin West and Boulevard Le Corbusier, near Bureau en Gros/Staples, Best Buy and Marshalls/HomeSense. Quartier Laval is directly across the street, and Montmorency Metro Station is approximately a 10-minute walk away.)";
         upDatedSpaLINK = "https://forms.gle/E6uaZUHaiekB2vVu8";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/DH9C3nkRohvUzvh76";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/PjPKs8knw5j4AG2VA";
         upDatedSpaWebLINK = "https://lumineux.advancedbeautytreatments.com/natural-facelift-99-95-booking";
         upDatedSpaPhone = "(438) 230-3275";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & Natural Facelift treatment";
-        upDatedDurationTwo = "- 15 minute Post-Care Consultation";
+        upDatedDurationTotal = "45-60 Minutes";
+        upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"25 minutes of Cleansing & Natural Facelift treatment";
+        upDatedDurationTwo = "- 10 minute Post-Care Consultation";
         promoPrice = "99.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 240-3740";
         treatmentSelected = "Natural Facelift Treatment";
