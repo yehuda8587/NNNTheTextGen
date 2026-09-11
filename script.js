@@ -7427,7 +7427,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
 
         case "Spa Lumineux Natural Facelift $99.95":
         upDatedSpaName = "Spa Lumineux";
-        upDatedSpaAddress = "4239 Rue Jean-Talon O, Montréal, QC H4P 0A5"+"<br>"+"(Located inside Les Condos Rouge – Phase 2, in the Le Triangle district of Côte-des-Neiges, near Namur Metro Station and just minutes from Royalmount. Please use the main entrance at 4239 Jean-Talon Street West.)";
+        upDatedSpaAddress = "1600 Boul. le Corbusier, Laval, QC H7S 1Y9"+"<br>"+"(Located inside Centre Laval (DUO), at the corner of Boulevard Saint-Martin West and Boulevard Le Corbusier, near Bureau en Gros/Staples, Best Buy and Marshalls/HomeSense. Quartier Laval is directly across the street, and Montmorency Metro Station is approximately a 10-minute walk away.)";
         upDatedSpaLINK = "https://forms.gle/E6uaZUHaiekB2vVu8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DH9C3nkRohvUzvh76";
         upDatedSpaWebLINK = "https://lumineux.advancedbeautytreatments.com/natural-facelift-99-95-booking";
