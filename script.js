@@ -7430,7 +7430,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaAddress = "4239 Rue Jean-Talon O, Montréal, QC H4P 0A5"+"<br>"+"(Located inside Les Condos Rouge – Phase 2, in the Le Triangle district of Côte-des-Neiges, near Namur Metro Station and just minutes from Royalmount. Please use the main entrance at 4239 Jean-Talon Street West.)";
         upDatedSpaLINK = "https://forms.gle/E6uaZUHaiekB2vVu8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DH9C3nkRohvUzvh76";
-        upDatedSpaWebLINK = "https://spalumineux.firstouchbeauty.com/natural-facelift-99-95-booking";
+        upDatedSpaWebLINK = "https://lumineux.advancedbeautytreatments.com/natural-facelift-99-95-booking";
         upDatedSpaPhone = "(438) 230-3275";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15-minute skin analysis"+"<br>"+"30 minutes of Cleansing & Natural Facelift treatment";
