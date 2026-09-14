@@ -7947,6 +7947,57 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$377";
         break;
 
+         case "Oréa Beauty Boutique Triple Lift 69":
+        upDatedSpaName = "Oréa Beauty Boutique";
+        upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+        upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/rb64NJbeNQntgTCGA";
+        upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/triplelift-69-book-dtb";
+        upDatedSpaPhone = "(289) 302-8033";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Consultation";
+        upDatedDurationTwo = "- 45 Minutes Triple Lift Treatment";
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(289) 217 3012";
+        insteadOfSpa = "$377";
+        break;
+
+         case "Oréa Beauty Boutique Natural Facelift 69":
+        upDatedSpaName = "Oréa Beauty Boutique";
+        upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+        upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/rb64NJbeNQntgTCGA";
+        upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/natural-facelift-69-00-booking";
+        upDatedSpaPhone = "(289) 302-8033";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Consultation";
+        upDatedDurationTwo = "- 45 Minutes Natural Facelift Treatment";
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(289) 217 3012";
+        insteadOfSpa = "$377";
+        break;
+
+         case "Oréa Beauty Boutique Microneedling 179":
+        upDatedSpaName = "Oréa Beauty Boutique";
+        upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+        upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/rb64NJbeNQntgTCGA";
+        upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/microneedling-179-booking";
+        upDatedSpaPhone = "(289) 302-8033";
+        upDatedDurationTotal = "30 Minutes";
+        upDatedDurationOne = "- 10 Minutes Consultation";
+        upDatedDurationTwo = "- 20 Minutes Microneedling Treatment";
+        promoPrice = "179";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
+        treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(289) 217 3012";
+        insteadOfSpa = "$499";
+        break;
+
         case "TKO Beauty Tech Natural Facelift 89.95":
         upDatedSpaName = "TKO Beauty Tech";
         upDatedSpaAddress = "Pleasant Grove Plaza,"+"<br>"+"1090 Pleasant Grove Blvd. Roseville, CA 95678"+"<br>"+"(Suite 140, Two stores next to Safeway)";
