@@ -5337,7 +5337,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaAddress = "226 N. Park Ave. Winter Park, FL. 32789"+"<br>"+"(Park avenue street along the Main Street)";
         upDatedSpaLINK = "https://forms.gle/4pPj1bZz4ExoYDjR6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/ncbUT4vH1DpsSmWm7";
-        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-99-95-booking";
+        upDatedSpaWebLINK = "https://oasis-boutique.noneedleneeded.com/natural-facelift-99-95-dtb-page";
         upDatedSpaPhone = "(407) 848-5429";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
