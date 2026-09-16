@@ -1739,7 +1739,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Mommy Tummy Rescue $99.95":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-mommy-tummy-rescue-99-95";
@@ -1756,7 +1756,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Natural Facelift $79.95":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-amp-cosmetics-natural-facelift-79-95";
@@ -1773,7 +1773,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Triple Lift $69.00":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://florentine.noneedleneeded.com/triple-lift-69-booking";
@@ -1790,7 +1790,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Natural Facelift $99.95":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-natural-facelift-99-95";
@@ -1807,7 +1807,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Neck and Jawline $79.95":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"From Entrance 4 (next to Starbucks), turn left and you’ll find the store on your right-hand side.";
+        upDatedSpaAddress = "25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-neck-amp-jawline-79-95";
