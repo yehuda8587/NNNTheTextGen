@@ -1739,7 +1739,7 @@ function updateForm(){
 
         case "Florentine Skincare and Cosmetics Mommy Tummy Rescue $99.95":
         upDatedSpaName = "Florentine Skincare and Cosmetics";
-        upDatedSpaAddress = "Florentine Skincare and Cosmetics"+"<br>"+"Inside Sherway Gardens"+"<br>"+"25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(We are located Inside the mall. When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and  Fox Clothing.)";
+        upDatedSpaAddress = "We are located inside Sherway Gardens Mall at street 25 The West Mall, Etobicoke, ON M9C 1B8, Canadá"+"<br>"+"(When you arrive at the mall, please enter through Entrance 4. Once you enter, you will see Scotiabank. Turn left, and you’ll find the store on your right hand side between Yogen Fruz and Fox Clothing.)";
         upDatedSpaLINK = "https://forms.gle/E8975rmoLv4NpuAy8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9VTTUe4Hi8nNWocv8";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/florentine-skincare-and-cosmetics-mommy-tummy-rescue-99-95";
