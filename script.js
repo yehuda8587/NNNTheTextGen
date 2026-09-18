@@ -5808,6 +5808,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$249";
         break;
 
+        case "Pearl De Flore Augusta Double Chin Lift $79.95":
+        upDatedSpaName = "Pearl De Flore Spa";
+        upDatedSpaAddress = "Augusta Mall," + "<br>" + "3450 Wrightsboro Rd, Augusta, GA 30909"+"<br>"+"(Located on the second floor near the elevator for easy access)";
+        upDatedSpaLINK = "https://forms.gle/mqzKsvASmugBdna66";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/eQyi5Pdii7FikxUWA";
+        upDatedSpaWebLINK = "https://pearldeflore.advancedbeautytreatments.com/double-chin-79-95-booking";
+        upDatedSpaPhone = "(762) 222-4775";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing";
+        upDatedDurationTwo = "- 30 minutes Double Chin Lift" + "<br>" + "- 15 minutes of Consultation";
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (762) 218-2597";
+        treatmentSelected = "Double Chin Lift;
+        newSpaPhoneNumberSelected = "(762) 218-2597";
+        insteadOfSpa = "$377";
+        break;
+
 
         case "Predire Prestige LED":
         upDatedSpaName = "Predire Prestige Spa";
@@ -6894,6 +6911,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         promoPrice = "59.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
         treatmentSelected = "3D Facelift Treatment";
+        newSpaPhoneNumberSelected = "(949) 514-6192";
+        insteadOfSpa = "$377";
+        break;
+
+         case "Skin Totale San Juan Tight and Bright $59.95":
+        upDatedSpaName = "Skin Totale Med Spa";
+        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
+        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
+        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/tight-and-bright-59-95-booking";
+        upDatedSpaPhone = "(949) 339-3541";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Tight and Bright Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
+        treatmentSelected = "Tight and Bright Treatment";
         newSpaPhoneNumberSelected = "(949) 514-6192";
         insteadOfSpa = "$377";
         break;
