@@ -5092,7 +5092,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$377";
         break;
 
-        case "Oasis Aesthetics St. Mary's Hiperpigmentation Treatment 49.95":
+        case "Oasis Aesthetics St. Mary's Hyperpigmentation Treatment 49.95":
         upDatedSpaName = "Oasis Aesthetics";
         upDatedSpaAddress = "1026 St Mary's Rd Unit A Winnipeg, MB R2M 3S6"+"<br>"+"(Unit A)";
         upDatedSpaLINK = "https://forms.gle/sSQUXR3kFgoN5vQc6";
@@ -5100,11 +5100,11 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaWebLINK = "https://oasis-stmary.noneedleneeded.com/hyperpigmentation-49-95-booking";
         upDatedSpaPhone = "(204) 819-5651";
         upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 45 minutes cleansing and Hiperpigmentation Treatment";
+        upDatedDurationOne = "- 45 minutes cleansing and Hyperpigmentation Treatment";
         upDatedDurationTwo = "- 15 minutes Consultation"
         promoPrice = "49.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (431) 570-2004";
-        treatmentSelected = "Hiperpigmentation Treatment";
+        treatmentSelected = "Hyperpigmentation Treatment";
         newSpaPhoneNumberSelected = "(431) 570-2004";
         insteadOfSpa = "$377";
         break;
