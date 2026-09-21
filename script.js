@@ -7469,9 +7469,9 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedDurationOne = "- 10-minute skin analysis"+"<br>"+"25 minutes of Cleansing & Natural Facelift treatment";
         upDatedDurationTwo = "- 10 minute Post-Care Consultation";
         promoPrice = "99.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 240-3740";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (514) 240-3752";
         treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(514) 240-3740";
+        newSpaPhoneNumberSelected = "(514) 240-3752";
         insteadOfSpa = "$377"
         break;
 
