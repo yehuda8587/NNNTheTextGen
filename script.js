@@ -5609,7 +5609,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaAddress = "1725 Village Center Cir Las Vegas, NV 89134"+"<br>"+"(STE 150)";
         upDatedSpaLINK = " ";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/hAzkHHTaRr9x89GR9";
-        upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/pdrn-salmon-form-page-69-95" ;
+        upDatedSpaWebLINK = "https://pariemedspa.noneedleneeded.com/pdrn-salmon-booking-69-95" ;
         upDatedSpaPhone = "(702) 529-1824";
         upDatedDurationTotal = "50 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
