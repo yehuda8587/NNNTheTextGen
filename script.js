@@ -1343,29 +1343,14 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Donna Ella Med Spa Natural Facelift $79.95":
-        upDatedSpaName = "Donna Ella Med Spa";
-        upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
-        upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-natural-facelift-79-95";
-        upDatedSpaPhone = "(281) 953-1077";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15 minutes Cleansing";
-        upDatedDurationTwo = "- 45 minutes Natural Facelift Treatment and Consultation";
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (713) 960-1313";
-        treatmentSelected = "Natural Facelift Treatment";
-        newSpaPhoneNumberSelected = "(713) 960-1313";
-        insteadOfSpa = "$377"
-        break;
+        
 
         case "Donna Ella Med Spa Neck and Jawline $59.95":
         upDatedSpaName = "Donna Ella Med Spa";
         upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Between Cheesecake Factory and Salvador Ferragamo)";
         upDatedSpaLINK = "https://forms.gle/ea2x5kgKJoP1mtsSA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/DuFDxd7ayUA2WCch6";
-        upDatedSpaWebLINK = "https://www.advancedbeautytreatments.com/pages/donna-ella-neck-and-jawline-59-95";
+        upDatedSpaWebLINK = "https://donnaella.advancedbeautytreatments.com/booking-neck-and-jawline-59-95";
         upDatedSpaPhone = "(281) 953-1077";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 15 minutes Cleansing";
@@ -1377,21 +1362,7 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Donna Ella Spa LED":
-        upDatedSpaName = "Donna Ella Spa";
-        upDatedSpaAddress = "Westin Oak Hotel,"+"<br>"+"5015 Westheimer Rd, Houston, TX 77056"+"<br>"+"(Main entrance, first floor next door to Cheesecake Factory)";
-        upDatedSpaLINK = "https://forms.gle/XHLsxffpnMpoKiUm6";
-        upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/donna-ella-led-promo";
-        upDatedSpaPhone = "(346) 980-4152";
-        upDatedDurationTotal = "60 Minutes";
-        upDatedDurationOne = "- 15-Cleansing and Steamer";
-        upDatedDurationTwo = "- 45-minutes LED Anti-aging Treatment and Consultation"
-        promoPrice = "79.95";
-        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (346) 648-6648";
-        treatmentSelected = "LED Treatment";
-        newSpaPhoneNumberSelected = "(346) 648-6648";
-        insteadOfSpa = "$299";
-        break;
+        
 
 
         case "Elevatione 3 in 1 Skin Lifting Treatment $69.95":
