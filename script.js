@@ -2854,7 +2854,7 @@ function updateForm(){
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaMapLINK = "";
         upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/hyperpigmentation-79-95-book";
         upDatedSpaPhone = "(647) 749-7406";
         upDatedDurationTotal = "60 Minutes";
@@ -2871,7 +2871,7 @@ function updateForm(){
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaMapLINK = "";
         upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/spotless-facial-booking";
         upDatedSpaPhone = "(647) 749-7406";
         upDatedDurationTotal = "30 Minutes";
@@ -2889,7 +2889,7 @@ function updateForm(){
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaMapLINK = "";
         upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/triple-lift-booking";
         upDatedSpaPhone = "(647) 749-7406";
         upDatedDurationTotal = "60 Minutes";
@@ -2906,7 +2906,7 @@ function updateForm(){
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaMapLINK = "";
         upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/natural-facelift-79-95-book-page";
         upDatedSpaPhone = "(647) 749-7406";
         upDatedDurationTotal = "60 Minutes";
@@ -2923,7 +2923,7 @@ function updateForm(){
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
-        upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
+        upDatedSpaMapLINK = "";
         upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/neck-and-jawline-79-95-book-page" ;
         upDatedSpaPhone = "(647) 749-7406";
         upDatedDurationTotal = "60 Minutes";
@@ -2939,7 +2939,7 @@ function updateForm(){
         case "Kristals Burlington Turkey Neck Tightening $79.95":
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
-        upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+        upDatedSpaLINK = "";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/kristals-burlington-turkey-neck-tightening-treatment-promo" ;
         upDatedSpaPhone = "(647) 749-7406 ";
