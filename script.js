@@ -6718,7 +6718,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
 
         case "Skin Loft Studio Hyperpigmentation $69":
         upDatedSpaName = "Skin Loft Studio";
-        upDatedSpaAddress = "1188 N Tamiami Trl # C3 Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
         upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
         upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/hyperpigmentation-69-book";
@@ -6735,7 +6735,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
 
         case "Skin Loft Studio Natural Facelift $69":
         upDatedSpaName = "Skin Loft Studio";
-        upDatedSpaAddress = "1188 N Tamiami Trl # C3 Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
         upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
         upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/natural-facelift-69-dtb-page";
@@ -6752,7 +6752,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
 
         case "Skin Loft Studio Neck and Jawline $69":
         upDatedSpaName = "Skin Loft Studio";
-        upDatedSpaAddress = "1188 N Tamiami Trl # C3 Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
         upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
         upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/neck-and-jawline-69-booking";
