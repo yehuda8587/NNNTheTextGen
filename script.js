@@ -2867,6 +2867,24 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+        case "Kristals Burlington Hydraglow Treatment $79.95":
+        upDatedSpaName = "Kristals Burlington Spa";
+        upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
+        upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
+        upDatedSpaMapLINK = "";
+        upDatedSpaWebLINK = "https://kristals-burlington.noneedleneeded.com/hydraglow-79-95-booking";
+        upDatedSpaPhone = "(647) 749-7406";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Light Cleansing";
+        upDatedDurationTwo = "- 45 Minutes Hydraglow Treatment and Consultation";
+        promoPrice = "79.95"
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (647) 277-5122";
+        treatmentSelected = "Hydraglow Treatment";
+        newSpaPhoneNumberSelected = "(647) 277-5122";
+        insteadOfSpa = "$377"
+        break;
+
+
          case "Kristals Burlington Spotless Facial $599- 3 Sessions":
         upDatedSpaName = "Kristals Burlington Spa";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
@@ -6750,6 +6768,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$377";
         break;
 
+        case "Skin Loft Studio Natural Facelift $59.95":
+        upDatedSpaName = "Skin Loft Studio";
+        upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
+        upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/natural-facelift-59-booking";
+        upDatedSpaPhone = "(941) 432-4563";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes of Cleansing followed by 30 minutes of Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(215) 275-8613";
+        insteadOfSpa = "$377";
+        break;
+
         case "Skin Loft Studio Neck and Jawline $69":
         upDatedSpaName = "Skin Loft Studio";
         upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
@@ -6903,6 +6938,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$377";
         break;
 
+        case "Skin Totale Men Skin Tightening $79.95":
+        upDatedSpaName = "Skin Totale";
+        upDatedSpaAddress = "309 E Katella Avenue, Orange, CA 92867"+"<br>"+"(Inside Katella Shopping Center, behind Marie Callender's Restaurant & Bakery, near 'Train with Dave')";
+        upDatedSpaLINK = " ";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/f11qLG86Ze123w1aA";
+        upDatedSpaWebLINK = "https://skintotale.firstouchbeauty.com/men-s-skin-tightening-79-95-booking";
+        upDatedSpaPhone = "(714) 464-2076";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Skin Analysis and Lifting Facial Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "79.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (714) 852-5300";
+        treatmentSelected = "Skin Tightening";
+        newSpaPhoneNumberSelected = "(714) 852-5300";
+        insteadOfSpa = "$377";
+        break;
+
         case "Skin Totale San Juan Men's Facial $59.95":
         upDatedSpaName = "Skin Totale Med Spa";
         upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
@@ -6914,6 +6966,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Men's Facial Treatment";
         upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
         promoPrice = "59.95";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
+        treatmentSelected = "Men's Facial Treatment";
+        newSpaPhoneNumberSelected = "(949) 514-6192";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Skin Totale San Juan Men's Skin Tightening $79.95":
+        upDatedSpaName = "Skin Totale Med Spa";
+        upDatedSpaAddress = "31878 Del Obispo Street, Suite 108, San Juan Capistrano, California 92675"+"<br>"+"(Inside of Plaza Del Obispo next to Thai Juan On restaurant)";
+        upDatedSpaLINK = "https://forms.gle/2hnUPuVpmGVKzPSEA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/3Qs7nBrjtQ25gJwh7";
+        upDatedSpaWebLINK = "https://skintotalesj.noneedleneeded.com/men-s-skin-tightening-79-95-booking";
+        upDatedSpaPhone = "(949) 339-3541";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes Skin Analysis, Deep Cleansing and Men's Facial Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "79.95";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (949) 514-6192";
         treatmentSelected = "Men's Facial Treatment";
         newSpaPhoneNumberSelected = "(949) 514-6192";
@@ -8016,6 +8085,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
         treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(289) 217 3012";
+        insteadOfSpa = "$377";
+        break;
+
+         case "Oréa Beauty Boutique Hydraglow 69":
+        upDatedSpaName = "Oréa Beauty Boutique";
+        upDatedSpaAddress = "The Beaches Toronto ," + "<br>" + "1912 Queen St. E. Toronto ON M4L1H5";
+        upDatedSpaLINK = "https://forms.gle/oQBMSEm5msH4Aayg9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/rb64NJbeNQntgTCGA";
+        upDatedSpaWebLINK = "https://oreabeautyboutique.noneedleneeded.com/hydraglow-69-00-booking";
+        upDatedSpaPhone = "(289) 302-8033";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 Minutes Consultation";
+        upDatedDurationTwo = "- 45 Minutes Hydraglow Treatment";
+        promoPrice = "69";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (289) 217 3012";
+        treatmentSelected = "Hydraglow Treatment";
         newSpaPhoneNumberSelected = "(289) 217 3012";
         insteadOfSpa = "$377";
         break;
