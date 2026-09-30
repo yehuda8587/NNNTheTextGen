@@ -6768,7 +6768,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         insteadOfSpa = "$377";
         break;
 
-        case "Skin Loft Studio Natural Facelift $59.95":
+        case "Skin Loft Studio Natural Facelift $59":
         upDatedSpaName = "Skin Loft Studio";
         upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
         upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
