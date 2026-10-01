@@ -201,6 +201,23 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
+         case "Aeternitas Non Surgical Facelift $59.97":
+        upDatedSpaName = "Aeternitas";
+        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+        upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/non-surgical-facelift-59-97-booking";
+        upDatedSpaPhone = "(941) 254-3660";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Non Surgical Facelift Treatment & 15 minutes Consultation";
+        promoPrice = "59.97";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
+        treatmentSelected = "Non Surgical Facelift";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
+        insteadOfSpa = "$377"
+        break;
+
          case "Aeternitas Non Surgical Facelift $69.00":
         upDatedSpaName = "Aeternitas";
         upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
@@ -251,6 +268,24 @@ function updateForm(){
         newSpaPhoneNumberSelected = "(941) 254-3660";
         insteadOfSpa = "$377"
         break;
+
+        case "Aeternitas Triple Lift $59.97":
+        upDatedSpaName = "Aeternitas";
+        upDatedSpaAddress = "443 W Dearborn St., Englewood, FL 34223"+"<br>"+"(Middle of Dearborn St)";
+        upDatedSpaLINK = "https://forms.gle/EcbScL9LSqebPv4C9";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/DCDkdjf8KB52yFYC8";
+        upDatedSpaWebLINK = "https://aeternitas.firstouchbeauty.com/triplelift-59-97-booking";
+        upDatedSpaPhone = "(941) 254-3660";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = " - 15 minutes Cleansing";
+        upDatedDurationTwo = " - 30 minutes Triple Lift Treatment & 15 minutes Consultation";
+        promoPrice = "59.97";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (941) 254-3660";
+        treatmentSelected = "Triple Lift";
+        newSpaPhoneNumberSelected = "(941) 254-3660";
+        insteadOfSpa = "$377"
+        break;
+
 
         case "Arizona MedLaser Scottsdale Triple Lift $69.95":
         upDatedSpaName = "Arizona MedLaser";
@@ -6798,6 +6833,23 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         promoPrice = "69";
         upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
         treatmentSelected = "Neck & Jawline";
+        newSpaPhoneNumberSelected = "(215) 275-8613";
+        insteadOfSpa = "$377";
+        break;
+
+        case "Skin Loft Studio Triple Lift $59":
+        upDatedSpaName = "Skin Loft Studio";
+        upDatedSpaAddress = "1188 N Tamiami Trl, Suite 103, Sarasota, FL 34236"+"<br>"+"(Orange Condos building first floor next to the hair salon.)";
+        upDatedSpaLINK = "https://forms.gle/8R9DH7AwS3fGCKSr8";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/cs5hcYL2GbdWPey3A";
+        upDatedSpaWebLINK = "https://skinloftstudio.firstouchbeauty.com/triple-lift-59-00-booking";
+        upDatedSpaPhone = "(941) 432-4563";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes of Cleansing followed by 30 minutes of Triple Lift Treatment";
+        upDatedDurationTwo = "- 15 minutes Post Care and Consultation"
+        promoPrice = "59";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (215) 275-8613";
+        treatmentSelected = "Triple Lift";
         newSpaPhoneNumberSelected = "(215) 275-8613";
         insteadOfSpa = "$377";
         break;
