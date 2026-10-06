@@ -6253,7 +6253,7 @@ case "Oasis Aesthetics Henderson Hydraglow 59.95":
         upDatedSpaAddress = "Lakeland Square Mall, 3800 US Hwy 98 N, Lakeland, FL 33809"+"<br>"+"(We are located at the back of the mall, two stores ahead of Bath & Body Works)";
         upDatedSpaLINK = "https://forms.gle/bTMnJHRcm4qTCNYUA";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/9fNmjJfbUTSd1zB9A";
-        upDatedSpaWebLINK = "https://primeclinic.firstouchbeauty.com/natural-facelift-69-book";
+        upDatedSpaWebLINK = "https://primeclinic.firstouchbeauty.com/natural-facelift-69-dtb-page";
         upDatedSpaPhone = "(863) 250-1157";
         upDatedDurationTotal = "60 Minutes";
         upDatedDurationOne = "- 45 minutes Cleansing and Natural Facelift Treatment";
