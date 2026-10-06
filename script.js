@@ -1640,6 +1640,57 @@ function updateForm(){
         insteadOfSpa = "$329"
         break;
 
+        case "Elita Medical Spa Natural Facelift $97.00":
+        upDatedSpaName = "Well Era";
+        upDatedSpaAddress = "8176 Lark Brown Rd Ste 101, Elkridge, MD 21075"+"<br>"+"(First Floor Doors)";
+        upDatedSpaLINK = "https://forms.gle/4NXX1gquL3yVBpHQA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/HrXyguifDhKibhpq7";
+        upDatedSpaWebLINK = "https://elitamedspa.noneedleneeded.com/natural-facelift-97-00-booking";
+        upDatedSpaPhone = "(301) 450-3493";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Natural Facelift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "97.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 244-9393";
+        treatmentSelected = "Natural Facelift Treatment";
+        newSpaPhoneNumberSelected = "(301) 244-9393";
+        insteadOfSpa = "$377"
+        break;
+
+         case "Elita Medical Spa Triple Lift $97.00":
+        upDatedSpaName = "Well Era";
+        upDatedSpaAddress = "8176 Lark Brown Rd Ste 101, Elkridge, MD 21075"+"<br>"+"(First Floor Doors)";
+        upDatedSpaLINK = "https://forms.gle/4NXX1gquL3yVBpHQA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/HrXyguifDhKibhpq7";
+        upDatedSpaWebLINK = "https://elitamedspa.noneedleneeded.com/triple-lift-97-00-booking";
+        upDatedSpaPhone = "(301) 450-3493";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Triple Lift Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "97.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 244-9393";
+        treatmentSelected = "Triple Lift Treatment";
+        newSpaPhoneNumberSelected = "(301) 244-9393";
+        insteadOfSpa = "$377"
+        break;
+
+         case "Elita Medical Spa Hydraglow $97.00":
+        upDatedSpaName = "Well Era";
+        upDatedSpaAddress = "8176 Lark Brown Rd Ste 101, Elkridge, MD 21075"+"<br>"+"(First Floor Doors)";
+        upDatedSpaLINK = "https://forms.gle/4NXX1gquL3yVBpHQA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/HrXyguifDhKibhpq7";
+        upDatedSpaWebLINK = "https://elitamedspa.noneedleneeded.com/hydraglow-97-00-booking";
+        upDatedSpaPhone = "(301) 450-3493";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 15 minutes Cleansing and 30 minutes Hydraglow Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "97.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 244-9393";
+        treatmentSelected = "Hydraglow Treatment";
+        newSpaPhoneNumberSelected = "(301) 244-9393";
+        insteadOfSpa = "$348"
+        break;
+
         
         case "Esthetix Raleigh":
         upDatedSpaName = "Esthetix Spa";
