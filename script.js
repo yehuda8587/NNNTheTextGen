@@ -1691,6 +1691,23 @@ function updateForm(){
         insteadOfSpa = "$348"
         break;
 
+         case "Elita Medical Spa Mommy Tummy Rescue $97.00":
+        upDatedSpaName = "Well Era";
+        upDatedSpaAddress = "8176 Lark Brown Rd Ste 101, Elkridge, MD 21075"+"<br>"+"(First Floor Doors)";
+        upDatedSpaLINK = "https://forms.gle/4NXX1gquL3yVBpHQA";
+        upDatedSpaMapLINK = "https://maps.app.goo.gl/HrXyguifDhKibhpq7";
+        upDatedSpaWebLINK = "https://elitamedspa.noneedleneeded.com/mommy-tummy-rescue-97-00-booking";
+        upDatedSpaPhone = "(301) 450-3493";
+        upDatedDurationTotal = "60 Minutes";
+        upDatedDurationOne = "- 45 minutes of Mommy Tummy Rescue Treatment";
+        upDatedDurationTwo = "- 15 minutes Consultation";
+        promoPrice = "97.00";
+        upDatedActualSpaPhone = "Can't find our spa? Give us a call at (301) 244-9393";
+        treatmentSelected = "Mommy Tummy Rescue Treatment";
+        newSpaPhoneNumberSelected = "(301) 244-9393";
+        insteadOfSpa = "$377"
+        break;
+
         
         case "Esthetix Raleigh":
         upDatedSpaName = "Esthetix Spa";
