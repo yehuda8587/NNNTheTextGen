@@ -2953,8 +2953,8 @@ function updateForm(){
         insteadOfSpa = "$299"
         break;
 
-        case "Kristals Burlington Hyperpigmentation Treatment $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Hyperpigmentation Treatment $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -2970,8 +2970,8 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Kristals Burlington Hydraglow Treatment $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Hydraglow Treatment $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -2988,8 +2988,8 @@ function updateForm(){
         break;
 
 
-         case "Kristals Burlington Spotless Facial $599- 3 Sessions":
-        upDatedSpaName = "Kristals Burlington Spa";
+         case "Oréa Beauty Burlington Spotless Facial $599- 3 Sessions":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -3006,8 +3006,8 @@ function updateForm(){
         break;
 
 
-        case "Kristals Burlington Triple Lift $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Triple Lift $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -3023,8 +3023,8 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Kristals Burlington Natural Facelift $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Natural Facelift $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -3040,8 +3040,8 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Kristals Burlington Neck and Jawline $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Neck and Jawline $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "https://forms.gle/JQoAioVQEG9gZH197";
         upDatedSpaMapLINK = "";
@@ -3057,8 +3057,8 @@ function updateForm(){
         insteadOfSpa = "$377"
         break;
 
-        case "Kristals Burlington Turkey Neck Tightening $79.95":
-        upDatedSpaName = "Kristals Burlington Spa";
+        case "Oréa Beauty Burlington Turkey Neck Tightening $79.95":
+        upDatedSpaName = "Oréa Beauty Boutique";
         upDatedSpaAddress = "Burlington Mall,"+"<br>"+"777 Guelph Line, Burlington,ON L7R 3N2" + "<br>"+"(Please enter through entrance #3 and look for PETSMART & 'Marks')"+"<br>"+"(When you're in the mall, just pass Marks, and the spa will be on the left-hand side.)";
         upDatedSpaLINK = "";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/5BWid7i6vP9tFWx2A";
