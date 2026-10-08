@@ -2738,7 +2738,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-neck-and-jawline-69-95-dtb-2";
-        upDatedSpaPhone = "(239) 438-3252";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 20 minutes Neck and Jawline with 15 minutes Consultation"
@@ -2755,7 +2755,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://jolivisage.noneedleneeded.com/triple-lift-booking";
-        upDatedSpaPhone = "(239) 438-3252";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 20 minutes Triple Lift with 15 minutes Consultation"
@@ -2772,7 +2772,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://jolivisage.noneedleneeded.com/natural-facelift-69-95-booking";
-        upDatedSpaPhone = "(239) 438-3252";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 20 minutes Natural Facelift with 15 minutes Consultation"
@@ -2789,7 +2789,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-natural-skin-tightening-promo";
-        upDatedSpaPhone = "(239) 799-4212";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 35 minutes Natural Skin Tightening with Consultation"
@@ -2806,7 +2806,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://www.firstouchbeauty.com/pages/joli-visage-spa-led-promo";
-        upDatedSpaPhone = "(239) 963-4469";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 35 minutes LED session with Consultation"
@@ -2823,7 +2823,7 @@ function updateForm(){
         upDatedSpaLINK = "https://forms.gle/shiD2ANFHFpmizjp6";
         upDatedSpaMapLINK = "https://maps.app.goo.gl/qbJwip72KuATDVwG7";
         upDatedSpaWebLINK = "https://www.noneedleneeded.com/pages/joli-visage-spa-new-promo-page";
-        upDatedSpaPhone = "(239) 963-4469";
+        upDatedSpaPhone = "(239) 366-2924";
         upDatedDurationTotal = "45 Minutes";
         upDatedDurationOne = "- 10-minute Cleansing";
         upDatedDurationTwo = "- 35 minutes LED session with Consultation"
